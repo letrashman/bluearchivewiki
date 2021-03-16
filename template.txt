@@ -1,0 +1,108 @@
+{% raw %}{{{% endraw %}Character
+| Name = {{character.name}}
+| Image = {{character.name}} full.png
+| JPName = {{character.profile.full_name}}
+| JPReading =
+| School = {{character.school}}
+| Age = {{character.profile.age}}
+| Birthday = {{character.profile.birthday}}
+| Height = {{character.profile.height}}
+| Hobbies = {{character.profile.hobbies}}
+| Illust = {{character.profile.illustrator}}
+| Voice = {{character.profile.voice}}
+| WeaponType = {{character.weapon_type}}
+| CityTownAffinity = {{character.stats.city_affinity}}
+| OutdoorAffinity = {{character.stats.outdoor_affinity}}
+| UsesCover = {{character.uses_cover}}
+| Rarity = {{character.rarity}}
+| CombatClass = {{character.combat_class}}
+| ArmorType = {{character.armor_type}}
+| AttackType = {{character.damage_type}}
+| Position = {{character.position}}
+| Role = {{character.role}}
+| IndoorAffinity = {{character.stats.indoor_affinity}}
+{% raw %}}}{% endraw %}
+
+=Background=
+{{character.profile.introduction}}
+
+=How to Obtain=
+*Regular Gacha pool
+
+=Character Details=
+{| class="wikitable"
+|+
+!Attack
+|{{character.stats.attack[0]}}/{{character.stats.attack[1]}}
+!Defense
+|{{character.stats.defense[0]}}/{{character.stats.defense[1]}}
+!HP
+|{{character.stats.hp[0]}}/{{character.stats.hp[1]}}
+|-
+!Healing
+|{{character.stats.healing[0]}}/{{character.stats.healing[1]}}
+!Accuracy
+|{{character.stats.accuracy}}
+!Evasion
+|{{character.stats.evasion}}
+|-
+!Critical Rate
+|{{character.stats.critical_rate}}
+!Critical Damage
+|{{character.stats.critical_damage}}
+!Stability
+|{{character.stats.stability}}
+|-
+!Firing Range
+|{{character.stats.firing_range}}
+!CC Strength
+|{{character.stats.cc_strength}}
+!CC Resistance
+|{{character.stats.cc_resistance}}
+|}
+
+===Skills===
+{% raw %}{{{% endraw %}EXSkillTable
+|SkillName={{character.ex_skill.name}}
+|SkillIconType={{character.ex_skill.icon}}
+|SkillBaseCost={{character.ex_skill.levels[0][1]}}
+|SkillDescriptionGeneral={{character.ex_skill.levels[0][0]}}
+{% for description, cost in character.ex_skill.levels %}
+|SkillDescriptionLv{{ loop.index }}={{description}}
+{% endfor %}
+|SkillDamageType=Penetration
+{% raw %}}}{% endraw %}
+
+{% raw %}{{{% endraw %}SkillTable
+|SkillName={{character.normal_skill.name}}
+|SkillIconType={{character.normal_skill.icon}}
+|SkillType=Normal
+|SkillDescriptionGeneral={{character.normal_skill.levels[0][0]}}
+{% for description, cost in character.normal_skill.levels %}
+|SkillDescriptionLv{{ loop.index }}={{description}}
+{% endfor %}
+|SkillDamageType=Penetration
+{% raw %}}}{% endraw %}
+
+{% raw %}{{{% endraw %}SkillTable
+|SkillName={{character.passive_skill.name}}
+|SkillIconType={{character.passive_skill.icon}}
+|SkillType=Passive
+|SkillDescriptionGeneral={{character.passive_skill.levels[0][0]}}
+{% for description, cost in character.passive_skill.levels %}
+|SkillDescriptionLv{{ loop.index }}={{description}}
+{% endfor %}
+|SkillDamageType=Penetration
+{% raw %}}}{% endraw %}
+
+{% raw %}{{{% endraw %}SkillTable
+|SkillName={{character.sub_skill.name}}
+|SkillIconType={{character.sub_skill.icon}}
+|SkillType=Sub
+|SkillDescriptionGeneral={{character.sub_skill.levels[0][0]}}
+{% for description, cost in character.sub_skill.levels %}
+|SkillDescriptionLv{{ loop.index }}={{description}}
+{% endfor %}
+|SkillDamageType=Penetration
+{% raw %}}}{% endraw %}
+[[Category:Characters]]
