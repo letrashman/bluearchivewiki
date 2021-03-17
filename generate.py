@@ -1,6 +1,7 @@
 import os
 import re
 import sys
+import traceback
 
 from jinja2 import Environment, FileSystemLoader
 
@@ -16,21 +17,33 @@ def colorize(value):
     )
 
 
-def generate(path, character_id):
-    data = load_data(path)
-    character = Character.from_data(character_id, data)
+def generate(datadir, outdir):
+    data = load_data(datadir)
 
     env = Environment(loader=FileSystemLoader(os.path.dirname(__file__)))
     env.filters['colorize'] = colorize
     template = env.get_template('template.txt')
-    print(template.render(character=character))
+
+    for character in data.characters.values():
+        if not character['CollectionVisible']:
+            continue
+
+        try:
+            character = Character.from_data(character['Id'], data)
+        except Exception as err:
+            print(f'Failed to parse for DevName {character["DevName"]}: {err}')
+            traceback.print_exc()
+            continue
+
+        with open(os.path.join(outdir, f'{character.name}.txt'), 'w') as f:
+            f.write(template.render(character=character))
 
 
 def main():
     try:
-        generate(sys.argv[1], int(sys.argv[2]))
-    except (IndexError, ValueError):
-        print('usage: generate.py <path> <character id>')
+        generate(sys.argv[1], sys.argv[2])
+    except IndexError:
+        print('usage: generate.py <datadir> <outdir>')
 
 
 if __name__ == '__main__':

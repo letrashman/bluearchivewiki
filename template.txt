@@ -1,6 +1,6 @@
 {% raw %}{{{% endraw %}Character
 | Name = {{character.name}}
-| Image = {{character.name}} full.png
+| Image =
 | JPName = {{character.profile.full_name}}
 | JPReading =
 | School = {{character.school}}
@@ -27,82 +27,70 @@
 {{character.profile.introduction}}
 
 =How to Obtain=
-*Regular Gacha pool
+TODO: Fill this out.
 
 =Character Details=
-{| class="wikitable"
-|+
-!Attack
-|{{character.stats.attack[0]}}/{{character.stats.attack[1]}}
-!Defense
-|{{character.stats.defense[0]}}/{{character.stats.defense[1]}}
-!HP
-|{{character.stats.hp[0]}}/{{character.stats.hp[1]}}
-|-
-!Healing
-|{{character.stats.healing[0]}}/{{character.stats.healing[1]}}
-!Accuracy
-|{{character.stats.accuracy}}
-!Evasion
-|{{character.stats.evasion}}
-|-
-!Critical Rate
-|{{character.stats.critical_rate}}
-!Critical Damage
-|{{character.stats.critical_damage}}
-!Stability
-|{{character.stats.stability}}
-|-
-!Firing Range
-|{{character.stats.firing_range}}
-!CC Strength
-|{{character.stats.cc_strength}}
-!CC Resistance
-|{{character.stats.cc_resistance}}
-|}
+{% raw %}{{{% endraw %}CharacterStatTable
+| minAtk = {{character.stats.attack[0]}}
+| maxAtk = {{character.stats.attack[1]}}
+| minDef = {{character.stats.defense[0]}}
+| maxDef = {{character.stats.defense[1]}}
+| minHP = {{character.stats.hp[0]}}
+| maxHP = {{character.stats.hp[1]}}
+| minHealing = {{character.stats.healing[0]}}
+| maxHealing = {{character.stats.healing[1]}}
+| minAcc = {{character.stats.accuracy}}
+| minEva = {{character.stats.evasion}}
+| minCRate = {{character.stats.critical_rate}}
+| minCDmg = {{character.stats.critical_damage}}
+| minStab = {{character.stats.stability}}
+| minRange = {{character.stats.firing_range}}
+| minCCStr = {{character.stats.cc_strength}}
+| minCCRes = {{character.stats.cc_resistance}}
+{% raw %}}}{% endraw %}
 
 ===Skills===
 {% raw %}{{{% endraw %}EXSkillTable
-|SkillName={{character.ex_skill.name}}
-|SkillIconType={{character.ex_skill.icon}}
-|SkillBaseCost={{character.ex_skill.levels[0][1]}}
-|SkillDescriptionGeneral={{character.ex_skill.levels[0][0]|colorize}}
-{% for description, cost in character.ex_skill.levels %}
-|SkillDescriptionLv{{ loop.index }}={{description|colorize}}
-{% endfor %}
-|SkillDamageType=Penetration
+| SkillName = {{character.ex_skill.name}}
+| SkillIcon = {{character.ex_skill.icon}}
+| SkillDamageType = {{character.ex_skill.damage_type}}
+| SkillBaseCost = {{character.ex_skill.levels[0][1]}}
+| SkillDescriptionGeneral = {{character.ex_skill.levels[0][0]|colorize}}
+{% for description, cost in character.ex_skill.levels -%}
+| SkillDescriptionLv{{loop.index}} = {{description|colorize}}
+{% endfor -%}
 {% raw %}}}{% endraw %}
 
 {% raw %}{{{% endraw %}SkillTable
-|SkillName={{character.normal_skill.name}}
-|SkillIconType={{character.normal_skill.icon}}
-|SkillType=Normal
-|SkillDescriptionGeneral={{character.normal_skill.levels[0][0]|colorize}}
-{% for description, cost in character.normal_skill.levels %}
-|SkillDescriptionLv{{ loop.index }}={{description|colorize}}
-{% endfor %}
-|SkillDamageType=Penetration
+| SkillName = {{character.normal_skill.name}}
+| SkillIcon = {{character.normal_skill.icon}}
+| SkillDamageType = {{character.normal_skill.damage_type}}
+| SkillType = Normal
+| SkillDescriptionGeneral = {{character.normal_skill.levels[0][0]|colorize}}
+{% for description, cost in character.normal_skill.levels -%}
+| SkillDescriptionLv{{loop.index}} = {{description|colorize}}
+{% endfor -%}
 {% raw %}}}{% endraw %}
 
 {% raw %}{{{% endraw %}SkillTable
-|SkillName={{character.passive_skill.name}}
-|SkillIconType={{character.passive_skill.icon}}
-|SkillType=Passive
-|SkillDescriptionGeneral={{character.passive_skill.levels[0][0]|colorize}}
-{% for description, cost in character.passive_skill.levels %}
-|SkillDescriptionLv{{ loop.index }}={{description|colorize}}
-{% endfor %}
-|SkillDamageType=Penetration
+| SkillName = {{character.passive_skill.name}}
+| SkillIcon = {{character.passive_skill.icon}}
+| SkillDamageType = {{character.passive_skill.damage_type}}
+| SkillType = Passive
+| SkillDescriptionGeneral = {{character.passive_skill.levels[0][0]|colorize}}
+{% for description, cost in character.passive_skill.levels -%}
+| SkillDescriptionLv{{loop.index}} = {{description|colorize}}
+{% endfor -%}
 {% raw %}}}{% endraw %}
 
 {% raw %}{{{% endraw %}SkillTable
-|SkillName={{character.sub_skill.name}}
-|SkillIconType={{character.sub_skill.icon}}
-|SkillType=Sub
-|SkillDescriptionGeneral={{character.sub_skill.levels[0][0]|colorize}}
-{% for description, cost in character.sub_skill.levels %}
-|SkillDescriptionLv{{ loop.index }}={{description|colorize}}
-{% endfor %}
-|SkillDamageType=Penetration
+| SkillName = {{character.sub_skill.name}}
+| SkillIcon = {{character.sub_skill.icon}}
+| SkillDamageType = {{character.sub_skill.damage_type}}
+| SkillType = Sub
+| SkillDescriptionGeneral = {{character.sub_skill.levels[0][0]|colorize}}
+{% for description, cost in character.sub_skill.levels -%}
+| SkillDescriptionLv{{loop.index}} = {{description|colorize}}
+{% endfor -%}
 {% raw %}}}{% endraw %}
 [[Category:Characters]]

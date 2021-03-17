@@ -4,7 +4,8 @@ import os
 
 BlueArchiveData = collections.namedtuple(
     'BlueArchiveData',
-    ['characters', 'characters_localization', 'characters_skills', 'characters_stats', 'skills', 'skills_localization']
+    ['characters', 'characters_ai', 'characters_localization', 'characters_skills', 'characters_stats', 'skills',
+     'skills_localization']
 )
 
 
@@ -12,12 +13,23 @@ def load_characters(path):
     return load_file(os.path.join(path, 'Excel', 'CharacterExcelTable.json'))
 
 
+def load_characters_ai(path):
+    return load_file(os.path.join(path, 'Excel', 'CharacterAIExcelTable.json'))
+
+
 def load_characters_localization(path):
     return load_file(os.path.join(path, 'Excel', 'LocalizeCharProfileExcelTable.json'), key='CharacterId')
 
 
 def load_characters_skills(path):
-    return load_file(os.path.join(path, 'Excel', 'CharacterSkillListExcelTable.json'), key='CharacterId')
+    with open(os.path.join(path, 'Excel', 'CharacterSkillListExcelTable.json')) as f:
+        data = json.load(f)
+
+    return {
+        (character_skill['CharacterId'], character_skill['IsFormConversion']): character_skill
+        for character_skill
+        in data['DataList']
+    }
 
 
 def load_characters_stats(path):
@@ -27,6 +39,7 @@ def load_characters_stats(path):
 def load_data(path):
     return BlueArchiveData(
         characters=load_characters(path),
+        characters_ai=load_characters_ai(path),
         characters_localization=load_characters_localization(path),
         characters_skills=load_characters_skills(path),
         characters_stats=load_characters_stats(path),
