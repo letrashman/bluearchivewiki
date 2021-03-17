@@ -1,0 +1,149 @@
+{{Character
+| Name = アル
+| Image =
+| JPName = 陸八魔 アル
+| JPReading =
+| School = Gehenna
+| Age = 16
+| Birthday = March 12
+| Height = 160cm
+| Hobbies = 経営の勉強
+| Illust = DoReMi
+| Voice = 近藤玲奈
+| WeaponType = SR
+| CityTownAffinity = S
+| OutdoorAffinity = B
+| UsesCover = Yes
+| Rarity = 3
+| CombatClass = Striker
+| ArmorType = Light
+| AttackType = Explosive
+| Position = Back
+| Role = Attacker
+| IndoorAffinity = D
+}}
+
+=Background=
+ゲヘナ学園所属、便利屋68の自称社長。
+
+ゲヘナ学園の部活である便利屋68で、好き勝手に不法事業を行っている少女。
+アル本人はかっこいい悪党としてふるまいたいと思っているものの、抜けているところが多いためすぐにバレてしまう。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 369
+| maxAtk = 3690
+| minDef = 19
+| maxDef = 119
+| minHP = 2236
+| maxHP = 19390
+| minHealing = 1408
+| maxHealing = 4225
+| minAcc = 905
+| minEva = 201
+| minCRate = 201
+| minCDmg = 200
+| minStab = 1988
+| minRange = 750
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = ハードボイルドショット
+| SkillIcon = Explosive_COMMON_SKILLICON_CIRCLE
+| SkillDamageType = Explosive
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = 敵1人に対して、攻撃力の<span style="color: #007eff">274%</span>分のダメージ/
+さらに、円形範囲内の敵に攻撃力の<span style="color: #007eff">292%</span>分のダメージ
+| SkillDescriptionLv1 = 敵1人に対して、攻撃力の<span style="color: #007eff">274%</span>分のダメージ/
+さらに、円形範囲内の敵に攻撃力の<span style="color: #007eff">292%</span>分のダメージ
+| SkillDescriptionLv2 = 敵1人に対して、攻撃力の<span style="color: #007eff">315%</span>分のダメージ/
+さらに、円形範囲内の敵に攻撃力の<span style="color: #007eff">335%</span>分のダメージ
+| SkillDescriptionLv3 = 敵1人に対して、攻撃力の<span style="color: #007eff">397%</span>分のダメージ/
+さらに、円形範囲内の敵に攻撃力の<span style="color: #007eff">423%</span>分のダメージ
+| SkillDescriptionLv4 = 敵1人に対して、攻撃力の<span style="color: #007eff">438%</span>分のダメージ/
+さらに、円形範囲内の敵に攻撃力の<span style="color: #007eff">467%</span>分のダメージ
+| SkillDescriptionLv5 = 敵1人に対して、攻撃力の<span style="color: #007eff">521%</span>分のダメージ/
+さらに、円形範囲内の敵に攻撃力の<span style="color: #007eff">554%</span>分のダメージ
+| SkillDescriptionLv6 = 敵1人に対して、攻撃力の<span style="color: #007eff">562%</span>分のダメージ/
+さらに、円形範囲内の敵に攻撃力の<span style="color: #007eff">598%</span>分のダメージ
+| SkillDescriptionLv7 = 敵1人に対して、攻撃力の<span style="color: #007eff">644%</span>分のダメージ/
+さらに、円形範囲内の敵に攻撃力の<span style="color: #007eff">686%</span>分のダメージ
+| SkillDescriptionLv8 = 敵1人に対して、攻撃力の<span style="color: #007eff">685%</span>分のダメージ/
+さらに、円形範囲内の敵に攻撃力の<span style="color: #007eff">730%</span>分のダメージ
+| SkillDescriptionLv9 = 敵1人に対して、攻撃力の<span style="color: #007eff">768%</span>分のダメージ/
+さらに、円形範囲内の敵に攻撃力の<span style="color: #007eff">817%</span>分のダメージ
+| SkillDescriptionLv10 = 敵1人に対して、攻撃力の<span style="color: #007eff">809%</span>分のダメージ/
+さらに、円形範囲内の敵に攻撃力の<span style="color: #007eff">861%</span>分のダメージ
+}}
+
+{{SkillTable
+| SkillName = ノワールシュート
+| SkillIcon = Explosive_COMMON_SKILLICON_TARGET
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">152%</span>分のダメージ/
+<span style="color: #007eff">50%</span>の確率で、さらに円形範囲内の敵に攻撃力の<span style="color: #007eff">251%</span>分のダメージ
+| SkillDescriptionLv1 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">152%</span>分のダメージ/
+<span style="color: #007eff">50%</span>の確率で、さらに円形範囲内の敵に攻撃力の<span style="color: #007eff">251%</span>分のダメージ
+| SkillDescriptionLv2 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">160%</span>分のダメージ/
+<span style="color: #007eff">50%</span>の確率で、さらに円形範囲内の敵に攻撃力の<span style="color: #007eff">263%</span>分のダメージ
+| SkillDescriptionLv3 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">168%</span>分のダメージ/
+<span style="color: #007eff">50%</span>の確率で、さらに円形範囲内の敵に攻撃力の<span style="color: #007eff">276%</span>分のダメージ
+| SkillDescriptionLv4 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">198%</span>分のダメージ/
+<span style="color: #007eff">50%</span>の確率で、さらに円形範囲内の敵に攻撃力の<span style="color: #007eff">326%</span>分のダメージ
+| SkillDescriptionLv5 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">206%</span>分のダメージ/
+<span style="color: #007eff">50%</span>の確率で、さらに円形範囲内の敵に攻撃力の<span style="color: #007eff">338%</span>分のダメージ
+| SkillDescriptionLv6 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">213%</span>分のダメージ/
+<span style="color: #007eff">50%</span>の確率で、さらに円形範囲内の敵に攻撃力の<span style="color: #007eff">351%</span>分のダメージ
+| SkillDescriptionLv7 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">244%</span>分のダメージ/
+<span style="color: #007eff">50%</span>の確率で、さらに円形範囲内の敵に攻撃力の<span style="color: #007eff">401%</span>分のダメージ
+| SkillDescriptionLv8 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">251%</span>分のダメージ/
+<span style="color: #007eff">50%</span>の確率で、さらに円形範囲内の敵に攻撃力の<span style="color: #007eff">414%</span>分のダメージ
+| SkillDescriptionLv9 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">259%</span>分のダメージ/
+<span style="color: #007eff">50%</span>の確率で、さらに円形範囲内の敵に攻撃力の<span style="color: #007eff">426%</span>分のダメージ
+| SkillDescriptionLv10 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">290%</span>分のダメージ/
+<span style="color: #007eff">50%</span>の確率で、さらに円形範囲内の敵に攻撃力の<span style="color: #007eff">476%</span>分のダメージ
+}}
+
+{{SkillTable
+| SkillName = 社長の威厳
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 会心ダメージ率を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 会心ダメージ率を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 会心ダメージ率を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 会心ダメージ率を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 会心ダメージ率を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 会心ダメージ率を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 会心ダメージ率を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 会心ダメージ率を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 会心ダメージ率を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = アウトローの流儀
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = Exスキルの使用中、会心値を<span style="color: #007eff">20.1%</span>増加
+| SkillDescriptionLv1 = Exスキルの使用中、会心値を<span style="color: #007eff">20.1%</span>増加
+| SkillDescriptionLv2 = Exスキルの使用中、会心値を<span style="color: #007eff">21.1%</span>増加
+| SkillDescriptionLv3 = Exスキルの使用中、会心値を<span style="color: #007eff">22.1%</span>増加
+| SkillDescriptionLv4 = Exスキルの使用中、会心値を<span style="color: #007eff">26.2%</span>増加
+| SkillDescriptionLv5 = Exスキルの使用中、会心値を<span style="color: #007eff">27.2%</span>増加
+| SkillDescriptionLv6 = Exスキルの使用中、会心値を<span style="color: #007eff">28.2%</span>増加
+| SkillDescriptionLv7 = Exスキルの使用中、会心値を<span style="color: #007eff">32.2%</span>増加
+| SkillDescriptionLv8 = Exスキルの使用中、会心値を<span style="color: #007eff">33.2%</span>増加
+| SkillDescriptionLv9 = Exスキルの使用中、会心値を<span style="color: #007eff">34.2%</span>増加
+| SkillDescriptionLv10 = Exスキルの使用中、会心値を<span style="color: #007eff">38.3%</span>増加
+}}
+[[Category:Characters]]

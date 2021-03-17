@@ -1,0 +1,127 @@
+{{Character
+| Name = シュン
+| Image =
+| JPName = 春原 シュン
+| JPReading =
+| School = Shanhaijing
+| Age = 極
+| Birthday = February 5
+| Height = 174cm
+| Hobbies = 子供たちと遊ぶこと
+| Illust = 9ml
+| Voice = 伊藤静
+| WeaponType = SR
+| CityTownAffinity = S
+| OutdoorAffinity = B
+| UsesCover = Yes
+| Rarity = 3
+| CombatClass = Striker
+| ArmorType = Light
+| AttackType = Explosive
+| Position = Back
+| Role = Attacker
+| IndoorAffinity = D
+}}
+
+=Background=
+山海経高級中学校所属、訓育支援部「梅花園」の教官。
+
+「梅花園」は園の名前であると同時に、部活名でもある。優しくて寛大な人柄であり、梅花園の園児たちだけでなく、山海経の他の生徒たちからも信頼されている。
+教官として長く働いていることもあり、園児たちのいたずらにもめったに怒ることはないが、自分の年齢について言及されると敏感な反応を示す。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 322
+| maxAtk = 3224
+| minDef = 19
+| maxDef = 118
+| minHP = 2227
+| maxHP = 19310
+| minHealing = 1413
+| maxHealing = 4241
+| minAcc = 908
+| minEva = 201
+| minCRate = 252
+| minCDmg = 200
+| minStab = 1980
+| minRange = 750
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = 悪い子はどこですか？
+| SkillIcon = Explosive_COMMON_SKILLICON_FORMCHANGE
+| SkillDamageType = Explosive
+| SkillBaseCost = 3
+| SkillDescriptionGeneral = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">26.3%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv1 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">26.3%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv2 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">30.3%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv3 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">38.2%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv4 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">42.1%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv5 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">50%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv6 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">54%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv7 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">61.9%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv8 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">65.8%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv9 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">73.7%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv10 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">77.7%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = みなさん、集中してください！
+| SkillIcon = Explosive_COMMON_SKILLICON_REGENCOST
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = 戦闘開始時、スキルコストを<span style="color: #007eff">2</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv1 = 戦闘開始時、スキルコストを<span style="color: #007eff">2</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv2 = 戦闘開始時、スキルコストを<span style="color: #007eff">2.1</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv3 = 戦闘開始時、スキルコストを<span style="color: #007eff">2.2</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv4 = 戦闘開始時、スキルコストを<span style="color: #007eff">2.6</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv5 = 戦闘開始時、スキルコストを<span style="color: #007eff">2.7</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv6 = 戦闘開始時、スキルコストを<span style="color: #007eff">2.8</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv7 = 戦闘開始時、スキルコストを<span style="color: #007eff">3.2</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv8 = 戦闘開始時、スキルコストを<span style="color: #007eff">3.3</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv9 = 戦闘開始時、スキルコストを<span style="color: #007eff">3.4</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv10 = 戦闘開始時、スキルコストを<span style="color: #007eff">3.8</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
+}}
+
+{{SkillTable
+| SkillName = 教官としての品格
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = 攻撃力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 攻撃力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 攻撃力を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 攻撃力を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 攻撃力を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 攻撃力を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 攻撃力を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 攻撃力を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 攻撃力を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 攻撃力を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 攻撃力を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 梅花園の教育
+| SkillIcon = Explosive_COMMON_SKILLICON_EXTRADAMAGE
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">50.7%</span>分の追加ダメージ
+| SkillDescriptionLv1 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">50.7%</span>分の追加ダメージ
+| SkillDescriptionLv2 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">53.3%</span>分の追加ダメージ
+| SkillDescriptionLv3 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">55.8%</span>分の追加ダメージ
+| SkillDescriptionLv4 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">66%</span>分の追加ダメージ
+| SkillDescriptionLv5 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">68.5%</span>分の追加ダメージ
+| SkillDescriptionLv6 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">71%</span>分の追加ダメージ
+| SkillDescriptionLv7 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">81.2%</span>分の追加ダメージ
+| SkillDescriptionLv8 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">83.7%</span>分の追加ダメージ
+| SkillDescriptionLv9 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">86.3%</span>分の追加ダメージ
+| SkillDescriptionLv10 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">96.4%</span>分の追加ダメージ
+}}
+[[Category:Characters]]

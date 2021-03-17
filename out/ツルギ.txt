@@ -1,0 +1,149 @@
+{{Character
+| Name = ツルギ
+| Image =
+| JPName = 剣先 ツルギ
+| JPReading =
+| School = Trinity
+| Age = 17
+| Birthday = June 24
+| Height = 162cm
+| Hobbies = 映画鑑賞、読書（恋愛小説）
+| Illust =  Mx2j
+| Voice = 小林ゆう
+| WeaponType = SG
+| CityTownAffinity = D
+| OutdoorAffinity = B
+| UsesCover = No
+| Rarity = 3
+| CombatClass = Striker
+| ArmorType = Heavy
+| AttackType = Penetration
+| Position = Front
+| Role = Attacker
+| IndoorAffinity = S
+}}
+
+=Background=
+トリニティ総合学園所属、正義実現委員会の委員長でありトリニティの戦略兵器。
+
+好戦的で暴力的な性格であり、気に入らないものがあったらとりあえず壊してから考えるタイプ。
+副委員長であるハスミのお陰で正義実現委員会は辛うじて統制されている。制御不能の狂犬であるツルギだが、先生の前では気恥ずかしさを隠し切れない少女のような一面も見せる。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 386
+| maxAtk = 3864
+| minDef = 138
+| maxDef = 832
+| minHP = 2568
+| maxHP = 35590
+| minHealing = 1361
+| maxHealing = 4085
+| minAcc = 642
+| minEva = 175
+| minCRate = 243
+| minCDmg = 200
+| minStab = 2052
+| minRange = 450
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = 奇奇怪怪
+| SkillIcon = Penetration_COMMON_SKILLICON_FORMCHANGE
+| SkillDamageType = Penetration
+| SkillBaseCost = 3
+| SkillDescriptionGeneral = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の<span style="color: #007eff">138%</span>分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を<span style="color: #007eff">25.8%</span>増加（リロードを <span style="color: #007eff">1回</span>行うまで有効）
+| SkillDescriptionLv1 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の<span style="color: #007eff">138%</span>分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を<span style="color: #007eff">25.8%</span>増加（リロードを <span style="color: #007eff">1回</span>行うまで有効）
+| SkillDescriptionLv2 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の<span style="color: #007eff">138%</span>分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を<span style="color: #007eff">29.7%</span>増加（リロードを <span style="color: #007eff">1回</span>行うまで有効）
+| SkillDescriptionLv3 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の<span style="color: #007eff">138%</span>分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を<span style="color: #007eff">37.5%</span>増加（リロードを <span style="color: #007eff">1回</span>行うまで有効）
+| SkillDescriptionLv4 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の<span style="color: #007eff">138%</span>分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を<span style="color: #007eff">41.4%</span>増加（リロードを <span style="color: #007eff">1回</span>行うまで有効）
+| SkillDescriptionLv5 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の<span style="color: #007eff">138%</span>分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を<span style="color: #007eff">45.2%</span>増加（リロードを <span style="color: #007eff">2回</span>行うまで有効）
+| SkillDescriptionLv6 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の<span style="color: #007eff">138%</span>分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を<span style="color: #007eff">49.1%</span>増加（リロードを <span style="color: #007eff">2回</span>行うまで有効）
+| SkillDescriptionLv7 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の<span style="color: #007eff">138%</span>分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を<span style="color: #007eff">56.9%</span>増加（リロードを <span style="color: #007eff">2回</span>行うまで有効）
+| SkillDescriptionLv8 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の<span style="color: #007eff">138%</span>分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を<span style="color: #007eff">60.8%</span>増加（リロードを <span style="color: #007eff">2回</span>行うまで有効）
+| SkillDescriptionLv9 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の<span style="color: #007eff">138%</span>分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を<span style="color: #007eff">68.5%</span>増加（リロードを <span style="color: #007eff">2回</span>行うまで有効）
+| SkillDescriptionLv10 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の<span style="color: #007eff">138%</span>分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を<span style="color: #007eff">72.4%</span>増加（リロードを <span style="color: #007eff">2回</span>行うまで有効）
+}}
+
+{{SkillTable
+| SkillName = 激情
+| SkillIcon = Penetration_COMMON_SKILLICON_HEAL
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = 敵を倒した時、治癒力の<span style="color: #007eff">116%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv1 = 敵を倒した時、治癒力の<span style="color: #007eff">116%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv2 = 敵を倒した時、治癒力の<span style="color: #007eff">122%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv3 = 敵を倒した時、治癒力の<span style="color: #007eff">127%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv4 = 敵を倒した時、治癒力の<span style="color: #007eff">151%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv5 = 敵を倒した時、治癒力の<span style="color: #007eff">157%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv6 = 敵を倒した時、治癒力の<span style="color: #007eff">162%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv7 = 敵を倒した時、治癒力の<span style="color: #007eff">186%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv8 = 敵を倒した時、治癒力の<span style="color: #007eff">191%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv9 = 敵を倒した時、治癒力の<span style="color: #007eff">197%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv10 = 敵を倒した時、治癒力の<span style="color: #007eff">221%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+}}
+
+{{SkillTable
+| SkillName = 機敏
+| SkillIcon = Penetration_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = 移動速度を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 移動速度を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 移動速度を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 移動速度を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 移動速度を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 移動速度を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 移動速度を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 移動速度を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 移動速度を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 移動速度を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 移動速度を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 制御不能の力
+| SkillIcon = Penetration_COMMON_SKILLICON_RELOAD
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = 敵を倒した時、<span style="color: #007eff">30%</span>の確率で弾薬数を<span style="color: #007eff">1</span>追加
+| SkillDescriptionLv1 = 敵を倒した時、<span style="color: #007eff">30%</span>の確率で弾薬数を<span style="color: #007eff">1</span>追加
+| SkillDescriptionLv2 = 敵を倒した時、<span style="color: #007eff">33%</span>の確率で弾薬数を<span style="color: #007eff">1</span>追加
+| SkillDescriptionLv3 = 敵を倒した時、<span style="color: #007eff">36%</span>の確率で弾薬数を<span style="color: #007eff">1</span>追加
+| SkillDescriptionLv4 = 敵を倒した時、<span style="color: #007eff">39%</span>の確率で弾薬数を<span style="color: #007eff">1</span>追加
+| SkillDescriptionLv5 = 敵を倒した時、<span style="color: #007eff">42%</span>の確率で弾薬数を<span style="color: #007eff">1</span>追加
+| SkillDescriptionLv6 = 敵を倒した時、<span style="color: #007eff">45%</span>の確率で弾薬数を<span style="color: #007eff">1</span>追加
+| SkillDescriptionLv7 = 敵を倒した時、<span style="color: #007eff">48%</span>の確率で弾薬数を<span style="color: #007eff">1</span>追加
+| SkillDescriptionLv8 = 敵を倒した時、<span style="color: #007eff">51%</span>の確率で弾薬数を<span style="color: #007eff">1</span>追加
+| SkillDescriptionLv9 = 敵を倒した時、<span style="color: #007eff">54%</span>の確率で弾薬数を<span style="color: #007eff">1</span>追加
+| SkillDescriptionLv10 = 敵を倒した時、<span style="color: #007eff">57%</span>の確率で弾薬数を<span style="color: #007eff">1</span>追加
+}}
+[[Category:Characters]]

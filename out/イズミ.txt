@@ -1,0 +1,134 @@
+{{Character
+| Name = イズミ
+| Image =
+| JPName = 獅子堂 イズミ
+| JPReading =
+| School = Gehenna
+| Age = 16
+| Birthday = May 11
+| Height = 161cm
+| Hobbies = ゲテモノ料理を食べること、作ること
+| Illust =  Mx2j
+| Voice = 久保ユリカ
+| WeaponType = MG
+| CityTownAffinity = S
+| OutdoorAffinity = D
+| UsesCover = No
+| Rarity = 3
+| CombatClass = Striker
+| ArmorType = Light
+| AttackType = Explosive
+| Position = Back
+| Role = Attacker
+| IndoorAffinity = B
+}}
+
+=Background=
+ゲヘナ学園所属、美食研究会のメンバーであり、なんでもよく食べる食いしん坊少女。
+
+食べ物を愛しすぎた結果、他の人からすると勘弁してほしいと思うようなゲテモノも好んで食べるようになった。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 195
+| maxAtk = 1950
+| minDef = 81
+| maxDef = 489
+| minHP = 2295
+| maxHP = 19900
+| minHealing = 1371
+| maxHealing = 4115
+| minAcc = 97
+| minEva = 195
+| minCRate = 244
+| minCDmg = 200
+| minStab = 1428
+| minRange = 750
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = チーズチョコレートバーガー！
+| SkillIcon = Explosive_COMMON_SKILLICON_HEAL
+| SkillDamageType = Explosive
+| SkillBaseCost = 3
+| SkillDescriptionGeneral = 治癒力の<span style="color: #007eff">145%</span>分の回復
+| SkillDescriptionLv1 = 治癒力の<span style="color: #007eff">145%</span>分の回復
+| SkillDescriptionLv2 = 治癒力の<span style="color: #007eff">167%</span>分の回復
+| SkillDescriptionLv3 = 治癒力の<span style="color: #007eff">189%</span>分の回復/
+攻撃速度を<span style="color: #007eff">38.4%</span>増加（<span style="color: #007eff">21秒</span>間）
+| SkillDescriptionLv4 = 治癒力の<span style="color: #007eff">211%</span>分の回復/
+攻撃速度を<span style="color: #007eff">38.4%</span>増加（<span style="color: #007eff">21秒</span>間）
+| SkillDescriptionLv5 = 治癒力の<span style="color: #007eff">254%</span>分の回復/
+攻撃速度を<span style="color: #007eff">38.4%</span>増加（<span style="color: #007eff">21秒</span>間）
+| SkillDescriptionLv6 = 治癒力の<span style="color: #007eff">276%</span>分の回復/
+攻撃速度を<span style="color: #007eff">38.4%</span>増加（<span style="color: #007eff">21秒</span>間）
+| SkillDescriptionLv7 = 治癒力の<span style="color: #007eff">320%</span>分の回復/
+攻撃速度を<span style="color: #007eff">38.4%</span>増加（<span style="color: #007eff">21秒</span>間）
+| SkillDescriptionLv8 = 治癒力の<span style="color: #007eff">342%</span>分の回復/
+攻撃速度を<span style="color: #007eff">38.4%</span>増加（<span style="color: #007eff">21秒</span>間）
+| SkillDescriptionLv9 = 治癒力の<span style="color: #007eff">385%</span>分の回復/
+攻撃速度を<span style="color: #007eff">38.4%</span>増加（<span style="color: #007eff">21秒</span>間）
+| SkillDescriptionLv10 = 治癒力の<span style="color: #007eff">407%</span>分の回復/
+攻撃速度を<span style="color: #007eff">38.4%</span>増加（<span style="color: #007eff">21秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = よーーい、BANG！
+| SkillIcon = Explosive_COMMON_SKILLICON_TARGET
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">275%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv1 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">275%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv2 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">289%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv3 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">302%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv4 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">357%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv5 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">371%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv6 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">385%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv7 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">440%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv8 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">454%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv9 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">468%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv10 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">523%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
+}}
+
+{{SkillTable
+| SkillName = 次は何を食べよっか？
+| SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = 被回復率を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 被回復率を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 被回復率を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 被回復率を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 被回復率を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 被回復率を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 被回復率を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 被回復率を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 被回復率を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 被回復率を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 被回復率を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 美味しいのが一番だよね～
+| SkillIcon = Explosive_COMMON_SKILLICON_EXTRADAMAGE
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.4%</span>~<span style="color: #007eff">2.2%</span>分の追加ダメージ
+| SkillDescriptionLv1 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.4%</span>~<span style="color: #007eff">2.2%</span>分の追加ダメージ
+| SkillDescriptionLv2 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.4%</span>~<span style="color: #007eff">2.3%</span>分の追加ダメージ
+| SkillDescriptionLv3 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.4%</span>~<span style="color: #007eff">2.4%</span>分の追加ダメージ
+| SkillDescriptionLv4 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.5%</span>~<span style="color: #007eff">2.8%</span>分の追加ダメージ
+| SkillDescriptionLv5 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.5%</span>~<span style="color: #007eff">2.9%</span>分の追加ダメージ
+| SkillDescriptionLv6 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.5%</span>~<span style="color: #007eff">3%</span>分の追加ダメージ
+| SkillDescriptionLv7 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.6%</span>~<span style="color: #007eff">3.5%</span>分の追加ダメージ
+| SkillDescriptionLv8 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.6%</span>~<span style="color: #007eff">3.6%</span>分の追加ダメージ
+| SkillDescriptionLv9 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.7%</span>~<span style="color: #007eff">3.7%</span>分の追加ダメージ
+| SkillDescriptionLv10 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.7%</span>~<span style="color: #007eff">4.1%</span>分の追加ダメージ
+}}
+[[Category:Characters]]

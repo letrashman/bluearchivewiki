@@ -1,0 +1,138 @@
+{{Character
+| Name = マシロ
+| Image =
+| JPName = 静山 マシロ
+| JPReading =
+| School = Trinity
+| Age = 15
+| Birthday = June 5
+| Height = 155cm
+| Hobbies = 高いところに登ること、観察日記を書くこと
+| Illust = ポップキュン
+| Voice = 鬼頭明里
+| WeaponType = SR
+| CityTownAffinity = B
+| OutdoorAffinity = S
+| UsesCover = No
+| Rarity = 3
+| CombatClass = Support
+| ArmorType = Heavy
+| AttackType = Explosive
+| Position = Back
+| Role = Attacker
+| IndoorAffinity = D
+}}
+
+=Background=
+トリニティ総合学園所属、正義実現委員会の実直な部員。
+
+背丈ほどもある、不釣り合いなほど大きいスナイパーライフルを持ち歩き、黙々と火力支援任務を遂行する少女。
+普段の口数は少ない方ものの、人見知りだったり対人関係が苦手だったりというわけではなく、正義に関する話題が始まると急に饒舌になったりする。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 284
+| maxAtk = 2845
+| minDef = 20
+| maxDef = 120
+| minHP = 2250
+| maxHP = 21034
+| minHealing = 1610
+| maxHealing = 4830
+| minAcc = 900
+| minEva = 200
+| minCRate = 200
+| minCDmg = 200
+| minStab = 2300
+| minRange = 1000
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = 正義の一撃
+| SkillIcon = Explosive_COMMON_SKILLICON_TARGET
+| SkillDamageType = Explosive
+| SkillBaseCost = 3
+| SkillDescriptionGeneral = 敵1人に対して、攻撃力の<span style="color: #007eff">415%</span>分のダメージ/
+<span style="color: #007eff">50%</span>の確率で、<span style="color: #007eff">623%</span>分の追加ダメージ
+| SkillDescriptionLv1 = 敵1人に対して、攻撃力の<span style="color: #007eff">415%</span>分のダメージ/
+<span style="color: #007eff">50%</span>の確率で、<span style="color: #007eff">623%</span>分の追加ダメージ
+| SkillDescriptionLv2 = 敵1人に対して、攻撃力の<span style="color: #007eff">477%</span>分のダメージ/
+<span style="color: #007eff">50%</span>の確率で、<span style="color: #007eff">623%</span>分の追加ダメージ
+| SkillDescriptionLv3 = 敵1人に対して、攻撃力の<span style="color: #007eff">540%</span>分のダメージ/
+<span style="color: #007eff">50%</span>の確率で、<span style="color: #007eff">716%</span>分の追加ダメージ
+| SkillDescriptionLv4 = 敵1人に対して、攻撃力の<span style="color: #007eff">602%</span>分のダメージ/
+<span style="color: #007eff">50%</span>の確率で、<span style="color: #007eff">716%</span>分の追加ダメージ
+| SkillDescriptionLv5 = 敵1人に対して、攻撃力の<span style="color: #007eff">664%</span>分のダメージ/
+<span style="color: #007eff">75%</span>の確率で、<span style="color: #007eff">716%</span>分の追加ダメージ
+| SkillDescriptionLv6 = 敵1人に対して、攻撃力の<span style="color: #007eff">727%</span>分のダメージ/
+<span style="color: #007eff">75%</span>の確率で、<span style="color: #007eff">716%</span>分の追加ダメージ
+| SkillDescriptionLv7 = 敵1人に対して、攻撃力の<span style="color: #007eff">851%</span>分のダメージ/
+<span style="color: #007eff">75%</span>の確率で、<span style="color: #007eff">716%</span>分の追加ダメージ
+| SkillDescriptionLv8 = 敵1人に対して、攻撃力の<span style="color: #007eff">914%</span>分のダメージ/
+<span style="color: #007eff">75%</span>の確率で、<span style="color: #007eff">716%</span>分の追加ダメージ
+| SkillDescriptionLv9 = 敵1人に対して、攻撃力の<span style="color: #007eff">1038%</span>分のダメージ/
+<span style="color: #007eff">75%</span>の確率で、<span style="color: #007eff">716%</span>分の追加ダメージ
+| SkillDescriptionLv10 = 敵1人に対して、攻撃力の<span style="color: #007eff">1101%</span>分のダメージ/
+<span style="color: #007eff">75%</span>の確率で、<span style="color: #007eff">716%</span>分の追加ダメージ
+}}
+
+{{SkillTable
+| SkillName = 正義の決断
+| SkillIcon = Explosive_COMMON_SKILLICON_CIRCLE
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">150%</span>分のダメージ
+| SkillDescriptionLv1 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">150%</span>分のダメージ
+| SkillDescriptionLv2 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">158%</span>分のダメージ
+| SkillDescriptionLv3 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">166%</span>分のダメージ
+| SkillDescriptionLv4 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">196%</span>分のダメージ
+| SkillDescriptionLv5 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">203%</span>分のダメージ
+| SkillDescriptionLv6 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">211%</span>分のダメージ
+| SkillDescriptionLv7 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">241%</span>分のダメージ
+| SkillDescriptionLv8 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">249%</span>分のダメージ
+| SkillDescriptionLv9 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">256%</span>分のダメージ
+| SkillDescriptionLv10 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">286%</span>分のダメージ
+}}
+
+{{SkillTable
+| SkillName = 正義の気概
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = 会心値を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 会心値を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 会心値を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 会心値を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 会心値を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 会心値を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 会心値を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 会心値を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 会心値を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 会心値を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 会心値を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 正義の結束
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = 味方の命中値を<span style="color: #007eff">9.1%</span>増加
+| SkillDescriptionLv1 = 味方の命中値を<span style="color: #007eff">9.1%</span>増加
+| SkillDescriptionLv2 = 味方の命中値を<span style="color: #007eff">9.5%</span>増加
+| SkillDescriptionLv3 = 味方の命中値を<span style="color: #007eff">10%</span>増加
+| SkillDescriptionLv4 = 味方の命中値を<span style="color: #007eff">11.8%</span>増加
+| SkillDescriptionLv5 = 味方の命中値を<span style="color: #007eff">12.3%</span>増加
+| SkillDescriptionLv6 = 味方の命中値を<span style="color: #007eff">12.7%</span>増加
+| SkillDescriptionLv7 = 味方の命中値を<span style="color: #007eff">14.5%</span>増加
+| SkillDescriptionLv8 = 味方の命中値を<span style="color: #007eff">15%</span>増加
+| SkillDescriptionLv9 = 味方の命中値を<span style="color: #007eff">15.5%</span>増加
+| SkillDescriptionLv10 = 味方の命中値を<span style="color: #007eff">17.3%</span>増加
+}}
+[[Category:Characters]]

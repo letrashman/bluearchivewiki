@@ -1,0 +1,127 @@
+{{Character
+| Name = ハナエ
+| Image =
+| JPName = 朝顔 ハナエ
+| JPReading =
+| School = Trinity
+| Age = 15
+| Birthday = May 12
+| Height = 150cm
+| Hobbies = ダンス、チアリーディング
+| Illust = tonito
+| Voice = 優木かな
+| WeaponType = AR
+| CityTownAffinity = A
+| OutdoorAffinity = D
+| UsesCover = No
+| Rarity = 2
+| CombatClass = Support
+| ArmorType = Heavy
+| AttackType = Explosive
+| Position = Back
+| Role = Healer
+| IndoorAffinity = A
+}}
+
+=Background=
+トリニティ総合学園所属、救護騎士団の元気で明るい新入生。
+
+何事にも前向きで元気溢れる少女だが、患者を見つけると度を超して騒ぎ立ててしまい状況を悪化させたりすることも。
+ちょっと抜けているところもあるが、彼女にお世話してもらった患者は不思議なことにどんな病気でもたちまち治ってしまうという。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 162
+| maxAtk = 1625
+| minDef = 25
+| maxDef = 153
+| minHP = 2562
+| maxHP = 19148
+| minHealing = 2354
+| maxHealing = 7064
+| minAcc = 682
+| minEva = 780
+| minCRate = 195
+| minCDmg = 200
+| minStab = 1647
+| minRange = 1000
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = 治療の時間ですよ～！
+| SkillIcon = Explosive_COMMON_SKILLICON_DOTHEAL
+| SkillDamageType = Explosive
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = 味方1人に対して、治癒力の<span style="color: #007eff">54.1%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv1 = 味方1人に対して、治癒力の<span style="color: #007eff">54.1%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv2 = 味方1人に対して、治癒力の<span style="color: #007eff">62.2%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv3 = 味方1人に対して、治癒力の<span style="color: #007eff">78.5%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv4 = 味方1人に対して、治癒力の<span style="color: #007eff">86.6%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv5 = 味方1人に対して、治癒力の<span style="color: #007eff">102%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv6 = 味方1人に対して、治癒力の<span style="color: #007eff">111%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv7 = 味方1人に対して、治癒力の<span style="color: #007eff">127%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv8 = 味方1人に対して、治癒力の<span style="color: #007eff">135%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv9 = 味方1人に対して、治癒力の<span style="color: #007eff">151%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv10 = 味方1人に対して、治癒力の<span style="color: #007eff">159%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 倒れちゃダメです！
+| SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">25秒</span>毎に、HPが最も低い味方1人の防御力を<span style="color: #007eff">17.7%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv1 = <span style="color: #007eff">25秒</span>毎に、HPが最も低い味方1人の防御力を<span style="color: #007eff">17.7%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv2 = <span style="color: #007eff">25秒</span>毎に、HPが最も低い味方1人の防御力を<span style="color: #007eff">18.6%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv3 = <span style="color: #007eff">25秒</span>毎に、HPが最も低い味方1人の防御力を<span style="color: #007eff">19.5%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv4 = <span style="color: #007eff">25秒</span>毎に、HPが最も低い味方1人の防御力を<span style="color: #007eff">23%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv5 = <span style="color: #007eff">25秒</span>毎に、HPが最も低い味方1人の防御力を<span style="color: #007eff">23.9%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv6 = <span style="color: #007eff">25秒</span>毎に、HPが最も低い味方1人の防御力を<span style="color: #007eff">24.8%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv7 = <span style="color: #007eff">25秒</span>毎に、HPが最も低い味方1人の防御力を<span style="color: #007eff">28.4%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv8 = <span style="color: #007eff">25秒</span>毎に、HPが最も低い味方1人の防御力を<span style="color: #007eff">29.2%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv9 = <span style="color: #007eff">25秒</span>毎に、HPが最も低い味方1人の防御力を<span style="color: #007eff">30.1%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv10 = <span style="color: #007eff">25秒</span>毎に、HPが最も低い味方1人の防御力を<span style="color: #007eff">33.7%</span>増加（<span style="color: #007eff">20秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 腕前上達
+| SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = 治癒力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 治癒力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 治癒力を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 治癒力を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 治癒力を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 治癒力を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 治癒力を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 治癒力を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 治癒力を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 治癒力を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 治癒力を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = みなさん頑張ってくださ～い！
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = 味方の会心ダメージ率を<span style="color: #007eff">9.1%</span>増加
+| SkillDescriptionLv1 = 味方の会心ダメージ率を<span style="color: #007eff">9.1%</span>増加
+| SkillDescriptionLv2 = 味方の会心ダメージ率を<span style="color: #007eff">9.5%</span>増加
+| SkillDescriptionLv3 = 味方の会心ダメージ率を<span style="color: #007eff">10%</span>増加
+| SkillDescriptionLv4 = 味方の会心ダメージ率を<span style="color: #007eff">11.8%</span>増加
+| SkillDescriptionLv5 = 味方の会心ダメージ率を<span style="color: #007eff">12.3%</span>増加
+| SkillDescriptionLv6 = 味方の会心ダメージ率を<span style="color: #007eff">12.7%</span>増加
+| SkillDescriptionLv7 = 味方の会心ダメージ率を<span style="color: #007eff">14.5%</span>増加
+| SkillDescriptionLv8 = 味方の会心ダメージ率を<span style="color: #007eff">15%</span>増加
+| SkillDescriptionLv9 = 味方の会心ダメージ率を<span style="color: #007eff">15.5%</span>増加
+| SkillDescriptionLv10 = 味方の会心ダメージ率を<span style="color: #007eff">17.3%</span>増加
+}}
+[[Category:Characters]]

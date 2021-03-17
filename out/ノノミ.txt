@@ -1,0 +1,127 @@
+{{Character
+| Name = ノノミ
+| Image =
+| JPName = 十六夜 ノノミ
+| JPReading =
+| School = Abydos
+| Age = 16
+| Birthday = September 1
+| Height = 160cm
+| Hobbies = ショッピング
+| Illust = 9ml
+| Voice = 三浦千幸
+| WeaponType = MG
+| CityTownAffinity = A
+| OutdoorAffinity = A
+| UsesCover = No
+| Rarity = 2
+| CombatClass = Striker
+| ArmorType = Light
+| AttackType = Penetration
+| Position = Back
+| Role = Attacker
+| IndoorAffinity = D
+}}
+
+=Background=
+アビドス高等学校所属、アビドス対策委員会のメンバー。
+
+感情豊かで優しい性格をしており、極端な性格の持ち主が多い対策委員会のメンバーをまとめる精神的な支えとしての役割を担っている。
+表向きにはあまり明らかにしていないがお金持ちの令嬢で、対策委員会のおやつ代はほとんど彼女のお小遣いから出ている。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 263
+| maxAtk = 2631
+| minDef = 80
+| maxDef = 483
+| minHP = 2264
+| maxHP = 19630
+| minHealing = 1390
+| maxHealing = 4172
+| minAcc = 99
+| minEva = 198
+| minCRate = 198
+| minCDmg = 200
+| minStab = 1408
+| minRange = 750
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = お仕置きの時間です～♣
+| SkillIcon = Penetration_COMMON_SKILLICON_FAN
+| SkillDamageType = Penetration
+| SkillBaseCost = 5
+| SkillDescriptionGeneral = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">432%</span>分のダメージ
+| SkillDescriptionLv1 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">432%</span>分のダメージ
+| SkillDescriptionLv2 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">497%</span>分のダメージ
+| SkillDescriptionLv3 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">627%</span>分のダメージ
+| SkillDescriptionLv4 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">692%</span>分のダメージ
+| SkillDescriptionLv5 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">821%</span>分のダメージ
+| SkillDescriptionLv6 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">886%</span>分のダメージ
+| SkillDescriptionLv7 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1016%</span>分のダメージ
+| SkillDescriptionLv8 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1081%</span>分のダメージ
+| SkillDescriptionLv9 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1211%</span>分のダメージ
+| SkillDescriptionLv10 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1275%</span>分のダメージ
+}}
+
+{{SkillTable
+| SkillName = じゃ～ん☆
+| SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">30秒</span>毎に、攻撃力を<span style="color: #007eff">21.8%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv1 = <span style="color: #007eff">30秒</span>毎に、攻撃力を<span style="color: #007eff">21.8%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv2 = <span style="color: #007eff">30秒</span>毎に、攻撃力を<span style="color: #007eff">22.9%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv3 = <span style="color: #007eff">30秒</span>毎に、攻撃力を<span style="color: #007eff">24%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv4 = <span style="color: #007eff">30秒</span>毎に、攻撃力を<span style="color: #007eff">28.3%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv5 = <span style="color: #007eff">30秒</span>毎に、攻撃力を<span style="color: #007eff">29.4%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv6 = <span style="color: #007eff">30秒</span>毎に、攻撃力を<span style="color: #007eff">30.5%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv7 = <span style="color: #007eff">30秒</span>毎に、攻撃力を<span style="color: #007eff">34.9%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv8 = <span style="color: #007eff">30秒</span>毎に、攻撃力を<span style="color: #007eff">36%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv9 = <span style="color: #007eff">30秒</span>毎に、攻撃力を<span style="color: #007eff">37.1%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv10 = <span style="color: #007eff">30秒</span>毎に、攻撃力を<span style="color: #007eff">41.4%</span>増加（<span style="color: #007eff">20秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = めっ、ですよ！
+| SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 会心ダメージ率を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 会心ダメージ率を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 会心ダメージ率を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 会心ダメージ率を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 会心ダメージ率を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 会心ダメージ率を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 会心ダメージ率を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 会心ダメージ率を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 会心ダメージ率を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 綺麗にお掃除します～♧
+| SkillIcon = Penetration_COMMON_SKILLICON_EXTRADAMAGE
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = 攻撃時、大型の敵に対して攻撃力の<span style="color: #007eff">6.7%</span>分の追加ダメージ
+| SkillDescriptionLv1 = 攻撃時、大型の敵に対して攻撃力の<span style="color: #007eff">6.7%</span>分の追加ダメージ
+| SkillDescriptionLv2 = 攻撃時、大型の敵に対して攻撃力の<span style="color: #007eff">7.1%</span>分の追加ダメージ
+| SkillDescriptionLv3 = 攻撃時、大型の敵に対して攻撃力の<span style="color: #007eff">7.4%</span>分の追加ダメージ
+| SkillDescriptionLv4 = 攻撃時、大型の敵に対して攻撃力の<span style="color: #007eff">8.7%</span>分の追加ダメージ
+| SkillDescriptionLv5 = 攻撃時、大型の敵に対して攻撃力の<span style="color: #007eff">9.1%</span>分の追加ダメージ
+| SkillDescriptionLv6 = 攻撃時、大型の敵に対して攻撃力の<span style="color: #007eff">9.4%</span>分の追加ダメージ
+| SkillDescriptionLv7 = 攻撃時、大型の敵に対して攻撃力の<span style="color: #007eff">10.8%</span>分の追加ダメージ
+| SkillDescriptionLv8 = 攻撃時、大型の敵に対して攻撃力の<span style="color: #007eff">11.1%</span>分の追加ダメージ
+| SkillDescriptionLv9 = 攻撃時、大型の敵に対して攻撃力の<span style="color: #007eff">11.4%</span>分の追加ダメージ
+| SkillDescriptionLv10 = 攻撃時、大型の敵に対して攻撃力の<span style="color: #007eff">12.8%</span>分の追加ダメージ
+}}
+[[Category:Characters]]

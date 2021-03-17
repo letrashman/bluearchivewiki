@@ -1,0 +1,138 @@
+{{Character
+| Name = アスナ
+| Image =
+| JPName = 一之瀬 アスナ
+| JPReading =
+| School = Millennium
+| Age = 17
+| Birthday = March 24
+| Height = 167cm
+| Hobbies = 襲撃
+| Illust =  Mx2j
+| Voice = 長谷川育美
+| WeaponType = AR
+| CityTownAffinity = B
+| OutdoorAffinity = B
+| UsesCover = Yes
+| Rarity = 1
+| CombatClass = Striker
+| ArmorType = Light
+| AttackType = Mystic
+| Position = Middle
+| Role = Attacker
+| IndoorAffinity = B
+}}
+
+=Background=
+ミレニアムサイエンススクール所属、秘密組織「C&C」のエージェント。
+
+コールサインは「ゼロワン」で、卓越した動物的な感覚と直感とで数々の難関を乗り越えてきたベテランである。
+任務中、勝手に人を信じて正体を明かしたり、疑わしいものは全て壊してしまうなど、理解し難い行動も多々あるが、最終的にはきちんと成果を収める。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 266
+| maxAtk = 2661
+| minDef = 20
+| maxDef = 123
+| minHP = 2309
+| maxHP = 23090
+| minHealing = 1362
+| maxHealing = 4088
+| minAcc = 681
+| minEva = 778
+| minCRate = 243
+| minCDmg = 200
+| minStab = 1436
+| minRange = 650
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = 行っくよー！
+| SkillIcon = Mystic_COMMON_SKILLICON_EVASION
+| SkillDamageType = Mystic
+| SkillBaseCost = 2
+| SkillDescriptionGeneral = スキルの使用中、回避値を<span style="color: #007eff">43.4%</span>増加/
+攻撃速度を<span style="color: #007eff">30.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv1 = スキルの使用中、回避値を<span style="color: #007eff">43.4%</span>増加/
+攻撃速度を<span style="color: #007eff">30.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv2 = スキルの使用中、回避値を<span style="color: #007eff">43.4%</span>増加/
+攻撃速度を<span style="color: #007eff">34.7%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv3 = スキルの使用中、回避値を<span style="color: #007eff">43.4%</span>増加/
+攻撃速度を<span style="color: #007eff">43.7%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv4 = スキルの使用中、回避値を<span style="color: #007eff">43.4%</span>増加/
+攻撃速度を<span style="color: #007eff">48.3%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv5 = スキルの使用中、回避値を<span style="color: #007eff">43.4%</span>増加/
+攻撃速度を<span style="color: #007eff">57.3%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv6 = スキルの使用中、回避値を<span style="color: #007eff">43.4%</span>増加/
+攻撃速度を<span style="color: #007eff">61.9%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv7 = スキルの使用中、回避値を<span style="color: #007eff">43.4%</span>増加/
+攻撃速度を<span style="color: #007eff">70.9%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv8 = スキルの使用中、回避値を<span style="color: #007eff">43.4%</span>増加/
+攻撃速度を<span style="color: #007eff">75.4%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv9 = スキルの使用中、回避値を<span style="color: #007eff">43.4%</span>増加/
+攻撃速度を<span style="color: #007eff">84.5%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv10 = スキルの使用中、回避値を<span style="color: #007eff">43.4%</span>増加/
+攻撃速度を<span style="color: #007eff">89%</span>増加（<span style="color: #007eff">30秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 撃つよーっ！
+| SkillIcon = Mystic_COMMON_SKILLICON_TARGET
+| SkillDamageType = Mystic
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">20秒</span>毎に敵1人に対して攻撃力の<span style="color: #007eff">219%</span>分のダメージ
+| SkillDescriptionLv1 = <span style="color: #007eff">20秒</span>毎に敵1人に対して攻撃力の<span style="color: #007eff">219%</span>分のダメージ
+| SkillDescriptionLv2 = <span style="color: #007eff">20秒</span>毎に敵1人に対して攻撃力の<span style="color: #007eff">230%</span>分のダメージ
+| SkillDescriptionLv3 = <span style="color: #007eff">20秒</span>毎に敵1人に対して攻撃力の<span style="color: #007eff">241%</span>分のダメージ
+| SkillDescriptionLv4 = <span style="color: #007eff">20秒</span>毎に敵1人に対して攻撃力の<span style="color: #007eff">284%</span>分のダメージ
+| SkillDescriptionLv5 = <span style="color: #007eff">20秒</span>毎に敵1人に対して攻撃力の<span style="color: #007eff">295%</span>分のダメージ
+| SkillDescriptionLv6 = <span style="color: #007eff">20秒</span>毎に敵1人に対して攻撃力の<span style="color: #007eff">306%</span>分のダメージ
+| SkillDescriptionLv7 = <span style="color: #007eff">20秒</span>毎に敵1人に対して攻撃力の<span style="color: #007eff">350%</span>分のダメージ
+| SkillDescriptionLv8 = <span style="color: #007eff">20秒</span>毎に敵1人に対して攻撃力の<span style="color: #007eff">361%</span>分のダメージ
+| SkillDescriptionLv9 = <span style="color: #007eff">20秒</span>毎に敵1人に対して攻撃力の<span style="color: #007eff">372%</span>分のダメージ
+| SkillDescriptionLv10 = <span style="color: #007eff">20秒</span>毎に敵1人に対して攻撃力の<span style="color: #007eff">416%</span>分のダメージ
+}}
+
+{{SkillTable
+| SkillName = これは痛いよ？
+| SkillIcon = Mystic_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Mystic
+| SkillType = Passive
+| SkillDescriptionGeneral = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 会心ダメージ率を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 会心ダメージ率を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 会心ダメージ率を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 会心ダメージ率を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 会心ダメージ率を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 会心ダメージ率を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 会心ダメージ率を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 会心ダメージ率を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 会心ダメージ率を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = スピード上げるね？
+| SkillIcon = Mystic_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Mystic
+| SkillType = Sub
+| SkillDescriptionGeneral = Exスキルの使用時、攻撃速度を<span style="color: #007eff">20.1%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv1 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">20.1%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv2 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">21.1%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv3 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">22.1%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv4 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">26.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv5 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">27.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv6 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">28.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv7 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">32.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv8 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">33.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv9 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">34.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv10 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">38.3%</span>増加（<span style="color: #007eff">30秒</span>間）
+}}
+[[Category:Characters]]

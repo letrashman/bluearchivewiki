@@ -1,0 +1,149 @@
+{{Character
+| Name = カリン
+| Image =
+| JPName = 角楯 カリン
+| JPReading =
+| School = Millennium
+| Age = 16
+| Birthday = February 2
+| Height = 170cm
+| Hobbies = お掃除
+| Illust =  Mx2j
+| Voice = 沼倉愛美
+| WeaponType = SR
+| CityTownAffinity = D
+| OutdoorAffinity = S
+| UsesCover = No
+| Rarity = 3
+| CombatClass = Support
+| ArmorType = Heavy
+| AttackType = Penetration
+| Position = Back
+| Role = Attacker
+| IndoorAffinity = B
+}}
+
+=Background=
+ミレニアムサイエンススクール所属、秘密組織「C&C」のエージェント。
+
+コールサインは「ゼロツー」で、後方からの火力支援を担っている。
+外見はやや荒っぽそうなものの、実のところC&Cのエージェントの中でも最も慎重な性格の持ち主で、作戦中に暴走しがちなアスナやアカネを止めることに日々苦心している。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 276
+| maxAtk = 2762
+| minDef = 20
+| maxDef = 123
+| minHP = 2314
+| maxHP = 17308
+| minHealing = 1563
+| maxHealing = 4689
+| minAcc = 873
+| minEva = 194
+| minCRate = 194
+| minCDmg = 200
+| minStab = 2364
+| minRange = 1000
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = ターゲット、排除する
+| SkillIcon = Penetration_COMMON_SKILLICON_TARGET
+| SkillDamageType = Penetration
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = 敵1人に対して、攻撃力の<span style="color: #007eff">687%</span>分のダメージ/
+超大型の敵には<span style="color: #007eff">481%</span>分の追加ダメージ
+| SkillDescriptionLv1 = 敵1人に対して、攻撃力の<span style="color: #007eff">687%</span>分のダメージ/
+超大型の敵には<span style="color: #007eff">481%</span>分の追加ダメージ
+| SkillDescriptionLv2 = 敵1人に対して、攻撃力の<span style="color: #007eff">790%</span>分のダメージ/
+超大型の敵には<span style="color: #007eff">481%</span>分の追加ダメージ
+| SkillDescriptionLv3 = 敵1人に対して、攻撃力の<span style="color: #007eff">893%</span>分のダメージ/
+超大型の敵には<span style="color: #007eff">553%</span>分の追加ダメージ
+| SkillDescriptionLv4 = 敵1人に対して、攻撃力の<span style="color: #007eff">996%</span>分のダメージ/
+超大型の敵には<span style="color: #007eff">553%</span>分の追加ダメージ
+| SkillDescriptionLv5 = 敵1人に対して、攻撃力の<span style="color: #007eff">1099%</span>分のダメージ/
+超大型の敵には<span style="color: #007eff">625%</span>分の追加ダメージ
+| SkillDescriptionLv6 = 敵1人に対して、攻撃力の<span style="color: #007eff">1202%</span>分のダメージ/
+超大型の敵には<span style="color: #007eff">625%</span>分の追加ダメージ
+| SkillDescriptionLv7 = 敵1人に対して、攻撃力の<span style="color: #007eff">1408%</span>分のダメージ/
+超大型の敵には<span style="color: #007eff">625%</span>分の追加ダメージ
+| SkillDescriptionLv8 = 敵1人に対して、攻撃力の<span style="color: #007eff">1511%</span>分のダメージ/
+超大型の敵には<span style="color: #007eff">625%</span>分の追加ダメージ
+| SkillDescriptionLv9 = 敵1人に対して、攻撃力の<span style="color: #007eff">1718%</span>分のダメージ/
+超大型の敵には<span style="color: #007eff">625%</span>分の追加ダメージ
+| SkillDescriptionLv10 = 敵1人に対して、攻撃力の<span style="color: #007eff">1821%</span>分のダメージ/
+超大型の敵には<span style="color: #007eff">625%</span>分の追加ダメージ
+}}
+
+{{SkillTable
+| SkillName = 火力支援、開始
+| SkillIcon = Penetration_COMMON_SKILLICON_TARGET
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">40秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">223%</span>分のダメージ/
+さらに<span style="color: #007eff">50%</span>の確率で、気絶状態を付与（<span style="color: #007eff">3.1秒</span>間）
+| SkillDescriptionLv1 = <span style="color: #007eff">40秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">223%</span>分のダメージ/
+さらに<span style="color: #007eff">50%</span>の確率で、気絶状態を付与（<span style="color: #007eff">3.1秒</span>間）
+| SkillDescriptionLv2 = <span style="color: #007eff">40秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">234%</span>分のダメージ/
+さらに<span style="color: #007eff">50%</span>の確率で、気絶状態を付与（<span style="color: #007eff">3.1秒</span>間）
+| SkillDescriptionLv3 = <span style="color: #007eff">40秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">245%</span>分のダメージ/
+さらに<span style="color: #007eff">50%</span>の確率で、気絶状態を付与（<span style="color: #007eff">3.1秒</span>間）
+| SkillDescriptionLv4 = <span style="color: #007eff">40秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">290%</span>分のダメージ/
+さらに<span style="color: #007eff">50%</span>の確率で、気絶状態を付与（<span style="color: #007eff">3.1秒</span>間）
+| SkillDescriptionLv5 = <span style="color: #007eff">40秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">301%</span>分のダメージ/
+さらに<span style="color: #007eff">50%</span>の確率で、気絶状態を付与（<span style="color: #007eff">3.1秒</span>間）
+| SkillDescriptionLv6 = <span style="color: #007eff">40秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">313%</span>分のダメージ/
+さらに<span style="color: #007eff">50%</span>の確率で、気絶状態を付与（<span style="color: #007eff">3.1秒</span>間）
+| SkillDescriptionLv7 = <span style="color: #007eff">40秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">357%</span>分のダメージ/
+さらに<span style="color: #007eff">50%</span>の確率で、気絶状態を付与（<span style="color: #007eff">3.1秒</span>間）
+| SkillDescriptionLv8 = <span style="color: #007eff">40秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">368%</span>分のダメージ/
+さらに<span style="color: #007eff">50%</span>の確率で、気絶状態を付与（<span style="color: #007eff">3.1秒</span>間）
+| SkillDescriptionLv9 = <span style="color: #007eff">40秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">380%</span>分のダメージ/
+さらに<span style="color: #007eff">50%</span>の確率で、気絶状態を付与（<span style="color: #007eff">3.1秒</span>間）
+| SkillDescriptionLv10 = <span style="color: #007eff">40秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">424%</span>分のダメージ/
+さらに<span style="color: #007eff">50%</span>の確率で、気絶状態を付与（<span style="color: #007eff">3.1秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 武装強化、完了
+| SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = 攻撃力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 攻撃力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 攻撃力を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 攻撃力を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 攻撃力を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 攻撃力を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 攻撃力を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 攻撃力を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 攻撃力を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 攻撃力を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 攻撃力を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 支援活動、開始
+| SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = 味方の攻撃力を<span style="color: #007eff">9.1%</span>増加
+| SkillDescriptionLv1 = 味方の攻撃力を<span style="color: #007eff">9.1%</span>増加
+| SkillDescriptionLv2 = 味方の攻撃力を<span style="color: #007eff">9.5%</span>増加
+| SkillDescriptionLv3 = 味方の攻撃力を<span style="color: #007eff">10%</span>増加
+| SkillDescriptionLv4 = 味方の攻撃力を<span style="color: #007eff">11.8%</span>増加
+| SkillDescriptionLv5 = 味方の攻撃力を<span style="color: #007eff">12.3%</span>増加
+| SkillDescriptionLv6 = 味方の攻撃力を<span style="color: #007eff">12.7%</span>増加
+| SkillDescriptionLv7 = 味方の攻撃力を<span style="color: #007eff">14.5%</span>増加
+| SkillDescriptionLv8 = 味方の攻撃力を<span style="color: #007eff">15%</span>増加
+| SkillDescriptionLv9 = 味方の攻撃力を<span style="color: #007eff">15.5%</span>増加
+| SkillDescriptionLv10 = 味方の攻撃力を<span style="color: #007eff">17.3%</span>増加
+}}
+[[Category:Characters]]

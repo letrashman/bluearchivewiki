@@ -1,0 +1,151 @@
+{{Character
+| Name = ツバキ
+| Image =
+| JPName = 春日 ツバキ
+| JPReading =
+| School = Hyakkiyako
+| Age = 16
+| Birthday = February 3
+| Height = 162cm
+| Hobbies = 昼寝
+| Illust = Mx2j
+| Voice = 白砂沙帆
+| WeaponType = SMG
+| CityTownAffinity = A
+| OutdoorAffinity = A
+| UsesCover = No
+| Rarity = 2
+| CombatClass = Striker
+| ArmorType = Special
+| AttackType = Penetration
+| Position = Front
+| Role = Tank
+| IndoorAffinity = D
+}}
+
+=Background=
+百鬼夜行連合学院所属、修行部の部長。
+
+「より安らかで完璧な睡眠」を目指して常に修行している。
+その極めっぷりや、座っていても立っていても、さらにはご飯を食べながらも寝ることができるほどである。
+ついた二つ名は「眠り姫」。
+いつもうとうとしているが、夜になると街を守るために密かに暗躍する。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 171
+| maxAtk = 1719
+| minDef = 30
+| maxDef = 182
+| minHP = 3048
+| maxHP = 50940
+| minHealing = 1377
+| maxHealing = 4132
+| minAcc = 98
+| minEva = 1416
+| minCRate = 196
+| minCDmg = 200
+| minStab = 1420
+| minRange = 350
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = 戦闘用シールド、装着
+| SkillIcon = Penetration_COMMON_SKILLICON_PROVOKE
+| SkillDamageType = Penetration
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = 防御力を<span style="color: #007eff">28.1%</span>増加（<span style="color: #007eff">30秒</span>間）/
+円形範囲内の敵に挑発状態を付与（<span style="color: #007eff">4.7秒</span>間）
+| SkillDescriptionLv1 = 防御力を<span style="color: #007eff">28.1%</span>増加（<span style="color: #007eff">30秒</span>間）/
+円形範囲内の敵に挑発状態を付与（<span style="color: #007eff">4.7秒</span>間）
+| SkillDescriptionLv2 = 防御力を<span style="color: #007eff">32.3%</span>増加（<span style="color: #007eff">30秒</span>間）/
+円形範囲内の敵に挑発状態を付与（<span style="color: #007eff">4.7秒</span>間）
+| SkillDescriptionLv3 = 防御力を<span style="color: #007eff">36.5%</span>増加（<span style="color: #007eff">30秒</span>間）/
+円形範囲内の敵に挑発状態を付与（<span style="color: #007eff">5.4秒</span>間）
+| SkillDescriptionLv4 = 防御力を<span style="color: #007eff">40.7%</span>増加（<span style="color: #007eff">30秒</span>間）/
+円形範囲内の敵に挑発状態を付与（<span style="color: #007eff">5.4秒</span>間）
+| SkillDescriptionLv5 = 防御力を<span style="color: #007eff">44.9%</span>増加（<span style="color: #007eff">30秒</span>間）/
+円形範囲内の敵に挑発状態を付与（<span style="color: #007eff">6.2秒</span>間）
+| SkillDescriptionLv6 = 防御力を<span style="color: #007eff">49.1%</span>増加（<span style="color: #007eff">30秒</span>間）/
+円形範囲内の敵に挑発状態を付与（<span style="color: #007eff">6.2秒</span>間）
+| SkillDescriptionLv7 = 防御力を<span style="color: #007eff">57.6%</span>増加（<span style="color: #007eff">30秒</span>間）/
+円形範囲内の敵に挑発状態を付与（<span style="color: #007eff">6.2秒</span>間）
+| SkillDescriptionLv8 = 防御力を<span style="color: #007eff">61.8%</span>増加（<span style="color: #007eff">30秒</span>間）/
+円形範囲内の敵に挑発状態を付与（<span style="color: #007eff">6.2秒</span>間）
+| SkillDescriptionLv9 = 防御力を<span style="color: #007eff">70.2%</span>増加（<span style="color: #007eff">30秒</span>間）/
+円形範囲内の敵に挑発状態を付与（<span style="color: #007eff">6.2秒</span>間）
+| SkillDescriptionLv10 = 防御力を<span style="color: #007eff">74.4%</span>増加（<span style="color: #007eff">30秒</span>間）/
+円形範囲内の敵に挑発状態を付与（<span style="color: #007eff">6.2秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 疲れたら寝るのが一番
+| SkillIcon = Penetration_COMMON_SKILLICON_HEAL
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">349%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv1 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">349%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv2 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">366%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv3 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">384%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv4 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">454%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv5 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">471%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv6 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">489%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv7 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">558%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv8 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">576%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv9 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">593%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv10 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">663%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+}}
+
+{{SkillTable
+| SkillName = 胆力
+| SkillIcon = Penetration_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = 防御力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 防御力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 防御力を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 防御力を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 防御力を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 防御力を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 防御力を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 防御力を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 防御力を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 防御力を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 防御力を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 手慣れたリロード
+| SkillIcon = Penetration_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = リロードの間に受けるダメージ量を<span style="color: #007eff">24%</span>減少
+| SkillDescriptionLv1 = リロードの間に受けるダメージ量を<span style="color: #007eff">24%</span>減少
+| SkillDescriptionLv2 = リロードの間に受けるダメージ量を<span style="color: #007eff">25.2%</span>減少
+| SkillDescriptionLv3 = リロードの間に受けるダメージ量を<span style="color: #007eff">26.4%</span>減少
+| SkillDescriptionLv4 = リロードの間に受けるダメージ量を<span style="color: #007eff">31.2%</span>減少
+| SkillDescriptionLv5 = リロードの間に受けるダメージ量を<span style="color: #007eff">32.4%</span>減少
+| SkillDescriptionLv6 = リロードの間に受けるダメージ量を<span style="color: #007eff">33.6%</span>減少
+| SkillDescriptionLv7 = リロードの間に受けるダメージ量を<span style="color: #007eff">38.4%</span>減少
+| SkillDescriptionLv8 = リロードの間に受けるダメージ量を<span style="color: #007eff">39.6%</span>減少
+| SkillDescriptionLv9 = リロードの間に受けるダメージ量を<span style="color: #007eff">40.8%</span>減少
+| SkillDescriptionLv10 = リロードの間に受けるダメージ量を<span style="color: #007eff">45.6%</span>減少
+}}
+[[Category:Characters]]

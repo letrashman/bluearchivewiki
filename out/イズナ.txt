@@ -1,0 +1,128 @@
+{{Character
+| Name = イズナ
+| Image =
+| JPName = 久田 イズナ
+| JPReading =
+| School = Hyakkiyako
+| Age = 15
+| Birthday = December 16
+| Height = 155cm
+| Hobbies = 忍術の勉強、主殿の護衛
+| Illust = はねこと
+| Voice = 阿澄佳奈
+| WeaponType = SMG
+| CityTownAffinity = S
+| OutdoorAffinity = B
+| UsesCover = Yes
+| Rarity = 3
+| CombatClass = Striker
+| ArmorType = Light
+| AttackType = Mystic
+| Position = Front
+| Role = Attacker
+| IndoorAffinity = D
+}}
+
+=Background=
+百鬼夜行連合学院所属、忍術研究部の少女。
+
+明るくて活気溢れる性格の女の子だが、他の人にはあまり理解されない夢を追求してきた結果、これまでずっと独りぼっちで生きてきた。
+その夢とは「キヴォトス最高の忍者になること」。
+立派な忍者になるため、今日も先生を「主殿！」と呼びながら護衛（単に追いかけ回すとも言う）をし、様々な活動に明け暮れている。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 184
+| maxAtk = 1846
+| minDef = 22
+| maxDef = 136
+| minHP = 2531
+| maxHP = 35080
+| minHealing = 1382
+| maxHealing = 4147
+| minAcc = 108
+| minEva = 1066
+| minCRate = 246
+| minCDmg = 200
+| minStab = 1416
+| minRange = 450
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = これぞイズナ流忍法！
+| SkillIcon = Mystic_COMMON_SKILLICON_EVASION
+| SkillDamageType = Mystic
+| SkillBaseCost = 3
+| SkillDescriptionGeneral = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">27.4%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv1 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">27.4%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv2 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">31.5%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv3 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">39.7%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv4 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">43.9%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv5 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">52.1%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv6 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">56.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv7 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">64.4%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv8 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">68.5%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv9 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">76.8%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv10 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">80.9%</span>増加（<span style="color: #007eff">30秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 秘技！爆裂手裏剣！
+| SkillIcon = Mystic_COMMON_SKILLICON_CIRCLE
+| SkillDamageType = Mystic
+| SkillType = Normal
+| SkillDescriptionGeneral = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">444%</span>分のダメージ
+| SkillDescriptionLv1 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">444%</span>分のダメージ
+| SkillDescriptionLv2 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">466%</span>分のダメージ
+| SkillDescriptionLv3 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">489%</span>分のダメージ
+| SkillDescriptionLv4 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">578%</span>分のダメージ
+| SkillDescriptionLv5 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">600%</span>分のダメージ
+| SkillDescriptionLv6 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">622%</span>分のダメージ
+| SkillDescriptionLv7 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">711%</span>分のダメージ
+| SkillDescriptionLv8 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">733%</span>分のダメージ
+| SkillDescriptionLv9 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">756%</span>分のダメージ
+| SkillDescriptionLv10 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">845%</span>分のダメージ
+}}
+
+{{SkillTable
+| SkillName = イズナ流、奇襲の術！
+| SkillIcon = Mystic_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Mystic
+| SkillType = Passive
+| SkillDescriptionGeneral = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 会心ダメージ率を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 会心ダメージ率を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 会心ダメージ率を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 会心ダメージ率を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 会心ダメージ率を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 会心ダメージ率を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 会心ダメージ率を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 会心ダメージ率を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 会心ダメージ率を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = イズナ流、興起の術！
+| SkillIcon = Mystic_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Mystic
+| SkillType = Sub
+| SkillDescriptionGeneral = Exスキル使用時、攻撃力を<span style="color: #007eff">20.1%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv1 = Exスキル使用時、攻撃力を<span style="color: #007eff">20.1%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv2 = Exスキル使用時、攻撃力を<span style="color: #007eff">21.1%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv3 = Exスキル使用時、攻撃力を<span style="color: #007eff">22.1%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv4 = Exスキル使用時、攻撃力を<span style="color: #007eff">26.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv5 = Exスキル使用時、攻撃力を<span style="color: #007eff">27.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv6 = Exスキル使用時、攻撃力を<span style="color: #007eff">28.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv7 = Exスキル使用時、攻撃力を<span style="color: #007eff">32.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv8 = Exスキル使用時、攻撃力を<span style="color: #007eff">33.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv9 = Exスキル使用時、攻撃力を<span style="color: #007eff">34.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv10 = Exスキル使用時、攻撃力を<span style="color: #007eff">38.3%</span>増加（<span style="color: #007eff">30秒</span>間）
+}}
+[[Category:Characters]]

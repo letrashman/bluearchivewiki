@@ -1,0 +1,146 @@
+{{Character
+| Name = シミコ
+| Image =
+| JPName = 円堂 シミコ
+| JPReading =
+| School = Trinity
+| Age = 15
+| Birthday = November 30
+| Height = 157cm
+| Hobbies = 読書、しおりづくり
+| Illust = あやみ
+| Voice = 富田美憂
+| WeaponType = AR
+| CityTownAffinity = C
+| OutdoorAffinity = A
+| UsesCover = No
+| Rarity = 1
+| CombatClass = Support
+| ArmorType = Light
+| AttackType = Explosive
+| Position = Back
+| Role = Support
+| IndoorAffinity = B
+}}
+
+=Background=
+トリニティ総合学園所属、図書委員会の司書。
+
+本が大好きな読書マニアで、トリニティの図書館に所蔵されている膨大な蔵書を全て読破したという数少ない生徒の一人。
+本を読むのと同じくらい本を勧めることも好きで、誰かに出会うとまず最初に「この人の好みに合う本は何だろうか」と考えてしまう。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 192
+| maxAtk = 1922
+| minDef = 19
+| maxDef = 117
+| minHP = 2211
+| maxHP = 16526
+| minHealing = 1637
+| maxHealing = 4913
+| minAcc = 712
+| minEva = 813
+| minCRate = 203
+| minCDmg = 200
+| minStab = 1578
+| minRange = 1000
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = 知識の盾
+| SkillIcon = Explosive_COMMON_SKILLICON_OBSTACLE
+| SkillDamageType = Explosive
+| SkillBaseCost = 3
+| SkillDescriptionGeneral = 遮蔽物を設置/
+円形範囲内の味方の防御力を<span style="color: #007eff">16.3%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv1 = 遮蔽物を設置/
+円形範囲内の味方の防御力を<span style="color: #007eff">16.3%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv2 = 遮蔽物を設置/
+円形範囲内の味方の防御力を<span style="color: #007eff">18.8%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv3 = 遮蔽物を設置/
+円形範囲内の味方の防御力を<span style="color: #007eff">21.3%</span>増加（<span style="color: #007eff">30秒</span>間）/
+遮蔽物はシミコのHPの<span style="color: #007eff">20.1%</span>分の値が追加されたHPを持ちます。
+| SkillDescriptionLv4 = 遮蔽物を設置/
+円形範囲内の味方の防御力を<span style="color: #007eff">23.7%</span>増加（<span style="color: #007eff">30秒</span>間）/
+遮蔽物はシミコのHPの<span style="color: #007eff">20.1%</span>分の値が追加されたHPを持ちます。
+| SkillDescriptionLv5 = 遮蔽物を設置/
+円形範囲内の味方の防御力を<span style="color: #007eff">26.2%</span>増加（<span style="color: #007eff">30秒</span>間）/
+遮蔽物はシミコのHPの<span style="color: #007eff">38%</span>分の値が追加されたHPを持ちます。
+| SkillDescriptionLv6 = 遮蔽物を設置/
+円形範囲内の味方の防御力を<span style="color: #007eff">28.6%</span>増加（<span style="color: #007eff">30秒</span>間）/
+遮蔽物はシミコのHPの<span style="color: #007eff">38%</span>分の値が追加されたHPを持ちます。
+| SkillDescriptionLv7 = 遮蔽物を設置/
+円形範囲内の味方の防御力を<span style="color: #007eff">33.6%</span>増加（<span style="color: #007eff">30秒</span>間）/
+遮蔽物はシミコのHPの<span style="color: #007eff">38%</span>分の値が追加されたHPを持ちます。
+| SkillDescriptionLv8 = 遮蔽物を設置/
+円形範囲内の味方の防御力を<span style="color: #007eff">36%</span>増加（<span style="color: #007eff">30秒</span>間）/
+遮蔽物はシミコのHPの<span style="color: #007eff">38%</span>分の値が追加されたHPを持ちます。
+| SkillDescriptionLv9 = 遮蔽物を設置/
+円形範囲内の味方の防御力を<span style="color: #007eff">40.9%</span>増加（<span style="color: #007eff">30秒</span>間）/
+遮蔽物はシミコのHPの<span style="color: #007eff">38%</span>分の値が追加されたHPを持ちます。
+| SkillDescriptionLv10 = 遮蔽物を設置/
+円形範囲内の味方の防御力を<span style="color: #007eff">43.4%</span>増加（<span style="color: #007eff">30秒</span>間）/
+遮蔽物はシミコのHPの<span style="color: #007eff">42.4%</span>分の値が追加されたHPを持ちます。
+}}
+
+{{SkillTable
+| SkillName = 心の栄養剤
+| SkillIcon = Explosive_COMMON_SKILLICON_SHIELD
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">35秒</span>毎に、HPが最も低い味方1人に対して治癒力の<span style="color: #007eff">119%</span>分のシールド効果を発動（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv1 = <span style="color: #007eff">35秒</span>毎に、HPが最も低い味方1人に対して治癒力の<span style="color: #007eff">119%</span>分のシールド効果を発動（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv2 = <span style="color: #007eff">35秒</span>毎に、HPが最も低い味方1人に対して治癒力の<span style="color: #007eff">125%</span>分のシールド効果を発動（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv3 = <span style="color: #007eff">35秒</span>毎に、HPが最も低い味方1人に対して治癒力の<span style="color: #007eff">131%</span>分のシールド効果を発動（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv4 = <span style="color: #007eff">35秒</span>毎に、HPが最も低い味方1人に対して治癒力の<span style="color: #007eff">154%</span>分のシールド効果を発動（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv5 = <span style="color: #007eff">35秒</span>毎に、HPが最も低い味方1人に対して治癒力の<span style="color: #007eff">160%</span>分のシールド効果を発動（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv6 = <span style="color: #007eff">35秒</span>毎に、HPが最も低い味方1人に対して治癒力の<span style="color: #007eff">166%</span>分のシールド効果を発動（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv7 = <span style="color: #007eff">35秒</span>毎に、HPが最も低い味方1人に対して治癒力の<span style="color: #007eff">190%</span>分のシールド効果を発動（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv8 = <span style="color: #007eff">35秒</span>毎に、HPが最も低い味方1人に対して治癒力の<span style="color: #007eff">196%</span>分のシールド効果を発動（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv9 = <span style="color: #007eff">35秒</span>毎に、HPが最も低い味方1人に対して治癒力の<span style="color: #007eff">202%</span>分のシールド効果を発動（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv10 = <span style="color: #007eff">35秒</span>毎に、HPが最も低い味方1人に対して治癒力の<span style="color: #007eff">226%</span>分のシールド効果を発動（<span style="color: #007eff">16秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 知識を蓄えましょう！
+| SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = 治癒力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 治癒力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 治癒力を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 治癒力を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 治癒力を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 治癒力を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 治癒力を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 治癒力を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 治癒力を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 治癒力を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 治癒力を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = みんなで読書会を開きましょう！
+| SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = 味方の防御力を<span style="color: #007eff">9.1%</span>増加
+| SkillDescriptionLv1 = 味方の防御力を<span style="color: #007eff">9.1%</span>増加
+| SkillDescriptionLv2 = 味方の防御力を<span style="color: #007eff">9.5%</span>増加
+| SkillDescriptionLv3 = 味方の防御力を<span style="color: #007eff">10%</span>増加
+| SkillDescriptionLv4 = 味方の防御力を<span style="color: #007eff">11.8%</span>増加
+| SkillDescriptionLv5 = 味方の防御力を<span style="color: #007eff">12.3%</span>増加
+| SkillDescriptionLv6 = 味方の防御力を<span style="color: #007eff">12.7%</span>増加
+| SkillDescriptionLv7 = 味方の防御力を<span style="color: #007eff">14.5%</span>増加
+| SkillDescriptionLv8 = 味方の防御力を<span style="color: #007eff">15%</span>増加
+| SkillDescriptionLv9 = 味方の防御力を<span style="color: #007eff">15.5%</span>増加
+| SkillDescriptionLv10 = 味方の防御力を<span style="color: #007eff">17.3%</span>増加
+}}
+[[Category:Characters]]

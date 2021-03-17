@@ -1,0 +1,139 @@
+{{Character
+| Name = コタマ
+| Image =
+| JPName = 音瀬 コタマ
+| JPReading =
+| School = Millennium
+| Age = 17
+| Birthday = January 5
+| Height = 158cm
+| Hobbies = 無線通信、盗聴
+| Illust = mona
+| Voice = 高川みな
+| WeaponType = HG
+| CityTownAffinity = A
+| OutdoorAffinity = C
+| UsesCover = No
+| Rarity = 1
+| CombatClass = Support
+| ArmorType = Light
+| AttackType = Explosive
+| Position = Back
+| Role = Support
+| IndoorAffinity = B
+}}
+
+=Background=
+ミレニアムサイエンススクール所属、ハッカー集団「ヴェリタス」のハッカー。
+
+特技は盗聴、他人の秘密話を盗み聞きすることを好むちょっと変わった少女。
+対人関係は苦手な方で、基本的に歳下の1年生にもつい敬語を使ってしまうタイプ。
+現実では内気で口数の少ない子だが、ネット上では非常によくしゃべる。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 140
+| maxAtk = 1402
+| minDef = 19
+| maxDef = 119
+| minHP = 2245
+| maxHP = 16790
+| minHealing = 1612
+| maxHealing = 4838
+| minAcc = 100
+| minEva = 1101
+| minCRate = 200
+| minCDmg = 200
+| minStab = 1145
+| minRange = 1000
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = 傍受開始
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillBaseCost = 3
+| SkillDescriptionGeneral = 円形範囲内の味方の攻撃力を<span style="color: #007eff">24.9%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv1 = 円形範囲内の味方の攻撃力を<span style="color: #007eff">24.9%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv2 = 円形範囲内の味方の攻撃力を<span style="color: #007eff">28.7%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv3 = 円形範囲内の味方の攻撃力を<span style="color: #007eff">36.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv4 = 円形範囲内の味方の攻撃力を<span style="color: #007eff">39.9%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv5 = 円形範囲内の味方の攻撃力を<span style="color: #007eff">47.4%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv6 = 円形範囲内の味方の攻撃力を<span style="color: #007eff">51.1%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv7 = 円形範囲内の味方の攻撃力を<span style="color: #007eff">58.6%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv8 = 円形範囲内の味方の攻撃力を<span style="color: #007eff">62.4%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv9 = 円形範囲内の味方の攻撃力を<span style="color: #007eff">69.9%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv10 = 円形範囲内の味方の攻撃力を<span style="color: #007eff">73.6%</span>増加（<span style="color: #007eff">30秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 弱点を盗聴
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONDEBUFF
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">237%</span>分のダメージ/
+さらに攻撃力を<span style="color: #007eff">18.9%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv1 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">237%</span>分のダメージ/
+さらに攻撃力を<span style="color: #007eff">18.9%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv2 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">249%</span>分のダメージ/
+さらに攻撃力を<span style="color: #007eff">18.9%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv3 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">261%</span>分のダメージ/
+さらに攻撃力を<span style="color: #007eff">18.9%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv4 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">308%</span>分のダメージ/
+さらに攻撃力を<span style="color: #007eff">18.9%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv5 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">320%</span>分のダメージ/
+さらに攻撃力を<span style="color: #007eff">18.9%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv6 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">332%</span>分のダメージ/
+さらに攻撃力を<span style="color: #007eff">18.9%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv7 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">379%</span>分のダメージ/
+さらに攻撃力を<span style="color: #007eff">18.9%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv8 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">391%</span>分のダメージ/
+さらに攻撃力を<span style="color: #007eff">18.9%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv9 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">403%</span>分のダメージ/
+さらに攻撃力を<span style="color: #007eff">18.9%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv10 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">450%</span>分のダメージ/
+さらに攻撃力を<span style="color: #007eff">18.9%</span>減少（<span style="color: #007eff">20秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 集中解析
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = 命中値を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 命中値を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 命中値を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 命中値を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 命中値を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 命中値を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 命中値を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 命中値を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 命中値を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 命中値を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 命中値を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 電波拡散
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = 味方の攻撃力を<span style="color: #007eff">9.1%</span>増加
+| SkillDescriptionLv1 = 味方の攻撃力を<span style="color: #007eff">9.1%</span>増加
+| SkillDescriptionLv2 = 味方の攻撃力を<span style="color: #007eff">9.5%</span>増加
+| SkillDescriptionLv3 = 味方の攻撃力を<span style="color: #007eff">10%</span>増加
+| SkillDescriptionLv4 = 味方の攻撃力を<span style="color: #007eff">11.8%</span>増加
+| SkillDescriptionLv5 = 味方の攻撃力を<span style="color: #007eff">12.3%</span>増加
+| SkillDescriptionLv6 = 味方の攻撃力を<span style="color: #007eff">12.7%</span>増加
+| SkillDescriptionLv7 = 味方の攻撃力を<span style="color: #007eff">14.5%</span>増加
+| SkillDescriptionLv8 = 味方の攻撃力を<span style="color: #007eff">15%</span>増加
+| SkillDescriptionLv9 = 味方の攻撃力を<span style="color: #007eff">15.5%</span>増加
+| SkillDescriptionLv10 = 味方の攻撃力を<span style="color: #007eff">17.3%</span>増加
+}}
+[[Category:Characters]]

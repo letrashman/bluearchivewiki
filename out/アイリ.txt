@@ -1,0 +1,138 @@
+{{Character
+| Name = アイリ
+| Image =
+| JPName = 栗村 アイリ
+| JPReading =
+| School = Trinity
+| Age = 15
+| Birthday = January 30
+| Height = 160cm
+| Hobbies = 美味しいスイーツ探し、お茶会
+| Illust = まきあっと
+| Voice = 杉村ちか子
+| WeaponType = SMG
+| CityTownAffinity = A
+| OutdoorAffinity = D
+| UsesCover = No
+| Rarity = 2
+| CombatClass = Support
+| ArmorType = Light
+| AttackType = Explosive
+| Position = Back
+| Role = Support
+| IndoorAffinity = A
+}}
+
+=Background=
+トリニティ総合学園所属、放課後スイーツ部の朗らかな部員。
+
+ゆったりとした性格の持ち主で、友達とスイーツを食べながらおしゃべりをする時間を何より大切にしている。
+好きなものはアイスクリームで、最近はチョコミント味にハマっている。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 167
+| maxAtk = 1674
+| minDef = 20
+| maxDef = 120
+| minHP = 2256
+| maxHP = 16859
+| minHealing = 1605
+| maxHealing = 4815
+| minAcc = 99
+| minEva = 1196
+| minCRate = 199
+| minCDmg = 200
+| minStab = 1615
+| minRange = 1000
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = 勿体ないけど……えぇいっ！
+| SkillIcon = SKILLICON_AIRI_EXSKILL
+| SkillDamageType = Explosive
+| SkillBaseCost = 5
+| SkillDescriptionGeneral = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">265%</span>分のダメージ/
+さらに移動速度を<span style="color: #007eff">22.8%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv1 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">265%</span>分のダメージ/
+さらに移動速度を<span style="color: #007eff">22.8%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv2 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">305%</span>分のダメージ/
+さらに移動速度を<span style="color: #007eff">22.8%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv3 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">345%</span>分のダメージ/
+さらに移動速度を<span style="color: #007eff">22.8%</span>減少、攻撃速度を<span style="color: #007eff">26.2%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv4 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">384%</span>分のダメージ/
+さらに移動速度を<span style="color: #007eff">22.8%</span>減少、攻撃速度を<span style="color: #007eff">26.2%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv5 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">464%</span>分のダメージ/
+さらに移動速度を<span style="color: #007eff">22.8%</span>減少、攻撃速度を<span style="color: #007eff">26.2%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv6 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">504%</span>分のダメージ/
+さらに移動速度を<span style="color: #007eff">22.8%</span>減少、攻撃速度を<span style="color: #007eff">26.2%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv7 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">583%</span>分のダメージ/
+さらに移動速度を<span style="color: #007eff">22.8%</span>減少、攻撃速度を<span style="color: #007eff">26.2%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv8 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">623%</span>分のダメージ/
+さらに移動速度を<span style="color: #007eff">22.8%</span>減少、攻撃速度を<span style="color: #007eff">26.2%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv9 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">703%</span>分のダメージ/
+さらに移動速度を<span style="color: #007eff">22.8%</span>減少、攻撃速度を<span style="color: #007eff">26.2%</span>減少（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv10 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">743%</span>分のダメージ/
+さらに移動速度を<span style="color: #007eff">22.8%</span>減少、攻撃速度を<span style="color: #007eff">26.2%</span>減少（<span style="color: #007eff">20秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 頭がキーンってするかも……
+| SkillIcon = Explosive_COMMON_SKILLICON_STATDEBUFF
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃速度を<span style="color: #007eff">18.4%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv1 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃速度を<span style="color: #007eff">18.4%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv2 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃速度を<span style="color: #007eff">19.4%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv3 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃速度を<span style="color: #007eff">20.3%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv4 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃速度を<span style="color: #007eff">24%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv5 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃速度を<span style="color: #007eff">24.9%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv6 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃速度を<span style="color: #007eff">25.8%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv7 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃速度を<span style="color: #007eff">29.5%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv8 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃速度を<span style="color: #007eff">30.5%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv9 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃速度を<span style="color: #007eff">31.4%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv10 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃速度を<span style="color: #007eff">35.1%</span>減少（<span style="color: #007eff">30秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = デザートの力
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = 攻撃力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 攻撃力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 攻撃力を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 攻撃力を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 攻撃力を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 攻撃力を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 攻撃力を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 攻撃力を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 攻撃力を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 攻撃力を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 攻撃力を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = アイリの声援
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = 味方の攻撃速度を<span style="color: #007eff">9.1%</span>増加
+| SkillDescriptionLv1 = 味方の攻撃速度を<span style="color: #007eff">9.1%</span>増加
+| SkillDescriptionLv2 = 味方の攻撃速度を<span style="color: #007eff">9.5%</span>増加
+| SkillDescriptionLv3 = 味方の攻撃速度を<span style="color: #007eff">10%</span>増加
+| SkillDescriptionLv4 = 味方の攻撃速度を<span style="color: #007eff">11.8%</span>増加
+| SkillDescriptionLv5 = 味方の攻撃速度を<span style="color: #007eff">12.3%</span>増加
+| SkillDescriptionLv6 = 味方の攻撃速度を<span style="color: #007eff">12.7%</span>増加
+| SkillDescriptionLv7 = 味方の攻撃速度を<span style="color: #007eff">14.5%</span>増加
+| SkillDescriptionLv8 = 味方の攻撃速度を<span style="color: #007eff">15%</span>増加
+| SkillDescriptionLv9 = 味方の攻撃速度を<span style="color: #007eff">15.5%</span>増加
+| SkillDescriptionLv10 = 味方の攻撃速度を<span style="color: #007eff">17.3%</span>増加
+}}
+[[Category:Characters]]

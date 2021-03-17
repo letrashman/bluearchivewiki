@@ -1,0 +1,127 @@
+{{Character
+| Name = セリナ
+| Image =
+| JPName = 鷲見 セリナ
+| JPReading =
+| School = Trinity
+| Age = 16
+| Birthday = January 6
+| Height = 156cm
+| Hobbies = 病院のボランティア
+| Illust = RONOPU
+| Voice = 涼本あきほ
+| WeaponType = AR
+| CityTownAffinity = A
+| OutdoorAffinity = C
+| UsesCover = No
+| Rarity = 1
+| CombatClass = Support
+| ArmorType = Light
+| AttackType = Mystic
+| Position = Back
+| Role = Healer
+| IndoorAffinity = B
+}}
+
+=Background=
+トリニティ総合学園所属、救護騎士団で献身する優しい少女。
+
+ボランティア活動に奉仕する善良な性格の持ち主で、健康に関しては度が過ぎるほど心配性なこともあって、周りの生徒たちからは「お母さんみたい」とよく言われている。
+争いごとは嫌うものの、平和を脅かす敵に対しては毅然とした態度で立ち向かう。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 167
+| maxAtk = 1678
+| minDef = 24
+| maxDef = 148
+| minHP = 2482
+| maxHP = 18550
+| minHealing = 2431
+| maxHealing = 7294
+| minAcc = 704
+| minEva = 805
+| minCRate = 201
+| minCDmg = 200
+| minStab = 1596
+| minRange = 1000
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = 集中治療セットA
+| SkillIcon = Mystic_COMMON_SKILLICON_BATTLEITEM
+| SkillDamageType = Mystic
+| SkillBaseCost = 2
+| SkillDescriptionGeneral = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">120%</span>分の回復
+| SkillDescriptionLv1 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">120%</span>分の回復
+| SkillDescriptionLv2 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">138%</span>分の回復
+| SkillDescriptionLv3 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">174%</span>分の回復
+| SkillDescriptionLv4 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">192%</span>分の回復
+| SkillDescriptionLv5 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">228%</span>分の回復
+| SkillDescriptionLv6 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">246%</span>分の回復
+| SkillDescriptionLv7 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">282%</span>分の回復
+| SkillDescriptionLv8 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">300%</span>分の回復
+| SkillDescriptionLv9 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">336%</span>分の回復
+| SkillDescriptionLv10 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">354%</span>分の回復
+}}
+
+{{SkillTable
+| SkillName = 緊急治療セットB
+| SkillIcon = Mystic_COMMON_SKILLICON_HEAL
+| SkillDamageType = Mystic
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">94%</span>分の回復
+| SkillDescriptionLv1 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">94%</span>分の回復
+| SkillDescriptionLv2 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">98.7%</span>分の回復
+| SkillDescriptionLv3 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">103%</span>分の回復
+| SkillDescriptionLv4 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">122%</span>分の回復
+| SkillDescriptionLv5 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">126%</span>分の回復
+| SkillDescriptionLv6 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">131%</span>分の回復
+| SkillDescriptionLv7 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">150%</span>分の回復
+| SkillDescriptionLv8 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">155%</span>分の回復
+| SkillDescriptionLv9 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">159%</span>分の回復
+| SkillDescriptionLv10 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">178%</span>分の回復
+}}
+
+{{SkillTable
+| SkillName = 白衣の天使
+| SkillIcon = Mystic_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Mystic
+| SkillType = Passive
+| SkillDescriptionGeneral = 治癒力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 治癒力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 治癒力を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 治癒力を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 治癒力を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 治癒力を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 治癒力を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 治癒力を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 治癒力を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 治癒力を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 治癒力を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 天使のほほ笑み
+| SkillIcon = Mystic_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Mystic
+| SkillType = Sub
+| SkillDescriptionGeneral = 味方のCC抵抗力を<span style="color: #007eff">9.1%</span>増加
+| SkillDescriptionLv1 = 味方のCC抵抗力を<span style="color: #007eff">9.1%</span>増加
+| SkillDescriptionLv2 = 味方のCC抵抗力を<span style="color: #007eff">9.5%</span>増加
+| SkillDescriptionLv3 = 味方のCC抵抗力を<span style="color: #007eff">10%</span>増加
+| SkillDescriptionLv4 = 味方のCC抵抗力を<span style="color: #007eff">11.8%</span>増加
+| SkillDescriptionLv5 = 味方のCC抵抗力を<span style="color: #007eff">12.3%</span>増加
+| SkillDescriptionLv6 = 味方のCC抵抗力を<span style="color: #007eff">12.7%</span>増加
+| SkillDescriptionLv7 = 味方のCC抵抗力を<span style="color: #007eff">14.5%</span>増加
+| SkillDescriptionLv8 = 味方のCC抵抗力を<span style="color: #007eff">15%</span>増加
+| SkillDescriptionLv9 = 味方のCC抵抗力を<span style="color: #007eff">15.5%</span>増加
+| SkillDescriptionLv10 = 味方のCC抵抗力を<span style="color: #007eff">17.3%</span>増加
+}}
+[[Category:Characters]]

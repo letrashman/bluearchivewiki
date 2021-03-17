@@ -1,0 +1,139 @@
+{{Character
+| Name = ハルナ
+| Image =
+| JPName = 黒舘 ハルナ
+| JPReading =
+| School = Gehenna
+| Age = 17
+| Birthday = March 1
+| Height = 163cm
+| Hobbies = 美味しいもの探し
+| Illust = whoisshe
+| Voice = 田所あずさ
+| WeaponType = SR
+| CityTownAffinity = S
+| OutdoorAffinity = D
+| UsesCover = Yes
+| Rarity = 3
+| CombatClass = Striker
+| ArmorType = Heavy
+| AttackType = Mystic
+| Position = Back
+| Role = Attacker
+| IndoorAffinity = B
+}}
+
+=Background=
+ゲヘナ学園所属、美食研究会の部長。
+
+一見すると金持ちのお嬢様のような孤高な気品を思わせるが、食べ物に関わることになると弁別が無くなってしまう熱血属性の美食家。
+その食い意地に反して食は細く、あまり量は食べられない方。
+好きな食べ物は、もつ鍋やホルモンのような脂っこい食べ物。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 374
+| maxAtk = 3747
+| minDef = 19
+| maxDef = 116
+| minHP = 2188
+| maxHP = 18970
+| minHealing = 1438
+| maxHealing = 4314
+| minAcc = 924
+| minEva = 205
+| minCRate = 205
+| minCDmg = 200
+| minStab = 1944
+| minRange = 750
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = 貫くエレガンス
+| SkillIcon = Mystic_COMMON_SKILLICON_LINE
+| SkillDamageType = Mystic
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">506%</span>分のダメージ/
+敵を貫通する度にダメージが<span style="color: #007eff">10%</span>減少（最少で<span style="color: #007eff">30%</span>ダメージまで）
+| SkillDescriptionLv1 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">506%</span>分のダメージ/
+敵を貫通する度にダメージが<span style="color: #007eff">10%</span>減少（最少で<span style="color: #007eff">30%</span>ダメージまで）
+| SkillDescriptionLv2 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">582%</span>分のダメージ/
+敵を貫通する度にダメージが<span style="color: #007eff">10%</span>減少（最少で<span style="color: #007eff">30%</span>ダメージまで）
+| SkillDescriptionLv3 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">735%</span>分のダメージ/
+敵を貫通する度にダメージが<span style="color: #007eff">10%</span>減少（最少で<span style="color: #007eff">30%</span>ダメージまで）
+| SkillDescriptionLv4 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">811%</span>分のダメージ/
+敵を貫通する度にダメージが<span style="color: #007eff">10%</span>減少（最少で<span style="color: #007eff">30%</span>ダメージまで）
+| SkillDescriptionLv5 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">887%</span>分のダメージ/
+敵を貫通する度にダメージが<span style="color: #007eff">10%</span>減少（最少で<span style="color: #007eff">30%</span>ダメージまで）
+| SkillDescriptionLv6 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">963%</span>分のダメージ/
+敵を貫通する度にダメージが<span style="color: #007eff">10%</span>減少（最少で<span style="color: #007eff">30%</span>ダメージまで）
+| SkillDescriptionLv7 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">1115%</span>分のダメージ/
+敵を貫通する度にダメージが<span style="color: #007eff">10%</span>減少（最少で<span style="color: #007eff">30%</span>ダメージまで）
+| SkillDescriptionLv8 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">1191%</span>分のダメージ/
+敵を貫通する度にダメージが<span style="color: #007eff">10%</span>減少（最少で<span style="color: #007eff">30%</span>ダメージまで）
+| SkillDescriptionLv9 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">1343%</span>分のダメージ/
+敵を貫通する度にダメージが<span style="color: #007eff">10%</span>減少（最少で<span style="color: #007eff">30%</span>ダメージまで）
+| SkillDescriptionLv10 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">1419%</span>分のダメージ/
+敵を貫通する度にダメージが<span style="color: #007eff">10%</span>減少（最少で<span style="color: #007eff">30%</span>ダメージまで）
+}}
+
+{{SkillTable
+| SkillName = 爆発するエキゾチック
+| SkillIcon = Mystic_COMMON_SKILLICON_TARGET
+| SkillDamageType = Mystic
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">200%</span>分のダメージ
+| SkillDescriptionLv1 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">200%</span>分のダメージ
+| SkillDescriptionLv2 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">210%</span>分のダメージ
+| SkillDescriptionLv3 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">220%</span>分のダメージ
+| SkillDescriptionLv4 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">260%</span>分のダメージ
+| SkillDescriptionLv5 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">270%</span>分のダメージ
+| SkillDescriptionLv6 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">280%</span>分のダメージ
+| SkillDescriptionLv7 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">320%</span>分のダメージ
+| SkillDescriptionLv8 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">330%</span>分のダメージ
+| SkillDescriptionLv9 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">340%</span>分のダメージ
+| SkillDescriptionLv10 = <span style="color: #007eff">30秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">380%</span>分のダメージ
+}}
+
+{{SkillTable
+| SkillName = 美食家の気品
+| SkillIcon = Mystic_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Mystic
+| SkillType = Passive
+| SkillDescriptionGeneral = HPを<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = HPを<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = HPを<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = HPを<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = HPを<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = HPを<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = HPを<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = HPを<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = HPを<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = HPを<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = HPを<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 美食家の冷静さ
+| SkillIcon = Mystic_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Mystic
+| SkillType = Sub
+| SkillDescriptionGeneral = 移動していない時、攻撃力を<span style="color: #007eff">10%</span>増加
+| SkillDescriptionLv1 = 移動していない時、攻撃力を<span style="color: #007eff">10%</span>増加
+| SkillDescriptionLv2 = 移動していない時、攻撃力を<span style="color: #007eff">10.5%</span>増加
+| SkillDescriptionLv3 = 移動していない時、攻撃力を<span style="color: #007eff">11%</span>増加
+| SkillDescriptionLv4 = 移動していない時、攻撃力を<span style="color: #007eff">13.1%</span>増加
+| SkillDescriptionLv5 = 移動していない時、攻撃力を<span style="color: #007eff">13.6%</span>増加
+| SkillDescriptionLv6 = 移動していない時、攻撃力を<span style="color: #007eff">14.1%</span>増加
+| SkillDescriptionLv7 = 移動していない時、攻撃力を<span style="color: #007eff">16.1%</span>増加
+| SkillDescriptionLv8 = 移動していない時、攻撃力を<span style="color: #007eff">16.6%</span>増加
+| SkillDescriptionLv9 = 移動していない時、攻撃力を<span style="color: #007eff">17.1%</span>増加
+| SkillDescriptionLv10 = 移動していない時、攻撃力を<span style="color: #007eff">19.1%</span>増加
+}}
+[[Category:Characters]]

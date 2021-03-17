@@ -1,0 +1,127 @@
+{{Character
+| Name = ジュリ
+| Image =
+| JPName = 牛牧 ジュリ
+| JPReading =
+| School = Gehenna
+| Age = 15
+| Birthday = October 20
+| Height = 170cm
+| Hobbies = 自己流の料理研究
+| Illust = nino
+| Voice = 田辺留依
+| WeaponType = SG
+| CityTownAffinity = C
+| OutdoorAffinity = B
+| UsesCover = No
+| Rarity = 1
+| CombatClass = Support
+| ArmorType = Light
+| AttackType = Explosive
+| Position = Back
+| Role = Support
+| IndoorAffinity = A
+}}
+
+=Background=
+ゲヘナ学園所属、学生食堂の管理を担当する給食部のメンバー。
+
+フウカと同じく、生徒達のため頑張って食事を作っている少女なのだが、彼女の料理の腕前は悪いという水準を超えて壊滅的であるため、給食づくりにはあまり役に立たずにいる。
+しかしフウカの励ましと指導を受け、彼女は今日もよりいい料理を作るために努力を重ねている。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 170
+| maxAtk = 1704
+| minDef = 118
+| maxDef = 708
+| minHP = 2214
+| maxHP = 16549
+| minHealing = 1634
+| maxHealing = 4904
+| minAcc = 609
+| minEva = 203
+| minCRate = 203
+| minCDmg = 200
+| minStab = 2263
+| minRange = 1000
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = ジュリのクッキングタイム！
+| SkillIcon = Explosive_COMMON_SKILLICON_FOODDEBUFF
+| SkillDamageType = Explosive
+| SkillBaseCost = 3
+| SkillDescriptionGeneral = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">58.9%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv1 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">58.9%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv2 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">67.8%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv3 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">85.5%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv4 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">94.4%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv5 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">112%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv6 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">120%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv7 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">138%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv8 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">147%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv9 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">165%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv10 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">174%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 最高のお料理
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONDEBUFF
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">18.1%</span>減少（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv1 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">18.1%</span>減少（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv2 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">19%</span>減少（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv3 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">19.9%</span>減少（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv4 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">23.6%</span>減少（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv5 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">24.5%</span>減少（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv6 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">25.4%</span>減少（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv7 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">29%</span>減少（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv8 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">29.9%</span>減少（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv9 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">30.8%</span>減少（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv10 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">34.4%</span>減少（<span style="color: #007eff">16秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = やる気は十分！
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = 攻撃力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 攻撃力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 攻撃力を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 攻撃力を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 攻撃力を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 攻撃力を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 攻撃力を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 攻撃力を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 攻撃力を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 攻撃力を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 攻撃力を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 召し上がれ！
+| SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = 味方のHPを<span style="color: #007eff">9.1%</span>増加
+| SkillDescriptionLv1 = 味方のHPを<span style="color: #007eff">9.1%</span>増加
+| SkillDescriptionLv2 = 味方のHPを<span style="color: #007eff">9.5%</span>増加
+| SkillDescriptionLv3 = 味方のHPを<span style="color: #007eff">10%</span>増加
+| SkillDescriptionLv4 = 味方のHPを<span style="color: #007eff">11.8%</span>増加
+| SkillDescriptionLv5 = 味方のHPを<span style="color: #007eff">12.3%</span>増加
+| SkillDescriptionLv6 = 味方のHPを<span style="color: #007eff">12.7%</span>増加
+| SkillDescriptionLv7 = 味方のHPを<span style="color: #007eff">14.5%</span>増加
+| SkillDescriptionLv8 = 味方のHPを<span style="color: #007eff">15%</span>増加
+| SkillDescriptionLv9 = 味方のHPを<span style="color: #007eff">15.5%</span>増加
+| SkillDescriptionLv10 = 味方のHPを<span style="color: #007eff">17.3%</span>増加
+}}
+[[Category:Characters]]

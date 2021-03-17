@@ -1,0 +1,127 @@
+{{Character
+| Name = アカリ
+| Image =
+| JPName = 鰐渕 アカリ
+| JPReading =
+| School = Gehenna
+| Age = 17
+| Birthday = December 9
+| Height = 167cm
+| Hobbies = 大食い
+| Illust = 9ml
+| Voice = 森嶋優花
+| WeaponType = AR
+| CityTownAffinity = A
+| OutdoorAffinity = B
+| UsesCover = Yes
+| Rarity = 2
+| CombatClass = Striker
+| ArmorType = Heavy
+| AttackType = Explosive
+| Position = Middle
+| Role = Attacker
+| IndoorAffinity = B
+}}
+
+=Background=
+ゲヘナ学園所属、美食研究会の部員。
+
+大人しい少女かと思いきや、キヴォトスの大食い大会で常にチャンピオンの座に座り続けるフードファイター。
+基本的には穏やかで善良な性格だが、ゲヘナ学園の生徒らしく時には他人をひどい目にあわせることも辞さない一面も持ち合わせている。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 275
+| maxAtk = 2754
+| minDef = 20
+| maxDef = 120
+| minHP = 2252
+| maxHP = 22530
+| minHealing = 1397
+| maxHealing = 4193
+| minAcc = 698
+| minEva = 798
+| minCRate = 199
+| minCDmg = 200
+| minStab = 1400
+| minRange = 650
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = グレネード、大盛りで！
+| SkillIcon = Explosive_COMMON_SKILLICON_CIRCLE
+| SkillDamageType = Explosive
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = 円形範囲内の敵に攻撃力の<span style="color: #007eff">392%</span>分のダメージ
+| SkillDescriptionLv1 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">392%</span>分のダメージ
+| SkillDescriptionLv2 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">450%</span>分のダメージ
+| SkillDescriptionLv3 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">568%</span>分のダメージ
+| SkillDescriptionLv4 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">627%</span>分のダメージ
+| SkillDescriptionLv5 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">744%</span>分のダメージ
+| SkillDescriptionLv6 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">803%</span>分のダメージ
+| SkillDescriptionLv7 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">921%</span>分のダメージ
+| SkillDescriptionLv8 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">980%</span>分のダメージ
+| SkillDescriptionLv9 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">1097%</span>分のダメージ
+| SkillDescriptionLv10 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">1156%</span>分のダメージ
+}}
+
+{{SkillTable
+| SkillName = おかわり、ちょっと辛めで！
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">38.7%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
+| SkillDescriptionLv1 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">38.7%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
+| SkillDescriptionLv2 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">40.7%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
+| SkillDescriptionLv3 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">42.6%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
+| SkillDescriptionLv4 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">50.4%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
+| SkillDescriptionLv5 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">52.3%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
+| SkillDescriptionLv6 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">54.2%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
+| SkillDescriptionLv7 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">62%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
+| SkillDescriptionLv8 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">63.9%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
+| SkillDescriptionLv9 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">65.9%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
+| SkillDescriptionLv10 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">73.6%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
+}}
+
+{{SkillTable
+| SkillName = ごちそうさまです！
+| SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = HPを<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = HPを<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = HPを<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = HPを<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = HPを<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = HPを<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = HPを<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = HPを<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = HPを<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = HPを<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = HPを<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = まだまだ食べられますよ！
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">34.4%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
+| SkillDescriptionLv1 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">34.4%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
+| SkillDescriptionLv2 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">36.2%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
+| SkillDescriptionLv3 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">37.9%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
+| SkillDescriptionLv4 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">44.8%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
+| SkillDescriptionLv5 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">46.5%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
+| SkillDescriptionLv6 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">48.2%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
+| SkillDescriptionLv7 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">55.1%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
+| SkillDescriptionLv8 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">56.8%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
+| SkillDescriptionLv9 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">58.6%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
+| SkillDescriptionLv10 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">65.5%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
+}}
+[[Category:Characters]]

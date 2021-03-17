@@ -1,0 +1,127 @@
+{{Character
+| Name = ハルカ
+| Image =
+| JPName = 伊草 ハルカ
+| JPReading =
+| School = Gehenna
+| Age = 15
+| Birthday = May 13
+| Height = 157cm
+| Hobbies = 雑草を育てること
+| Illust = DoReMi
+| Voice = 石飛恵里花
+| WeaponType = SG
+| CityTownAffinity = C
+| OutdoorAffinity = B
+| UsesCover = No
+| Rarity = 1
+| CombatClass = Striker
+| ArmorType = Light
+| AttackType = Explosive
+| Position = Front
+| Role = Tank
+| IndoorAffinity = A
+}}
+
+=Background=
+ゲヘナ学園所属、便利屋68の平社員。
+
+暗くて陰気な性格のため、幼い頃からずっといじめられてきたが、アルのおかげでいじめから逃れられるようになった少女。その後、末っ子的な立ち位置で便利屋68にて活動中。
+内気で自尊心が低いが、その突飛な発想は便利屋の中で一番恐ろしいと言っても過言ではない。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 116
+| maxAtk = 1164
+| minDef = 182
+| maxDef = 1092
+| minHP = 3033
+| maxHP = 50710
+| minHealing = 1384
+| maxHealing = 4152
+| minAcc = 593
+| minEva = 237
+| minCRate = 197
+| minCDmg = 200
+| minStab = 2020
+| minRange = 350
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = 乱れ撃ち
+| SkillIcon = Explosive_COMMON_SKILLICON_FAN
+| SkillDamageType = Explosive
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">821%</span>分のダメージ
+| SkillDescriptionLv1 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">821%</span>分のダメージ
+| SkillDescriptionLv2 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">944%</span>分のダメージ
+| SkillDescriptionLv3 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1190%</span>分のダメージ
+| SkillDescriptionLv4 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1313%</span>分のダメージ
+| SkillDescriptionLv5 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1560%</span>分のダメージ
+| SkillDescriptionLv6 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1683%</span>分のダメージ
+| SkillDescriptionLv7 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1929%</span>分のダメージ
+| SkillDescriptionLv8 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">2053%</span>分のダメージ
+| SkillDescriptionLv9 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">2299%</span>分のダメージ
+| SkillDescriptionLv10 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">2422%</span>分のダメージ
+}}
+
+{{SkillTable
+| SkillName = トリガーオーバー
+| SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">20秒</span>毎に防御力を<span style="color: #007eff">18.9%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv1 = <span style="color: #007eff">20秒</span>毎に防御力を<span style="color: #007eff">18.9%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv2 = <span style="color: #007eff">20秒</span>毎に防御力を<span style="color: #007eff">19.9%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv3 = <span style="color: #007eff">20秒</span>毎に防御力を<span style="color: #007eff">20.8%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv4 = <span style="color: #007eff">20秒</span>毎に防御力を<span style="color: #007eff">24.6%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv5 = <span style="color: #007eff">20秒</span>毎に防御力を<span style="color: #007eff">25.6%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv6 = <span style="color: #007eff">20秒</span>毎に防御力を<span style="color: #007eff">26.5%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv7 = <span style="color: #007eff">20秒</span>毎に防御力を<span style="color: #007eff">30.3%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv8 = <span style="color: #007eff">20秒</span>毎に防御力を<span style="color: #007eff">31.3%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv9 = <span style="color: #007eff">20秒</span>毎に防御力を<span style="color: #007eff">32.2%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv10 = <span style="color: #007eff">20秒</span>毎に防御力を<span style="color: #007eff">36%</span>増加（<span style="color: #007eff">20秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = が、頑張ります！
+| SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = HPを<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = HPを<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = HPを<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = HPを<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = HPを<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = HPを<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = HPを<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = HPを<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = HPを<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = HPを<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = HPを<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = うわああああっ！？
+| SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = 攻撃を受けた時、<span style="color: #007eff">5%</span>の確率で防御力を<span style="color: #007eff">18.1%</span>増加（<span style="color: #007eff">15秒</span>間）（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv1 = 攻撃を受けた時、<span style="color: #007eff">5%</span>の確率で防御力を<span style="color: #007eff">18.1%</span>増加（<span style="color: #007eff">15秒</span>間）（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv2 = 攻撃を受けた時、<span style="color: #007eff">5%</span>の確率で防御力を<span style="color: #007eff">19%</span>増加（<span style="color: #007eff">15秒</span>間）（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv3 = 攻撃を受けた時、<span style="color: #007eff">5%</span>の確率で防御力を<span style="color: #007eff">19.9%</span>増加（<span style="color: #007eff">15秒</span>間）（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv4 = 攻撃を受けた時、<span style="color: #007eff">5%</span>の確率で防御力を<span style="color: #007eff">23.5%</span>増加（<span style="color: #007eff">15秒</span>間）（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv5 = 攻撃を受けた時、<span style="color: #007eff">5%</span>の確率で防御力を<span style="color: #007eff">24.5%</span>増加（<span style="color: #007eff">15秒</span>間）（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv6 = 攻撃を受けた時、<span style="color: #007eff">5%</span>の確率で防御力を<span style="color: #007eff">25.4%</span>増加（<span style="color: #007eff">15秒</span>間）（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv7 = 攻撃を受けた時、<span style="color: #007eff">5%</span>の確率で防御力を<span style="color: #007eff">29%</span>増加（<span style="color: #007eff">15秒</span>間）（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv8 = 攻撃を受けた時、<span style="color: #007eff">5%</span>の確率で防御力を<span style="color: #007eff">29.9%</span>増加（<span style="color: #007eff">15秒</span>間）（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv9 = 攻撃を受けた時、<span style="color: #007eff">5%</span>の確率で防御力を<span style="color: #007eff">30.8%</span>増加（<span style="color: #007eff">15秒</span>間）（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv10 = 攻撃を受けた時、<span style="color: #007eff">5%</span>の確率で防御力を<span style="color: #007eff">34.4%</span>増加（<span style="color: #007eff">15秒</span>間）（クールタイム<span style="color: #007eff">10秒</span>）
+}}
+[[Category:Characters]]

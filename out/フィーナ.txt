@@ -1,0 +1,150 @@
+{{Character
+| Name = フィーナ
+| Image =
+| JPName = 朝比奈 フィーナ
+| JPReading =
+| School = Hyakkiyako
+| Age = 17
+| Birthday = November 3
+| Height = 165cm
+| Hobbies = 任侠映画鑑賞
+| Illust = OSUK2
+| Voice = 木戸衣吹
+| WeaponType = MG
+| CityTownAffinity = A
+| OutdoorAffinity = B
+| UsesCover = No
+| Rarity = 1
+| CombatClass = Striker
+| ArmorType = Light
+| AttackType = Penetration
+| Position = Back
+| Role = Attacker
+| IndoorAffinity = C
+}}
+
+=Background=
+百鬼夜行連合学院所属、任侠に憧れる少女。
+
+いつも明朗快活で、人を助けることに喜びを覚えるタイプの女の子。
+任侠については全部映画から得た知識のため、色々とおかしいところがあるものの……。
+自分が夢見る任侠の道に真っすぐな少女。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 253
+| maxAtk = 2538
+| minDef = 81
+| maxDef = 491
+| minHP = 2305
+| maxHP = 19990
+| minHealing = 1365
+| maxHealing = 4095
+| minAcc = 97
+| minEva = 195
+| minCRate = 243
+| minCDmg = 200
+| minStab = 1432
+| minRange = 750
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = 連射モード、デス！
+| SkillIcon = Penetration_COMMON_SKILLICON_IGNOREDELAY
+| SkillDamageType = Penetration
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = 攻撃力を<span style="color: #007eff">29.1%</span>増加、通常攻撃のディレイ<span style="color: #007eff">3回</span>無視（<span style="color: #007eff">30秒</span>間）/
+発動後すぐにリロード
+| SkillDescriptionLv1 = 攻撃力を<span style="color: #007eff">29.1%</span>増加、通常攻撃のディレイ<span style="color: #007eff">3回</span>無視（<span style="color: #007eff">30秒</span>間）/
+発動後すぐにリロード
+| SkillDescriptionLv2 = 攻撃力を<span style="color: #007eff">33.4%</span>増加、通常攻撃のディレイ<span style="color: #007eff">3回</span>無視（<span style="color: #007eff">30秒</span>間）/
+発動後すぐにリロード
+| SkillDescriptionLv3 = 攻撃力を<span style="color: #007eff">37.8%</span>増加、通常攻撃のディレイ<span style="color: #007eff">4回</span>無視（<span style="color: #007eff">30秒</span>間）/
+発動後すぐにリロード
+| SkillDescriptionLv4 = 攻撃力を<span style="color: #007eff">42.2%</span>増加、通常攻撃のディレイ<span style="color: #007eff">4回</span>無視（<span style="color: #007eff">30秒</span>間）/
+発動後すぐにリロード
+| SkillDescriptionLv5 = 攻撃力を<span style="color: #007eff">46.6%</span>増加、通常攻撃のディレイ<span style="color: #007eff">5回</span>無視（<span style="color: #007eff">30秒</span>間）/
+発動後すぐにリロード
+| SkillDescriptionLv6 = 攻撃力を<span style="color: #007eff">50.9%</span>増加、通常攻撃のディレイ<span style="color: #007eff">5回</span>無視（<span style="color: #007eff">30秒</span>間）/
+発動後すぐにリロード
+| SkillDescriptionLv7 = 攻撃力を<span style="color: #007eff">55.3%</span>増加、通常攻撃のディレイ<span style="color: #007eff">5回</span>無視（<span style="color: #007eff">30秒</span>間）/
+発動後すぐにリロード
+| SkillDescriptionLv8 = 攻撃力を<span style="color: #007eff">59.7%</span>増加、通常攻撃のディレイ<span style="color: #007eff">5回</span>無視（<span style="color: #007eff">30秒</span>間）/
+発動後すぐにリロード
+| SkillDescriptionLv9 = 攻撃力を<span style="color: #007eff">64%</span>増加、通常攻撃のディレイ<span style="color: #007eff">5回</span>無視（<span style="color: #007eff">30秒</span>間）/
+発動後すぐにリロード
+| SkillDescriptionLv10 = 攻撃力を<span style="color: #007eff">68.4%</span>増加、通常攻撃のディレイ<span style="color: #007eff">5回</span>無視（<span style="color: #007eff">30秒</span>間）/
+発動後すぐにリロード
+}}
+
+{{SkillTable
+| SkillName = もう一度燃やすのデス！
+| SkillIcon = Penetration_COMMON_SKILLICON_HEAL
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = HPが<span style="color: #007eff">20%</span>以下の時、治癒力の<span style="color: #007eff">355%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv1 = HPが<span style="color: #007eff">20%</span>以下の時、治癒力の<span style="color: #007eff">355%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv2 = HPが<span style="color: #007eff">20%</span>以下の時、治癒力の<span style="color: #007eff">372%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv3 = HPが<span style="color: #007eff">20%</span>以下の時、治癒力の<span style="color: #007eff">390%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv4 = HPが<span style="color: #007eff">20%</span>以下の時、治癒力の<span style="color: #007eff">461%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv5 = HPが<span style="color: #007eff">20%</span>以下の時、治癒力の<span style="color: #007eff">479%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv6 = HPが<span style="color: #007eff">20%</span>以下の時、治癒力の<span style="color: #007eff">497%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv7 = HPが<span style="color: #007eff">20%</span>以下の時、治癒力の<span style="color: #007eff">568%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv8 = HPが<span style="color: #007eff">20%</span>以下の時、治癒力の<span style="color: #007eff">586%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv9 = HPが<span style="color: #007eff">20%</span>以下の時、治癒力の<span style="color: #007eff">603%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv10 = HPが<span style="color: #007eff">20%</span>以下の時、治癒力の<span style="color: #007eff">674%</span>分の回復
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+}}
+
+{{SkillTable
+| SkillName = 鋭い直感
+| SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = 会心値を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 会心値を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 会心値を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 会心値を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 会心値を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 会心値を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 会心値を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 会心値を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 会心値を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 会心値を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 会心値を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 射撃準備、OK！
+| SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = <span style="color: #007eff">10秒</span>間移動していない時、攻撃速度を<span style="color: #007eff">20.1%</span>増加
+| SkillDescriptionLv1 = <span style="color: #007eff">10秒</span>間移動していない時、攻撃速度を<span style="color: #007eff">20.1%</span>増加
+| SkillDescriptionLv2 = <span style="color: #007eff">10秒</span>間移動していない時、攻撃速度を<span style="color: #007eff">21.1%</span>増加
+| SkillDescriptionLv3 = <span style="color: #007eff">10秒</span>間移動していない時、攻撃速度を<span style="color: #007eff">22.1%</span>増加
+| SkillDescriptionLv4 = <span style="color: #007eff">10秒</span>間移動していない時、攻撃速度を<span style="color: #007eff">26.2%</span>増加
+| SkillDescriptionLv5 = <span style="color: #007eff">10秒</span>間移動していない時、攻撃速度を<span style="color: #007eff">27.2%</span>増加
+| SkillDescriptionLv6 = <span style="color: #007eff">10秒</span>間移動していない時、攻撃速度を<span style="color: #007eff">28.2%</span>増加
+| SkillDescriptionLv7 = <span style="color: #007eff">10秒</span>間移動していない時、攻撃速度を<span style="color: #007eff">32.2%</span>増加
+| SkillDescriptionLv8 = <span style="color: #007eff">10秒</span>間移動していない時、攻撃速度を<span style="color: #007eff">33.2%</span>増加
+| SkillDescriptionLv9 = <span style="color: #007eff">10秒</span>間移動していない時、攻撃速度を<span style="color: #007eff">34.2%</span>増加
+| SkillDescriptionLv10 = <span style="color: #007eff">10秒</span>間移動していない時、攻撃速度を<span style="color: #007eff">38.3%</span>増加
+}}
+[[Category:Characters]]

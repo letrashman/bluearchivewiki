@@ -1,0 +1,127 @@
+{{Character
+| Name = チセ
+| Image =
+| JPName = 和楽 チセ
+| JPReading =
+| School = Hyakkiyako
+| Age = 16
+| Birthday = July 13
+| Height = 159cm
+| Hobbies = 俳句
+| Illust = Hwansang
+| Voice = 嶋村侑
+| WeaponType = GL
+| CityTownAffinity = A
+| OutdoorAffinity = D
+| UsesCover = Yes
+| Rarity = 2
+| CombatClass = Striker
+| ArmorType = Heavy
+| AttackType = Mystic
+| Position = Middle
+| Role = Attacker
+| IndoorAffinity = A
+}}
+
+=Background=
+百鬼夜行連合学院所属、陰陽部の天然な電波系少女。
+
+俳句のような伝統文化が好きで、陰陽部に入部した。
+その外見や仕草から滲み出る神秘的な雰囲気を纏っており、そのせいで百鬼夜行の生徒たちから羨望の的になっているが、本人はそのことをほとんど自覚していない。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 222
+| maxAtk = 2220
+| minDef = 20
+| maxDef = 120
+| minHP = 2256
+| maxHP = 22560
+| minHealing = 1396
+| maxHealing = 4188
+| minAcc = 99
+| minEva = 199
+| minCRate = 249
+| minCDmg = 200
+| minStab = 1000
+| minRange = 650
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = これは痛いかもよ～
+| SkillIcon = Mystic_COMMON_SKILLICON_ZONE
+| SkillDamageType = Mystic
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">56%</span>分の持続ダメージを付与（<span style="color: #007eff">10秒</span>間）
+| SkillDescriptionLv1 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">56%</span>分の持続ダメージを付与（<span style="color: #007eff">10秒</span>間）
+| SkillDescriptionLv2 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">64.5%</span>分の持続ダメージを付与（<span style="color: #007eff">10秒</span>間）
+| SkillDescriptionLv3 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">81.2%</span>分の持続ダメージを付与（<span style="color: #007eff">10秒</span>間）
+| SkillDescriptionLv4 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">89.6%</span>分の持続ダメージを付与（<span style="color: #007eff">10秒</span>間）
+| SkillDescriptionLv5 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">106%</span>分の持続ダメージを付与（<span style="color: #007eff">10秒</span>間）
+| SkillDescriptionLv6 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">114%</span>分の持続ダメージを付与（<span style="color: #007eff">10秒</span>間）
+| SkillDescriptionLv7 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">131%</span>分の持続ダメージを付与（<span style="color: #007eff">10秒</span>間）
+| SkillDescriptionLv8 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">140%</span>分の持続ダメージを付与（<span style="color: #007eff">10秒</span>間）
+| SkillDescriptionLv9 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">156%</span>分の持続ダメージを付与（<span style="color: #007eff">10秒</span>間）
+| SkillDescriptionLv10 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">165%</span>分の持続ダメージを付与（<span style="color: #007eff">10秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 撃つよ～
+| SkillIcon = Mystic_COMMON_SKILLICON_CIRCLE
+| SkillDamageType = Mystic
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">219%</span>分のダメージ
+| SkillDescriptionLv1 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">219%</span>分のダメージ
+| SkillDescriptionLv2 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">230%</span>分のダメージ
+| SkillDescriptionLv3 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">241%</span>分のダメージ
+| SkillDescriptionLv4 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">285%</span>分のダメージ
+| SkillDescriptionLv5 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">295%</span>分のダメージ
+| SkillDescriptionLv6 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">306%</span>分のダメージ
+| SkillDescriptionLv7 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">350%</span>分のダメージ
+| SkillDescriptionLv8 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">361%</span>分のダメージ
+| SkillDescriptionLv9 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">372%</span>分のダメージ
+| SkillDescriptionLv10 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">416%</span>分のダメージ
+}}
+
+{{SkillTable
+| SkillName = よーし、頑張ろ～
+| SkillIcon = Mystic_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Mystic
+| SkillType = Passive
+| SkillDescriptionGeneral = 攻撃力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 攻撃力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 攻撃力を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 攻撃力を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 攻撃力を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 攻撃力を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 攻撃力を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 攻撃力を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 攻撃力を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 攻撃力を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 攻撃力を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = ちょっと痛むよ～
+| SkillIcon = Mystic_COMMON_SKILLICON_BURNNIG
+| SkillDamageType = Mystic
+| SkillType = Sub
+| SkillDescriptionGeneral = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力の<span style="color: #007eff">53.7%</span>分の火傷持続ダメージ（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">5秒</span>）
+| SkillDescriptionLv1 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力の<span style="color: #007eff">53.7%</span>分の火傷持続ダメージ（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">5秒</span>）
+| SkillDescriptionLv2 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力の<span style="color: #007eff">56.4%</span>分の火傷持続ダメージ（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">5秒</span>）
+| SkillDescriptionLv3 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力の<span style="color: #007eff">59.1%</span>分の火傷持続ダメージ（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">5秒</span>）
+| SkillDescriptionLv4 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力の<span style="color: #007eff">69.8%</span>分の火傷持続ダメージ（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">5秒</span>）
+| SkillDescriptionLv5 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力の<span style="color: #007eff">72.5%</span>分の火傷持続ダメージ（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">5秒</span>）
+| SkillDescriptionLv6 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力の<span style="color: #007eff">75.2%</span>分の火傷持続ダメージ（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">5秒</span>）
+| SkillDescriptionLv7 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力の<span style="color: #007eff">85.9%</span>分の火傷持続ダメージ（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">5秒</span>）
+| SkillDescriptionLv8 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力の<span style="color: #007eff">88.6%</span>分の火傷持続ダメージ（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">5秒</span>）
+| SkillDescriptionLv9 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力の<span style="color: #007eff">91.3%</span>分の火傷持続ダメージ（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">5秒</span>）
+| SkillDescriptionLv10 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力の<span style="color: #007eff">102%</span>分の火傷持続ダメージ（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">5秒</span>）
+}}
+[[Category:Characters]]

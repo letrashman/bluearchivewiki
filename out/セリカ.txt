@@ -1,0 +1,138 @@
+{{Character
+| Name = セリカ
+| Image =
+| JPName = 黒見 セリカ
+| JPReading =
+| School = Abydos
+| Age = 15
+| Birthday = June 25
+| Height = 153cm
+| Hobbies = 貯金、アルバイト
+| Illust = Hwansang
+| Voice = 大橋彩香
+| WeaponType = AR
+| CityTownAffinity = A
+| OutdoorAffinity = D
+| UsesCover = Yes
+| Rarity = 2
+| CombatClass = Striker
+| ArmorType = Light
+| AttackType = Explosive
+| Position = Middle
+| Role = Attacker
+| IndoorAffinity = A
+}}
+
+=Background=
+アビドス高等学校所属、アビドス対策委員会の気難し屋さんな書記。
+
+小言が多く、自分の感情を表すことに躊躇しないタイプ。
+日々口癖のように「こんな学校なんか、潰れちゃえばいいのに！」と言ってしまうが、実は学校の借金を返すために他のみんなに隠れてバイトをしているほど、学校に対する愛情が深い子である。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 282
+| maxAtk = 2829
+| minDef = 19
+| maxDef = 116
+| minHP = 2192
+| maxHP = 21920
+| minHealing = 1435
+| maxHealing = 4307
+| minAcc = 717
+| minEva = 820
+| minCRate = 256
+| minCDmg = 200
+| minStab = 1364
+| minRange = 650
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = 邪魔よ！
+| SkillIcon = Explosive_COMMON_SKILLICON_RELOAD
+| SkillDamageType = Explosive
+| SkillBaseCost = 2
+| SkillDescriptionGeneral = スキル発動後すぐにリロード/
+攻撃力を<span style="color: #007eff">35.6%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv1 = スキル発動後すぐにリロード/
+攻撃力を<span style="color: #007eff">35.6%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv2 = スキル発動後すぐにリロード/
+攻撃力を<span style="color: #007eff">41%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv3 = スキル発動後すぐにリロード/
+攻撃力を<span style="color: #007eff">51.6%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv4 = スキル発動後すぐにリロード/
+攻撃力を<span style="color: #007eff">57%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv5 = スキル発動後すぐにリロード/
+攻撃力を<span style="color: #007eff">67.7%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv6 = スキル発動後すぐにリロード/
+攻撃力を<span style="color: #007eff">73%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv7 = スキル発動後すぐにリロード/
+攻撃力を<span style="color: #007eff">83.7%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv8 = スキル発動後すぐにリロード/
+攻撃力を<span style="color: #007eff">89.1%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv9 = スキル発動後すぐにリロード/
+攻撃力を<span style="color: #007eff">99.8%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv10 = スキル発動後すぐにリロード/
+攻撃力を<span style="color: #007eff">105%</span>増加（<span style="color: #007eff">30秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 狙い撃ち
+| SkillIcon = Explosive_COMMON_SKILLICON_TARGET
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">223%</span>分のダメージ
+| SkillDescriptionLv1 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">223%</span>分のダメージ
+| SkillDescriptionLv2 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">235%</span>分のダメージ
+| SkillDescriptionLv3 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">246%</span>分のダメージ
+| SkillDescriptionLv4 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">291%</span>分のダメージ
+| SkillDescriptionLv5 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">302%</span>分のダメージ
+| SkillDescriptionLv6 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">313%</span>分のダメージ
+| SkillDescriptionLv7 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">358%</span>分のダメージ
+| SkillDescriptionLv8 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">369%</span>分のダメージ
+| SkillDescriptionLv9 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">380%</span>分のダメージ
+| SkillDescriptionLv10 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">425%</span>分のダメージ
+}}
+
+{{SkillTable
+| SkillName = バイト根性
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = 攻撃力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 攻撃力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 攻撃力を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 攻撃力を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 攻撃力を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 攻撃力を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 攻撃力を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 攻撃力を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 攻撃力を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 攻撃力を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 攻撃力を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 対策委員会の怒り
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = Exスキルの使用時、攻撃速度を<span style="color: #007eff">20.1%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv1 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">20.1%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv2 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">21.1%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv3 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">22.1%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv4 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">26.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv5 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">27.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv6 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">28.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv7 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">32.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv8 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">33.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv9 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">34.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv10 = Exスキルの使用時、攻撃速度を<span style="color: #007eff">38.3%</span>増加（<span style="color: #007eff">30秒</span>間）
+}}
+[[Category:Characters]]

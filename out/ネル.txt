@@ -1,0 +1,138 @@
+{{Character
+| Name = ネル
+| Image =
+| JPName = 美甘 ネル
+| JPReading =
+| School = Millennium
+| Age = 17
+| Birthday = August 17
+| Height = 146cm
+| Hobbies = 勝利
+| Illust =  Mx2j
+| Voice = 小清水亜美
+| WeaponType = SMG
+| CityTownAffinity = D
+| OutdoorAffinity = S
+| UsesCover = Yes
+| Rarity = 3
+| CombatClass = Striker
+| ArmorType = Light
+| AttackType = Penetration
+| Position = Front
+| Role = Attacker
+| IndoorAffinity = B
+}}
+
+=Background=
+ミレニアムサイエンススクール所属、エージェント組織「C&C」のリーダー。
+
+一見してメイド服の上にスカジャンを着たチンピラの子供にしか見えないが、実はミレニアム最強の戦闘能力を持ったエージェントである。
+そのため彼女のコールサイン「ダブルオー」は、界隈では約束された勝利の象徴とされている。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 208
+| maxAtk = 2081
+| minDef = 17
+| maxDef = 105
+| minHP = 2252
+| maxHP = 31230
+| minHealing = 1398
+| maxHealing = 4194
+| minAcc = 99
+| minEva = 958
+| minCRate = 274
+| minCDmg = 200
+| minStab = 1400
+| minRange = 450
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = あぁ？ぶっ殺されてぇか？
+| SkillIcon = Penetration_COMMON_SKILLICON_TARGET
+| SkillDamageType = Penetration
+| SkillBaseCost = 2
+| SkillDescriptionGeneral = 敵1人に攻撃力の<span style="color: #007eff">476%</span>分のダメージ/
+自身が怒り状態の時はダメージが<span style="color: #007eff">1.5</span>倍になる
+| SkillDescriptionLv1 = 敵1人に攻撃力の<span style="color: #007eff">476%</span>分のダメージ/
+自身が怒り状態の時はダメージが<span style="color: #007eff">1.5</span>倍になる
+| SkillDescriptionLv2 = 敵1人に攻撃力の<span style="color: #007eff">548%</span>分のダメージ/
+自身が怒り状態の時はダメージが<span style="color: #007eff">1.5</span>倍になる
+| SkillDescriptionLv3 = 敵1人に攻撃力の<span style="color: #007eff">619%</span>分のダメージ/
+自身が怒り状態の時はダメージが<span style="color: #007eff">1.6</span>倍になる
+| SkillDescriptionLv4 = 敵1人に攻撃力の<span style="color: #007eff">691%</span>分のダメージ/
+自身が怒り状態の時はダメージが<span style="color: #007eff">1.6</span>倍になる
+| SkillDescriptionLv5 = 敵1人に攻撃力の<span style="color: #007eff">762%</span>分のダメージ/
+自身が怒り状態の時はダメージが<span style="color: #007eff">1.7</span>倍になる
+| SkillDescriptionLv6 = 敵1人に攻撃力の<span style="color: #007eff">834%</span>分のダメージ/
+自身が怒り状態の時はダメージが<span style="color: #007eff">1.7</span>倍になる
+| SkillDescriptionLv7 = 敵1人に攻撃力の<span style="color: #007eff">977%</span>分のダメージ/
+自身が怒り状態の時はダメージが<span style="color: #007eff">1.7</span>倍になる
+| SkillDescriptionLv8 = 敵1人に攻撃力の<span style="color: #007eff">1048%</span>分のダメージ/
+自身が怒り状態の時はダメージが<span style="color: #007eff">1.7</span>倍になる
+| SkillDescriptionLv9 = 敵1人に攻撃力の<span style="color: #007eff">1191%</span>分のダメージ/
+自身が怒り状態の時はダメージが<span style="color: #007eff">1.7</span>倍になる
+| SkillDescriptionLv10 = 敵1人に攻撃力の<span style="color: #007eff">1263%</span>分のダメージ/
+自身が怒り状態の時はダメージが<span style="color: #007eff">1.7</span>倍になる
+}}
+
+{{SkillTable
+| SkillName = あぁ？ふざけんな！
+| SkillIcon = Penetration_COMMON_SKILLICON_FURY
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">17.8%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv1 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">17.8%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv2 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">18.7%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv3 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">19.6%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv4 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">23.2%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv5 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">24.1%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv6 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">24.9%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv7 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">28.5%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv8 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">29.4%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv9 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">30.3%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv10 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">33.9%</span>増加（<span style="color: #007eff">20秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = コールサインダブルオー
+| SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 会心ダメージ率を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 会心ダメージ率を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 会心ダメージ率を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 会心ダメージ率を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 会心ダメージ率を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 会心ダメージ率を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 会心ダメージ率を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 会心ダメージ率を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 会心ダメージ率を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 激昂
+| SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = 怒り状態の時、攻撃力を<span style="color: #007eff">16.8%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv1 = 怒り状態の時、攻撃力を<span style="color: #007eff">16.8%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv2 = 怒り状態の時、攻撃力を<span style="color: #007eff">17.6%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv3 = 怒り状態の時、攻撃力を<span style="color: #007eff">18.4%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv4 = 怒り状態の時、攻撃力を<span style="color: #007eff">21.8%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv5 = 怒り状態の時、攻撃力を<span style="color: #007eff">22.6%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv6 = 怒り状態の時、攻撃力を<span style="color: #007eff">23.5%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv7 = 怒り状態の時、攻撃力を<span style="color: #007eff">26.8%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv8 = 怒り状態の時、攻撃力を<span style="color: #007eff">27.7%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv9 = 怒り状態の時、攻撃力を<span style="color: #007eff">28.5%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv10 = 怒り状態の時、攻撃力を<span style="color: #007eff">31.9%</span>増加（<span style="color: #007eff">30秒</span>間）
+}}
+[[Category:Characters]]

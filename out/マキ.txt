@@ -1,0 +1,136 @@
+{{Character
+| Name = マキ
+| Image =
+| JPName = 小塗 マキ
+| JPReading =
+| School = Millennium
+| Age = 15
+| Birthday = August 1
+| Height = 149cm
+| Hobbies = グラフィティ、ゲーム
+| Illust = 9ml
+| Voice = 三上枝織
+| WeaponType = MG
+| CityTownAffinity = C
+| OutdoorAffinity = S
+| UsesCover = No
+| Rarity = 3
+| CombatClass = Striker
+| ArmorType = Light
+| AttackType = Penetration
+| Position = Back
+| Role = Attacker
+| IndoorAffinity = C
+}}
+
+=Background=
+ミレニアムサイエンススクール所属、ハッカー集団「ヴェリタス」の部員。グラフィティが好きないたずらっ子で、ヴェリタスのエンブレムも彼女の作品。
+基本的に楽天的で思いつくままに動くタイプのため、よく他の部活とのトラブルを起こしてしまう。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 226
+| maxAtk = 2265
+| minDef = 81
+| maxDef = 488
+| minHP = 2288
+| maxHP = 19840
+| minHealing = 1375
+| maxHealing = 4127
+| minAcc = 98
+| minEva = 196
+| minCRate = 245
+| minCDmg = 200
+| minStab = 1424
+| minRange = 750
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = 世界をもっと色鮮やかに！
+| SkillIcon = Penetration_COMMON_SKILLICON_TARGET
+| SkillDamageType = Penetration
+| SkillBaseCost = 5
+| SkillDescriptionGeneral = 敵1人に対して、攻撃力の<span style="color: #007eff">676%</span>分のダメージ/
+攻撃力を<span style="color: #007eff">41.9%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv1 = 敵1人に対して、攻撃力の<span style="color: #007eff">676%</span>分のダメージ/
+攻撃力を<span style="color: #007eff">41.9%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv2 = 敵1人に対して、攻撃力の<span style="color: #007eff">777%</span>分のダメージ/
+攻撃力を<span style="color: #007eff">41.9%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv3 = 敵1人に対して、攻撃力の<span style="color: #007eff">879%</span>分のダメージ/
+攻撃力を<span style="color: #007eff">48.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv4 = 敵1人に対して、攻撃力の<span style="color: #007eff">980%</span>分のダメージ/
+攻撃力を<span style="color: #007eff">48.2%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv5 = 敵1人に対して、攻撃力の<span style="color: #007eff">1081%</span>分のダメージ/
+攻撃力を<span style="color: #007eff">54.5%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv6 = 敵1人に対して、攻撃力の<span style="color: #007eff">1183%</span>分のダメージ/
+攻撃力を<span style="color: #007eff">54.5%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv7 = 敵1人に対して、攻撃力の<span style="color: #007eff">1386%</span>分のダメージ/
+攻撃力を<span style="color: #007eff">54.5%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv8 = 敵1人に対して、攻撃力の<span style="color: #007eff">1487%</span>分のダメージ/
+攻撃力を<span style="color: #007eff">54.5%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv9 = 敵1人に対して、攻撃力の<span style="color: #007eff">1690%</span>分のダメージ/
+攻撃力を<span style="color: #007eff">54.5%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionLv10 = 敵1人に対して、攻撃力の<span style="color: #007eff">1791%</span>分のダメージ/
+攻撃力を<span style="color: #007eff">54.5%</span>増加（<span style="color: #007eff">30秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = くらえ、ペイントボール！
+| SkillIcon = Penetration_COMMON_SKILLICON_MARK
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">25秒</span>毎に、敵1人の防御力を<span style="color: #007eff">18.3%</span>減少、マーク状態を付与（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv1 = <span style="color: #007eff">25秒</span>毎に、敵1人の防御力を<span style="color: #007eff">18.3%</span>減少、マーク状態を付与（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv2 = <span style="color: #007eff">25秒</span>毎に、敵1人の防御力を<span style="color: #007eff">19.2%</span>減少、マーク状態を付与（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv3 = <span style="color: #007eff">25秒</span>毎に、敵1人の防御力を<span style="color: #007eff">20.2%</span>減少、マーク状態を付与（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv4 = <span style="color: #007eff">25秒</span>毎に、敵1人の防御力を<span style="color: #007eff">23.8%</span>減少、マーク状態を付与（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv5 = <span style="color: #007eff">25秒</span>毎に、敵1人の防御力を<span style="color: #007eff">24.8%</span>減少、マーク状態を付与（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv6 = <span style="color: #007eff">25秒</span>毎に、敵1人の防御力を<span style="color: #007eff">25.7%</span>減少、マーク状態を付与（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv7 = <span style="color: #007eff">25秒</span>毎に、敵1人の防御力を<span style="color: #007eff">29.3%</span>減少、マーク状態を付与（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv8 = <span style="color: #007eff">25秒</span>毎に、敵1人の防御力を<span style="color: #007eff">30.3%</span>減少、マーク状態を付与（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv9 = <span style="color: #007eff">25秒</span>毎に、敵1人の防御力を<span style="color: #007eff">31.2%</span>減少、マーク状態を付与（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv10 = <span style="color: #007eff">25秒</span>毎に、敵1人の防御力を<span style="color: #007eff">34.8%</span>減少、マーク状態を付与（<span style="color: #007eff">15秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 芸術的な演出
+| SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = 攻撃速度を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 攻撃速度を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 攻撃速度を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 攻撃速度を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 攻撃速度を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 攻撃速度を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 攻撃速度を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 攻撃速度を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 攻撃速度を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 攻撃速度を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 攻撃速度を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 芸術の苦しみ
+| SkillIcon = Penetration_COMMON_SKILLICON_EXTRADAMAGE
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = マーク状態の敵を攻撃時、攻撃力の<span style="color: #007eff">14.9%</span>分の追加ダメージ
+| SkillDescriptionLv1 = マーク状態の敵を攻撃時、攻撃力の<span style="color: #007eff">14.9%</span>分の追加ダメージ
+| SkillDescriptionLv2 = マーク状態の敵を攻撃時、攻撃力の<span style="color: #007eff">15.7%</span>分の追加ダメージ
+| SkillDescriptionLv3 = マーク状態の敵を攻撃時、攻撃力の<span style="color: #007eff">16.4%</span>分の追加ダメージ
+| SkillDescriptionLv4 = マーク状態の敵を攻撃時、攻撃力の<span style="color: #007eff">19.4%</span>分の追加ダメージ
+| SkillDescriptionLv5 = マーク状態の敵を攻撃時、攻撃力の<span style="color: #007eff">20.1%</span>分の追加ダメージ
+| SkillDescriptionLv6 = マーク状態の敵を攻撃時、攻撃力の<span style="color: #007eff">20.8%</span>分の追加ダメージ
+| SkillDescriptionLv7 = マーク状態の敵を攻撃時、攻撃力の<span style="color: #007eff">23.8%</span>分の追加ダメージ
+| SkillDescriptionLv8 = マーク状態の敵を攻撃時、攻撃力の<span style="color: #007eff">24.6%</span>分の追加ダメージ
+| SkillDescriptionLv9 = マーク状態の敵を攻撃時、攻撃力の<span style="color: #007eff">25.3%</span>分の追加ダメージ
+| SkillDescriptionLv10 = マーク状態の敵を攻撃時、攻撃力の<span style="color: #007eff">28.3%</span>分の追加ダメージ
+}}
+[[Category:Characters]]

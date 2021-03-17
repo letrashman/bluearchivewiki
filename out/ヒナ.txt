@@ -1,0 +1,139 @@
+{{Character
+| Name = ヒナ
+| Image =
+| JPName = 空崎 ヒナ
+| JPReading =
+| School = Gehenna
+| Age = 17
+| Birthday = February 19
+| Height = 142cm
+| Hobbies = 睡眠、休憩
+| Illust = DoReMi
+| Voice = 広橋涼
+| WeaponType = MG
+| CityTownAffinity = S
+| OutdoorAffinity = C
+| UsesCover = No
+| Rarity = 3
+| CombatClass = Striker
+| ArmorType = Heavy
+| AttackType = Explosive
+| Position = Back
+| Role = Attacker
+| IndoorAffinity = C
+}}
+
+=Background=
+ゲヘナ学園所属、誰もが恐れる風紀委員長。
+
+基本的には面倒くさがり屋さんなのだが、校則の話になると途端に厳しくなる。
+口では「面倒」と言いつつ、戦場では迷うことなく冷静で素早い判断をして行動する。
+その戦闘力は驚異的であり、そのためゲヘナに敵対する組織は彼女の登場を何よりも恐れている。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 254
+| maxAtk = 2545
+| minDef = 80
+| maxDef = 481
+| minHP = 2258
+| maxHP = 19570
+| minHealing = 1394
+| maxHealing = 4184
+| minAcc = 99
+| minEva = 199
+| minCRate = 199
+| minCDmg = 200
+| minStab = 1404
+| minRange = 750
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = 終幕：イシュ・ボシェテ
+| SkillIcon = Explosive_COMMON_SKILLICON_FAN
+| SkillDamageType = Explosive
+| SkillBaseCost = 7
+| SkillDescriptionGeneral = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">636%</span>分のダメージ
+| SkillDescriptionLv1 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">636%</span>分のダメージ
+| SkillDescriptionLv2 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">731%</span>分のダメージ
+| SkillDescriptionLv3 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">922%</span>分のダメージ
+| SkillDescriptionLv4 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1017%</span>分のダメージ
+| SkillDescriptionLv5 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1208%</span>分のダメージ
+| SkillDescriptionLv6 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1303%</span>分のダメージ
+| SkillDescriptionLv7 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1494%</span>分のダメージ
+| SkillDescriptionLv8 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1589%</span>分のダメージ
+| SkillDescriptionLv9 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1780%</span>分のダメージ
+| SkillDescriptionLv10 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1876%</span>分のダメージ
+}}
+
+{{SkillTable
+| SkillName = リロードアンドデストロイ
+| SkillIcon = Explosive_COMMON_SKILLICON_RELOAD
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = 装弾数が0になった時、すぐにリロード/
+攻撃力を<span style="color: #007eff">21%</span>増加（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv1 = 装弾数が0になった時、すぐにリロード/
+攻撃力を<span style="color: #007eff">21%</span>増加（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv2 = 装弾数が0になった時、すぐにリロード/
+攻撃力を<span style="color: #007eff">22.1%</span>増加（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv3 = 装弾数が0になった時、すぐにリロード/
+攻撃力を<span style="color: #007eff">23.1%</span>増加（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv4 = 装弾数が0になった時、すぐにリロード/
+攻撃力を<span style="color: #007eff">27.3%</span>増加（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv5 = 装弾数が0になった時、すぐにリロード/
+攻撃力を<span style="color: #007eff">28.4%</span>増加（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv6 = 装弾数が0になった時、すぐにリロード/
+攻撃力を<span style="color: #007eff">29.4%</span>増加（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv7 = 装弾数が0になった時、すぐにリロード/
+攻撃力を<span style="color: #007eff">33.6%</span>増加（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv8 = 装弾数が0になった時、すぐにリロード/
+攻撃力を<span style="color: #007eff">34.7%</span>増加（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv9 = 装弾数が0になった時、すぐにリロード/
+攻撃力を<span style="color: #007eff">35.7%</span>増加（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionLv10 = 装弾数が0になった時、すぐにリロード/
+攻撃力を<span style="color: #007eff">39.9%</span>増加（<span style="color: #007eff">16秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 冷徹な風紀委員会
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = 攻撃速度を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 攻撃速度を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 攻撃速度を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 攻撃速度を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 攻撃速度を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 攻撃速度を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 攻撃速度を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 攻撃速度を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 攻撃速度を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 攻撃速度を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 攻撃速度を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 徹頭徹尾
+| SkillIcon = Explosive_COMMON_SKILLICON_EXTRADAMAGE
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">2.7%</span>分の追加ダメージ
+| SkillDescriptionLv1 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">2.7%</span>分の追加ダメージ
+| SkillDescriptionLv2 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">2.8%</span>分の追加ダメージ
+| SkillDescriptionLv3 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">3%</span>分の追加ダメージ
+| SkillDescriptionLv4 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">3.5%</span>分の追加ダメージ
+| SkillDescriptionLv5 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">3.6%</span>分の追加ダメージ
+| SkillDescriptionLv6 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">3.8%</span>分の追加ダメージ
+| SkillDescriptionLv7 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">4.3%</span>分の追加ダメージ
+| SkillDescriptionLv8 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">4.4%</span>分の追加ダメージ
+| SkillDescriptionLv9 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">4.6%</span>分の追加ダメージ
+| SkillDescriptionLv10 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">5.2%</span>分の追加ダメージ
+}}
+[[Category:Characters]]

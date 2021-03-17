@@ -1,0 +1,138 @@
+{{Character
+| Name = ハレ
+| Image =
+| JPName = 小鈎 ハレ
+| JPReading =
+| School = Millennium
+| Age = 16
+| Birthday = April 19
+| Height = 153cm
+| Hobbies = ゲーム, 映画鑑賞
+| Illust = 9ml
+| Voice = 貝原怜奈
+| WeaponType = AR
+| CityTownAffinity = A
+| OutdoorAffinity = B
+| UsesCover = No
+| Rarity = 2
+| CombatClass = Support
+| ArmorType = Light
+| AttackType = Explosive
+| Position = Back
+| Role = Support
+| IndoorAffinity = B
+}}
+
+=Background=
+ミレニアムサイエンススクール所属、ハッカー集団「ヴェリタス」のエンジニア。
+
+頭の良い人が多いことで有名なミレニアムにおいても頭一つ抜けている屈指の天才少女。ミレニアムで生み出される最先端の機器のほとんどは、彼女の手によって開発されている。
+しかしその実力や成果にも関わらず、自慢したり威張ったりすることなく、他の生徒たちとも交流し、良く話しを聞いてくれる優しい女の子である。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 192
+| maxAtk = 1927
+| minDef = 19
+| maxDef = 117
+| minHP = 2204
+| maxHP = 16468
+| minHealing = 1642
+| maxHealing = 4928
+| minAcc = 714
+| minEva = 816
+| minCRate = 204
+| minCDmg = 200
+| minStab = 1573
+| minRange = 1000
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = EMPドローン展開
+| SkillIcon = Explosive_COMMON_SKILLICON_STUNNED
+| SkillDamageType = Explosive
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">271%</span>分のダメージ/
+さらに気絶状態を付与（<span style="color: #007eff">2.7秒</span>間）
+| SkillDescriptionLv1 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">271%</span>分のダメージ/
+さらに気絶状態を付与（<span style="color: #007eff">2.7秒</span>間）
+| SkillDescriptionLv2 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">312%</span>分のダメージ/
+さらに気絶状態を付与（<span style="color: #007eff">2.7秒</span>間）
+| SkillDescriptionLv3 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">353%</span>分のダメージ/
+さらに気絶状態を付与（<span style="color: #007eff">3.1秒</span>間）
+| SkillDescriptionLv4 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">394%</span>分のダメージ/
+さらに気絶状態を付与（<span style="color: #007eff">3.1秒</span>間）
+| SkillDescriptionLv5 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">435%</span>分のダメージ/
+さらに気絶状態を付与（<span style="color: #007eff">3.5秒</span>間）
+| SkillDescriptionLv6 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">475%</span>分のダメージ/
+さらに気絶状態を付与（<span style="color: #007eff">3.5秒</span>間）
+| SkillDescriptionLv7 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">557%</span>分のダメージ/
+さらに気絶状態を付与（<span style="color: #007eff">3.5秒</span>間）
+| SkillDescriptionLv8 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">598%</span>分のダメージ/
+さらに気絶状態を付与（<span style="color: #007eff">3.5秒</span>間）
+| SkillDescriptionLv9 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">679%</span>分のダメージ/
+さらに気絶状態を付与（<span style="color: #007eff">3.5秒</span>間）
+| SkillDescriptionLv10 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">720%</span>分のダメージ/
+さらに気絶状態を付与（<span style="color: #007eff">3.5秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 破壊工作：プランA
+| SkillIcon = Explosive_COMMON_SKILLICON_STATDEBUFF
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">26.7%</span>減少（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv1 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">26.7%</span>減少（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv2 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">28%</span>減少（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv3 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">29.3%</span>減少（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv4 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">34.7%</span>減少（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv5 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">36%</span>減少（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv6 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">37.3%</span>減少（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv7 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">42.7%</span>減少（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv8 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">44%</span>減少（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv9 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">45.3%</span>減少（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv10 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">50.7%</span>減少（<span style="color: #007eff">15秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 武装強化：プランＢ
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = 会心値を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 会心値を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 会心値を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 会心値を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 会心値を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 会心値を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 会心値を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 会心値を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 会心値を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 会心値を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 会心値を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 迎撃システム作動
+| SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = 味方の回避値を<span style="color: #007eff">9.1%</span>増加
+| SkillDescriptionLv1 = 味方の回避値を<span style="color: #007eff">9.1%</span>増加
+| SkillDescriptionLv2 = 味方の回避値を<span style="color: #007eff">9.5%</span>増加
+| SkillDescriptionLv3 = 味方の回避値を<span style="color: #007eff">10%</span>増加
+| SkillDescriptionLv4 = 味方の回避値を<span style="color: #007eff">11.8%</span>増加
+| SkillDescriptionLv5 = 味方の回避値を<span style="color: #007eff">12.3%</span>増加
+| SkillDescriptionLv6 = 味方の回避値を<span style="color: #007eff">12.7%</span>増加
+| SkillDescriptionLv7 = 味方の回避値を<span style="color: #007eff">14.5%</span>増加
+| SkillDescriptionLv8 = 味方の回避値を<span style="color: #007eff">15%</span>増加
+| SkillDescriptionLv9 = 味方の回避値を<span style="color: #007eff">15.5%</span>増加
+| SkillDescriptionLv10 = 味方の回避値を<span style="color: #007eff">17.3%</span>増加
+}}
+[[Category:Characters]]

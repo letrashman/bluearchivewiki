@@ -1,0 +1,127 @@
+{{Character
+| Name = シロコ
+| Image =
+| JPName = 砂狼 シロコ
+| JPReading =
+| School = Abydos
+| Age = 16
+| Birthday = May 16
+| Height = 156cm
+| Hobbies = ジョギング、体力トレーニング、ロードバイク
+| Illust = Hwansang
+| Voice = 小倉唯
+| WeaponType = AR
+| CityTownAffinity = S
+| OutdoorAffinity = B
+| UsesCover = Yes
+| Rarity = 3
+| CombatClass = Striker
+| ArmorType = Light
+| AttackType = Explosive
+| Position = Middle
+| Role = Attacker
+| IndoorAffinity = D
+}}
+
+=Background=
+アビドス高等学校所属、スポーツが好きなアビドス対策委員会の切り込み隊長。
+
+基本的に口数が少なく、表情の変化がほとんどないため冷たい印象もあるが、実は誰よりアビドス高等学校を大事にしていると言っても過言ではない少女。
+学校の復興のためには手段と方法を選ばないため、たまに無茶なアイデアを提案したりする。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 278
+| maxAtk = 2788
+| minDef = 19
+| maxDef = 118
+| minHP = 2225
+| maxHP = 22260
+| minHealing = 1414
+| maxHealing = 4244
+| minAcc = 707
+| minEva = 808
+| minCRate = 202
+| minCDmg = 200
+| minStab = 1384
+| minRange = 650
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = ドローン召喚：火力支援
+| SkillIcon = SKILLICON_SHIROKO_EXSKILL
+| SkillDamageType = Explosive
+| SkillBaseCost = 2
+| SkillDescriptionGeneral = 敵1人に対して、攻撃力の<span style="color: #007eff">400%</span>分のダメージ
+| SkillDescriptionLv1 = 敵1人に対して、攻撃力の<span style="color: #007eff">400%</span>分のダメージ
+| SkillDescriptionLv2 = 敵1人に対して、攻撃力の<span style="color: #007eff">460%</span>分のダメージ
+| SkillDescriptionLv3 = 敵1人に対して、攻撃力の<span style="color: #007eff">580%</span>分のダメージ
+| SkillDescriptionLv4 = 敵1人に対して、攻撃力の<span style="color: #007eff">640%</span>分のダメージ
+| SkillDescriptionLv5 = 敵1人に対して、攻撃力の<span style="color: #007eff">760%</span>分のダメージ
+| SkillDescriptionLv6 = 敵1人に対して、攻撃力の<span style="color: #007eff">820%</span>分のダメージ
+| SkillDescriptionLv7 = 敵1人に対して、攻撃力の<span style="color: #007eff">941%</span>分のダメージ
+| SkillDescriptionLv8 = 敵1人に対して、攻撃力の<span style="color: #007eff">1001%</span>分のダメージ
+| SkillDescriptionLv9 = 敵1人に対して、攻撃力の<span style="color: #007eff">1121%</span>分のダメージ
+| SkillDescriptionLv10 = 敵1人に対して、攻撃力の<span style="color: #007eff">1181%</span>分のダメージ
+}}
+
+{{SkillTable
+| SkillName = 手榴弾投擲
+| SkillIcon = Explosive_COMMON_SKILLICON_CIRCLE
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">193%</span>分のダメージ
+| SkillDescriptionLv1 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">193%</span>分のダメージ
+| SkillDescriptionLv2 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">203%</span>分のダメージ
+| SkillDescriptionLv3 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">213%</span>分のダメージ
+| SkillDescriptionLv4 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">251%</span>分のダメージ
+| SkillDescriptionLv5 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">261%</span>分のダメージ
+| SkillDescriptionLv6 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">271%</span>分のダメージ
+| SkillDescriptionLv7 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">309%</span>分のダメージ
+| SkillDescriptionLv8 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">319%</span>分のダメージ
+| SkillDescriptionLv9 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">329%</span>分のダメージ
+| SkillDescriptionLv10 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">368%</span>分のダメージ
+}}
+
+{{SkillTable
+| SkillName = ピンポイント
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = 会心値を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 会心値を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 会心値を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 会心値を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 会心値を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 会心値を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 会心値を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 会心値を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 会心値を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 会心値を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 会心値を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 高速連射
+| SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">30.2%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
+| SkillDescriptionLv1 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">30.2%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
+| SkillDescriptionLv2 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">31.7%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
+| SkillDescriptionLv3 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">33.2%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
+| SkillDescriptionLv4 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">39.3%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
+| SkillDescriptionLv5 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">40.8%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
+| SkillDescriptionLv6 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">42.3%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
+| SkillDescriptionLv7 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">48.3%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
+| SkillDescriptionLv8 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">49.9%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
+| SkillDescriptionLv9 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">51.4%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
+| SkillDescriptionLv10 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">57.4%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
+}}
+[[Category:Characters]]

@@ -1,0 +1,138 @@
+{{Character
+| Name = ハスミ
+| Image =
+| JPName = 羽川 ハスミ
+| JPReading =
+| School = Trinity
+| Age = 17
+| Birthday = December 12
+| Height = 179cm
+| Hobbies = 読書、人間観察
+| Illust =  Mx2j
+| Voice = 瀬戸麻沙美
+| WeaponType = SR
+| CityTownAffinity = B
+| OutdoorAffinity = A
+| UsesCover = Yes
+| Rarity = 2
+| CombatClass = Striker
+| ArmorType = Heavy
+| AttackType = Penetration
+| Position = Back
+| Role = Attacker
+| IndoorAffinity = B
+}}
+
+=Background=
+トリニティ総合学園所属、正義実現委員会のNo.2。
+
+狂乱の象徴である委員長、ツルギの代わりに、正義実現委員会の戦術指揮官の役割も担当している。そのため一見、落ち着いていて知的という「これぞトリニティの生徒」という模範的な生徒にも見えるが、れっきとした正義実現委員会の一員である。
+誰よりも冷静に、時には無茶な行動をしたりもする。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 342
+| maxAtk = 3426
+| minDef = 20
+| maxDef = 120
+| minHP = 2256
+| maxHP = 19560
+| minHealing = 1395
+| maxHealing = 4186
+| minAcc = 897
+| minEva = 199
+| minCRate = 199
+| minCDmg = 200
+| minStab = 2004
+| minRange = 750
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = アーマーピアッシング弾
+| SkillIcon = Penetration_COMMON_SKILLICON_TARGET
+| SkillDamageType = Penetration
+| SkillBaseCost = 5
+| SkillDescriptionGeneral = 敵1人に対して、攻撃力の<span style="color: #007eff">574%</span>分のダメージ
+| SkillDescriptionLv1 = 敵1人に対して、攻撃力の<span style="color: #007eff">574%</span>分のダメージ
+| SkillDescriptionLv2 = 敵1人に対して、攻撃力の<span style="color: #007eff">660%</span>分のダメージ
+| SkillDescriptionLv3 = 敵1人に対して、攻撃力の<span style="color: #007eff">832%</span>分のダメージ
+| SkillDescriptionLv4 = 敵1人に対して、攻撃力の<span style="color: #007eff">918%</span>分のダメージ
+| SkillDescriptionLv5 = 敵1人に対して、攻撃力の<span style="color: #007eff">1091%</span>分のダメージ
+| SkillDescriptionLv6 = 敵1人に対して、攻撃力の<span style="color: #007eff">1177%</span>分のダメージ
+| SkillDescriptionLv7 = 敵1人に対して、攻撃力の<span style="color: #007eff">1349%</span>分のダメージ
+| SkillDescriptionLv8 = 敵1人に対して、攻撃力の<span style="color: #007eff">1435%</span>分のダメージ
+| SkillDescriptionLv9 = 敵1人に対して、攻撃力の<span style="color: #007eff">1608%</span>分のダメージ
+| SkillDescriptionLv10 = 敵1人に対して、攻撃力の<span style="color: #007eff">1694%</span>分のダメージ
+}}
+
+{{SkillTable
+| SkillName = 冷徹な心
+| SkillIcon = Penetration_COMMON_SKILLICON_RELOAD
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = 敵を倒した時すぐにリロード/
+会心ダメージ率を<span style="color: #007eff">30%</span>増加（<span style="color: #007eff">13秒</span>間）
+| SkillDescriptionLv1 = 敵を倒した時すぐにリロード/
+会心ダメージ率を<span style="color: #007eff">30%</span>増加（<span style="color: #007eff">13秒</span>間）
+| SkillDescriptionLv2 = 敵を倒した時すぐにリロード/
+会心ダメージ率を<span style="color: #007eff">31.5%</span>増加（<span style="color: #007eff">13秒</span>間）
+| SkillDescriptionLv3 = 敵を倒した時すぐにリロード/
+会心ダメージ率を<span style="color: #007eff">33%</span>増加（<span style="color: #007eff">13秒</span>間）
+| SkillDescriptionLv4 = 敵を倒した時すぐにリロード/
+会心ダメージ率を<span style="color: #007eff">39%</span>増加（<span style="color: #007eff">13秒</span>間）
+| SkillDescriptionLv5 = 敵を倒した時すぐにリロード/
+会心ダメージ率を<span style="color: #007eff">40.5%</span>増加（<span style="color: #007eff">13秒</span>間）
+| SkillDescriptionLv6 = 敵を倒した時すぐにリロード/
+会心ダメージ率を<span style="color: #007eff">42%</span>増加（<span style="color: #007eff">13秒</span>間）
+| SkillDescriptionLv7 = 敵を倒した時すぐにリロード/
+会心ダメージ率を<span style="color: #007eff">48%</span>増加（<span style="color: #007eff">13秒</span>間）
+| SkillDescriptionLv8 = 敵を倒した時すぐにリロード/
+会心ダメージ率を<span style="color: #007eff">49.5%</span>増加（<span style="color: #007eff">13秒</span>間）
+| SkillDescriptionLv9 = 敵を倒した時すぐにリロード/
+会心ダメージ率を<span style="color: #007eff">51%</span>増加（<span style="color: #007eff">13秒</span>間）
+| SkillDescriptionLv10 = 敵を倒した時すぐにリロード/
+会心ダメージ率を<span style="color: #007eff">57%</span>増加（<span style="color: #007eff">13秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 照準よし
+| SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 会心ダメージ率を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 会心ダメージ率を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 会心ダメージ率を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 会心ダメージ率を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 会心ダメージ率を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 会心ダメージ率を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 会心ダメージ率を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 会心ダメージ率を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 会心ダメージ率を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 目標探索
+| SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = リロード時、会心値を<span style="color: #007eff">50%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
+| SkillDescriptionLv1 = リロード時、会心値を<span style="color: #007eff">50%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
+| SkillDescriptionLv2 = リロード時、会心値を<span style="color: #007eff">52.5%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
+| SkillDescriptionLv3 = リロード時、会心値を<span style="color: #007eff">55%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
+| SkillDescriptionLv4 = リロード時、会心値を<span style="color: #007eff">65%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
+| SkillDescriptionLv5 = リロード時、会心値を<span style="color: #007eff">67.5%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
+| SkillDescriptionLv6 = リロード時、会心値を<span style="color: #007eff">70%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
+| SkillDescriptionLv7 = リロード時、会心値を<span style="color: #007eff">80%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
+| SkillDescriptionLv8 = リロード時、会心値を<span style="color: #007eff">82.5%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
+| SkillDescriptionLv9 = リロード時、会心値を<span style="color: #007eff">85%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
+| SkillDescriptionLv10 = リロード時、会心値を<span style="color: #007eff">95%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
+}}
+[[Category:Characters]]

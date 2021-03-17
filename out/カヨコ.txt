@@ -1,0 +1,149 @@
+{{Character
+| Name = カヨコ
+| Image =
+| JPName = 鬼方 カヨコ
+| JPReading =
+| School = Gehenna
+| Age = 18
+| Birthday = March 17
+| Height = 157cm
+| Hobbies = 音楽CD収集
+| Illust = DoReMi
+| Voice = 藤井ゆきよ
+| WeaponType = HG
+| CityTownAffinity = A
+| OutdoorAffinity = D
+| UsesCover = Yes
+| Rarity = 2
+| CombatClass = Striker
+| ArmorType = Heavy
+| AttackType = Explosive
+| Position = Middle
+| Role = Support
+| IndoorAffinity = A
+}}
+
+=Background=
+ゲヘナ学園所属、便利屋68の課長。
+
+他の便利屋68のメンバーとは異なり悪意がないのにも関わらず、生まれ持った顔つきが怖いという理由だけで不良と誤解される少女。
+カヨコ本人はそんな誤解に対して沈黙を貫いているが、むしろそのせいで怖い人というイメージがより強まる悪循環である。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 105
+| maxAtk = 1053
+| minDef = 20
+| maxDef = 121
+| minHP = 2272
+| maxHP = 26330
+| minHealing = 1385
+| maxHealing = 4156
+| minAcc = 98
+| minEva = 1088
+| minCRate = 197
+| minCDmg = 200
+| minStab = 1008
+| minRange = 550
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = パニックブリンガー
+| SkillIcon = Explosive_COMMON_SKILLICON_FEAR
+| SkillDamageType = Explosive
+| SkillBaseCost = 6
+| SkillDescriptionGeneral = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">349%</span>分のダメージ/
+恐怖状態を付与（<span style="color: #007eff">3.9秒</span>間）
+| SkillDescriptionLv1 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">349%</span>分のダメージ/
+恐怖状態を付与（<span style="color: #007eff">3.9秒</span>間）
+| SkillDescriptionLv2 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">401%</span>分のダメージ/
+恐怖状態を付与（<span style="color: #007eff">3.9秒</span>間）
+| SkillDescriptionLv3 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">453%</span>分のダメージ/
+恐怖状態を付与（<span style="color: #007eff">4.5秒</span>間）
+| SkillDescriptionLv4 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">506%</span>分のダメージ/
+恐怖状態を付与（<span style="color: #007eff">4.5秒</span>間）
+| SkillDescriptionLv5 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">558%</span>分のダメージ/
+恐怖状態を付与（<span style="color: #007eff">5.1秒</span>間）
+| SkillDescriptionLv6 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">610%</span>分のダメージ/
+恐怖状態を付与（<span style="color: #007eff">5.1秒</span>間）
+| SkillDescriptionLv7 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">715%</span>分のダメージ/
+恐怖状態を付与（<span style="color: #007eff">5.1秒</span>間）
+| SkillDescriptionLv8 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">767%</span>分のダメージ/
+恐怖状態を付与（<span style="color: #007eff">5.1秒</span>間）
+| SkillDescriptionLv9 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">872%</span>分のダメージ/
+恐怖状態を付与（<span style="color: #007eff">5.1秒</span>間）
+| SkillDescriptionLv10 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">924%</span>分のダメージ/
+恐怖状態を付与（<span style="color: #007eff">5.1秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = パニックショット
+| SkillIcon = Explosive_COMMON_SKILLICON_FEAR
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">132%</span>分のダメージ/
+さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
+| SkillDescriptionLv1 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">132%</span>分のダメージ/
+さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
+| SkillDescriptionLv2 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">139%</span>分のダメージ/
+さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
+| SkillDescriptionLv3 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">146%</span>分のダメージ/
+さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
+| SkillDescriptionLv4 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">172%</span>分のダメージ/
+さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
+| SkillDescriptionLv5 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">179%</span>分のダメージ/
+さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
+| SkillDescriptionLv6 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">185%</span>分のダメージ/
+さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
+| SkillDescriptionLv7 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">212%</span>分のダメージ/
+さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
+| SkillDescriptionLv8 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">219%</span>分のダメージ/
+さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
+| SkillDescriptionLv9 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">225%</span>分のダメージ/
+さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
+| SkillDescriptionLv10 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">252%</span>分のダメージ/
+さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = 怖い顔
+| SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = CC強化力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = CC強化力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = CC強化力を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = CC強化力を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = CC強化力を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = CC強化力を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = CC強化力を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = CC強化力を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = CC強化力を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = CC強化力を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = CC強化力を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 仕方ない
+| SkillIcon = Explosive_COMMON_SKILLICON_EXTRADAMAGE
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">74.8%</span>分の追加ダメージ
+| SkillDescriptionLv1 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">74.8%</span>分の追加ダメージ
+| SkillDescriptionLv2 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">78.5%</span>分の追加ダメージ
+| SkillDescriptionLv3 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">82.2%</span>分の追加ダメージ
+| SkillDescriptionLv4 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">97.2%</span>分の追加ダメージ
+| SkillDescriptionLv5 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">100%</span>分の追加ダメージ
+| SkillDescriptionLv6 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">104%</span>分の追加ダメージ
+| SkillDescriptionLv7 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">119%</span>分の追加ダメージ
+| SkillDescriptionLv8 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">123%</span>分の追加ダメージ
+| SkillDescriptionLv9 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">127%</span>分の追加ダメージ
+| SkillDescriptionLv10 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">142%</span>分の追加ダメージ
+}}
+[[Category:Characters]]

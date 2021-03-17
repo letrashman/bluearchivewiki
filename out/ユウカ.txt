@@ -1,0 +1,127 @@
+{{Character
+| Name = ユウカ
+| Image =
+| JPName = 早瀬 ユウカ
+| JPReading =
+| School = Millennium
+| Age = 16
+| Birthday = March 14
+| Height = 156cm
+| Hobbies = 計算
+| Illust = Hwansang
+| Voice = 春花らん
+| WeaponType = SMG
+| CityTownAffinity = B
+| OutdoorAffinity = B
+| UsesCover = Yes
+| Rarity = 2
+| CombatClass = Striker
+| ArmorType = Heavy
+| AttackType = Explosive
+| Position = Front
+| Role = Tank
+| IndoorAffinity = A
+}}
+
+=Background=
+ミレニアムサイエンススクール所属、生徒会「セミナー」の会計。
+
+理系生徒の比率が高いミレニアムでも指折りの数学の鬼才で、ミレニアムの予算周りの管理を統括している。
+特技は算盤で、複雑なことに悩まされていたり、葛藤している時などに算盤を弾いて落ち着かせる癖がある。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 108
+| maxAtk = 1084
+| minDef = 29
+| maxDef = 179
+| minHP = 2997
+| maxHP = 50100
+| minHealing = 1400
+| maxHealing = 4202
+| minAcc = 100
+| minEva = 1440
+| minCRate = 200
+| minCDmg = 200
+| minStab = 1396
+| minRange = 350
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = Q.E.D
+| SkillIcon = Explosive_COMMON_SKILLICON_SHIELD
+| SkillDamageType = Explosive
+| SkillBaseCost = 3
+| SkillDescriptionGeneral = 治癒力の<span style="color: #007eff">190%</span>分のシールド効果を発動（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv1 = 治癒力の<span style="color: #007eff">190%</span>分のシールド効果を発動（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv2 = 治癒力の<span style="color: #007eff">219%</span>分のシールド効果を発動（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionLv3 = 治癒力の<span style="color: #007eff">220%</span>分のシールド効果を発動（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv4 = 治癒力の<span style="color: #007eff">245%</span>分のシールド効果を発動（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionLv5 = 治癒力の<span style="color: #007eff">248%</span>分のシールド効果を発動（<span style="color: #007eff">25秒</span>間）
+| SkillDescriptionLv6 = 治癒力の<span style="color: #007eff">271%</span>分のシールド効果を発動（<span style="color: #007eff">25秒</span>間）
+| SkillDescriptionLv7 = 治癒力の<span style="color: #007eff">318%</span>分のシールド効果を発動（<span style="color: #007eff">25秒</span>間）
+| SkillDescriptionLv8 = 治癒力の<span style="color: #007eff">341%</span>分のシールド効果を発動（<span style="color: #007eff">25秒</span>間）
+| SkillDescriptionLv9 = 治癒力の<span style="color: #007eff">388%</span>分のシールド効果を発動（<span style="color: #007eff">25秒</span>間）
+| SkillDescriptionLv10 = 治癒力の<span style="color: #007eff">411%</span>分のシールド効果を発動（<span style="color: #007eff">25秒</span>間）
+}}
+
+{{SkillTable
+| SkillName = I.F.F
+| SkillIcon = Explosive_COMMON_SKILLICON_TARGET
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = <span style="color: #007eff">15秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">301%</span>分のダメージ
+| SkillDescriptionLv1 = <span style="color: #007eff">15秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">301%</span>分のダメージ
+| SkillDescriptionLv2 = <span style="color: #007eff">15秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">317%</span>分のダメージ
+| SkillDescriptionLv3 = <span style="color: #007eff">15秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">332%</span>分のダメージ
+| SkillDescriptionLv4 = <span style="color: #007eff">15秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">392%</span>分のダメージ
+| SkillDescriptionLv5 = <span style="color: #007eff">15秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">407%</span>分のダメージ
+| SkillDescriptionLv6 = <span style="color: #007eff">15秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">422%</span>分のダメージ
+| SkillDescriptionLv7 = <span style="color: #007eff">15秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">483%</span>分のダメージ
+| SkillDescriptionLv8 = <span style="color: #007eff">15秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">498%</span>分のダメージ
+| SkillDescriptionLv9 = <span style="color: #007eff">15秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">513%</span>分のダメージ
+| SkillDescriptionLv10 = <span style="color: #007eff">15秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">573%</span>分のダメージ
+}}
+
+{{SkillTable
+| SkillName = 最適解の導出
+| SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = 防御力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 防御力を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 防御力を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 防御力を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 防御力を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 防御力を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 防御力を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 防御力を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 防御力を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 防御力を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 防御力を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 高速暗算
+| SkillIcon = Explosive_COMMON_SKILLICON_HEAL
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = 隠れている時、治癒力の<span style="color: #007eff">75%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv1 = 隠れている時、治癒力の<span style="color: #007eff">75%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv2 = 隠れている時、治癒力の<span style="color: #007eff">78.7%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv3 = 隠れている時、治癒力の<span style="color: #007eff">82.5%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv4 = 隠れている時、治癒力の<span style="color: #007eff">97.5%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv5 = 隠れている時、治癒力の<span style="color: #007eff">101%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv6 = 隠れている時、治癒力の<span style="color: #007eff">105%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv7 = 隠れている時、治癒力の<span style="color: #007eff">120%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv8 = 隠れている時、治癒力の<span style="color: #007eff">123%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv9 = 隠れている時、治癒力の<span style="color: #007eff">127%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionLv10 = 隠れている時、治癒力の<span style="color: #007eff">142%</span>分の回復（クールタイム<span style="color: #007eff">10秒</span>）
+}}
+[[Category:Characters]]

@@ -1,0 +1,148 @@
+{{Character
+| Name = ジュンコ
+| Image =
+| JPName = 赤司 ジュンコ
+| JPReading =
+| School = Gehenna
+| Age = 15
+| Birthday = December 27
+| Height = 149cm
+| Hobbies = グルメ巡り
+| Illust = DoReMi
+| Voice = 金元 寿子
+| WeaponType = AR
+| CityTownAffinity = B
+| OutdoorAffinity = A
+| UsesCover = Yes
+| Rarity = 2
+| CombatClass = Striker
+| ArmorType = Light
+| AttackType = Penetration
+| Position = Middle
+| Role = Attacker
+| IndoorAffinity = B
+}}
+
+=Background=
+ゲヘナ学園所属、美食研究会のお澄ましさんな暴食家。
+
+ゲテモノを食べたり暴食を繰り返す他の美食研究会の部員達と違い、ある程度常識的な美食を楽しむ方だが、美味しい食べ物を目の前にすると理性を失ってしまうこともある。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 274
+| maxAtk = 2741
+| minDef = 20
+| maxDef = 120
+| minHP = 2264
+| maxHP = 22640
+| minHealing = 1391
+| maxHealing = 4173
+| minAcc = 695
+| minEva = 794
+| minCRate = 198
+| minCDmg = 200
+| minStab = 1408
+| minRange = 650
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = 空腹のイライラ
+| SkillIcon = Penetration_COMMON_SKILLICON_LINE
+| SkillDamageType = Penetration
+| SkillBaseCost = 5
+| SkillDescriptionGeneral = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">746%</span>分のダメージ/
+自身の現在のHPが<span style="color: #007eff">25.7%</span>減少
+| SkillDescriptionLv1 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">746%</span>分のダメージ/
+自身の現在のHPが<span style="color: #007eff">25.7%</span>減少
+| SkillDescriptionLv2 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">857%</span>分のダメージ/
+自身の現在のHPが<span style="color: #007eff">25.7%</span>減少
+| SkillDescriptionLv3 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">1081%</span>分のダメージ/
+自身の現在のHPが<span style="color: #007eff">25.7%</span>減少
+| SkillDescriptionLv4 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">1193%</span>分のダメージ/
+自身の現在のHPが<span style="color: #007eff">25.7%</span>減少
+| SkillDescriptionLv5 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">1417%</span>分のダメージ/
+自身の現在のHPが<span style="color: #007eff">25.7%</span>減少
+| SkillDescriptionLv6 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">1529%</span>分のダメージ/
+自身の現在のHPが<span style="color: #007eff">25.7%</span>減少
+| SkillDescriptionLv7 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">1753%</span>分のダメージ/
+自身の現在のHPが<span style="color: #007eff">25.7%</span>減少
+| SkillDescriptionLv8 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">1865%</span>分のダメージ/
+自身の現在のHPが<span style="color: #007eff">25.7%</span>減少
+| SkillDescriptionLv9 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">2088%</span>分のダメージ/
+自身の現在のHPが<span style="color: #007eff">25.7%</span>減少
+| SkillDescriptionLv10 = 直線範囲内の敵に対して、攻撃力の<span style="color: #007eff">2200%</span>分のダメージ/
+自身の現在のHPが<span style="color: #007eff">25.7%</span>減少
+}}
+
+{{SkillTable
+| SkillName = お腹空いてる時は話しかけないで！
+| SkillIcon = Penetration_COMMON_SKILLICON_IMMORTAL
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = HPが<span style="color: #007eff">20%</span>以下の時、不死身状態を付与（<span style="color: #007eff">12.8秒</span>間）
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv1 = HPが<span style="color: #007eff">20%</span>以下の時、不死身状態を付与（<span style="color: #007eff">12.8秒</span>間）
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv2 = HPが<span style="color: #007eff">20%</span>以下の時、不死身状態を付与（<span style="color: #007eff">13.5秒</span>間）
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv3 = HPが<span style="color: #007eff">20%</span>以下の時、不死身状態を付与（<span style="color: #007eff">14.1秒</span>間）
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv4 = HPが<span style="color: #007eff">20%</span>以下の時、不死身状態を付与（<span style="color: #007eff">16.7秒</span>間）
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv5 = HPが<span style="color: #007eff">20%</span>以下の時、不死身状態を付与（<span style="color: #007eff">17.3秒</span>間）
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv6 = HPが<span style="color: #007eff">20%</span>以下の時、不死身状態を付与（<span style="color: #007eff">17.9秒</span>間）
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv7 = HPが<span style="color: #007eff">20%</span>以下の時、不死身状態を付与（<span style="color: #007eff">20.5秒</span>間）
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv8 = HPが<span style="color: #007eff">20%</span>以下の時、不死身状態を付与（<span style="color: #007eff">21.1秒</span>間）
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv9 = HPが<span style="color: #007eff">20%</span>以下の時、不死身状態を付与（<span style="color: #007eff">21.8秒</span>間）
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionLv10 = HPが<span style="color: #007eff">20%</span>以下の時、不死身状態を付与（<span style="color: #007eff">24.3秒</span>間）
+（戦闘中に<span style="color: #007eff">1回</span>のみ）
+}}
+
+{{SkillTable
+| SkillName = 小柄のメリット
+| SkillIcon = Penetration_COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = 回避値を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv1 = 回避値を<span style="color: #007eff">14%</span>増加
+| SkillDescriptionLv2 = 回避値を<span style="color: #007eff">14.7%</span>増加
+| SkillDescriptionLv3 = 回避値を<span style="color: #007eff">15.4%</span>増加
+| SkillDescriptionLv4 = 回避値を<span style="color: #007eff">18.2%</span>増加
+| SkillDescriptionLv5 = 回避値を<span style="color: #007eff">18.9%</span>増加
+| SkillDescriptionLv6 = 回避値を<span style="color: #007eff">19.6%</span>増加
+| SkillDescriptionLv7 = 回避値を<span style="color: #007eff">22.4%</span>増加
+| SkillDescriptionLv8 = 回避値を<span style="color: #007eff">23.1%</span>増加
+| SkillDescriptionLv9 = 回避値を<span style="color: #007eff">23.8%</span>増加
+| SkillDescriptionLv10 = 回避値を<span style="color: #007eff">26.6%</span>増加
+}}
+
+{{SkillTable
+| SkillName = 空腹の美食家
+| SkillIcon = Penetration_COMMON_SKILLICON_EXTRADAMAGE
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = 攻撃時、自身の失ったHPに比例して攻撃力の<span style="color: #007eff">0.9%</span>~<span style="color: #007eff">4.9%</span>分の追加ダメージ
+| SkillDescriptionLv1 = 攻撃時、自身の失ったHPに比例して攻撃力の<span style="color: #007eff">0.9%</span>~<span style="color: #007eff">4.9%</span>分の追加ダメージ
+| SkillDescriptionLv2 = 攻撃時、自身の失ったHPに比例して攻撃力の<span style="color: #007eff">0.9%</span>~<span style="color: #007eff">5.2%</span>分の追加ダメージ
+| SkillDescriptionLv3 = 攻撃時、自身の失ったHPに比例して攻撃力の<span style="color: #007eff">1%</span>~<span style="color: #007eff">5.4%</span>分の追加ダメージ
+| SkillDescriptionLv4 = 攻撃時、自身の失ったHPに比例して攻撃力の<span style="color: #007eff">1.2%</span>~<span style="color: #007eff">6.4%</span>分の追加ダメージ
+| SkillDescriptionLv5 = 攻撃時、自身の失ったHPに比例して攻撃力の<span style="color: #007eff">1.2%</span>~<span style="color: #007eff">6.6%</span>分の追加ダメージ
+| SkillDescriptionLv6 = 攻撃時、自身の失ったHPに比例して攻撃力の<span style="color: #007eff">1.2%</span>~<span style="color: #007eff">6.9%</span>分の追加ダメージ
+| SkillDescriptionLv7 = 攻撃時、自身の失ったHPに比例して攻撃力の<span style="color: #007eff">1.4%</span>~<span style="color: #007eff">7.9%</span>分の追加ダメージ
+| SkillDescriptionLv8 = 攻撃時、自身の失ったHPに比例して攻撃力の<span style="color: #007eff">1.5%</span>~<span style="color: #007eff">8.1%</span>分の追加ダメージ
+| SkillDescriptionLv9 = 攻撃時、自身の失ったHPに比例して攻撃力の<span style="color: #007eff">1.5%</span>~<span style="color: #007eff">8.4%</span>分の追加ダメージ
+| SkillDescriptionLv10 = 攻撃時、自身の失ったHPに比例して攻撃力の<span style="color: #007eff">1.7%</span>~<span style="color: #007eff">9.4%</span>分の追加ダメージ
+}}
+[[Category:Characters]]
