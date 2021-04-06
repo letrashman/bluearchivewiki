@@ -58,17 +58,17 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_TARGET
 | SkillDamageType = Penetration
 | SkillBaseCost = 5
-| SkillDescriptionGeneral = 敵1人に対して、攻撃力の<span style="color: #007eff">574%</span>分のダメージ
-| SkillDescriptionLv1 = 敵1人に対して、攻撃力の<span style="color: #007eff">574%</span>分のダメージ
-| SkillDescriptionLv2 = 敵1人に対して、攻撃力の<span style="color: #007eff">660%</span>分のダメージ
-| SkillDescriptionLv3 = 敵1人に対して、攻撃力の<span style="color: #007eff">832%</span>分のダメージ
-| SkillDescriptionLv4 = 敵1人に対して、攻撃力の<span style="color: #007eff">918%</span>分のダメージ
-| SkillDescriptionLv5 = 敵1人に対して、攻撃力の<span style="color: #007eff">1091%</span>分のダメージ
-| SkillDescriptionLv6 = 敵1人に対して、攻撃力の<span style="color: #007eff">1177%</span>分のダメージ
-| SkillDescriptionLv7 = 敵1人に対して、攻撃力の<span style="color: #007eff">1349%</span>分のダメージ
-| SkillDescriptionLv8 = 敵1人に対して、攻撃力の<span style="color: #007eff">1435%</span>分のダメージ
-| SkillDescriptionLv9 = 敵1人に対して、攻撃力の<span style="color: #007eff">1608%</span>分のダメージ
-| SkillDescriptionLv10 = 敵1人に対して、攻撃力の<span style="color: #007eff">1694%</span>分のダメージ
+| SkillDescriptionGeneral = 敵1人に対して、攻撃力の{{SkillValue|574%}}分のダメージ
+| SkillDescriptionLv1 = 敵1人に対して、攻撃力の{{SkillValue|574%}}分のダメージ
+| SkillDescriptionLv2 = 敵1人に対して、攻撃力の{{SkillValue|660%}}分のダメージ
+| SkillDescriptionLv3 = 敵1人に対して、攻撃力の{{SkillValue|832%}}分のダメージ
+| SkillDescriptionLv4 = 敵1人に対して、攻撃力の{{SkillValue|918%}}分のダメージ
+| SkillDescriptionLv5 = 敵1人に対して、攻撃力の{{SkillValue|1091%}}分のダメージ
+| SkillDescriptionLv6 = 敵1人に対して、攻撃力の{{SkillValue|1177%}}分のダメージ
+| SkillDescriptionLv7 = 敵1人に対して、攻撃力の{{SkillValue|1349%}}分のダメージ
+| SkillDescriptionLv8 = 敵1人に対して、攻撃力の{{SkillValue|1435%}}分のダメージ
+| SkillDescriptionLv9 = 敵1人に対して、攻撃力の{{SkillValue|1608%}}分のダメージ
+| SkillDescriptionLv10 = 敵1人に対して、攻撃力の{{SkillValue|1694%}}分のダメージ
 }}
 
 {{SkillTable
@@ -77,27 +77,27 @@ TODO: Fill this out.
 | SkillDamageType = Penetration
 | SkillType = Normal
 | SkillDescriptionGeneral = 敵を倒した時すぐにリロード/
-会心ダメージ率を<span style="color: #007eff">30%</span>増加（<span style="color: #007eff">13秒</span>間）
+会心ダメージ率を{{SkillValue|30%}}増加（{{SkillValue|13秒}}間）
 | SkillDescriptionLv1 = 敵を倒した時すぐにリロード/
-会心ダメージ率を<span style="color: #007eff">30%</span>増加（<span style="color: #007eff">13秒</span>間）
+会心ダメージ率を{{SkillValue|30%}}増加（{{SkillValue|13秒}}間）
 | SkillDescriptionLv2 = 敵を倒した時すぐにリロード/
-会心ダメージ率を<span style="color: #007eff">31.5%</span>増加（<span style="color: #007eff">13秒</span>間）
+会心ダメージ率を{{SkillValue|31.5%}}増加（{{SkillValue|13秒}}間）
 | SkillDescriptionLv3 = 敵を倒した時すぐにリロード/
-会心ダメージ率を<span style="color: #007eff">33%</span>増加（<span style="color: #007eff">13秒</span>間）
+会心ダメージ率を{{SkillValue|33%}}増加（{{SkillValue|13秒}}間）
 | SkillDescriptionLv4 = 敵を倒した時すぐにリロード/
-会心ダメージ率を<span style="color: #007eff">39%</span>増加（<span style="color: #007eff">13秒</span>間）
+会心ダメージ率を{{SkillValue|39%}}増加（{{SkillValue|13秒}}間）
 | SkillDescriptionLv5 = 敵を倒した時すぐにリロード/
-会心ダメージ率を<span style="color: #007eff">40.5%</span>増加（<span style="color: #007eff">13秒</span>間）
+会心ダメージ率を{{SkillValue|40.5%}}増加（{{SkillValue|13秒}}間）
 | SkillDescriptionLv6 = 敵を倒した時すぐにリロード/
-会心ダメージ率を<span style="color: #007eff">42%</span>増加（<span style="color: #007eff">13秒</span>間）
+会心ダメージ率を{{SkillValue|42%}}増加（{{SkillValue|13秒}}間）
 | SkillDescriptionLv7 = 敵を倒した時すぐにリロード/
-会心ダメージ率を<span style="color: #007eff">48%</span>増加（<span style="color: #007eff">13秒</span>間）
+会心ダメージ率を{{SkillValue|48%}}増加（{{SkillValue|13秒}}間）
 | SkillDescriptionLv8 = 敵を倒した時すぐにリロード/
-会心ダメージ率を<span style="color: #007eff">49.5%</span>増加（<span style="color: #007eff">13秒</span>間）
+会心ダメージ率を{{SkillValue|49.5%}}増加（{{SkillValue|13秒}}間）
 | SkillDescriptionLv9 = 敵を倒した時すぐにリロード/
-会心ダメージ率を<span style="color: #007eff">51%</span>増加（<span style="color: #007eff">13秒</span>間）
+会心ダメージ率を{{SkillValue|51%}}増加（{{SkillValue|13秒}}間）
 | SkillDescriptionLv10 = 敵を倒した時すぐにリロード/
-会心ダメージ率を<span style="color: #007eff">57%</span>増加（<span style="color: #007eff">13秒</span>間）
+会心ダメージ率を{{SkillValue|57%}}増加（{{SkillValue|13秒}}間）
 }}
 
 {{SkillTable
@@ -105,17 +105,17 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Passive
-| SkillDescriptionGeneral = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 会心ダメージ率を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 会心ダメージ率を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 会心ダメージ率を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 会心ダメージ率を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 会心ダメージ率を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 会心ダメージ率を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 会心ダメージ率を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 会心ダメージ率を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 会心ダメージ率を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 会心ダメージ率を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 会心ダメージ率を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 会心ダメージ率を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 会心ダメージ率を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 会心ダメージ率を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 会心ダメージ率を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 会心ダメージ率を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 会心ダメージ率を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 会心ダメージ率を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 会心ダメージ率を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 会心ダメージ率を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -123,16 +123,16 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = リロード時、会心値を<span style="color: #007eff">50%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
-| SkillDescriptionLv1 = リロード時、会心値を<span style="color: #007eff">50%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
-| SkillDescriptionLv2 = リロード時、会心値を<span style="color: #007eff">52.5%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
-| SkillDescriptionLv3 = リロード時、会心値を<span style="color: #007eff">55%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
-| SkillDescriptionLv4 = リロード時、会心値を<span style="color: #007eff">65%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
-| SkillDescriptionLv5 = リロード時、会心値を<span style="color: #007eff">67.5%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
-| SkillDescriptionLv6 = リロード時、会心値を<span style="color: #007eff">70%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
-| SkillDescriptionLv7 = リロード時、会心値を<span style="color: #007eff">80%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
-| SkillDescriptionLv8 = リロード時、会心値を<span style="color: #007eff">82.5%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
-| SkillDescriptionLv9 = リロード時、会心値を<span style="color: #007eff">85%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
-| SkillDescriptionLv10 = リロード時、会心値を<span style="color: #007eff">95%</span>増加（通常攻撃<span style="color: #007eff">1回</span>分のみ）
+| SkillDescriptionGeneral = リロード時、会心値を{{SkillValue|50%}}増加（通常攻撃{{SkillValue|1回}}分のみ）
+| SkillDescriptionLv1 = リロード時、会心値を{{SkillValue|50%}}増加（通常攻撃{{SkillValue|1回}}分のみ）
+| SkillDescriptionLv2 = リロード時、会心値を{{SkillValue|52.5%}}増加（通常攻撃{{SkillValue|1回}}分のみ）
+| SkillDescriptionLv3 = リロード時、会心値を{{SkillValue|55%}}増加（通常攻撃{{SkillValue|1回}}分のみ）
+| SkillDescriptionLv4 = リロード時、会心値を{{SkillValue|65%}}増加（通常攻撃{{SkillValue|1回}}分のみ）
+| SkillDescriptionLv5 = リロード時、会心値を{{SkillValue|67.5%}}増加（通常攻撃{{SkillValue|1回}}分のみ）
+| SkillDescriptionLv6 = リロード時、会心値を{{SkillValue|70%}}増加（通常攻撃{{SkillValue|1回}}分のみ）
+| SkillDescriptionLv7 = リロード時、会心値を{{SkillValue|80%}}増加（通常攻撃{{SkillValue|1回}}分のみ）
+| SkillDescriptionLv8 = リロード時、会心値を{{SkillValue|82.5%}}増加（通常攻撃{{SkillValue|1回}}分のみ）
+| SkillDescriptionLv9 = リロード時、会心値を{{SkillValue|85%}}増加（通常攻撃{{SkillValue|1回}}分のみ）
+| SkillDescriptionLv10 = リロード時、会心値を{{SkillValue|95%}}増加（通常攻撃{{SkillValue|1回}}分のみ）
 }}
 [[Category:Characters]]

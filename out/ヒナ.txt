@@ -59,17 +59,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_FAN
 | SkillDamageType = Explosive
 | SkillBaseCost = 7
-| SkillDescriptionGeneral = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">636%</span>分のダメージ
-| SkillDescriptionLv1 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">636%</span>分のダメージ
-| SkillDescriptionLv2 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">731%</span>分のダメージ
-| SkillDescriptionLv3 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">922%</span>分のダメージ
-| SkillDescriptionLv4 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1017%</span>分のダメージ
-| SkillDescriptionLv5 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1208%</span>分のダメージ
-| SkillDescriptionLv6 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1303%</span>分のダメージ
-| SkillDescriptionLv7 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1494%</span>分のダメージ
-| SkillDescriptionLv8 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1589%</span>分のダメージ
-| SkillDescriptionLv9 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1780%</span>分のダメージ
-| SkillDescriptionLv10 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1876%</span>分のダメージ
+| SkillDescriptionGeneral = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|636%}}分のダメージ
+| SkillDescriptionLv1 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|636%}}分のダメージ
+| SkillDescriptionLv2 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|731%}}分のダメージ
+| SkillDescriptionLv3 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|922%}}分のダメージ
+| SkillDescriptionLv4 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1017%}}分のダメージ
+| SkillDescriptionLv5 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1208%}}分のダメージ
+| SkillDescriptionLv6 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1303%}}分のダメージ
+| SkillDescriptionLv7 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1494%}}分のダメージ
+| SkillDescriptionLv8 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1589%}}分のダメージ
+| SkillDescriptionLv9 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1780%}}分のダメージ
+| SkillDescriptionLv10 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1876%}}分のダメージ
 }}
 
 {{SkillTable
@@ -78,27 +78,27 @@ TODO: Fill this out.
 | SkillDamageType = Explosive
 | SkillType = Normal
 | SkillDescriptionGeneral = 装弾数が0になった時、すぐにリロード/
-攻撃力を<span style="color: #007eff">21%</span>増加（<span style="color: #007eff">16秒</span>間）
+攻撃力を{{SkillValue|21%}}増加（{{SkillValue|16秒}}間）
 | SkillDescriptionLv1 = 装弾数が0になった時、すぐにリロード/
-攻撃力を<span style="color: #007eff">21%</span>増加（<span style="color: #007eff">16秒</span>間）
+攻撃力を{{SkillValue|21%}}増加（{{SkillValue|16秒}}間）
 | SkillDescriptionLv2 = 装弾数が0になった時、すぐにリロード/
-攻撃力を<span style="color: #007eff">22.1%</span>増加（<span style="color: #007eff">16秒</span>間）
+攻撃力を{{SkillValue|22.1%}}増加（{{SkillValue|16秒}}間）
 | SkillDescriptionLv3 = 装弾数が0になった時、すぐにリロード/
-攻撃力を<span style="color: #007eff">23.1%</span>増加（<span style="color: #007eff">16秒</span>間）
+攻撃力を{{SkillValue|23.1%}}増加（{{SkillValue|16秒}}間）
 | SkillDescriptionLv4 = 装弾数が0になった時、すぐにリロード/
-攻撃力を<span style="color: #007eff">27.3%</span>増加（<span style="color: #007eff">16秒</span>間）
+攻撃力を{{SkillValue|27.3%}}増加（{{SkillValue|16秒}}間）
 | SkillDescriptionLv5 = 装弾数が0になった時、すぐにリロード/
-攻撃力を<span style="color: #007eff">28.4%</span>増加（<span style="color: #007eff">16秒</span>間）
+攻撃力を{{SkillValue|28.4%}}増加（{{SkillValue|16秒}}間）
 | SkillDescriptionLv6 = 装弾数が0になった時、すぐにリロード/
-攻撃力を<span style="color: #007eff">29.4%</span>増加（<span style="color: #007eff">16秒</span>間）
+攻撃力を{{SkillValue|29.4%}}増加（{{SkillValue|16秒}}間）
 | SkillDescriptionLv7 = 装弾数が0になった時、すぐにリロード/
-攻撃力を<span style="color: #007eff">33.6%</span>増加（<span style="color: #007eff">16秒</span>間）
+攻撃力を{{SkillValue|33.6%}}増加（{{SkillValue|16秒}}間）
 | SkillDescriptionLv8 = 装弾数が0になった時、すぐにリロード/
-攻撃力を<span style="color: #007eff">34.7%</span>増加（<span style="color: #007eff">16秒</span>間）
+攻撃力を{{SkillValue|34.7%}}増加（{{SkillValue|16秒}}間）
 | SkillDescriptionLv9 = 装弾数が0になった時、すぐにリロード/
-攻撃力を<span style="color: #007eff">35.7%</span>増加（<span style="color: #007eff">16秒</span>間）
+攻撃力を{{SkillValue|35.7%}}増加（{{SkillValue|16秒}}間）
 | SkillDescriptionLv10 = 装弾数が0になった時、すぐにリロード/
-攻撃力を<span style="color: #007eff">39.9%</span>増加（<span style="color: #007eff">16秒</span>間）
+攻撃力を{{SkillValue|39.9%}}増加（{{SkillValue|16秒}}間）
 }}
 
 {{SkillTable
@@ -106,17 +106,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = 攻撃速度を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 攻撃速度を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 攻撃速度を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 攻撃速度を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 攻撃速度を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 攻撃速度を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 攻撃速度を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 攻撃速度を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 攻撃速度を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 攻撃速度を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 攻撃速度を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 攻撃速度を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 攻撃速度を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 攻撃速度を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 攻撃速度を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 攻撃速度を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 攻撃速度を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 攻撃速度を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 攻撃速度を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 攻撃速度を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 攻撃速度を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 攻撃速度を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -124,16 +124,16 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_EXTRADAMAGE
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">2.7%</span>分の追加ダメージ
-| SkillDescriptionLv1 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">2.7%</span>分の追加ダメージ
-| SkillDescriptionLv2 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">2.8%</span>分の追加ダメージ
-| SkillDescriptionLv3 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">3%</span>分の追加ダメージ
-| SkillDescriptionLv4 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">3.5%</span>分の追加ダメージ
-| SkillDescriptionLv5 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">3.6%</span>分の追加ダメージ
-| SkillDescriptionLv6 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">3.8%</span>分の追加ダメージ
-| SkillDescriptionLv7 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">4.3%</span>分の追加ダメージ
-| SkillDescriptionLv8 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">4.4%</span>分の追加ダメージ
-| SkillDescriptionLv9 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">4.6%</span>分の追加ダメージ
-| SkillDescriptionLv10 = 攻撃時、隠れていない敵に対して攻撃力の<span style="color: #007eff">5.2%</span>分の追加ダメージ
+| SkillDescriptionGeneral = 攻撃時、隠れていない敵に対して攻撃力の{{SkillValue|2.7%}}分の追加ダメージ
+| SkillDescriptionLv1 = 攻撃時、隠れていない敵に対して攻撃力の{{SkillValue|2.7%}}分の追加ダメージ
+| SkillDescriptionLv2 = 攻撃時、隠れていない敵に対して攻撃力の{{SkillValue|2.8%}}分の追加ダメージ
+| SkillDescriptionLv3 = 攻撃時、隠れていない敵に対して攻撃力の{{SkillValue|3%}}分の追加ダメージ
+| SkillDescriptionLv4 = 攻撃時、隠れていない敵に対して攻撃力の{{SkillValue|3.5%}}分の追加ダメージ
+| SkillDescriptionLv5 = 攻撃時、隠れていない敵に対して攻撃力の{{SkillValue|3.6%}}分の追加ダメージ
+| SkillDescriptionLv6 = 攻撃時、隠れていない敵に対して攻撃力の{{SkillValue|3.8%}}分の追加ダメージ
+| SkillDescriptionLv7 = 攻撃時、隠れていない敵に対して攻撃力の{{SkillValue|4.3%}}分の追加ダメージ
+| SkillDescriptionLv8 = 攻撃時、隠れていない敵に対して攻撃力の{{SkillValue|4.4%}}分の追加ダメージ
+| SkillDescriptionLv9 = 攻撃時、隠れていない敵に対して攻撃力の{{SkillValue|4.6%}}分の追加ダメージ
+| SkillDescriptionLv10 = 攻撃時、隠れていない敵に対して攻撃力の{{SkillValue|5.2%}}分の追加ダメージ
 }}
 [[Category:Characters]]

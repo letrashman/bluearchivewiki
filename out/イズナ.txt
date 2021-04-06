@@ -59,17 +59,17 @@ TODO: Fill this out.
 | SkillIcon = Mystic_COMMON_SKILLICON_EVASION
 | SkillDamageType = Mystic
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">27.4%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv1 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">27.4%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv2 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">31.5%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv3 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">39.7%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv4 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">43.9%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv5 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">52.1%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv6 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">56.2%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv7 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">64.4%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv8 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">68.5%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv9 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">76.8%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv10 = 指定した位置に移動した後、攻撃速度を<span style="color: #007eff">80.9%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionGeneral = 指定した位置に移動した後、攻撃速度を{{SkillValue|27.4%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv1 = 指定した位置に移動した後、攻撃速度を{{SkillValue|27.4%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv2 = 指定した位置に移動した後、攻撃速度を{{SkillValue|31.5%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv3 = 指定した位置に移動した後、攻撃速度を{{SkillValue|39.7%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv4 = 指定した位置に移動した後、攻撃速度を{{SkillValue|43.9%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv5 = 指定した位置に移動した後、攻撃速度を{{SkillValue|52.1%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv6 = 指定した位置に移動した後、攻撃速度を{{SkillValue|56.2%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv7 = 指定した位置に移動した後、攻撃速度を{{SkillValue|64.4%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv8 = 指定した位置に移動した後、攻撃速度を{{SkillValue|68.5%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv9 = 指定した位置に移動した後、攻撃速度を{{SkillValue|76.8%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv10 = 指定した位置に移動した後、攻撃速度を{{SkillValue|80.9%}}増加（{{SkillValue|30秒}}間）
 }}
 
 {{SkillTable
@@ -77,17 +77,17 @@ TODO: Fill this out.
 | SkillIcon = Mystic_COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Mystic
 | SkillType = Normal
-| SkillDescriptionGeneral = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">444%</span>分のダメージ
-| SkillDescriptionLv1 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">444%</span>分のダメージ
-| SkillDescriptionLv2 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">466%</span>分のダメージ
-| SkillDescriptionLv3 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">489%</span>分のダメージ
-| SkillDescriptionLv4 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">578%</span>分のダメージ
-| SkillDescriptionLv5 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">600%</span>分のダメージ
-| SkillDescriptionLv6 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">622%</span>分のダメージ
-| SkillDescriptionLv7 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">711%</span>分のダメージ
-| SkillDescriptionLv8 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">733%</span>分のダメージ
-| SkillDescriptionLv9 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">756%</span>分のダメージ
-| SkillDescriptionLv10 = 通常攻撃<span style="color: #007eff">6回</span>毎に、円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">845%</span>分のダメージ
+| SkillDescriptionGeneral = 通常攻撃{{SkillValue|6回}}毎に、円形範囲内の敵に対して、攻撃力の{{SkillValue|444%}}分のダメージ
+| SkillDescriptionLv1 = 通常攻撃{{SkillValue|6回}}毎に、円形範囲内の敵に対して、攻撃力の{{SkillValue|444%}}分のダメージ
+| SkillDescriptionLv2 = 通常攻撃{{SkillValue|6回}}毎に、円形範囲内の敵に対して、攻撃力の{{SkillValue|466%}}分のダメージ
+| SkillDescriptionLv3 = 通常攻撃{{SkillValue|6回}}毎に、円形範囲内の敵に対して、攻撃力の{{SkillValue|489%}}分のダメージ
+| SkillDescriptionLv4 = 通常攻撃{{SkillValue|6回}}毎に、円形範囲内の敵に対して、攻撃力の{{SkillValue|578%}}分のダメージ
+| SkillDescriptionLv5 = 通常攻撃{{SkillValue|6回}}毎に、円形範囲内の敵に対して、攻撃力の{{SkillValue|600%}}分のダメージ
+| SkillDescriptionLv6 = 通常攻撃{{SkillValue|6回}}毎に、円形範囲内の敵に対して、攻撃力の{{SkillValue|622%}}分のダメージ
+| SkillDescriptionLv7 = 通常攻撃{{SkillValue|6回}}毎に、円形範囲内の敵に対して、攻撃力の{{SkillValue|711%}}分のダメージ
+| SkillDescriptionLv8 = 通常攻撃{{SkillValue|6回}}毎に、円形範囲内の敵に対して、攻撃力の{{SkillValue|733%}}分のダメージ
+| SkillDescriptionLv9 = 通常攻撃{{SkillValue|6回}}毎に、円形範囲内の敵に対して、攻撃力の{{SkillValue|756%}}分のダメージ
+| SkillDescriptionLv10 = 通常攻撃{{SkillValue|6回}}毎に、円形範囲内の敵に対して、攻撃力の{{SkillValue|845%}}分のダメージ
 }}
 
 {{SkillTable
@@ -95,17 +95,17 @@ TODO: Fill this out.
 | SkillIcon = Mystic_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Mystic
 | SkillType = Passive
-| SkillDescriptionGeneral = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 会心ダメージ率を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 会心ダメージ率を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 会心ダメージ率を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 会心ダメージ率を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 会心ダメージ率を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 会心ダメージ率を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 会心ダメージ率を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 会心ダメージ率を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 会心ダメージ率を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 会心ダメージ率を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 会心ダメージ率を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 会心ダメージ率を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 会心ダメージ率を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 会心ダメージ率を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 会心ダメージ率を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 会心ダメージ率を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 会心ダメージ率を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 会心ダメージ率を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 会心ダメージ率を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 会心ダメージ率を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -113,16 +113,16 @@ TODO: Fill this out.
 | SkillIcon = Mystic_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Mystic
 | SkillType = Sub
-| SkillDescriptionGeneral = Exスキル使用時、攻撃力を<span style="color: #007eff">20.1%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv1 = Exスキル使用時、攻撃力を<span style="color: #007eff">20.1%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv2 = Exスキル使用時、攻撃力を<span style="color: #007eff">21.1%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv3 = Exスキル使用時、攻撃力を<span style="color: #007eff">22.1%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv4 = Exスキル使用時、攻撃力を<span style="color: #007eff">26.2%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv5 = Exスキル使用時、攻撃力を<span style="color: #007eff">27.2%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv6 = Exスキル使用時、攻撃力を<span style="color: #007eff">28.2%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv7 = Exスキル使用時、攻撃力を<span style="color: #007eff">32.2%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv8 = Exスキル使用時、攻撃力を<span style="color: #007eff">33.2%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv9 = Exスキル使用時、攻撃力を<span style="color: #007eff">34.2%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv10 = Exスキル使用時、攻撃力を<span style="color: #007eff">38.3%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionGeneral = Exスキル使用時、攻撃力を{{SkillValue|20.1%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv1 = Exスキル使用時、攻撃力を{{SkillValue|20.1%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv2 = Exスキル使用時、攻撃力を{{SkillValue|21.1%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv3 = Exスキル使用時、攻撃力を{{SkillValue|22.1%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv4 = Exスキル使用時、攻撃力を{{SkillValue|26.2%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv5 = Exスキル使用時、攻撃力を{{SkillValue|27.2%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv6 = Exスキル使用時、攻撃力を{{SkillValue|28.2%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv7 = Exスキル使用時、攻撃力を{{SkillValue|32.2%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv8 = Exスキル使用時、攻撃力を{{SkillValue|33.2%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv9 = Exスキル使用時、攻撃力を{{SkillValue|34.2%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv10 = Exスキル使用時、攻撃力を{{SkillValue|38.3%}}増加（{{SkillValue|30秒}}間）
 }}
 [[Category:Characters]]

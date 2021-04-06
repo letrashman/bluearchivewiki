@@ -58,17 +58,17 @@ TODO: Fill this out.
 | SkillIcon = Mystic_COMMON_SKILLICON_BATTLEITEM
 | SkillDamageType = Mystic
 | SkillBaseCost = 2
-| SkillDescriptionGeneral = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">120%</span>分の回復
-| SkillDescriptionLv1 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">120%</span>分の回復
-| SkillDescriptionLv2 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">138%</span>分の回復
-| SkillDescriptionLv3 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">174%</span>分の回復
-| SkillDescriptionLv4 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">192%</span>分の回復
-| SkillDescriptionLv5 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">228%</span>分の回復
-| SkillDescriptionLv6 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">246%</span>分の回復
-| SkillDescriptionLv7 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">282%</span>分の回復
-| SkillDescriptionLv8 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">300%</span>分の回復
-| SkillDescriptionLv9 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">336%</span>分の回復
-| SkillDescriptionLv10 = 味方1人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">354%</span>分の回復
+| SkillDescriptionGeneral = 味方1人を指定した位置に移動させた後、治癒力の{{SkillValue|120%}}分の回復
+| SkillDescriptionLv1 = 味方1人を指定した位置に移動させた後、治癒力の{{SkillValue|120%}}分の回復
+| SkillDescriptionLv2 = 味方1人を指定した位置に移動させた後、治癒力の{{SkillValue|138%}}分の回復
+| SkillDescriptionLv3 = 味方1人を指定した位置に移動させた後、治癒力の{{SkillValue|174%}}分の回復
+| SkillDescriptionLv4 = 味方1人を指定した位置に移動させた後、治癒力の{{SkillValue|192%}}分の回復
+| SkillDescriptionLv5 = 味方1人を指定した位置に移動させた後、治癒力の{{SkillValue|228%}}分の回復
+| SkillDescriptionLv6 = 味方1人を指定した位置に移動させた後、治癒力の{{SkillValue|246%}}分の回復
+| SkillDescriptionLv7 = 味方1人を指定した位置に移動させた後、治癒力の{{SkillValue|282%}}分の回復
+| SkillDescriptionLv8 = 味方1人を指定した位置に移動させた後、治癒力の{{SkillValue|300%}}分の回復
+| SkillDescriptionLv9 = 味方1人を指定した位置に移動させた後、治癒力の{{SkillValue|336%}}分の回復
+| SkillDescriptionLv10 = 味方1人を指定した位置に移動させた後、治癒力の{{SkillValue|354%}}分の回復
 }}
 
 {{SkillTable
@@ -76,17 +76,17 @@ TODO: Fill this out.
 | SkillIcon = Mystic_COMMON_SKILLICON_HEAL
 | SkillDamageType = Mystic
 | SkillType = Normal
-| SkillDescriptionGeneral = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">94%</span>分の回復
-| SkillDescriptionLv1 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">94%</span>分の回復
-| SkillDescriptionLv2 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">98.7%</span>分の回復
-| SkillDescriptionLv3 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">103%</span>分の回復
-| SkillDescriptionLv4 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">122%</span>分の回復
-| SkillDescriptionLv5 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">126%</span>分の回復
-| SkillDescriptionLv6 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">131%</span>分の回復
-| SkillDescriptionLv7 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">150%</span>分の回復
-| SkillDescriptionLv8 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">155%</span>分の回復
-| SkillDescriptionLv9 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">159%</span>分の回復
-| SkillDescriptionLv10 = <span style="color: #007eff">35秒</span>毎に、味方1人に対して治癒力の<span style="color: #007eff">178%</span>分の回復
+| SkillDescriptionGeneral = {{SkillValue|35秒}}毎に、味方1人に対して治癒力の{{SkillValue|94%}}分の回復
+| SkillDescriptionLv1 = {{SkillValue|35秒}}毎に、味方1人に対して治癒力の{{SkillValue|94%}}分の回復
+| SkillDescriptionLv2 = {{SkillValue|35秒}}毎に、味方1人に対して治癒力の{{SkillValue|98.7%}}分の回復
+| SkillDescriptionLv3 = {{SkillValue|35秒}}毎に、味方1人に対して治癒力の{{SkillValue|103%}}分の回復
+| SkillDescriptionLv4 = {{SkillValue|35秒}}毎に、味方1人に対して治癒力の{{SkillValue|122%}}分の回復
+| SkillDescriptionLv5 = {{SkillValue|35秒}}毎に、味方1人に対して治癒力の{{SkillValue|126%}}分の回復
+| SkillDescriptionLv6 = {{SkillValue|35秒}}毎に、味方1人に対して治癒力の{{SkillValue|131%}}分の回復
+| SkillDescriptionLv7 = {{SkillValue|35秒}}毎に、味方1人に対して治癒力の{{SkillValue|150%}}分の回復
+| SkillDescriptionLv8 = {{SkillValue|35秒}}毎に、味方1人に対して治癒力の{{SkillValue|155%}}分の回復
+| SkillDescriptionLv9 = {{SkillValue|35秒}}毎に、味方1人に対して治癒力の{{SkillValue|159%}}分の回復
+| SkillDescriptionLv10 = {{SkillValue|35秒}}毎に、味方1人に対して治癒力の{{SkillValue|178%}}分の回復
 }}
 
 {{SkillTable
@@ -94,17 +94,17 @@ TODO: Fill this out.
 | SkillIcon = Mystic_COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Mystic
 | SkillType = Passive
-| SkillDescriptionGeneral = 治癒力を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 治癒力を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 治癒力を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 治癒力を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 治癒力を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 治癒力を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 治癒力を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 治癒力を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 治癒力を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 治癒力を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 治癒力を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 治癒力を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 治癒力を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 治癒力を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 治癒力を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 治癒力を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 治癒力を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 治癒力を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 治癒力を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 治癒力を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 治癒力を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 治癒力を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -112,16 +112,16 @@ TODO: Fill this out.
 | SkillIcon = Mystic_COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Mystic
 | SkillType = Sub
-| SkillDescriptionGeneral = 味方のCC抵抗力を<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv1 = 味方のCC抵抗力を<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv2 = 味方のCC抵抗力を<span style="color: #007eff">9.5%</span>増加
-| SkillDescriptionLv3 = 味方のCC抵抗力を<span style="color: #007eff">10%</span>増加
-| SkillDescriptionLv4 = 味方のCC抵抗力を<span style="color: #007eff">11.8%</span>増加
-| SkillDescriptionLv5 = 味方のCC抵抗力を<span style="color: #007eff">12.3%</span>増加
-| SkillDescriptionLv6 = 味方のCC抵抗力を<span style="color: #007eff">12.7%</span>増加
-| SkillDescriptionLv7 = 味方のCC抵抗力を<span style="color: #007eff">14.5%</span>増加
-| SkillDescriptionLv8 = 味方のCC抵抗力を<span style="color: #007eff">15%</span>増加
-| SkillDescriptionLv9 = 味方のCC抵抗力を<span style="color: #007eff">15.5%</span>増加
-| SkillDescriptionLv10 = 味方のCC抵抗力を<span style="color: #007eff">17.3%</span>増加
+| SkillDescriptionGeneral = 味方のCC抵抗力を{{SkillValue|9.1%}}増加
+| SkillDescriptionLv1 = 味方のCC抵抗力を{{SkillValue|9.1%}}増加
+| SkillDescriptionLv2 = 味方のCC抵抗力を{{SkillValue|9.5%}}増加
+| SkillDescriptionLv3 = 味方のCC抵抗力を{{SkillValue|10%}}増加
+| SkillDescriptionLv4 = 味方のCC抵抗力を{{SkillValue|11.8%}}増加
+| SkillDescriptionLv5 = 味方のCC抵抗力を{{SkillValue|12.3%}}増加
+| SkillDescriptionLv6 = 味方のCC抵抗力を{{SkillValue|12.7%}}増加
+| SkillDescriptionLv7 = 味方のCC抵抗力を{{SkillValue|14.5%}}増加
+| SkillDescriptionLv8 = 味方のCC抵抗力を{{SkillValue|15%}}増加
+| SkillDescriptionLv9 = 味方のCC抵抗力を{{SkillValue|15.5%}}増加
+| SkillDescriptionLv10 = 味方のCC抵抗力を{{SkillValue|17.3%}}増加
 }}
 [[Category:Characters]]

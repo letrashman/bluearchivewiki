@@ -58,17 +58,17 @@ TODO: Fill this out.
 | SkillIcon = SKILLICON_MUTSUKI_EXSKILL
 | SkillDamageType = Explosive
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = 3つの円形範囲内の敵に攻撃力の<span style="color: #007eff">409%</span>分のダメージ
-| SkillDescriptionLv1 = 3つの円形範囲内の敵に攻撃力の<span style="color: #007eff">409%</span>分のダメージ
-| SkillDescriptionLv2 = 3つの円形範囲内の敵に攻撃力の<span style="color: #007eff">471%</span>分のダメージ
-| SkillDescriptionLv3 = 3つの円形範囲内の敵に攻撃力の<span style="color: #007eff">594%</span>分のダメージ
-| SkillDescriptionLv4 = 3つの円形範囲内の敵に攻撃力の<span style="color: #007eff">655%</span>分のダメージ
-| SkillDescriptionLv5 = 3つの円形範囲内の敵に攻撃力の<span style="color: #007eff">778%</span>分のダメージ
-| SkillDescriptionLv6 = 3つの円形範囲内の敵に攻撃力の<span style="color: #007eff">839%</span>分のダメージ
-| SkillDescriptionLv7 = 3つの円形範囲内の敵に攻撃力の<span style="color: #007eff">962%</span>分のダメージ
-| SkillDescriptionLv8 = 3つの円形範囲内の敵に攻撃力の<span style="color: #007eff">1024%</span>分のダメージ
-| SkillDescriptionLv9 = 3つの円形範囲内の敵に攻撃力の<span style="color: #007eff">1147%</span>分のダメージ
-| SkillDescriptionLv10 = 3つの円形範囲内の敵に攻撃力の<span style="color: #007eff">1208%</span>分のダメージ
+| SkillDescriptionGeneral = 3つの円形範囲内の敵に攻撃力の{{SkillValue|409%}}分のダメージ
+| SkillDescriptionLv1 = 3つの円形範囲内の敵に攻撃力の{{SkillValue|409%}}分のダメージ
+| SkillDescriptionLv2 = 3つの円形範囲内の敵に攻撃力の{{SkillValue|471%}}分のダメージ
+| SkillDescriptionLv3 = 3つの円形範囲内の敵に攻撃力の{{SkillValue|594%}}分のダメージ
+| SkillDescriptionLv4 = 3つの円形範囲内の敵に攻撃力の{{SkillValue|655%}}分のダメージ
+| SkillDescriptionLv5 = 3つの円形範囲内の敵に攻撃力の{{SkillValue|778%}}分のダメージ
+| SkillDescriptionLv6 = 3つの円形範囲内の敵に攻撃力の{{SkillValue|839%}}分のダメージ
+| SkillDescriptionLv7 = 3つの円形範囲内の敵に攻撃力の{{SkillValue|962%}}分のダメージ
+| SkillDescriptionLv8 = 3つの円形範囲内の敵に攻撃力の{{SkillValue|1024%}}分のダメージ
+| SkillDescriptionLv9 = 3つの円形範囲内の敵に攻撃力の{{SkillValue|1147%}}分のダメージ
+| SkillDescriptionLv10 = 3つの円形範囲内の敵に攻撃力の{{SkillValue|1208%}}分のダメージ
 }}
 
 {{SkillTable
@@ -76,17 +76,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_BATTLEITEM
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = 攻撃力の<span style="color: #007eff">334%</span>分のダメージを与える地雷を、<span style="color: #007eff">20秒</span>毎に3つ設置（それぞれ<span style="color: #007eff">15秒</span>で消失）
-| SkillDescriptionLv1 = 攻撃力の<span style="color: #007eff">334%</span>分のダメージを与える地雷を、<span style="color: #007eff">20秒</span>毎に3つ設置（それぞれ<span style="color: #007eff">15秒</span>で消失）
-| SkillDescriptionLv2 = 攻撃力の<span style="color: #007eff">351%</span>分のダメージを与える地雷を、<span style="color: #007eff">20秒</span>毎に3つ設置（それぞれ<span style="color: #007eff">15秒</span>で消失）
-| SkillDescriptionLv3 = 攻撃力の<span style="color: #007eff">368%</span>分のダメージを与える地雷を、<span style="color: #007eff">20秒</span>毎に3つ設置（それぞれ<span style="color: #007eff">15秒</span>で消失）
-| SkillDescriptionLv4 = 攻撃力の<span style="color: #007eff">434%</span>分のダメージを与える地雷を、<span style="color: #007eff">20秒</span>毎に3つ設置（それぞれ<span style="color: #007eff">15秒</span>で消失）
-| SkillDescriptionLv5 = 攻撃力の<span style="color: #007eff">451%</span>分のダメージを与える地雷を、<span style="color: #007eff">20秒</span>毎に3つ設置（それぞれ<span style="color: #007eff">15秒</span>で消失）
-| SkillDescriptionLv6 = 攻撃力の<span style="color: #007eff">468%</span>分のダメージを与える地雷を、<span style="color: #007eff">20秒</span>毎に3つ設置（それぞれ<span style="color: #007eff">15秒</span>で消失）
-| SkillDescriptionLv7 = 攻撃力の<span style="color: #007eff">535%</span>分のダメージを与える地雷を、<span style="color: #007eff">20秒</span>毎に3つ設置（それぞれ<span style="color: #007eff">15秒</span>で消失）
-| SkillDescriptionLv8 = 攻撃力の<span style="color: #007eff">552%</span>分のダメージを与える地雷を、<span style="color: #007eff">20秒</span>毎に3つ設置（それぞれ<span style="color: #007eff">15秒</span>で消失）
-| SkillDescriptionLv9 = 攻撃力の<span style="color: #007eff">568%</span>分のダメージを与える地雷を、<span style="color: #007eff">20秒</span>毎に3つ設置（それぞれ<span style="color: #007eff">15秒</span>で消失）
-| SkillDescriptionLv10 = 攻撃力の<span style="color: #007eff">635%</span>分のダメージを与える地雷を、<span style="color: #007eff">20秒</span>毎に3つ設置（それぞれ<span style="color: #007eff">15秒</span>で消失）
+| SkillDescriptionGeneral = 攻撃力の{{SkillValue|334%}}分のダメージを与える地雷を、{{SkillValue|20秒}}毎に3つ設置（それぞれ{{SkillValue|15秒}}で消失）
+| SkillDescriptionLv1 = 攻撃力の{{SkillValue|334%}}分のダメージを与える地雷を、{{SkillValue|20秒}}毎に3つ設置（それぞれ{{SkillValue|15秒}}で消失）
+| SkillDescriptionLv2 = 攻撃力の{{SkillValue|351%}}分のダメージを与える地雷を、{{SkillValue|20秒}}毎に3つ設置（それぞれ{{SkillValue|15秒}}で消失）
+| SkillDescriptionLv3 = 攻撃力の{{SkillValue|368%}}分のダメージを与える地雷を、{{SkillValue|20秒}}毎に3つ設置（それぞれ{{SkillValue|15秒}}で消失）
+| SkillDescriptionLv4 = 攻撃力の{{SkillValue|434%}}分のダメージを与える地雷を、{{SkillValue|20秒}}毎に3つ設置（それぞれ{{SkillValue|15秒}}で消失）
+| SkillDescriptionLv5 = 攻撃力の{{SkillValue|451%}}分のダメージを与える地雷を、{{SkillValue|20秒}}毎に3つ設置（それぞれ{{SkillValue|15秒}}で消失）
+| SkillDescriptionLv6 = 攻撃力の{{SkillValue|468%}}分のダメージを与える地雷を、{{SkillValue|20秒}}毎に3つ設置（それぞれ{{SkillValue|15秒}}で消失）
+| SkillDescriptionLv7 = 攻撃力の{{SkillValue|535%}}分のダメージを与える地雷を、{{SkillValue|20秒}}毎に3つ設置（それぞれ{{SkillValue|15秒}}で消失）
+| SkillDescriptionLv8 = 攻撃力の{{SkillValue|552%}}分のダメージを与える地雷を、{{SkillValue|20秒}}毎に3つ設置（それぞれ{{SkillValue|15秒}}で消失）
+| SkillDescriptionLv9 = 攻撃力の{{SkillValue|568%}}分のダメージを与える地雷を、{{SkillValue|20秒}}毎に3つ設置（それぞれ{{SkillValue|15秒}}で消失）
+| SkillDescriptionLv10 = 攻撃力の{{SkillValue|635%}}分のダメージを与える地雷を、{{SkillValue|20秒}}毎に3つ設置（それぞれ{{SkillValue|15秒}}で消失）
 }}
 
 {{SkillTable
@@ -94,17 +94,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = 攻撃力を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 攻撃力を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 攻撃力を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 攻撃力を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 攻撃力を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 攻撃力を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 攻撃力を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 攻撃力を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 攻撃力を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 攻撃力を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 攻撃力を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 攻撃力を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 攻撃力を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 攻撃力を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 攻撃力を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 攻撃力を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 攻撃力を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 攻撃力を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 攻撃力を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 攻撃力を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 攻撃力を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 攻撃力を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -112,16 +112,16 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = 通常攻撃時、<span style="color: #007eff">25%</span>の確率で命中値を<span style="color: #007eff">30.2%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv1 = 通常攻撃時、<span style="color: #007eff">25%</span>の確率で命中値を<span style="color: #007eff">30.2%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv2 = 通常攻撃時、<span style="color: #007eff">25%</span>の確率で命中値を<span style="color: #007eff">31.7%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv3 = 通常攻撃時、<span style="color: #007eff">25%</span>の確率で命中値を<span style="color: #007eff">33.2%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv4 = 通常攻撃時、<span style="color: #007eff">25%</span>の確率で命中値を<span style="color: #007eff">39.3%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv5 = 通常攻撃時、<span style="color: #007eff">25%</span>の確率で命中値を<span style="color: #007eff">40.8%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv6 = 通常攻撃時、<span style="color: #007eff">25%</span>の確率で命中値を<span style="color: #007eff">42.3%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv7 = 通常攻撃時、<span style="color: #007eff">25%</span>の確率で命中値を<span style="color: #007eff">48.3%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv8 = 通常攻撃時、<span style="color: #007eff">25%</span>の確率で命中値を<span style="color: #007eff">49.9%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv9 = 通常攻撃時、<span style="color: #007eff">25%</span>の確率で命中値を<span style="color: #007eff">51.4%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv10 = 通常攻撃時、<span style="color: #007eff">25%</span>の確率で命中値を<span style="color: #007eff">57.4%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
+| SkillDescriptionGeneral = 通常攻撃時、{{SkillValue|25%}}の確率で命中値を{{SkillValue|30.2%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv1 = 通常攻撃時、{{SkillValue|25%}}の確率で命中値を{{SkillValue|30.2%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv2 = 通常攻撃時、{{SkillValue|25%}}の確率で命中値を{{SkillValue|31.7%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv3 = 通常攻撃時、{{SkillValue|25%}}の確率で命中値を{{SkillValue|33.2%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv4 = 通常攻撃時、{{SkillValue|25%}}の確率で命中値を{{SkillValue|39.3%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv5 = 通常攻撃時、{{SkillValue|25%}}の確率で命中値を{{SkillValue|40.8%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv6 = 通常攻撃時、{{SkillValue|25%}}の確率で命中値を{{SkillValue|42.3%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv7 = 通常攻撃時、{{SkillValue|25%}}の確率で命中値を{{SkillValue|48.3%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv8 = 通常攻撃時、{{SkillValue|25%}}の確率で命中値を{{SkillValue|49.9%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv9 = 通常攻撃時、{{SkillValue|25%}}の確率で命中値を{{SkillValue|51.4%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv10 = 通常攻撃時、{{SkillValue|25%}}の確率で命中値を{{SkillValue|57.4%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
 }}
 [[Category:Characters]]

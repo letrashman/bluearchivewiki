@@ -59,17 +59,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_BATTLEITEM
 | SkillDamageType = Explosive
 | SkillBaseCost = 5
-| SkillDescriptionGeneral = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">109%</span>分の回復
-| SkillDescriptionLv1 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">109%</span>分の回復
-| SkillDescriptionLv2 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">125%</span>分の回復
-| SkillDescriptionLv3 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">158%</span>分の回復
-| SkillDescriptionLv4 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">174%</span>分の回復
-| SkillDescriptionLv5 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">207%</span>分の回復
-| SkillDescriptionLv6 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">223%</span>分の回復
-| SkillDescriptionLv7 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">256%</span>分の回復
-| SkillDescriptionLv8 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">273%</span>分の回復
-| SkillDescriptionLv9 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">305%</span>分の回復
-| SkillDescriptionLv10 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">322%</span>分の回復
+| SkillDescriptionGeneral = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|109%}}分の回復
+| SkillDescriptionLv1 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|109%}}分の回復
+| SkillDescriptionLv2 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|125%}}分の回復
+| SkillDescriptionLv3 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|158%}}分の回復
+| SkillDescriptionLv4 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|174%}}分の回復
+| SkillDescriptionLv5 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|207%}}分の回復
+| SkillDescriptionLv6 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|223%}}分の回復
+| SkillDescriptionLv7 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|256%}}分の回復
+| SkillDescriptionLv8 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|273%}}分の回復
+| SkillDescriptionLv9 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|305%}}分の回復
+| SkillDescriptionLv10 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|322%}}分の回復
 }}
 
 {{SkillTable
@@ -77,17 +77,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = <span style="color: #007eff">20秒</span>毎に、最大HPが最も高い味方1人の防御力を<span style="color: #007eff">18.1%</span>増加（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv1 = <span style="color: #007eff">20秒</span>毎に、最大HPが最も高い味方1人の防御力を<span style="color: #007eff">18.1%</span>増加（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv2 = <span style="color: #007eff">20秒</span>毎に、最大HPが最も高い味方1人の防御力を<span style="color: #007eff">19%</span>増加（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv3 = <span style="color: #007eff">20秒</span>毎に、最大HPが最も高い味方1人の防御力を<span style="color: #007eff">19.9%</span>増加（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv4 = <span style="color: #007eff">20秒</span>毎に、最大HPが最も高い味方1人の防御力を<span style="color: #007eff">23.6%</span>増加（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv5 = <span style="color: #007eff">20秒</span>毎に、最大HPが最も高い味方1人の防御力を<span style="color: #007eff">24.5%</span>増加（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv6 = <span style="color: #007eff">20秒</span>毎に、最大HPが最も高い味方1人の防御力を<span style="color: #007eff">25.4%</span>増加（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv7 = <span style="color: #007eff">20秒</span>毎に、最大HPが最も高い味方1人の防御力を<span style="color: #007eff">29%</span>増加（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv8 = <span style="color: #007eff">20秒</span>毎に、最大HPが最も高い味方1人の防御力を<span style="color: #007eff">29.9%</span>増加（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv9 = <span style="color: #007eff">20秒</span>毎に、最大HPが最も高い味方1人の防御力を<span style="color: #007eff">30.8%</span>増加（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv10 = <span style="color: #007eff">20秒</span>毎に、最大HPが最も高い味方1人の防御力を<span style="color: #007eff">34.4%</span>増加（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionGeneral = {{SkillValue|20秒}}毎に、最大HPが最も高い味方1人の防御力を{{SkillValue|18.1%}}増加（{{SkillValue|16秒}}間）
+| SkillDescriptionLv1 = {{SkillValue|20秒}}毎に、最大HPが最も高い味方1人の防御力を{{SkillValue|18.1%}}増加（{{SkillValue|16秒}}間）
+| SkillDescriptionLv2 = {{SkillValue|20秒}}毎に、最大HPが最も高い味方1人の防御力を{{SkillValue|19%}}増加（{{SkillValue|16秒}}間）
+| SkillDescriptionLv3 = {{SkillValue|20秒}}毎に、最大HPが最も高い味方1人の防御力を{{SkillValue|19.9%}}増加（{{SkillValue|16秒}}間）
+| SkillDescriptionLv4 = {{SkillValue|20秒}}毎に、最大HPが最も高い味方1人の防御力を{{SkillValue|23.6%}}増加（{{SkillValue|16秒}}間）
+| SkillDescriptionLv5 = {{SkillValue|20秒}}毎に、最大HPが最も高い味方1人の防御力を{{SkillValue|24.5%}}増加（{{SkillValue|16秒}}間）
+| SkillDescriptionLv6 = {{SkillValue|20秒}}毎に、最大HPが最も高い味方1人の防御力を{{SkillValue|25.4%}}増加（{{SkillValue|16秒}}間）
+| SkillDescriptionLv7 = {{SkillValue|20秒}}毎に、最大HPが最も高い味方1人の防御力を{{SkillValue|29%}}増加（{{SkillValue|16秒}}間）
+| SkillDescriptionLv8 = {{SkillValue|20秒}}毎に、最大HPが最も高い味方1人の防御力を{{SkillValue|29.9%}}増加（{{SkillValue|16秒}}間）
+| SkillDescriptionLv9 = {{SkillValue|20秒}}毎に、最大HPが最も高い味方1人の防御力を{{SkillValue|30.8%}}増加（{{SkillValue|16秒}}間）
+| SkillDescriptionLv10 = {{SkillValue|20秒}}毎に、最大HPが最も高い味方1人の防御力を{{SkillValue|34.4%}}増加（{{SkillValue|16秒}}間）
 }}
 
 {{SkillTable
@@ -95,17 +95,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = 治癒力を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 治癒力を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 治癒力を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 治癒力を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 治癒力を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 治癒力を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 治癒力を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 治癒力を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 治癒力を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 治癒力を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 治癒力を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 治癒力を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 治癒力を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 治癒力を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 治癒力を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 治癒力を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 治癒力を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 治癒力を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 治癒力を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 治癒力を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 治癒力を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 治癒力を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -113,16 +113,16 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = 味方の会心抵抗値を<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv1 = 味方の会心抵抗値を<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv2 = 味方の会心抵抗値を<span style="color: #007eff">9.5%</span>増加
-| SkillDescriptionLv3 = 味方の会心抵抗値を<span style="color: #007eff">10%</span>増加
-| SkillDescriptionLv4 = 味方の会心抵抗値を<span style="color: #007eff">11.8%</span>増加
-| SkillDescriptionLv5 = 味方の会心抵抗値を<span style="color: #007eff">12.3%</span>増加
-| SkillDescriptionLv6 = 味方の会心抵抗値を<span style="color: #007eff">12.7%</span>増加
-| SkillDescriptionLv7 = 味方の会心抵抗値を<span style="color: #007eff">14.5%</span>増加
-| SkillDescriptionLv8 = 味方の会心抵抗値を<span style="color: #007eff">15%</span>増加
-| SkillDescriptionLv9 = 味方の会心抵抗値を<span style="color: #007eff">15.5%</span>増加
-| SkillDescriptionLv10 = 味方の会心抵抗値を<span style="color: #007eff">17.3%</span>増加
+| SkillDescriptionGeneral = 味方の会心抵抗値を{{SkillValue|9.1%}}増加
+| SkillDescriptionLv1 = 味方の会心抵抗値を{{SkillValue|9.1%}}増加
+| SkillDescriptionLv2 = 味方の会心抵抗値を{{SkillValue|9.5%}}増加
+| SkillDescriptionLv3 = 味方の会心抵抗値を{{SkillValue|10%}}増加
+| SkillDescriptionLv4 = 味方の会心抵抗値を{{SkillValue|11.8%}}増加
+| SkillDescriptionLv5 = 味方の会心抵抗値を{{SkillValue|12.3%}}増加
+| SkillDescriptionLv6 = 味方の会心抵抗値を{{SkillValue|12.7%}}増加
+| SkillDescriptionLv7 = 味方の会心抵抗値を{{SkillValue|14.5%}}増加
+| SkillDescriptionLv8 = 味方の会心抵抗値を{{SkillValue|15%}}増加
+| SkillDescriptionLv9 = 味方の会心抵抗値を{{SkillValue|15.5%}}増加
+| SkillDescriptionLv10 = 味方の会心抵抗値を{{SkillValue|17.3%}}増加
 }}
 [[Category:Characters]]

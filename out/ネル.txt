@@ -58,28 +58,28 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_TARGET
 | SkillDamageType = Penetration
 | SkillBaseCost = 2
-| SkillDescriptionGeneral = 敵1人に攻撃力の<span style="color: #007eff">476%</span>分のダメージ/
-自身が怒り状態の時はダメージが<span style="color: #007eff">1.5</span>倍になる
-| SkillDescriptionLv1 = 敵1人に攻撃力の<span style="color: #007eff">476%</span>分のダメージ/
-自身が怒り状態の時はダメージが<span style="color: #007eff">1.5</span>倍になる
-| SkillDescriptionLv2 = 敵1人に攻撃力の<span style="color: #007eff">548%</span>分のダメージ/
-自身が怒り状態の時はダメージが<span style="color: #007eff">1.5</span>倍になる
-| SkillDescriptionLv3 = 敵1人に攻撃力の<span style="color: #007eff">619%</span>分のダメージ/
-自身が怒り状態の時はダメージが<span style="color: #007eff">1.6</span>倍になる
-| SkillDescriptionLv4 = 敵1人に攻撃力の<span style="color: #007eff">691%</span>分のダメージ/
-自身が怒り状態の時はダメージが<span style="color: #007eff">1.6</span>倍になる
-| SkillDescriptionLv5 = 敵1人に攻撃力の<span style="color: #007eff">762%</span>分のダメージ/
-自身が怒り状態の時はダメージが<span style="color: #007eff">1.7</span>倍になる
-| SkillDescriptionLv6 = 敵1人に攻撃力の<span style="color: #007eff">834%</span>分のダメージ/
-自身が怒り状態の時はダメージが<span style="color: #007eff">1.7</span>倍になる
-| SkillDescriptionLv7 = 敵1人に攻撃力の<span style="color: #007eff">977%</span>分のダメージ/
-自身が怒り状態の時はダメージが<span style="color: #007eff">1.7</span>倍になる
-| SkillDescriptionLv8 = 敵1人に攻撃力の<span style="color: #007eff">1048%</span>分のダメージ/
-自身が怒り状態の時はダメージが<span style="color: #007eff">1.7</span>倍になる
-| SkillDescriptionLv9 = 敵1人に攻撃力の<span style="color: #007eff">1191%</span>分のダメージ/
-自身が怒り状態の時はダメージが<span style="color: #007eff">1.7</span>倍になる
-| SkillDescriptionLv10 = 敵1人に攻撃力の<span style="color: #007eff">1263%</span>分のダメージ/
-自身が怒り状態の時はダメージが<span style="color: #007eff">1.7</span>倍になる
+| SkillDescriptionGeneral = 敵1人に攻撃力の{{SkillValue|476%}}分のダメージ/
+自身が怒り状態の時はダメージが{{SkillValue|1.5}}倍になる
+| SkillDescriptionLv1 = 敵1人に攻撃力の{{SkillValue|476%}}分のダメージ/
+自身が怒り状態の時はダメージが{{SkillValue|1.5}}倍になる
+| SkillDescriptionLv2 = 敵1人に攻撃力の{{SkillValue|548%}}分のダメージ/
+自身が怒り状態の時はダメージが{{SkillValue|1.5}}倍になる
+| SkillDescriptionLv3 = 敵1人に攻撃力の{{SkillValue|619%}}分のダメージ/
+自身が怒り状態の時はダメージが{{SkillValue|1.6}}倍になる
+| SkillDescriptionLv4 = 敵1人に攻撃力の{{SkillValue|691%}}分のダメージ/
+自身が怒り状態の時はダメージが{{SkillValue|1.6}}倍になる
+| SkillDescriptionLv5 = 敵1人に攻撃力の{{SkillValue|762%}}分のダメージ/
+自身が怒り状態の時はダメージが{{SkillValue|1.7}}倍になる
+| SkillDescriptionLv6 = 敵1人に攻撃力の{{SkillValue|834%}}分のダメージ/
+自身が怒り状態の時はダメージが{{SkillValue|1.7}}倍になる
+| SkillDescriptionLv7 = 敵1人に攻撃力の{{SkillValue|977%}}分のダメージ/
+自身が怒り状態の時はダメージが{{SkillValue|1.7}}倍になる
+| SkillDescriptionLv8 = 敵1人に攻撃力の{{SkillValue|1048%}}分のダメージ/
+自身が怒り状態の時はダメージが{{SkillValue|1.7}}倍になる
+| SkillDescriptionLv9 = 敵1人に攻撃力の{{SkillValue|1191%}}分のダメージ/
+自身が怒り状態の時はダメージが{{SkillValue|1.7}}倍になる
+| SkillDescriptionLv10 = 敵1人に攻撃力の{{SkillValue|1263%}}分のダメージ/
+自身が怒り状態の時はダメージが{{SkillValue|1.7}}倍になる
 }}
 
 {{SkillTable
@@ -87,17 +87,17 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_FURY
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">17.8%</span>増加（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv1 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">17.8%</span>増加（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv2 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">18.7%</span>増加（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv3 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">19.6%</span>増加（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv4 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">23.2%</span>増加（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv5 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">24.1%</span>増加（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv6 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">24.9%</span>増加（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv7 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">28.5%</span>増加（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv8 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">29.4%</span>増加（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv9 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">30.3%</span>増加（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv10 = <span style="color: #007eff">30秒</span>毎に自身に対して怒り状態を付与。回避値を<span style="color: #007eff">33.9%</span>増加（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionGeneral = {{SkillValue|30秒}}毎に自身に対して怒り状態を付与。回避値を{{SkillValue|17.8%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv1 = {{SkillValue|30秒}}毎に自身に対して怒り状態を付与。回避値を{{SkillValue|17.8%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv2 = {{SkillValue|30秒}}毎に自身に対して怒り状態を付与。回避値を{{SkillValue|18.7%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv3 = {{SkillValue|30秒}}毎に自身に対して怒り状態を付与。回避値を{{SkillValue|19.6%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv4 = {{SkillValue|30秒}}毎に自身に対して怒り状態を付与。回避値を{{SkillValue|23.2%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv5 = {{SkillValue|30秒}}毎に自身に対して怒り状態を付与。回避値を{{SkillValue|24.1%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv6 = {{SkillValue|30秒}}毎に自身に対して怒り状態を付与。回避値を{{SkillValue|24.9%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv7 = {{SkillValue|30秒}}毎に自身に対して怒り状態を付与。回避値を{{SkillValue|28.5%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv8 = {{SkillValue|30秒}}毎に自身に対して怒り状態を付与。回避値を{{SkillValue|29.4%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv9 = {{SkillValue|30秒}}毎に自身に対して怒り状態を付与。回避値を{{SkillValue|30.3%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv10 = {{SkillValue|30秒}}毎に自身に対して怒り状態を付与。回避値を{{SkillValue|33.9%}}増加（{{SkillValue|20秒}}間）
 }}
 
 {{SkillTable
@@ -105,17 +105,17 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Passive
-| SkillDescriptionGeneral = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 会心ダメージ率を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 会心ダメージ率を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 会心ダメージ率を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 会心ダメージ率を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 会心ダメージ率を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 会心ダメージ率を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 会心ダメージ率を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 会心ダメージ率を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 会心ダメージ率を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 会心ダメージ率を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 会心ダメージ率を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 会心ダメージ率を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 会心ダメージ率を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 会心ダメージ率を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 会心ダメージ率を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 会心ダメージ率を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 会心ダメージ率を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 会心ダメージ率を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 会心ダメージ率を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 会心ダメージ率を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -123,16 +123,16 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = 怒り状態の時、攻撃力を<span style="color: #007eff">16.8%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv1 = 怒り状態の時、攻撃力を<span style="color: #007eff">16.8%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv2 = 怒り状態の時、攻撃力を<span style="color: #007eff">17.6%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv3 = 怒り状態の時、攻撃力を<span style="color: #007eff">18.4%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv4 = 怒り状態の時、攻撃力を<span style="color: #007eff">21.8%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv5 = 怒り状態の時、攻撃力を<span style="color: #007eff">22.6%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv6 = 怒り状態の時、攻撃力を<span style="color: #007eff">23.5%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv7 = 怒り状態の時、攻撃力を<span style="color: #007eff">26.8%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv8 = 怒り状態の時、攻撃力を<span style="color: #007eff">27.7%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv9 = 怒り状態の時、攻撃力を<span style="color: #007eff">28.5%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv10 = 怒り状態の時、攻撃力を<span style="color: #007eff">31.9%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionGeneral = 怒り状態の時、攻撃力を{{SkillValue|16.8%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv1 = 怒り状態の時、攻撃力を{{SkillValue|16.8%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv2 = 怒り状態の時、攻撃力を{{SkillValue|17.6%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv3 = 怒り状態の時、攻撃力を{{SkillValue|18.4%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv4 = 怒り状態の時、攻撃力を{{SkillValue|21.8%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv5 = 怒り状態の時、攻撃力を{{SkillValue|22.6%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv6 = 怒り状態の時、攻撃力を{{SkillValue|23.5%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv7 = 怒り状態の時、攻撃力を{{SkillValue|26.8%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv8 = 怒り状態の時、攻撃力を{{SkillValue|27.7%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv9 = 怒り状態の時、攻撃力を{{SkillValue|28.5%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv10 = 怒り状態の時、攻撃力を{{SkillValue|31.9%}}増加（{{SkillValue|30秒}}間）
 }}
 [[Category:Characters]]

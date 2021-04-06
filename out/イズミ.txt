@@ -57,25 +57,25 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_HEAL
 | SkillDamageType = Explosive
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = 治癒力の<span style="color: #007eff">145%</span>分の回復
-| SkillDescriptionLv1 = 治癒力の<span style="color: #007eff">145%</span>分の回復
-| SkillDescriptionLv2 = 治癒力の<span style="color: #007eff">167%</span>分の回復
-| SkillDescriptionLv3 = 治癒力の<span style="color: #007eff">189%</span>分の回復/
-攻撃速度を<span style="color: #007eff">38.4%</span>増加（<span style="color: #007eff">21秒</span>間）
-| SkillDescriptionLv4 = 治癒力の<span style="color: #007eff">211%</span>分の回復/
-攻撃速度を<span style="color: #007eff">38.4%</span>増加（<span style="color: #007eff">21秒</span>間）
-| SkillDescriptionLv5 = 治癒力の<span style="color: #007eff">254%</span>分の回復/
-攻撃速度を<span style="color: #007eff">38.4%</span>増加（<span style="color: #007eff">21秒</span>間）
-| SkillDescriptionLv6 = 治癒力の<span style="color: #007eff">276%</span>分の回復/
-攻撃速度を<span style="color: #007eff">38.4%</span>増加（<span style="color: #007eff">21秒</span>間）
-| SkillDescriptionLv7 = 治癒力の<span style="color: #007eff">320%</span>分の回復/
-攻撃速度を<span style="color: #007eff">38.4%</span>増加（<span style="color: #007eff">21秒</span>間）
-| SkillDescriptionLv8 = 治癒力の<span style="color: #007eff">342%</span>分の回復/
-攻撃速度を<span style="color: #007eff">38.4%</span>増加（<span style="color: #007eff">21秒</span>間）
-| SkillDescriptionLv9 = 治癒力の<span style="color: #007eff">385%</span>分の回復/
-攻撃速度を<span style="color: #007eff">38.4%</span>増加（<span style="color: #007eff">21秒</span>間）
-| SkillDescriptionLv10 = 治癒力の<span style="color: #007eff">407%</span>分の回復/
-攻撃速度を<span style="color: #007eff">38.4%</span>増加（<span style="color: #007eff">21秒</span>間）
+| SkillDescriptionGeneral = 治癒力の{{SkillValue|145%}}分の回復
+| SkillDescriptionLv1 = 治癒力の{{SkillValue|145%}}分の回復
+| SkillDescriptionLv2 = 治癒力の{{SkillValue|167%}}分の回復
+| SkillDescriptionLv3 = 治癒力の{{SkillValue|189%}}分の回復/
+攻撃速度を{{SkillValue|38.4%}}増加（{{SkillValue|21秒}}間）
+| SkillDescriptionLv4 = 治癒力の{{SkillValue|211%}}分の回復/
+攻撃速度を{{SkillValue|38.4%}}増加（{{SkillValue|21秒}}間）
+| SkillDescriptionLv5 = 治癒力の{{SkillValue|254%}}分の回復/
+攻撃速度を{{SkillValue|38.4%}}増加（{{SkillValue|21秒}}間）
+| SkillDescriptionLv6 = 治癒力の{{SkillValue|276%}}分の回復/
+攻撃速度を{{SkillValue|38.4%}}増加（{{SkillValue|21秒}}間）
+| SkillDescriptionLv7 = 治癒力の{{SkillValue|320%}}分の回復/
+攻撃速度を{{SkillValue|38.4%}}増加（{{SkillValue|21秒}}間）
+| SkillDescriptionLv8 = 治癒力の{{SkillValue|342%}}分の回復/
+攻撃速度を{{SkillValue|38.4%}}増加（{{SkillValue|21秒}}間）
+| SkillDescriptionLv9 = 治癒力の{{SkillValue|385%}}分の回復/
+攻撃速度を{{SkillValue|38.4%}}増加（{{SkillValue|21秒}}間）
+| SkillDescriptionLv10 = 治癒力の{{SkillValue|407%}}分の回復/
+攻撃速度を{{SkillValue|38.4%}}増加（{{SkillValue|21秒}}間）
 }}
 
 {{SkillTable
@@ -83,17 +83,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_TARGET
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">275%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
-| SkillDescriptionLv1 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">275%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
-| SkillDescriptionLv2 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">289%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
-| SkillDescriptionLv3 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">302%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
-| SkillDescriptionLv4 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">357%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
-| SkillDescriptionLv5 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">371%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
-| SkillDescriptionLv6 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">385%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
-| SkillDescriptionLv7 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">440%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
-| SkillDescriptionLv8 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">454%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
-| SkillDescriptionLv9 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">468%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
-| SkillDescriptionLv10 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で敵1人に攻撃力の<span style="color: #007eff">523%</span>分のダメージ（クールタイム<span style="color: #007eff">10秒</span>）
+| SkillDescriptionGeneral = 通常攻撃時、{{SkillValue|20%}}の確率で敵1人に攻撃力の{{SkillValue|275%}}分のダメージ（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv1 = 通常攻撃時、{{SkillValue|20%}}の確率で敵1人に攻撃力の{{SkillValue|275%}}分のダメージ（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv2 = 通常攻撃時、{{SkillValue|20%}}の確率で敵1人に攻撃力の{{SkillValue|289%}}分のダメージ（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv3 = 通常攻撃時、{{SkillValue|20%}}の確率で敵1人に攻撃力の{{SkillValue|302%}}分のダメージ（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv4 = 通常攻撃時、{{SkillValue|20%}}の確率で敵1人に攻撃力の{{SkillValue|357%}}分のダメージ（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv5 = 通常攻撃時、{{SkillValue|20%}}の確率で敵1人に攻撃力の{{SkillValue|371%}}分のダメージ（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv6 = 通常攻撃時、{{SkillValue|20%}}の確率で敵1人に攻撃力の{{SkillValue|385%}}分のダメージ（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv7 = 通常攻撃時、{{SkillValue|20%}}の確率で敵1人に攻撃力の{{SkillValue|440%}}分のダメージ（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv8 = 通常攻撃時、{{SkillValue|20%}}の確率で敵1人に攻撃力の{{SkillValue|454%}}分のダメージ（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv9 = 通常攻撃時、{{SkillValue|20%}}の確率で敵1人に攻撃力の{{SkillValue|468%}}分のダメージ（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv10 = 通常攻撃時、{{SkillValue|20%}}の確率で敵1人に攻撃力の{{SkillValue|523%}}分のダメージ（クールタイム{{SkillValue|10秒}}）
 }}
 
 {{SkillTable
@@ -101,17 +101,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = 被回復率を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 被回復率を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 被回復率を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 被回復率を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 被回復率を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 被回復率を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 被回復率を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 被回復率を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 被回復率を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 被回復率を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 被回復率を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 被回復率を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 被回復率を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 被回復率を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 被回復率を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 被回復率を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 被回復率を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 被回復率を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 被回復率を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 被回復率を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 被回復率を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 被回復率を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -119,16 +119,16 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_EXTRADAMAGE
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.4%</span>~<span style="color: #007eff">2.2%</span>分の追加ダメージ
-| SkillDescriptionLv1 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.4%</span>~<span style="color: #007eff">2.2%</span>分の追加ダメージ
-| SkillDescriptionLv2 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.4%</span>~<span style="color: #007eff">2.3%</span>分の追加ダメージ
-| SkillDescriptionLv3 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.4%</span>~<span style="color: #007eff">2.4%</span>分の追加ダメージ
-| SkillDescriptionLv4 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.5%</span>~<span style="color: #007eff">2.8%</span>分の追加ダメージ
-| SkillDescriptionLv5 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.5%</span>~<span style="color: #007eff">2.9%</span>分の追加ダメージ
-| SkillDescriptionLv6 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.5%</span>~<span style="color: #007eff">3%</span>分の追加ダメージ
-| SkillDescriptionLv7 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.6%</span>~<span style="color: #007eff">3.5%</span>分の追加ダメージ
-| SkillDescriptionLv8 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.6%</span>~<span style="color: #007eff">3.6%</span>分の追加ダメージ
-| SkillDescriptionLv9 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.7%</span>~<span style="color: #007eff">3.7%</span>分の追加ダメージ
-| SkillDescriptionLv10 = 攻撃時、自身の現在のHPに比例して攻撃力の<span style="color: #007eff">0.7%</span>~<span style="color: #007eff">4.1%</span>分の追加ダメージ
+| SkillDescriptionGeneral = 攻撃時、自身の現在のHPに比例して攻撃力の{{SkillValue|0.4%}}~{{SkillValue|2.2%}}分の追加ダメージ
+| SkillDescriptionLv1 = 攻撃時、自身の現在のHPに比例して攻撃力の{{SkillValue|0.4%}}~{{SkillValue|2.2%}}分の追加ダメージ
+| SkillDescriptionLv2 = 攻撃時、自身の現在のHPに比例して攻撃力の{{SkillValue|0.4%}}~{{SkillValue|2.3%}}分の追加ダメージ
+| SkillDescriptionLv3 = 攻撃時、自身の現在のHPに比例して攻撃力の{{SkillValue|0.4%}}~{{SkillValue|2.4%}}分の追加ダメージ
+| SkillDescriptionLv4 = 攻撃時、自身の現在のHPに比例して攻撃力の{{SkillValue|0.5%}}~{{SkillValue|2.8%}}分の追加ダメージ
+| SkillDescriptionLv5 = 攻撃時、自身の現在のHPに比例して攻撃力の{{SkillValue|0.5%}}~{{SkillValue|2.9%}}分の追加ダメージ
+| SkillDescriptionLv6 = 攻撃時、自身の現在のHPに比例して攻撃力の{{SkillValue|0.5%}}~{{SkillValue|3%}}分の追加ダメージ
+| SkillDescriptionLv7 = 攻撃時、自身の現在のHPに比例して攻撃力の{{SkillValue|0.6%}}~{{SkillValue|3.5%}}分の追加ダメージ
+| SkillDescriptionLv8 = 攻撃時、自身の現在のHPに比例して攻撃力の{{SkillValue|0.6%}}~{{SkillValue|3.6%}}分の追加ダメージ
+| SkillDescriptionLv9 = 攻撃時、自身の現在のHPに比例して攻撃力の{{SkillValue|0.7%}}~{{SkillValue|3.7%}}分の追加ダメージ
+| SkillDescriptionLv10 = 攻撃時、自身の現在のHPに比例して攻撃力の{{SkillValue|0.7%}}~{{SkillValue|4.1%}}分の追加ダメージ
 }}
 [[Category:Characters]]

@@ -58,17 +58,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_FOODDEBUFF
 | SkillDamageType = Explosive
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">58.9%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv1 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">58.9%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv2 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">67.8%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv3 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">85.5%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv4 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">94.4%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv5 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">112%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv6 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">120%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv7 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">138%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv8 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">147%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv9 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">165%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv10 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の<span style="color: #007eff">174%</span>分の中毒系持続ダメージを付与（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionGeneral = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の{{SkillValue|58.9%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv1 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の{{SkillValue|58.9%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv2 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の{{SkillValue|67.8%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv3 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の{{SkillValue|85.5%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv4 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の{{SkillValue|94.4%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv5 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の{{SkillValue|112%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv6 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の{{SkillValue|120%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv7 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の{{SkillValue|138%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv8 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の{{SkillValue|147%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv9 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の{{SkillValue|165%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv10 = 円形範囲内の敵4人を指定した位置に移動させた後、攻撃力の{{SkillValue|174%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
 }}
 
 {{SkillTable
@@ -76,17 +76,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_WEAPONDEBUFF
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">18.1%</span>減少（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv1 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">18.1%</span>減少（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv2 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">19%</span>減少（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv3 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">19.9%</span>減少（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv4 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">23.6%</span>減少（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv5 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">24.5%</span>減少（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv6 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">25.4%</span>減少（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv7 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">29%</span>減少（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv8 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">29.9%</span>減少（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv9 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">30.8%</span>減少（<span style="color: #007eff">16秒</span>間）
-| SkillDescriptionLv10 = <span style="color: #007eff">20秒</span>毎に、攻撃力が最も高い敵1人の攻撃速度を<span style="color: #007eff">34.4%</span>減少（<span style="color: #007eff">16秒</span>間）
+| SkillDescriptionGeneral = {{SkillValue|20秒}}毎に、攻撃力が最も高い敵1人の攻撃速度を{{SkillValue|18.1%}}減少（{{SkillValue|16秒}}間）
+| SkillDescriptionLv1 = {{SkillValue|20秒}}毎に、攻撃力が最も高い敵1人の攻撃速度を{{SkillValue|18.1%}}減少（{{SkillValue|16秒}}間）
+| SkillDescriptionLv2 = {{SkillValue|20秒}}毎に、攻撃力が最も高い敵1人の攻撃速度を{{SkillValue|19%}}減少（{{SkillValue|16秒}}間）
+| SkillDescriptionLv3 = {{SkillValue|20秒}}毎に、攻撃力が最も高い敵1人の攻撃速度を{{SkillValue|19.9%}}減少（{{SkillValue|16秒}}間）
+| SkillDescriptionLv4 = {{SkillValue|20秒}}毎に、攻撃力が最も高い敵1人の攻撃速度を{{SkillValue|23.6%}}減少（{{SkillValue|16秒}}間）
+| SkillDescriptionLv5 = {{SkillValue|20秒}}毎に、攻撃力が最も高い敵1人の攻撃速度を{{SkillValue|24.5%}}減少（{{SkillValue|16秒}}間）
+| SkillDescriptionLv6 = {{SkillValue|20秒}}毎に、攻撃力が最も高い敵1人の攻撃速度を{{SkillValue|25.4%}}減少（{{SkillValue|16秒}}間）
+| SkillDescriptionLv7 = {{SkillValue|20秒}}毎に、攻撃力が最も高い敵1人の攻撃速度を{{SkillValue|29%}}減少（{{SkillValue|16秒}}間）
+| SkillDescriptionLv8 = {{SkillValue|20秒}}毎に、攻撃力が最も高い敵1人の攻撃速度を{{SkillValue|29.9%}}減少（{{SkillValue|16秒}}間）
+| SkillDescriptionLv9 = {{SkillValue|20秒}}毎に、攻撃力が最も高い敵1人の攻撃速度を{{SkillValue|30.8%}}減少（{{SkillValue|16秒}}間）
+| SkillDescriptionLv10 = {{SkillValue|20秒}}毎に、攻撃力が最も高い敵1人の攻撃速度を{{SkillValue|34.4%}}減少（{{SkillValue|16秒}}間）
 }}
 
 {{SkillTable
@@ -94,17 +94,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = 攻撃力を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 攻撃力を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 攻撃力を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 攻撃力を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 攻撃力を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 攻撃力を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 攻撃力を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 攻撃力を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 攻撃力を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 攻撃力を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 攻撃力を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 攻撃力を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 攻撃力を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 攻撃力を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 攻撃力を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 攻撃力を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 攻撃力を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 攻撃力を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 攻撃力を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 攻撃力を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 攻撃力を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 攻撃力を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -112,16 +112,16 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = 味方のHPを<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv1 = 味方のHPを<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv2 = 味方のHPを<span style="color: #007eff">9.5%</span>増加
-| SkillDescriptionLv3 = 味方のHPを<span style="color: #007eff">10%</span>増加
-| SkillDescriptionLv4 = 味方のHPを<span style="color: #007eff">11.8%</span>増加
-| SkillDescriptionLv5 = 味方のHPを<span style="color: #007eff">12.3%</span>増加
-| SkillDescriptionLv6 = 味方のHPを<span style="color: #007eff">12.7%</span>増加
-| SkillDescriptionLv7 = 味方のHPを<span style="color: #007eff">14.5%</span>増加
-| SkillDescriptionLv8 = 味方のHPを<span style="color: #007eff">15%</span>増加
-| SkillDescriptionLv9 = 味方のHPを<span style="color: #007eff">15.5%</span>増加
-| SkillDescriptionLv10 = 味方のHPを<span style="color: #007eff">17.3%</span>増加
+| SkillDescriptionGeneral = 味方のHPを{{SkillValue|9.1%}}増加
+| SkillDescriptionLv1 = 味方のHPを{{SkillValue|9.1%}}増加
+| SkillDescriptionLv2 = 味方のHPを{{SkillValue|9.5%}}増加
+| SkillDescriptionLv3 = 味方のHPを{{SkillValue|10%}}増加
+| SkillDescriptionLv4 = 味方のHPを{{SkillValue|11.8%}}増加
+| SkillDescriptionLv5 = 味方のHPを{{SkillValue|12.3%}}増加
+| SkillDescriptionLv6 = 味方のHPを{{SkillValue|12.7%}}増加
+| SkillDescriptionLv7 = 味方のHPを{{SkillValue|14.5%}}増加
+| SkillDescriptionLv8 = 味方のHPを{{SkillValue|15%}}増加
+| SkillDescriptionLv9 = 味方のHPを{{SkillValue|15.5%}}増加
+| SkillDescriptionLv10 = 味方のHPを{{SkillValue|17.3%}}増加
 }}
 [[Category:Characters]]

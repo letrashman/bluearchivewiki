@@ -58,17 +58,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Explosive
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = 円形範囲内の敵に攻撃力の<span style="color: #007eff">392%</span>分のダメージ
-| SkillDescriptionLv1 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">392%</span>分のダメージ
-| SkillDescriptionLv2 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">450%</span>分のダメージ
-| SkillDescriptionLv3 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">568%</span>分のダメージ
-| SkillDescriptionLv4 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">627%</span>分のダメージ
-| SkillDescriptionLv5 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">744%</span>分のダメージ
-| SkillDescriptionLv6 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">803%</span>分のダメージ
-| SkillDescriptionLv7 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">921%</span>分のダメージ
-| SkillDescriptionLv8 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">980%</span>分のダメージ
-| SkillDescriptionLv9 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">1097%</span>分のダメージ
-| SkillDescriptionLv10 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">1156%</span>分のダメージ
+| SkillDescriptionGeneral = 円形範囲内の敵に攻撃力の{{SkillValue|392%}}分のダメージ
+| SkillDescriptionLv1 = 円形範囲内の敵に攻撃力の{{SkillValue|392%}}分のダメージ
+| SkillDescriptionLv2 = 円形範囲内の敵に攻撃力の{{SkillValue|450%}}分のダメージ
+| SkillDescriptionLv3 = 円形範囲内の敵に攻撃力の{{SkillValue|568%}}分のダメージ
+| SkillDescriptionLv4 = 円形範囲内の敵に攻撃力の{{SkillValue|627%}}分のダメージ
+| SkillDescriptionLv5 = 円形範囲内の敵に攻撃力の{{SkillValue|744%}}分のダメージ
+| SkillDescriptionLv6 = 円形範囲内の敵に攻撃力の{{SkillValue|803%}}分のダメージ
+| SkillDescriptionLv7 = 円形範囲内の敵に攻撃力の{{SkillValue|921%}}分のダメージ
+| SkillDescriptionLv8 = 円形範囲内の敵に攻撃力の{{SkillValue|980%}}分のダメージ
+| SkillDescriptionLv9 = 円形範囲内の敵に攻撃力の{{SkillValue|1097%}}分のダメージ
+| SkillDescriptionLv10 = 円形範囲内の敵に攻撃力の{{SkillValue|1156%}}分のダメージ
 }}
 
 {{SkillTable
@@ -76,17 +76,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">38.7%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
-| SkillDescriptionLv1 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">38.7%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
-| SkillDescriptionLv2 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">40.7%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
-| SkillDescriptionLv3 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">42.6%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
-| SkillDescriptionLv4 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">50.4%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
-| SkillDescriptionLv5 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">52.3%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
-| SkillDescriptionLv6 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">54.2%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
-| SkillDescriptionLv7 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">62%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
-| SkillDescriptionLv8 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">63.9%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
-| SkillDescriptionLv9 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">65.9%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
-| SkillDescriptionLv10 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">73.6%</span>増加（<span style="color: #007eff">20秒</span>間）（クールタイム<span style="color: #007eff">15秒</span>）
+| SkillDescriptionGeneral = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|38.7%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
+| SkillDescriptionLv1 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|38.7%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
+| SkillDescriptionLv2 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|40.7%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
+| SkillDescriptionLv3 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|42.6%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
+| SkillDescriptionLv4 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|50.4%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
+| SkillDescriptionLv5 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|52.3%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
+| SkillDescriptionLv6 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|54.2%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
+| SkillDescriptionLv7 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|62%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
+| SkillDescriptionLv8 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|63.9%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
+| SkillDescriptionLv9 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|65.9%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
+| SkillDescriptionLv10 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|73.6%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
 }}
 
 {{SkillTable
@@ -94,17 +94,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = HPを<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = HPを<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = HPを<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = HPを<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = HPを<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = HPを<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = HPを<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = HPを<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = HPを<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = HPを<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = HPを<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = HPを{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = HPを{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = HPを{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = HPを{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = HPを{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = HPを{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = HPを{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = HPを{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = HPを{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = HPを{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = HPを{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -112,16 +112,16 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">34.4%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
-| SkillDescriptionLv1 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">34.4%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
-| SkillDescriptionLv2 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">36.2%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
-| SkillDescriptionLv3 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">37.9%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
-| SkillDescriptionLv4 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">44.8%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
-| SkillDescriptionLv5 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">46.5%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
-| SkillDescriptionLv6 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">48.2%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
-| SkillDescriptionLv7 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">55.1%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
-| SkillDescriptionLv8 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">56.8%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
-| SkillDescriptionLv9 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">58.6%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
-| SkillDescriptionLv10 = 通常攻撃時、<span style="color: #007eff">10%</span>の確率で攻撃力を<span style="color: #007eff">65.5%</span>増加（<span style="color: #007eff">26秒</span>間）（クールタイム<span style="color: #007eff">18秒</span>）
+| SkillDescriptionGeneral = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|34.4%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
+| SkillDescriptionLv1 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|34.4%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
+| SkillDescriptionLv2 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|36.2%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
+| SkillDescriptionLv3 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|37.9%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
+| SkillDescriptionLv4 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|44.8%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
+| SkillDescriptionLv5 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|46.5%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
+| SkillDescriptionLv6 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|48.2%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
+| SkillDescriptionLv7 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|55.1%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
+| SkillDescriptionLv8 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|56.8%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
+| SkillDescriptionLv9 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|58.6%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
+| SkillDescriptionLv10 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|65.5%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
 }}
 [[Category:Characters]]

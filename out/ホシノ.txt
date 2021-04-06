@@ -58,25 +58,25 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_FAN
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">435%</span>分のダメージ
-| SkillDescriptionLv1 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">435%</span>分のダメージ
-| SkillDescriptionLv2 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">501%</span>分のダメージ
-| SkillDescriptionLv3 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">566%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">1秒</span>間）
-| SkillDescriptionLv4 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">632%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">1秒</span>間）
-| SkillDescriptionLv5 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">697%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">1.4秒</span>間）
-| SkillDescriptionLv6 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">762%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">1.4秒</span>間）
-| SkillDescriptionLv7 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">893%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">1.4秒</span>間）
-| SkillDescriptionLv8 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">959%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">1.4秒</span>間）
-| SkillDescriptionLv9 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1089%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">1.4秒</span>間）
-| SkillDescriptionLv10 = 扇形範囲内の敵に対して、攻撃力の<span style="color: #007eff">1155%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">1.4秒</span>間）
+| SkillDescriptionGeneral = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|435%}}分のダメージ
+| SkillDescriptionLv1 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|435%}}分のダメージ
+| SkillDescriptionLv2 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|501%}}分のダメージ
+| SkillDescriptionLv3 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|566%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|1秒}}間）
+| SkillDescriptionLv4 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|632%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|1秒}}間）
+| SkillDescriptionLv5 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|697%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|1.4秒}}間）
+| SkillDescriptionLv6 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|762%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|1.4秒}}間）
+| SkillDescriptionLv7 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|893%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|1.4秒}}間）
+| SkillDescriptionLv8 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|959%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|1.4秒}}間）
+| SkillDescriptionLv9 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1089%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|1.4秒}}間）
+| SkillDescriptionLv10 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1155%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|1.4秒}}間）
 }}
 
 {{SkillTable
@@ -84,28 +84,28 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_DOTHEAL
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">100%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
-（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv1 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">100%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
-（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv2 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">105%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
-（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv3 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">110%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
-（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv4 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">130%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
-（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv5 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">135%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
-（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv6 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">140%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
-（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv7 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">160%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
-（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv8 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">165%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
-（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv9 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">171%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
-（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv10 = HPが<span style="color: #007eff">30%</span>以下の時、治癒力の<span style="color: #007eff">191%</span>分の持続回復を付与（<span style="color: #007eff">20秒</span>間）
-（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionGeneral = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|100%}}分の持続回復を付与（{{SkillValue|20秒}}間）
+（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv1 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|100%}}分の持続回復を付与（{{SkillValue|20秒}}間）
+（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv2 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|105%}}分の持続回復を付与（{{SkillValue|20秒}}間）
+（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv3 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|110%}}分の持続回復を付与（{{SkillValue|20秒}}間）
+（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv4 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|130%}}分の持続回復を付与（{{SkillValue|20秒}}間）
+（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv5 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|135%}}分の持続回復を付与（{{SkillValue|20秒}}間）
+（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv6 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|140%}}分の持続回復を付与（{{SkillValue|20秒}}間）
+（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv7 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|160%}}分の持続回復を付与（{{SkillValue|20秒}}間）
+（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv8 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|165%}}分の持続回復を付与（{{SkillValue|20秒}}間）
+（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv9 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|171%}}分の持続回復を付与（{{SkillValue|20秒}}間）
+（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv10 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|191%}}分の持続回復を付与（{{SkillValue|20秒}}間）
+（戦闘中に{{SkillValue|1回}}のみ）
 }}
 
 {{SkillTable
@@ -113,17 +113,17 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Penetration
 | SkillType = Passive
-| SkillDescriptionGeneral = 防御力を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 防御力を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 防御力を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 防御力を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 防御力を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 防御力を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 防御力を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 防御力を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 防御力を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 防御力を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 防御力を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 防御力を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 防御力を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 防御力を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 防御力を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 防御力を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 防御力を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 防御力を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 防御力を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 防御力を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 防御力を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 防御力を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -131,16 +131,16 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_SHIELD
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = Exスキルの使用中、治癒力の<span style="color: #007eff">108%</span>分のシールド効果を発動
-| SkillDescriptionLv1 = Exスキルの使用中、治癒力の<span style="color: #007eff">108%</span>分のシールド効果を発動
-| SkillDescriptionLv2 = Exスキルの使用中、治癒力の<span style="color: #007eff">113%</span>分のシールド効果を発動
-| SkillDescriptionLv3 = Exスキルの使用中、治癒力の<span style="color: #007eff">118%</span>分のシールド効果を発動
-| SkillDescriptionLv4 = Exスキルの使用中、治癒力の<span style="color: #007eff">140%</span>分のシールド効果を発動
-| SkillDescriptionLv5 = Exスキルの使用中、治癒力の<span style="color: #007eff">145%</span>分のシールド効果を発動
-| SkillDescriptionLv6 = Exスキルの使用中、治癒力の<span style="color: #007eff">151%</span>分のシールド効果を発動
-| SkillDescriptionLv7 = Exスキルの使用中、治癒力の<span style="color: #007eff">172%</span>分のシールド効果を発動
-| SkillDescriptionLv8 = Exスキルの使用中、治癒力の<span style="color: #007eff">178%</span>分のシールド効果を発動
-| SkillDescriptionLv9 = Exスキルの使用中、治癒力の<span style="color: #007eff">183%</span>分のシールド効果を発動
-| SkillDescriptionLv10 = Exスキルの使用中、治癒力の<span style="color: #007eff">205%</span>分のシールド効果を発動
+| SkillDescriptionGeneral = Exスキルの使用中、治癒力の{{SkillValue|108%}}分のシールド効果を発動
+| SkillDescriptionLv1 = Exスキルの使用中、治癒力の{{SkillValue|108%}}分のシールド効果を発動
+| SkillDescriptionLv2 = Exスキルの使用中、治癒力の{{SkillValue|113%}}分のシールド効果を発動
+| SkillDescriptionLv3 = Exスキルの使用中、治癒力の{{SkillValue|118%}}分のシールド効果を発動
+| SkillDescriptionLv4 = Exスキルの使用中、治癒力の{{SkillValue|140%}}分のシールド効果を発動
+| SkillDescriptionLv5 = Exスキルの使用中、治癒力の{{SkillValue|145%}}分のシールド効果を発動
+| SkillDescriptionLv6 = Exスキルの使用中、治癒力の{{SkillValue|151%}}分のシールド効果を発動
+| SkillDescriptionLv7 = Exスキルの使用中、治癒力の{{SkillValue|172%}}分のシールド効果を発動
+| SkillDescriptionLv8 = Exスキルの使用中、治癒力の{{SkillValue|178%}}分のシールド効果を発動
+| SkillDescriptionLv9 = Exスキルの使用中、治癒力の{{SkillValue|183%}}分のシールド効果を発動
+| SkillDescriptionLv10 = Exスキルの使用中、治癒力の{{SkillValue|205%}}分のシールド効果を発動
 }}
 [[Category:Characters]]

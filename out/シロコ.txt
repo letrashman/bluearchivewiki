@@ -58,17 +58,17 @@ TODO: Fill this out.
 | SkillIcon = SKILLICON_SHIROKO_EXSKILL
 | SkillDamageType = Explosive
 | SkillBaseCost = 2
-| SkillDescriptionGeneral = 敵1人に対して、攻撃力の<span style="color: #007eff">400%</span>分のダメージ
-| SkillDescriptionLv1 = 敵1人に対して、攻撃力の<span style="color: #007eff">400%</span>分のダメージ
-| SkillDescriptionLv2 = 敵1人に対して、攻撃力の<span style="color: #007eff">460%</span>分のダメージ
-| SkillDescriptionLv3 = 敵1人に対して、攻撃力の<span style="color: #007eff">580%</span>分のダメージ
-| SkillDescriptionLv4 = 敵1人に対して、攻撃力の<span style="color: #007eff">640%</span>分のダメージ
-| SkillDescriptionLv5 = 敵1人に対して、攻撃力の<span style="color: #007eff">760%</span>分のダメージ
-| SkillDescriptionLv6 = 敵1人に対して、攻撃力の<span style="color: #007eff">820%</span>分のダメージ
-| SkillDescriptionLv7 = 敵1人に対して、攻撃力の<span style="color: #007eff">941%</span>分のダメージ
-| SkillDescriptionLv8 = 敵1人に対して、攻撃力の<span style="color: #007eff">1001%</span>分のダメージ
-| SkillDescriptionLv9 = 敵1人に対して、攻撃力の<span style="color: #007eff">1121%</span>分のダメージ
-| SkillDescriptionLv10 = 敵1人に対して、攻撃力の<span style="color: #007eff">1181%</span>分のダメージ
+| SkillDescriptionGeneral = 敵1人に対して、攻撃力の{{SkillValue|400%}}分のダメージ
+| SkillDescriptionLv1 = 敵1人に対して、攻撃力の{{SkillValue|400%}}分のダメージ
+| SkillDescriptionLv2 = 敵1人に対して、攻撃力の{{SkillValue|460%}}分のダメージ
+| SkillDescriptionLv3 = 敵1人に対して、攻撃力の{{SkillValue|580%}}分のダメージ
+| SkillDescriptionLv4 = 敵1人に対して、攻撃力の{{SkillValue|640%}}分のダメージ
+| SkillDescriptionLv5 = 敵1人に対して、攻撃力の{{SkillValue|760%}}分のダメージ
+| SkillDescriptionLv6 = 敵1人に対して、攻撃力の{{SkillValue|820%}}分のダメージ
+| SkillDescriptionLv7 = 敵1人に対して、攻撃力の{{SkillValue|941%}}分のダメージ
+| SkillDescriptionLv8 = 敵1人に対して、攻撃力の{{SkillValue|1001%}}分のダメージ
+| SkillDescriptionLv9 = 敵1人に対して、攻撃力の{{SkillValue|1121%}}分のダメージ
+| SkillDescriptionLv10 = 敵1人に対して、攻撃力の{{SkillValue|1181%}}分のダメージ
 }}
 
 {{SkillTable
@@ -76,17 +76,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">193%</span>分のダメージ
-| SkillDescriptionLv1 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">193%</span>分のダメージ
-| SkillDescriptionLv2 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">203%</span>分のダメージ
-| SkillDescriptionLv3 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">213%</span>分のダメージ
-| SkillDescriptionLv4 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">251%</span>分のダメージ
-| SkillDescriptionLv5 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">261%</span>分のダメージ
-| SkillDescriptionLv6 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">271%</span>分のダメージ
-| SkillDescriptionLv7 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">309%</span>分のダメージ
-| SkillDescriptionLv8 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">319%</span>分のダメージ
-| SkillDescriptionLv9 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">329%</span>分のダメージ
-| SkillDescriptionLv10 = <span style="color: #007eff">25秒</span>毎に、敵に攻撃力の<span style="color: #007eff">368%</span>分のダメージ
+| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|193%}}分のダメージ
+| SkillDescriptionLv1 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|193%}}分のダメージ
+| SkillDescriptionLv2 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|203%}}分のダメージ
+| SkillDescriptionLv3 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|213%}}分のダメージ
+| SkillDescriptionLv4 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|251%}}分のダメージ
+| SkillDescriptionLv5 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|261%}}分のダメージ
+| SkillDescriptionLv6 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|271%}}分のダメージ
+| SkillDescriptionLv7 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|309%}}分のダメージ
+| SkillDescriptionLv8 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|319%}}分のダメージ
+| SkillDescriptionLv9 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|329%}}分のダメージ
+| SkillDescriptionLv10 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|368%}}分のダメージ
 }}
 
 {{SkillTable
@@ -94,17 +94,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = 会心値を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 会心値を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 会心値を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 会心値を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 会心値を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 会心値を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 会心値を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 会心値を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 会心値を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 会心値を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 会心値を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 会心値を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 会心値を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 会心値を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 会心値を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 会心値を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 会心値を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 会心値を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 会心値を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 会心値を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 会心値を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 会心値を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -112,16 +112,16 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">30.2%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv1 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">30.2%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv2 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">31.7%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv3 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">33.2%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv4 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">39.3%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv5 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">40.8%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv6 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">42.3%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv7 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">48.3%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv8 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">49.9%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv9 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">51.4%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
-| SkillDescriptionLv10 = 通常攻撃時、<span style="color: #007eff">20%</span>の確率で攻撃速度を<span style="color: #007eff">57.4%</span>増加（<span style="color: #007eff">30秒</span>間）（クールタイム<span style="color: #007eff">25秒</span>）
+| SkillDescriptionGeneral = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|30.2%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv1 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|30.2%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv2 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|31.7%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv3 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|33.2%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv4 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|39.3%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv5 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|40.8%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv6 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|42.3%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv7 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|48.3%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv8 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|49.9%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv9 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|51.4%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv10 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|57.4%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
 }}
 [[Category:Characters]]

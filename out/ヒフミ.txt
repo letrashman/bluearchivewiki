@@ -58,39 +58,39 @@ TODO: Fill this out.
 | SkillIcon = SKILLICON_HIHUMI_EXSKILL
 | SkillDamageType = Penetration
 | SkillBaseCost = 5
-| SkillDescriptionGeneral = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">202%</span>分のダメージ/
-さらに挑発状態を付与（<span style="color: #007eff">3.4秒</span>間）/
-ペロロ人形は、ヒフミの最大HPの<span style="color: #007eff">160%</span>の分のHPを持ちます。
-| SkillDescriptionLv1 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">202%</span>分のダメージ/
-さらに挑発状態を付与（<span style="color: #007eff">3.4秒</span>間）/
-ペロロ人形は、ヒフミの最大HPの<span style="color: #007eff">160%</span>の分のHPを持ちます。
-| SkillDescriptionLv2 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">234%</span>分のダメージ/
-さらに挑発状態を付与（<span style="color: #007eff">3.4秒</span>間）/
-ペロロ人形は、ヒフミの最大HPの<span style="color: #007eff">160%</span>の分のHPを持ちます。
-| SkillDescriptionLv3 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">294%</span>分のダメージ/
-さらに挑発状態を付与（<span style="color: #007eff">3.4秒</span>間）/
-ペロロ人形は、ヒフミの最大HPの<span style="color: #007eff">160%</span>の分のHPを持ちます。
-| SkillDescriptionLv4 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">326%</span>分のダメージ/
-さらに挑発状態を付与（<span style="color: #007eff">3.4秒</span>間）/
-ペロロ人形は、ヒフミの最大HPの<span style="color: #007eff">160%</span>の分のHPを持ちます。
-| SkillDescriptionLv5 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">386%</span>分のダメージ/
-さらに挑発状態を付与（<span style="color: #007eff">3.9秒</span>間）/
-ペロロ人形は、ヒフミの最大HPの<span style="color: #007eff">160%</span>の分のHPを持ちます。
-| SkillDescriptionLv6 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">416%</span>分のダメージ/
-さらに挑発状態を付与（<span style="color: #007eff">3.9秒</span>間）/
-ペロロ人形は、ヒフミの最大HPの<span style="color: #007eff">160%</span>の分のHPを持ちます。
-| SkillDescriptionLv7 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">478%</span>分のダメージ/
-さらに挑発状態を付与（<span style="color: #007eff">3.9秒</span>間）/
-ペロロ人形は、ヒフミの最大HPの<span style="color: #007eff">160%</span>の分のHPを持ちます。
-| SkillDescriptionLv8 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">508%</span>分のダメージ/
-さらに挑発状態を付与（<span style="color: #007eff">3.9秒</span>間）/
-ペロロ人形は、ヒフミの最大HPの<span style="color: #007eff">160%</span>の分のHPを持ちます。
-| SkillDescriptionLv9 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">570%</span>分のダメージ/
-さらに挑発状態を付与（<span style="color: #007eff">3.9秒</span>間）/
-ペロロ人形は、ヒフミの最大HPの<span style="color: #007eff">160%</span>の分のHPを持ちます。
-| SkillDescriptionLv10 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">600%</span>分のダメージ/
-さらに挑発状態を付与（<span style="color: #007eff">3.9秒</span>間）/
-ペロロ人形は、ヒフミの最大HPの<span style="color: #007eff">160%</span>の分のHPを持ちます。
+| SkillDescriptionGeneral = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|202%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.4秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv1 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|202%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.4秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv2 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|234%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.4秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv3 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|294%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.4秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv4 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|326%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.4秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv5 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|386%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.9秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv6 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|416%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.9秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv7 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|478%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.9秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv8 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|508%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.9秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv9 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|570%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.9秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv10 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|600%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.9秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
 }}
 
 {{SkillTable
@@ -98,28 +98,28 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_WEAPONDEBUFF
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = <span style="color: #007eff">35秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">212%</span>分のダメージ/
-命中値を<span style="color: #007eff">16.8%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv1 = <span style="color: #007eff">35秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">212%</span>分のダメージ/
-命中値を<span style="color: #007eff">16.8%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv2 = <span style="color: #007eff">35秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">212%</span>分のダメージ/
-命中値を<span style="color: #007eff">17.7%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv3 = <span style="color: #007eff">35秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">212%</span>分のダメージ/
-命中値を<span style="color: #007eff">18.5%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv4 = <span style="color: #007eff">35秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">212%</span>分のダメージ/
-命中値を<span style="color: #007eff">21.9%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv5 = <span style="color: #007eff">35秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">212%</span>分のダメージ/
-命中値を<span style="color: #007eff">22.7%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv6 = <span style="color: #007eff">35秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">212%</span>分のダメージ/
-命中値を<span style="color: #007eff">23.6%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv7 = <span style="color: #007eff">35秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">212%</span>分のダメージ/
-命中値を<span style="color: #007eff">26.9%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv8 = <span style="color: #007eff">35秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">212%</span>分のダメージ/
-命中値を<span style="color: #007eff">27.8%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv9 = <span style="color: #007eff">35秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">212%</span>分のダメージ/
-命中値を<span style="color: #007eff">28.6%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv10 = <span style="color: #007eff">35秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">212%</span>分のダメージ/
-命中値を<span style="color: #007eff">32%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionGeneral = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|16.8%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv1 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|16.8%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv2 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|17.7%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv3 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|18.5%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv4 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|21.9%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv5 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|22.7%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv6 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|23.6%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv7 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|26.9%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv8 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|27.8%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv9 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|28.6%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv10 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|32%}}減少（{{SkillValue|30秒}}間）
 }}
 
 {{SkillTable
@@ -127,17 +127,17 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Penetration
 | SkillType = Passive
-| SkillDescriptionGeneral = HPを<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = HPを<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = HPを<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = HPを<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = HPを<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = HPを<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = HPを<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = HPを<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = HPを<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = HPを<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = HPを<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = HPを{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = HPを{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = HPを{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = HPを{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = HPを{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = HPを{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = HPを{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = HPを{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = HPを{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = HPを{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = HPを{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -145,16 +145,16 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_REGENCOST
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = Exスキルの使用時、コスト回復力を<span style="color: #007eff">980</span>増加（<span style="color: #007eff">5秒</span>間）
-| SkillDescriptionLv1 = Exスキルの使用時、コスト回復力を<span style="color: #007eff">980</span>増加（<span style="color: #007eff">5秒</span>間）
-| SkillDescriptionLv2 = Exスキルの使用時、コスト回復力を<span style="color: #007eff">1029</span>増加（<span style="color: #007eff">5秒</span>間）
-| SkillDescriptionLv3 = Exスキルの使用時、コスト回復力を<span style="color: #007eff">1078</span>増加（<span style="color: #007eff">5秒</span>間）
-| SkillDescriptionLv4 = Exスキルの使用時、コスト回復力を<span style="color: #007eff">1273</span>増加（<span style="color: #007eff">5秒</span>間）
-| SkillDescriptionLv5 = Exスキルの使用時、コスト回復力を<span style="color: #007eff">1322</span>増加（<span style="color: #007eff">5秒</span>間）
-| SkillDescriptionLv6 = Exスキルの使用時、コスト回復力を<span style="color: #007eff">1371</span>増加（<span style="color: #007eff">5秒</span>間）
-| SkillDescriptionLv7 = Exスキルの使用時、コスト回復力を<span style="color: #007eff">1567</span>増加（<span style="color: #007eff">5秒</span>間）
-| SkillDescriptionLv8 = Exスキルの使用時、コスト回復力を<span style="color: #007eff">1616</span>増加（<span style="color: #007eff">5秒</span>間）
-| SkillDescriptionLv9 = Exスキルの使用時、コスト回復力を<span style="color: #007eff">1665</span>増加（<span style="color: #007eff">5秒</span>間）
-| SkillDescriptionLv10 = Exスキルの使用時、コスト回復力を<span style="color: #007eff">1861</span>増加（<span style="color: #007eff">5秒</span>間）
+| SkillDescriptionGeneral = Exスキルの使用時、コスト回復力を{{SkillValue|980}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv1 = Exスキルの使用時、コスト回復力を{{SkillValue|980}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv2 = Exスキルの使用時、コスト回復力を{{SkillValue|1029}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv3 = Exスキルの使用時、コスト回復力を{{SkillValue|1078}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv4 = Exスキルの使用時、コスト回復力を{{SkillValue|1273}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv5 = Exスキルの使用時、コスト回復力を{{SkillValue|1322}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv6 = Exスキルの使用時、コスト回復力を{{SkillValue|1371}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv7 = Exスキルの使用時、コスト回復力を{{SkillValue|1567}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv8 = Exスキルの使用時、コスト回復力を{{SkillValue|1616}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv9 = Exスキルの使用時、コスト回復力を{{SkillValue|1665}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv10 = Exスキルの使用時、コスト回復力を{{SkillValue|1861}}増加（{{SkillValue|5秒}}間）
 }}
 [[Category:Characters]]

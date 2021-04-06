@@ -61,38 +61,38 @@ TODO: Fill this out.
 | SkillDamageType = Mystic
 | SkillBaseCost = 3
 | SkillDescriptionGeneral = 遮蔽物を設置/
-円形範囲内の味方の命中値を<span style="color: #007eff">16.3%</span>増加（<span style="color: #007eff">30秒</span>間）/
-遮蔽物はシズコのHPの<span style="color: #007eff">29.2%</span>分の値が追加されたHPを持ちます。
+円形範囲内の味方の命中値を{{SkillValue|16.3%}}増加（{{SkillValue|30秒}}間）/
+遮蔽物はシズコのHPの{{SkillValue|29.2%}}分の値が追加されたHPを持ちます。
 | SkillDescriptionLv1 = 遮蔽物を設置/
-円形範囲内の味方の命中値を<span style="color: #007eff">16.3%</span>増加（<span style="color: #007eff">30秒</span>間）/
-遮蔽物はシズコのHPの<span style="color: #007eff">29.2%</span>分の値が追加されたHPを持ちます。
+円形範囲内の味方の命中値を{{SkillValue|16.3%}}増加（{{SkillValue|30秒}}間）/
+遮蔽物はシズコのHPの{{SkillValue|29.2%}}分の値が追加されたHPを持ちます。
 | SkillDescriptionLv2 = 遮蔽物を設置/
-円形範囲内の味方の命中値を<span style="color: #007eff">16.3%</span>増加（<span style="color: #007eff">30秒</span>間）/
-遮蔽物はシズコのHPの<span style="color: #007eff">33.6%</span>分の値が追加されたHPを持ちます。
+円形範囲内の味方の命中値を{{SkillValue|16.3%}}増加（{{SkillValue|30秒}}間）/
+遮蔽物はシズコのHPの{{SkillValue|33.6%}}分の値が追加されたHPを持ちます。
 | SkillDescriptionLv3 = 遮蔽物を設置/
-円形範囲内の味方の命中値を<span style="color: #007eff">18.8%</span>増加（<span style="color: #007eff">30秒</span>間）/
-遮蔽物はシズコのHPの<span style="color: #007eff">38%</span>分の値が追加されたHPを持ちます。
+円形範囲内の味方の命中値を{{SkillValue|18.8%}}増加（{{SkillValue|30秒}}間）/
+遮蔽物はシズコのHPの{{SkillValue|38%}}分の値が追加されたHPを持ちます。
 | SkillDescriptionLv4 = 遮蔽物を設置/
-円形範囲内の味方の命中値を<span style="color: #007eff">18.8%</span>増加（<span style="color: #007eff">30秒</span>間）/
-遮蔽物はシズコのHPの<span style="color: #007eff">42.4%</span>分の値が追加されたHPを持ちます。
+円形範囲内の味方の命中値を{{SkillValue|18.8%}}増加（{{SkillValue|30秒}}間）/
+遮蔽物はシズコのHPの{{SkillValue|42.4%}}分の値が追加されたHPを持ちます。
 | SkillDescriptionLv5 = 遮蔽物を設置/
-円形範囲内の味方の命中値を<span style="color: #007eff">21.3%</span>増加（<span style="color: #007eff">30秒</span>間）/
-遮蔽物はシズコのHPの<span style="color: #007eff">46.8%</span>分の値が追加されたHPを持ちます。
+円形範囲内の味方の命中値を{{SkillValue|21.3%}}増加（{{SkillValue|30秒}}間）/
+遮蔽物はシズコのHPの{{SkillValue|46.8%}}分の値が追加されたHPを持ちます。
 | SkillDescriptionLv6 = 遮蔽物を設置/
-円形範囲内の味方の命中値を<span style="color: #007eff">21.3%</span>増加（<span style="color: #007eff">30秒</span>間）/
-遮蔽物はシズコのHPの<span style="color: #007eff">51.2%</span>分の値が追加されたHPを持ちます。
+円形範囲内の味方の命中値を{{SkillValue|21.3%}}増加（{{SkillValue|30秒}}間）/
+遮蔽物はシズコのHPの{{SkillValue|51.2%}}分の値が追加されたHPを持ちます。
 | SkillDescriptionLv7 = 遮蔽物を設置/
-円形範囲内の味方の命中値を<span style="color: #007eff">21.3%</span>増加（<span style="color: #007eff">30秒</span>間）/
-遮蔽物はシズコのHPの<span style="color: #007eff">59.9%</span>分の値が追加されたHPを持ちます。
+円形範囲内の味方の命中値を{{SkillValue|21.3%}}増加（{{SkillValue|30秒}}間）/
+遮蔽物はシズコのHPの{{SkillValue|59.9%}}分の値が追加されたHPを持ちます。
 | SkillDescriptionLv8 = 遮蔽物を設置/
-円形範囲内の味方の命中値を<span style="color: #007eff">21.3%</span>増加（<span style="color: #007eff">30秒</span>間）/
-遮蔽物はシズコのHPの<span style="color: #007eff">64.3%</span>分の値が追加されたHPを持ちます。
+円形範囲内の味方の命中値を{{SkillValue|21.3%}}増加（{{SkillValue|30秒}}間）/
+遮蔽物はシズコのHPの{{SkillValue|64.3%}}分の値が追加されたHPを持ちます。
 | SkillDescriptionLv9 = 遮蔽物を設置/
-円形範囲内の味方の命中値を<span style="color: #007eff">21.3%</span>増加（<span style="color: #007eff">30秒</span>間）/
-遮蔽物はシズコのHPの<span style="color: #007eff">73.1%</span>分の値が追加されたHPを持ちます。
+円形範囲内の味方の命中値を{{SkillValue|21.3%}}増加（{{SkillValue|30秒}}間）/
+遮蔽物はシズコのHPの{{SkillValue|73.1%}}分の値が追加されたHPを持ちます。
 | SkillDescriptionLv10 = 遮蔽物を設置/
-円形範囲内の味方の命中値を<span style="color: #007eff">21.3%</span>増加（<span style="color: #007eff">30秒</span>間）/
-遮蔽物はシズコのHPの<span style="color: #007eff">77.5%</span>分の値が追加されたHPを持ちます。
+円形範囲内の味方の命中値を{{SkillValue|21.3%}}増加（{{SkillValue|30秒}}間）/
+遮蔽物はシズコのHPの{{SkillValue|77.5%}}分の値が追加されたHPを持ちます。
 }}
 
 {{SkillTable
@@ -100,28 +100,28 @@ TODO: Fill this out.
 | SkillIcon = Mystic_COMMON_SKILLICON_WEAPONDEBUFF
 | SkillDamageType = Mystic
 | SkillType = Normal
-| SkillDescriptionGeneral = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">184%</span>分のダメージ/
-さらに攻撃力を<span style="color: #007eff">17.4%</span>減少（<span style="color: #007eff">21秒</span>間）
-| SkillDescriptionLv1 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">184%</span>分のダメージ/
-さらに攻撃力を<span style="color: #007eff">17.4%</span>減少（<span style="color: #007eff">21秒</span>間）
-| SkillDescriptionLv2 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">194%</span>分のダメージ/
-さらに攻撃力を<span style="color: #007eff">17.4%</span>減少（<span style="color: #007eff">21秒</span>間）
-| SkillDescriptionLv3 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">198%</span>分のダメージ/
-さらに攻撃力を<span style="color: #007eff">17.8%</span>減少（<span style="color: #007eff">21秒</span>間）
-| SkillDescriptionLv4 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">235%</span>分のダメージ/
-さらに攻撃力を<span style="color: #007eff">17.8%</span>減少（<span style="color: #007eff">21秒</span>間）
-| SkillDescriptionLv5 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">240%</span>分のダメージ/
-さらに攻撃力を<span style="color: #007eff">18.3%</span>減少（<span style="color: #007eff">21秒</span>間）
-| SkillDescriptionLv6 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">249%</span>分のダメージ/
-さらに攻撃力を<span style="color: #007eff">18.3%</span>減少（<span style="color: #007eff">21秒</span>間）
-| SkillDescriptionLv7 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">286%</span>分のダメージ/
-さらに攻撃力を<span style="color: #007eff">18.3%</span>減少（<span style="color: #007eff">21秒</span>間）
-| SkillDescriptionLv8 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">295%</span>分のダメージ/
-さらに攻撃力を<span style="color: #007eff">18.3%</span>減少（<span style="color: #007eff">21秒</span>間）
-| SkillDescriptionLv9 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">304%</span>分のダメージ/
-さらに攻撃力を<span style="color: #007eff">18.3%</span>減少（<span style="color: #007eff">21秒</span>間）
-| SkillDescriptionLv10 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">341%</span>分のダメージ/
-さらに攻撃力を<span style="color: #007eff">18.3%</span>減少（<span style="color: #007eff">21秒</span>間）
+| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|184%}}分のダメージ/
+さらに攻撃力を{{SkillValue|17.4%}}減少（{{SkillValue|21秒}}間）
+| SkillDescriptionLv1 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|184%}}分のダメージ/
+さらに攻撃力を{{SkillValue|17.4%}}減少（{{SkillValue|21秒}}間）
+| SkillDescriptionLv2 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|194%}}分のダメージ/
+さらに攻撃力を{{SkillValue|17.4%}}減少（{{SkillValue|21秒}}間）
+| SkillDescriptionLv3 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|198%}}分のダメージ/
+さらに攻撃力を{{SkillValue|17.8%}}減少（{{SkillValue|21秒}}間）
+| SkillDescriptionLv4 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|235%}}分のダメージ/
+さらに攻撃力を{{SkillValue|17.8%}}減少（{{SkillValue|21秒}}間）
+| SkillDescriptionLv5 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|240%}}分のダメージ/
+さらに攻撃力を{{SkillValue|18.3%}}減少（{{SkillValue|21秒}}間）
+| SkillDescriptionLv6 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|249%}}分のダメージ/
+さらに攻撃力を{{SkillValue|18.3%}}減少（{{SkillValue|21秒}}間）
+| SkillDescriptionLv7 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|286%}}分のダメージ/
+さらに攻撃力を{{SkillValue|18.3%}}減少（{{SkillValue|21秒}}間）
+| SkillDescriptionLv8 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|295%}}分のダメージ/
+さらに攻撃力を{{SkillValue|18.3%}}減少（{{SkillValue|21秒}}間）
+| SkillDescriptionLv9 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|304%}}分のダメージ/
+さらに攻撃力を{{SkillValue|18.3%}}減少（{{SkillValue|21秒}}間）
+| SkillDescriptionLv10 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|341%}}分のダメージ/
+さらに攻撃力を{{SkillValue|18.3%}}減少（{{SkillValue|21秒}}間）
 }}
 
 {{SkillTable
@@ -129,17 +129,17 @@ TODO: Fill this out.
 | SkillIcon = Mystic_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Mystic
 | SkillType = Passive
-| SkillDescriptionGeneral = 命中値を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 命中値を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 命中値を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 命中値を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 命中値を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 命中値を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 命中値を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 命中値を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 命中値を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 命中値を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 命中値を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 命中値を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 命中値を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 命中値を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 命中値を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 命中値を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 命中値を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 命中値を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 命中値を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 命中値を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 命中値を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 命中値を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -147,16 +147,16 @@ TODO: Fill this out.
 | SkillIcon = Mystic_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Mystic
 | SkillType = Sub
-| SkillDescriptionGeneral = 味方の会心値を<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv1 = 味方の会心値を<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv2 = 味方の会心値を<span style="color: #007eff">9.5%</span>増加
-| SkillDescriptionLv3 = 味方の会心値を<span style="color: #007eff">10%</span>増加
-| SkillDescriptionLv4 = 味方の会心値を<span style="color: #007eff">11.8%</span>増加
-| SkillDescriptionLv5 = 味方の会心値を<span style="color: #007eff">12.3%</span>増加
-| SkillDescriptionLv6 = 味方の会心値を<span style="color: #007eff">12.7%</span>増加
-| SkillDescriptionLv7 = 味方の会心値を<span style="color: #007eff">14.5%</span>増加
-| SkillDescriptionLv8 = 味方の会心値を<span style="color: #007eff">15%</span>増加
-| SkillDescriptionLv9 = 味方の会心値を<span style="color: #007eff">15.5%</span>増加
-| SkillDescriptionLv10 = 味方の会心値を<span style="color: #007eff">17.3%</span>増加
+| SkillDescriptionGeneral = 味方の会心値を{{SkillValue|9.1%}}増加
+| SkillDescriptionLv1 = 味方の会心値を{{SkillValue|9.1%}}増加
+| SkillDescriptionLv2 = 味方の会心値を{{SkillValue|9.5%}}増加
+| SkillDescriptionLv3 = 味方の会心値を{{SkillValue|10%}}増加
+| SkillDescriptionLv4 = 味方の会心値を{{SkillValue|11.8%}}増加
+| SkillDescriptionLv5 = 味方の会心値を{{SkillValue|12.3%}}増加
+| SkillDescriptionLv6 = 味方の会心値を{{SkillValue|12.7%}}増加
+| SkillDescriptionLv7 = 味方の会心値を{{SkillValue|14.5%}}増加
+| SkillDescriptionLv8 = 味方の会心値を{{SkillValue|15%}}増加
+| SkillDescriptionLv9 = 味方の会心値を{{SkillValue|15.5%}}増加
+| SkillDescriptionLv10 = 味方の会心値を{{SkillValue|17.3%}}増加
 }}
 [[Category:Characters]]

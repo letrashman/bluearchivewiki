@@ -58,17 +58,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_FORMCHANGE
 | SkillDamageType = Explosive
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">26.3%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv1 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">26.3%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv2 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">30.3%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv3 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">38.2%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv4 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">42.1%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv5 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">50%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv6 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">54%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv7 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">61.9%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv8 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">65.8%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv9 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">73.7%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv10 = 通常攻撃を<span style="color: #007eff">153%</span>ダメージに強化、通常攻撃の射程を<span style="color: #007eff">24.4%</span>増加、会心値を<span style="color: #007eff">77.7%</span>増加、攻撃速度を<span style="color: #007eff">18.8%</span>減少（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionGeneral = 通常攻撃を{{SkillValue|153%}}ダメージに強化、通常攻撃の射程を{{SkillValue|24.4%}}増加、会心値を{{SkillValue|26.3%}}増加、攻撃速度を{{SkillValue|18.8%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv1 = 通常攻撃を{{SkillValue|153%}}ダメージに強化、通常攻撃の射程を{{SkillValue|24.4%}}増加、会心値を{{SkillValue|26.3%}}増加、攻撃速度を{{SkillValue|18.8%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv2 = 通常攻撃を{{SkillValue|153%}}ダメージに強化、通常攻撃の射程を{{SkillValue|24.4%}}増加、会心値を{{SkillValue|30.3%}}増加、攻撃速度を{{SkillValue|18.8%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv3 = 通常攻撃を{{SkillValue|153%}}ダメージに強化、通常攻撃の射程を{{SkillValue|24.4%}}増加、会心値を{{SkillValue|38.2%}}増加、攻撃速度を{{SkillValue|18.8%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv4 = 通常攻撃を{{SkillValue|153%}}ダメージに強化、通常攻撃の射程を{{SkillValue|24.4%}}増加、会心値を{{SkillValue|42.1%}}増加、攻撃速度を{{SkillValue|18.8%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv5 = 通常攻撃を{{SkillValue|153%}}ダメージに強化、通常攻撃の射程を{{SkillValue|24.4%}}増加、会心値を{{SkillValue|50%}}増加、攻撃速度を{{SkillValue|18.8%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv6 = 通常攻撃を{{SkillValue|153%}}ダメージに強化、通常攻撃の射程を{{SkillValue|24.4%}}増加、会心値を{{SkillValue|54%}}増加、攻撃速度を{{SkillValue|18.8%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv7 = 通常攻撃を{{SkillValue|153%}}ダメージに強化、通常攻撃の射程を{{SkillValue|24.4%}}増加、会心値を{{SkillValue|61.9%}}増加、攻撃速度を{{SkillValue|18.8%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv8 = 通常攻撃を{{SkillValue|153%}}ダメージに強化、通常攻撃の射程を{{SkillValue|24.4%}}増加、会心値を{{SkillValue|65.8%}}増加、攻撃速度を{{SkillValue|18.8%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv9 = 通常攻撃を{{SkillValue|153%}}ダメージに強化、通常攻撃の射程を{{SkillValue|24.4%}}増加、会心値を{{SkillValue|73.7%}}増加、攻撃速度を{{SkillValue|18.8%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv10 = 通常攻撃を{{SkillValue|153%}}ダメージに強化、通常攻撃の射程を{{SkillValue|24.4%}}増加、会心値を{{SkillValue|77.7%}}増加、攻撃速度を{{SkillValue|18.8%}}減少（{{SkillValue|30秒}}間）
 }}
 
 {{SkillTable
@@ -76,17 +76,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_REGENCOST
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = 戦闘開始時、スキルコストを<span style="color: #007eff">2</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv1 = 戦闘開始時、スキルコストを<span style="color: #007eff">2</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv2 = 戦闘開始時、スキルコストを<span style="color: #007eff">2.1</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv3 = 戦闘開始時、スキルコストを<span style="color: #007eff">2.2</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv4 = 戦闘開始時、スキルコストを<span style="color: #007eff">2.6</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv5 = 戦闘開始時、スキルコストを<span style="color: #007eff">2.7</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv6 = 戦闘開始時、スキルコストを<span style="color: #007eff">2.8</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv7 = 戦闘開始時、スキルコストを<span style="color: #007eff">3.2</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv8 = 戦闘開始時、スキルコストを<span style="color: #007eff">3.3</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv9 = 戦闘開始時、スキルコストを<span style="color: #007eff">3.4</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
-| SkillDescriptionLv10 = 戦闘開始時、スキルコストを<span style="color: #007eff">3.8</span>獲得（戦闘中に<span style="color: #007eff">1回</span>のみ）
+| SkillDescriptionGeneral = 戦闘開始時、スキルコストを{{SkillValue|2}}獲得（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv1 = 戦闘開始時、スキルコストを{{SkillValue|2}}獲得（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv2 = 戦闘開始時、スキルコストを{{SkillValue|2.1}}獲得（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv3 = 戦闘開始時、スキルコストを{{SkillValue|2.2}}獲得（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv4 = 戦闘開始時、スキルコストを{{SkillValue|2.6}}獲得（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv5 = 戦闘開始時、スキルコストを{{SkillValue|2.7}}獲得（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv6 = 戦闘開始時、スキルコストを{{SkillValue|2.8}}獲得（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv7 = 戦闘開始時、スキルコストを{{SkillValue|3.2}}獲得（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv8 = 戦闘開始時、スキルコストを{{SkillValue|3.3}}獲得（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv9 = 戦闘開始時、スキルコストを{{SkillValue|3.4}}獲得（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionLv10 = 戦闘開始時、スキルコストを{{SkillValue|3.8}}獲得（戦闘中に{{SkillValue|1回}}のみ）
 }}
 
 {{SkillTable
@@ -94,17 +94,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = 攻撃力を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 攻撃力を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 攻撃力を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 攻撃力を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 攻撃力を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 攻撃力を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 攻撃力を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 攻撃力を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 攻撃力を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 攻撃力を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 攻撃力を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 攻撃力を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 攻撃力を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 攻撃力を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 攻撃力を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 攻撃力を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 攻撃力を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 攻撃力を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 攻撃力を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 攻撃力を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 攻撃力を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 攻撃力を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -112,16 +112,16 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_EXTRADAMAGE
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">50.7%</span>分の追加ダメージ
-| SkillDescriptionLv1 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">50.7%</span>分の追加ダメージ
-| SkillDescriptionLv2 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">53.3%</span>分の追加ダメージ
-| SkillDescriptionLv3 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">55.8%</span>分の追加ダメージ
-| SkillDescriptionLv4 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">66%</span>分の追加ダメージ
-| SkillDescriptionLv5 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">68.5%</span>分の追加ダメージ
-| SkillDescriptionLv6 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">71%</span>分の追加ダメージ
-| SkillDescriptionLv7 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">81.2%</span>分の追加ダメージ
-| SkillDescriptionLv8 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">83.7%</span>分の追加ダメージ
-| SkillDescriptionLv9 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">86.3%</span>分の追加ダメージ
-| SkillDescriptionLv10 = 攻撃時、中型の敵に対して攻撃力の<span style="color: #007eff">96.4%</span>分の追加ダメージ
+| SkillDescriptionGeneral = 攻撃時、中型の敵に対して攻撃力の{{SkillValue|50.7%}}分の追加ダメージ
+| SkillDescriptionLv1 = 攻撃時、中型の敵に対して攻撃力の{{SkillValue|50.7%}}分の追加ダメージ
+| SkillDescriptionLv2 = 攻撃時、中型の敵に対して攻撃力の{{SkillValue|53.3%}}分の追加ダメージ
+| SkillDescriptionLv3 = 攻撃時、中型の敵に対して攻撃力の{{SkillValue|55.8%}}分の追加ダメージ
+| SkillDescriptionLv4 = 攻撃時、中型の敵に対して攻撃力の{{SkillValue|66%}}分の追加ダメージ
+| SkillDescriptionLv5 = 攻撃時、中型の敵に対して攻撃力の{{SkillValue|68.5%}}分の追加ダメージ
+| SkillDescriptionLv6 = 攻撃時、中型の敵に対して攻撃力の{{SkillValue|71%}}分の追加ダメージ
+| SkillDescriptionLv7 = 攻撃時、中型の敵に対して攻撃力の{{SkillValue|81.2%}}分の追加ダメージ
+| SkillDescriptionLv8 = 攻撃時、中型の敵に対して攻撃力の{{SkillValue|83.7%}}分の追加ダメージ
+| SkillDescriptionLv9 = 攻撃時、中型の敵に対して攻撃力の{{SkillValue|86.3%}}分の追加ダメージ
+| SkillDescriptionLv10 = 攻撃時、中型の敵に対して攻撃力の{{SkillValue|96.4%}}分の追加ダメージ
 }}
 [[Category:Characters]]

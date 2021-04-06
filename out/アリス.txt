@@ -1,0 +1,172 @@
+{{Character
+| Name = アリス
+| Image =
+| JPName = 天童 アリス
+| JPReading =
+| School = Millennium
+| Age = ??
+| Birthday = March 25
+| Height = 152cm
+| Hobbies = ゲーム（特にRPG）
+| Illust = DoReMi
+| Voice = 田中美海
+| WeaponType = RG
+| CityTownAffinity = B
+| OutdoorAffinity = D
+| UsesCover = No
+| Rarity = 3
+| CombatClass = Striker
+| ArmorType = Special
+| AttackType = Mystic
+| Position = Back
+| Role = Attacker
+| IndoorAffinity = S
+}}
+
+=Background=
+ミレニアムサイエンススクール所属、ゲーム開発部の部員。
+
+廃墟で発見された正体不明の少女で、年齢を含め全ての情報が不詳。
+現在はモモイやミドリ、ユズと共にゲームを楽しんで、重度のゲームマニアになっている。
+やや会話がたどたどしかったり不自然な点があるが、それは彼女の発言のほとんどがレトロゲームのセリフで構成されているためである。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 421
+| maxAtk = 4212
+| minDef = 68
+| maxDef = 408
+| minHP = 1912
+| maxHP = 14630
+| minHealing = 1610
+| maxHealing = 4830
+| minAcc = 690
+| minEva = 170
+| minCRate = 230
+| minCDmg = 200
+| minStab = 1188
+| minRange = 850
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = 世界の 法則が 崩壊します！
+| SkillIcon = Mystic_COMMON_SKILLICON_BEAM
+| SkillDamageType = Mystic
+| SkillBaseCost = 6
+| SkillDescriptionGeneral = 直線範囲内の敵に対して、攻撃力の{{SkillValue|311%}}分のダメージ/
+エネルギーのチャージ段階によってダメージ量が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加/
+発射後、エネルギーのチャージ段階は初期化されます。
+| SkillDescriptionLv1 = 直線範囲内の敵に対して、攻撃力の{{SkillValue|311%}}分のダメージ/
+エネルギーのチャージ段階によってダメージ量が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加/
+発射後、エネルギーのチャージ段階は初期化されます。
+| SkillDescriptionLv2 = 直線範囲内の敵に対して、攻撃力の{{SkillValue|357%}}分のダメージ/
+エネルギーのチャージ段階によってダメージ量が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加/
+発射後、エネルギーのチャージ段階は初期化されます。
+| SkillDescriptionLv3 = 直線範囲内の敵に対して、攻撃力の{{SkillValue|451%}}分のダメージ/
+エネルギーのチャージ段階によってダメージ量が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加/
+発射後、エネルギーのチャージ段階は初期化されます。
+| SkillDescriptionLv4 = 直線範囲内の敵に対して、攻撃力の{{SkillValue|497%}}分のダメージ/
+エネルギーのチャージ段階によってダメージ量が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加/
+発射後、エネルギーのチャージ段階は初期化されます。
+| SkillDescriptionLv5 = 直線範囲内の敵に対して、攻撃力の{{SkillValue|591%}}分のダメージ/
+エネルギーのチャージ段階によってダメージ量が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加/
+発射後、エネルギーのチャージ段階は初期化されます。
+| SkillDescriptionLv6 = 直線範囲内の敵に対して、攻撃力の{{SkillValue|637%}}分のダメージ/
+エネルギーのチャージ段階によってダメージ量が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加/
+発射後、エネルギーのチャージ段階は初期化されます。
+| SkillDescriptionLv7 = 直線範囲内の敵に対して、攻撃力の{{SkillValue|731%}}分のダメージ/
+エネルギーのチャージ段階によってダメージ量が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加/
+発射後、エネルギーのチャージ段階は初期化されます。
+| SkillDescriptionLv8 = 直線範囲内の敵に対して、攻撃力の{{SkillValue|777%}}分のダメージ/
+エネルギーのチャージ段階によってダメージ量が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加/
+発射後、エネルギーのチャージ段階は初期化されます。
+| SkillDescriptionLv9 = 直線範囲内の敵に対して、攻撃力の{{SkillValue|871%}}分のダメージ/
+エネルギーのチャージ段階によってダメージ量が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加/
+発射後、エネルギーのチャージ段階は初期化されます。
+| SkillDescriptionLv10 = 直線範囲内の敵に対して、攻撃力の{{SkillValue|917%}}分のダメージ/
+エネルギーのチャージ段階によってダメージ量が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加/
+発射後、エネルギーのチャージ段階は初期化されます。
+}}
+
+{{SkillTable
+| SkillName = 光よ！
+| SkillIcon = SKILLICON_ARIS_PUBLICSKILL
+| SkillDamageType = Mystic
+| SkillType = Normal
+| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、会心値を{{SkillValue|17%}}増加（{{SkillValue|20秒}}間）/
+エネルギーを1段階チャージ（最大で2段階まで）
+| SkillDescriptionLv1 = {{SkillValue|25秒}}毎に、会心値を{{SkillValue|17%}}増加（{{SkillValue|20秒}}間）/
+エネルギーを1段階チャージ（最大で2段階まで）
+| SkillDescriptionLv2 = {{SkillValue|25秒}}毎に、会心値を{{SkillValue|17.8%}}増加（{{SkillValue|20秒}}間）/
+エネルギーを1段階チャージ（最大で2段階まで）
+| SkillDescriptionLv3 = {{SkillValue|25秒}}毎に、会心値を{{SkillValue|18.7%}}増加（{{SkillValue|20秒}}間）/
+エネルギーを1段階チャージ（最大で2段階まで）
+| SkillDescriptionLv4 = {{SkillValue|25秒}}毎に、会心値を{{SkillValue|22.1%}}増加（{{SkillValue|20秒}}間）/
+エネルギーを1段階チャージ（最大で2段階まで）
+| SkillDescriptionLv5 = {{SkillValue|25秒}}毎に、会心値を{{SkillValue|23%}}増加（{{SkillValue|20秒}}間）/
+エネルギーを1段階チャージ（最大で2段階まで）
+| SkillDescriptionLv6 = {{SkillValue|25秒}}毎に、会心値を{{SkillValue|23.8%}}増加（{{SkillValue|20秒}}間）/
+エネルギーを1段階チャージ（最大で2段階まで）
+| SkillDescriptionLv7 = {{SkillValue|25秒}}毎に、会心値を{{SkillValue|27.2%}}増加（{{SkillValue|20秒}}間）/
+エネルギーを1段階チャージ（最大で2段階まで）
+| SkillDescriptionLv8 = {{SkillValue|25秒}}毎に、会心値を{{SkillValue|28.1%}}増加（{{SkillValue|20秒}}間）/
+エネルギーを1段階チャージ（最大で2段階まで）
+| SkillDescriptionLv9 = {{SkillValue|25秒}}毎に、会心値を{{SkillValue|28.9%}}増加（{{SkillValue|20秒}}間）/
+エネルギーを1段階チャージ（最大で2段階まで）
+| SkillDescriptionLv10 = {{SkillValue|25秒}}毎に、会心値を{{SkillValue|32.3%}}増加（{{SkillValue|20秒}}間）/
+エネルギーを1段階チャージ（最大で2段階まで）
+}}
+
+{{SkillTable
+| SkillName = 強化魔法です！
+| SkillIcon = Mystic_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Mystic
+| SkillType = Passive
+| SkillDescriptionGeneral = 攻撃力を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 攻撃力を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 攻撃力を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 攻撃力を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 攻撃力を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 攻撃力を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 攻撃力を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 攻撃力を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 攻撃力を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 攻撃力を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 攻撃力を{{SkillValue|26.6%}}増加
+}}
+
+{{SkillTable
+| SkillName = 覚醒せよ、スーパーノヴァ！
+| SkillIcon = SKILLICON_ARIS_EXTRAPASSIVESKILL
+| SkillDamageType = Mystic
+| SkillType = Sub
+| SkillDescriptionGeneral = Exスキルの発動と同時に、会心値を{{SkillValue|12.1%}}増加（{{SkillValue|20秒}}間）/
+エネルギーのチャージ段階によって効果が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加
+| SkillDescriptionLv1 = Exスキルの発動と同時に、会心値を{{SkillValue|12.1%}}増加（{{SkillValue|20秒}}間）/
+エネルギーのチャージ段階によって効果が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加
+| SkillDescriptionLv2 = Exスキルの発動と同時に、会心値を{{SkillValue|12.7%}}増加（{{SkillValue|20秒}}間）/
+エネルギーのチャージ段階によって効果が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加
+| SkillDescriptionLv3 = Exスキルの発動と同時に、会心値を{{SkillValue|13.3%}}増加（{{SkillValue|20秒}}間）/
+エネルギーのチャージ段階によって効果が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加
+| SkillDescriptionLv4 = Exスキルの発動と同時に、会心値を{{SkillValue|15.7%}}増加（{{SkillValue|20秒}}間）/
+エネルギーのチャージ段階によって効果が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加
+| SkillDescriptionLv5 = Exスキルの発動と同時に、会心値を{{SkillValue|16.3%}}増加（{{SkillValue|20秒}}間）/
+エネルギーのチャージ段階によって効果が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加
+| SkillDescriptionLv6 = Exスキルの発動と同時に、会心値を{{SkillValue|16.9%}}増加（{{SkillValue|20秒}}間）/
+エネルギーのチャージ段階によって効果が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加
+| SkillDescriptionLv7 = Exスキルの発動と同時に、会心値を{{SkillValue|19.3%}}増加（{{SkillValue|20秒}}間）/
+エネルギーのチャージ段階によって効果が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加
+| SkillDescriptionLv8 = Exスキルの発動と同時に、会心値を{{SkillValue|19.9%}}増加（{{SkillValue|20秒}}間）/
+エネルギーのチャージ段階によって効果が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加
+| SkillDescriptionLv9 = Exスキルの発動と同時に、会心値を{{SkillValue|20.5%}}増加（{{SkillValue|20秒}}間）/
+エネルギーのチャージ段階によって効果が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加
+| SkillDescriptionLv10 = Exスキルの発動と同時に、会心値を{{SkillValue|22.9%}}増加（{{SkillValue|20秒}}間）/
+エネルギーのチャージ段階によって効果が{{SkillValue|1.5}}倍、あるいは{{SkillValue|2}}倍に増加
+}}
+[[Category:Characters]]

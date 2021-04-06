@@ -58,28 +58,28 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_STUNNED
 | SkillDamageType = Explosive
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">271%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">2.7秒</span>間）
-| SkillDescriptionLv1 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">271%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">2.7秒</span>間）
-| SkillDescriptionLv2 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">312%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">2.7秒</span>間）
-| SkillDescriptionLv3 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">353%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">3.1秒</span>間）
-| SkillDescriptionLv4 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">394%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">3.1秒</span>間）
-| SkillDescriptionLv5 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">435%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">3.5秒</span>間）
-| SkillDescriptionLv6 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">475%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">3.5秒</span>間）
-| SkillDescriptionLv7 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">557%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">3.5秒</span>間）
-| SkillDescriptionLv8 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">598%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">3.5秒</span>間）
-| SkillDescriptionLv9 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">679%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">3.5秒</span>間）
-| SkillDescriptionLv10 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">720%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">3.5秒</span>間）
+| SkillDescriptionGeneral = 円形範囲内の敵に対して、攻撃力の{{SkillValue|271%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|2.7秒}}間）
+| SkillDescriptionLv1 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|271%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|2.7秒}}間）
+| SkillDescriptionLv2 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|312%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|2.7秒}}間）
+| SkillDescriptionLv3 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|353%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.1秒}}間）
+| SkillDescriptionLv4 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|394%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.1秒}}間）
+| SkillDescriptionLv5 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|435%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
+| SkillDescriptionLv6 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|475%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
+| SkillDescriptionLv7 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|557%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
+| SkillDescriptionLv8 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|598%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
+| SkillDescriptionLv9 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|679%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
+| SkillDescriptionLv10 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|720%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
 }}
 
 {{SkillTable
@@ -87,17 +87,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_STATDEBUFF
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">26.7%</span>減少（<span style="color: #007eff">15秒</span>間）
-| SkillDescriptionLv1 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">26.7%</span>減少（<span style="color: #007eff">15秒</span>間）
-| SkillDescriptionLv2 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">28%</span>減少（<span style="color: #007eff">15秒</span>間）
-| SkillDescriptionLv3 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">29.3%</span>減少（<span style="color: #007eff">15秒</span>間）
-| SkillDescriptionLv4 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">34.7%</span>減少（<span style="color: #007eff">15秒</span>間）
-| SkillDescriptionLv5 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">36%</span>減少（<span style="color: #007eff">15秒</span>間）
-| SkillDescriptionLv6 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">37.3%</span>減少（<span style="color: #007eff">15秒</span>間）
-| SkillDescriptionLv7 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">42.7%</span>減少（<span style="color: #007eff">15秒</span>間）
-| SkillDescriptionLv8 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">44%</span>減少（<span style="color: #007eff">15秒</span>間）
-| SkillDescriptionLv9 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">45.3%</span>減少（<span style="color: #007eff">15秒</span>間）
-| SkillDescriptionLv10 = <span style="color: #007eff">30秒</span>毎に、敵1人の被回復率を<span style="color: #007eff">50.7%</span>減少（<span style="color: #007eff">15秒</span>間）
+| SkillDescriptionGeneral = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|26.7%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv1 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|26.7%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv2 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|28%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv3 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|29.3%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv4 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|34.7%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv5 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|36%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv6 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|37.3%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv7 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|42.7%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv8 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|44%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv9 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|45.3%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv10 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|50.7%}}減少（{{SkillValue|15秒}}間）
 }}
 
 {{SkillTable
@@ -105,17 +105,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = 会心値を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 会心値を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 会心値を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 会心値を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 会心値を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 会心値を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 会心値を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 会心値を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 会心値を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 会心値を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 会心値を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 会心値を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 会心値を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 会心値を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 会心値を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 会心値を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 会心値を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 会心値を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 会心値を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 会心値を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 会心値を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 会心値を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -123,16 +123,16 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = 味方の回避値を<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv1 = 味方の回避値を<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv2 = 味方の回避値を<span style="color: #007eff">9.5%</span>増加
-| SkillDescriptionLv3 = 味方の回避値を<span style="color: #007eff">10%</span>増加
-| SkillDescriptionLv4 = 味方の回避値を<span style="color: #007eff">11.8%</span>増加
-| SkillDescriptionLv5 = 味方の回避値を<span style="color: #007eff">12.3%</span>増加
-| SkillDescriptionLv6 = 味方の回避値を<span style="color: #007eff">12.7%</span>増加
-| SkillDescriptionLv7 = 味方の回避値を<span style="color: #007eff">14.5%</span>増加
-| SkillDescriptionLv8 = 味方の回避値を<span style="color: #007eff">15%</span>増加
-| SkillDescriptionLv9 = 味方の回避値を<span style="color: #007eff">15.5%</span>増加
-| SkillDescriptionLv10 = 味方の回避値を<span style="color: #007eff">17.3%</span>増加
+| SkillDescriptionGeneral = 味方の回避値を{{SkillValue|9.1%}}増加
+| SkillDescriptionLv1 = 味方の回避値を{{SkillValue|9.1%}}増加
+| SkillDescriptionLv2 = 味方の回避値を{{SkillValue|9.5%}}増加
+| SkillDescriptionLv3 = 味方の回避値を{{SkillValue|10%}}増加
+| SkillDescriptionLv4 = 味方の回避値を{{SkillValue|11.8%}}増加
+| SkillDescriptionLv5 = 味方の回避値を{{SkillValue|12.3%}}増加
+| SkillDescriptionLv6 = 味方の回避値を{{SkillValue|12.7%}}増加
+| SkillDescriptionLv7 = 味方の回避値を{{SkillValue|14.5%}}増加
+| SkillDescriptionLv8 = 味方の回避値を{{SkillValue|15%}}増加
+| SkillDescriptionLv9 = 味方の回避値を{{SkillValue|15.5%}}増加
+| SkillDescriptionLv10 = 味方の回避値を{{SkillValue|17.3%}}増加
 }}
 [[Category:Characters]]

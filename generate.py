@@ -12,7 +12,7 @@ from model import Character
 def colorize(value):
     return re.sub(
         r'\[c]\[([0-9A-Fa-f]{6})]([^\[]*)\[-]\[/c]',
-        r'<span style="color: #\1">\2</span>',
+        r'{{SkillValue|\2}}',
         value
     )
 

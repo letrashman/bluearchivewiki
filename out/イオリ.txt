@@ -58,17 +58,17 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_FAN
 | SkillDamageType = Penetration
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の<span style="color: #007eff">350%</span>分のダメージ
-| SkillDescriptionLv1 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の<span style="color: #007eff">350%</span>分のダメージ
-| SkillDescriptionLv2 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の<span style="color: #007eff">403%</span>分のダメージ
-| SkillDescriptionLv3 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の<span style="color: #007eff">508%</span>分のダメージ
-| SkillDescriptionLv4 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の<span style="color: #007eff">561%</span>分のダメージ
-| SkillDescriptionLv5 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の<span style="color: #007eff">666%</span>分のダメージ
-| SkillDescriptionLv6 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の<span style="color: #007eff">718%</span>分のダメージ
-| SkillDescriptionLv7 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の<span style="color: #007eff">824%</span>分のダメージ
-| SkillDescriptionLv8 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の<span style="color: #007eff">876%</span>分のダメージ
-| SkillDescriptionLv9 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の<span style="color: #007eff">981%</span>分のダメージ
-| SkillDescriptionLv10 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の<span style="color: #007eff">1034%</span>分のダメージ
+| SkillDescriptionGeneral = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|350%}}分のダメージ
+| SkillDescriptionLv1 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|350%}}分のダメージ
+| SkillDescriptionLv2 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|403%}}分のダメージ
+| SkillDescriptionLv3 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|508%}}分のダメージ
+| SkillDescriptionLv4 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|561%}}分のダメージ
+| SkillDescriptionLv5 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|666%}}分のダメージ
+| SkillDescriptionLv6 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|718%}}分のダメージ
+| SkillDescriptionLv7 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|824%}}分のダメージ
+| SkillDescriptionLv8 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|876%}}分のダメージ
+| SkillDescriptionLv9 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|981%}}分のダメージ
+| SkillDescriptionLv10 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|1034%}}分のダメージ
 }}
 
 {{SkillTable
@@ -76,17 +76,17 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_TARGET
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">229%</span>分のダメージ
-| SkillDescriptionLv1 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">229%</span>分のダメージ
-| SkillDescriptionLv2 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">241%</span>分のダメージ
-| SkillDescriptionLv3 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">252%</span>分のダメージ
-| SkillDescriptionLv4 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">298%</span>分のダメージ
-| SkillDescriptionLv5 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">310%</span>分のダメージ
-| SkillDescriptionLv6 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">321%</span>分のダメージ
-| SkillDescriptionLv7 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">367%</span>分のダメージ
-| SkillDescriptionLv8 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">379%</span>分のダメージ
-| SkillDescriptionLv9 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">390%</span>分のダメージ
-| SkillDescriptionLv10 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">436%</span>分のダメージ
+| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|229%}}分のダメージ
+| SkillDescriptionLv1 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|229%}}分のダメージ
+| SkillDescriptionLv2 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|241%}}分のダメージ
+| SkillDescriptionLv3 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|252%}}分のダメージ
+| SkillDescriptionLv4 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|298%}}分のダメージ
+| SkillDescriptionLv5 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|310%}}分のダメージ
+| SkillDescriptionLv6 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|321%}}分のダメージ
+| SkillDescriptionLv7 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|367%}}分のダメージ
+| SkillDescriptionLv8 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|379%}}分のダメージ
+| SkillDescriptionLv9 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|390%}}分のダメージ
+| SkillDescriptionLv10 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|436%}}分のダメージ
 }}
 
 {{SkillTable
@@ -94,17 +94,17 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Passive
-| SkillDescriptionGeneral = 命中値を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 命中値を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 命中値を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 命中値を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 命中値を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 命中値を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 命中値を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 命中値を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 命中値を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 命中値を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 命中値を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 命中値を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 命中値を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 命中値を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 命中値を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 命中値を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 命中値を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 命中値を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 命中値を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 命中値を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 命中値を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 命中値を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -112,16 +112,16 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_EXTRADAMAGE
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = 自身が隠れていない状態での攻撃時、攻撃力の<span style="color: #007eff">22.6%</span>分の追加ダメージ
-| SkillDescriptionLv1 = 自身が隠れていない状態での攻撃時、攻撃力の<span style="color: #007eff">22.6%</span>分の追加ダメージ
-| SkillDescriptionLv2 = 自身が隠れていない状態での攻撃時、攻撃力の<span style="color: #007eff">23.8%</span>分の追加ダメージ
-| SkillDescriptionLv3 = 自身が隠れていない状態での攻撃時、攻撃力の<span style="color: #007eff">24.9%</span>分の追加ダメージ
-| SkillDescriptionLv4 = 自身が隠れていない状態での攻撃時、攻撃力の<span style="color: #007eff">29.4%</span>分の追加ダメージ
-| SkillDescriptionLv5 = 自身が隠れていない状態での攻撃時、攻撃力の<span style="color: #007eff">30.6%</span>分の追加ダメージ
-| SkillDescriptionLv6 = 自身が隠れていない状態での攻撃時、攻撃力の<span style="color: #007eff">31.7%</span>分の追加ダメージ
-| SkillDescriptionLv7 = 自身が隠れていない状態での攻撃時、攻撃力の<span style="color: #007eff">36.2%</span>分の追加ダメージ
-| SkillDescriptionLv8 = 自身が隠れていない状態での攻撃時、攻撃力の<span style="color: #007eff">37.4%</span>分の追加ダメージ
-| SkillDescriptionLv9 = 自身が隠れていない状態での攻撃時、攻撃力の<span style="color: #007eff">38.5%</span>分の追加ダメージ
-| SkillDescriptionLv10 = 自身が隠れていない状態での攻撃時、攻撃力の<span style="color: #007eff">43.1%</span>分の追加ダメージ
+| SkillDescriptionGeneral = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|22.6%}}分の追加ダメージ
+| SkillDescriptionLv1 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|22.6%}}分の追加ダメージ
+| SkillDescriptionLv2 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|23.8%}}分の追加ダメージ
+| SkillDescriptionLv3 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|24.9%}}分の追加ダメージ
+| SkillDescriptionLv4 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|29.4%}}分の追加ダメージ
+| SkillDescriptionLv5 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|30.6%}}分の追加ダメージ
+| SkillDescriptionLv6 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|31.7%}}分の追加ダメージ
+| SkillDescriptionLv7 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|36.2%}}分の追加ダメージ
+| SkillDescriptionLv8 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|37.4%}}分の追加ダメージ
+| SkillDescriptionLv9 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|38.5%}}分の追加ダメージ
+| SkillDescriptionLv10 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|43.1%}}分の追加ダメージ
 }}
 [[Category:Characters]]

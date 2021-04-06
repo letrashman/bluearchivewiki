@@ -58,28 +58,28 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_TARGET
 | SkillDamageType = Explosive
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = 敵1人に対して、攻撃力の<span style="color: #007eff">415%</span>分のダメージ/
-<span style="color: #007eff">50%</span>の確率で、<span style="color: #007eff">623%</span>分の追加ダメージ
-| SkillDescriptionLv1 = 敵1人に対して、攻撃力の<span style="color: #007eff">415%</span>分のダメージ/
-<span style="color: #007eff">50%</span>の確率で、<span style="color: #007eff">623%</span>分の追加ダメージ
-| SkillDescriptionLv2 = 敵1人に対して、攻撃力の<span style="color: #007eff">477%</span>分のダメージ/
-<span style="color: #007eff">50%</span>の確率で、<span style="color: #007eff">623%</span>分の追加ダメージ
-| SkillDescriptionLv3 = 敵1人に対して、攻撃力の<span style="color: #007eff">540%</span>分のダメージ/
-<span style="color: #007eff">50%</span>の確率で、<span style="color: #007eff">716%</span>分の追加ダメージ
-| SkillDescriptionLv4 = 敵1人に対して、攻撃力の<span style="color: #007eff">602%</span>分のダメージ/
-<span style="color: #007eff">50%</span>の確率で、<span style="color: #007eff">716%</span>分の追加ダメージ
-| SkillDescriptionLv5 = 敵1人に対して、攻撃力の<span style="color: #007eff">664%</span>分のダメージ/
-<span style="color: #007eff">75%</span>の確率で、<span style="color: #007eff">716%</span>分の追加ダメージ
-| SkillDescriptionLv6 = 敵1人に対して、攻撃力の<span style="color: #007eff">727%</span>分のダメージ/
-<span style="color: #007eff">75%</span>の確率で、<span style="color: #007eff">716%</span>分の追加ダメージ
-| SkillDescriptionLv7 = 敵1人に対して、攻撃力の<span style="color: #007eff">851%</span>分のダメージ/
-<span style="color: #007eff">75%</span>の確率で、<span style="color: #007eff">716%</span>分の追加ダメージ
-| SkillDescriptionLv8 = 敵1人に対して、攻撃力の<span style="color: #007eff">914%</span>分のダメージ/
-<span style="color: #007eff">75%</span>の確率で、<span style="color: #007eff">716%</span>分の追加ダメージ
-| SkillDescriptionLv9 = 敵1人に対して、攻撃力の<span style="color: #007eff">1038%</span>分のダメージ/
-<span style="color: #007eff">75%</span>の確率で、<span style="color: #007eff">716%</span>分の追加ダメージ
-| SkillDescriptionLv10 = 敵1人に対して、攻撃力の<span style="color: #007eff">1101%</span>分のダメージ/
-<span style="color: #007eff">75%</span>の確率で、<span style="color: #007eff">716%</span>分の追加ダメージ
+| SkillDescriptionGeneral = 敵1人に対して、攻撃力の{{SkillValue|415%}}分のダメージ/
+{{SkillValue|50%}}の確率で、{{SkillValue|623%}}分の追加ダメージ
+| SkillDescriptionLv1 = 敵1人に対して、攻撃力の{{SkillValue|415%}}分のダメージ/
+{{SkillValue|50%}}の確率で、{{SkillValue|623%}}分の追加ダメージ
+| SkillDescriptionLv2 = 敵1人に対して、攻撃力の{{SkillValue|477%}}分のダメージ/
+{{SkillValue|50%}}の確率で、{{SkillValue|623%}}分の追加ダメージ
+| SkillDescriptionLv3 = 敵1人に対して、攻撃力の{{SkillValue|540%}}分のダメージ/
+{{SkillValue|50%}}の確率で、{{SkillValue|716%}}分の追加ダメージ
+| SkillDescriptionLv4 = 敵1人に対して、攻撃力の{{SkillValue|602%}}分のダメージ/
+{{SkillValue|50%}}の確率で、{{SkillValue|716%}}分の追加ダメージ
+| SkillDescriptionLv5 = 敵1人に対して、攻撃力の{{SkillValue|664%}}分のダメージ/
+{{SkillValue|75%}}の確率で、{{SkillValue|716%}}分の追加ダメージ
+| SkillDescriptionLv6 = 敵1人に対して、攻撃力の{{SkillValue|727%}}分のダメージ/
+{{SkillValue|75%}}の確率で、{{SkillValue|716%}}分の追加ダメージ
+| SkillDescriptionLv7 = 敵1人に対して、攻撃力の{{SkillValue|851%}}分のダメージ/
+{{SkillValue|75%}}の確率で、{{SkillValue|716%}}分の追加ダメージ
+| SkillDescriptionLv8 = 敵1人に対して、攻撃力の{{SkillValue|914%}}分のダメージ/
+{{SkillValue|75%}}の確率で、{{SkillValue|716%}}分の追加ダメージ
+| SkillDescriptionLv9 = 敵1人に対して、攻撃力の{{SkillValue|1038%}}分のダメージ/
+{{SkillValue|75%}}の確率で、{{SkillValue|716%}}分の追加ダメージ
+| SkillDescriptionLv10 = 敵1人に対して、攻撃力の{{SkillValue|1101%}}分のダメージ/
+{{SkillValue|75%}}の確率で、{{SkillValue|716%}}分の追加ダメージ
 }}
 
 {{SkillTable
@@ -87,17 +87,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">150%</span>分のダメージ
-| SkillDescriptionLv1 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">150%</span>分のダメージ
-| SkillDescriptionLv2 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">158%</span>分のダメージ
-| SkillDescriptionLv3 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">166%</span>分のダメージ
-| SkillDescriptionLv4 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">196%</span>分のダメージ
-| SkillDescriptionLv5 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">203%</span>分のダメージ
-| SkillDescriptionLv6 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">211%</span>分のダメージ
-| SkillDescriptionLv7 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">241%</span>分のダメージ
-| SkillDescriptionLv8 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">249%</span>分のダメージ
-| SkillDescriptionLv9 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">256%</span>分のダメージ
-| SkillDescriptionLv10 = <span style="color: #007eff">20秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">286%</span>分のダメージ
+| SkillDescriptionGeneral = {{SkillValue|20秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|150%}}分のダメージ
+| SkillDescriptionLv1 = {{SkillValue|20秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|150%}}分のダメージ
+| SkillDescriptionLv2 = {{SkillValue|20秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|158%}}分のダメージ
+| SkillDescriptionLv3 = {{SkillValue|20秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|166%}}分のダメージ
+| SkillDescriptionLv4 = {{SkillValue|20秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|196%}}分のダメージ
+| SkillDescriptionLv5 = {{SkillValue|20秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|203%}}分のダメージ
+| SkillDescriptionLv6 = {{SkillValue|20秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|211%}}分のダメージ
+| SkillDescriptionLv7 = {{SkillValue|20秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|241%}}分のダメージ
+| SkillDescriptionLv8 = {{SkillValue|20秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|249%}}分のダメージ
+| SkillDescriptionLv9 = {{SkillValue|20秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|256%}}分のダメージ
+| SkillDescriptionLv10 = {{SkillValue|20秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|286%}}分のダメージ
 }}
 
 {{SkillTable
@@ -105,17 +105,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = 会心値を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 会心値を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 会心値を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 会心値を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 会心値を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 会心値を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 会心値を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 会心値を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 会心値を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 会心値を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 会心値を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 会心値を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 会心値を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 会心値を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 会心値を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 会心値を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 会心値を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 会心値を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 会心値を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 会心値を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 会心値を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 会心値を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -123,16 +123,16 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = 味方の命中値を<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv1 = 味方の命中値を<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv2 = 味方の命中値を<span style="color: #007eff">9.5%</span>増加
-| SkillDescriptionLv3 = 味方の命中値を<span style="color: #007eff">10%</span>増加
-| SkillDescriptionLv4 = 味方の命中値を<span style="color: #007eff">11.8%</span>増加
-| SkillDescriptionLv5 = 味方の命中値を<span style="color: #007eff">12.3%</span>増加
-| SkillDescriptionLv6 = 味方の命中値を<span style="color: #007eff">12.7%</span>増加
-| SkillDescriptionLv7 = 味方の命中値を<span style="color: #007eff">14.5%</span>増加
-| SkillDescriptionLv8 = 味方の命中値を<span style="color: #007eff">15%</span>増加
-| SkillDescriptionLv9 = 味方の命中値を<span style="color: #007eff">15.5%</span>増加
-| SkillDescriptionLv10 = 味方の命中値を<span style="color: #007eff">17.3%</span>増加
+| SkillDescriptionGeneral = 味方の命中値を{{SkillValue|9.1%}}増加
+| SkillDescriptionLv1 = 味方の命中値を{{SkillValue|9.1%}}増加
+| SkillDescriptionLv2 = 味方の命中値を{{SkillValue|9.5%}}増加
+| SkillDescriptionLv3 = 味方の命中値を{{SkillValue|10%}}増加
+| SkillDescriptionLv4 = 味方の命中値を{{SkillValue|11.8%}}増加
+| SkillDescriptionLv5 = 味方の命中値を{{SkillValue|12.3%}}増加
+| SkillDescriptionLv6 = 味方の命中値を{{SkillValue|12.7%}}増加
+| SkillDescriptionLv7 = 味方の命中値を{{SkillValue|14.5%}}増加
+| SkillDescriptionLv8 = 味方の命中値を{{SkillValue|15%}}増加
+| SkillDescriptionLv9 = 味方の命中値を{{SkillValue|15.5%}}増加
+| SkillDescriptionLv10 = 味方の命中値を{{SkillValue|17.3%}}増加
 }}
 [[Category:Characters]]

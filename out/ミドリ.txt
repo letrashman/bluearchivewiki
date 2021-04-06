@@ -1,0 +1,149 @@
+{{Character
+| Name = ミドリ
+| Image =
+| JPName = 才羽 ミドリ
+| JPReading =
+| School = Millennium
+| Age = 15
+| Birthday = December 8
+| Height = 143cm
+| Hobbies = 絵を描くこと
+| Illust = キキ
+| Voice = 高田憂希
+| WeaponType = SR
+| CityTownAffinity = B
+| OutdoorAffinity = S
+| UsesCover = Yes
+| Rarity = 3
+| CombatClass = Striker
+| ArmorType = Light
+| AttackType = Penetration
+| Position = Back
+| Role = Attacker
+| IndoorAffinity = D
+}}
+
+=Background=
+ミレニアムサイエンススクール所属、ゲーム開発部のイラストレーター。
+
+双子の姉、モモイと共にゲーム開発部で文字通りゲームを開発している少女。
+内気な性格もあって、もともと陽気な姉とは相性が良くない方だったが、ゲームに対する情熱で意気投合し、今では大の仲良しになった。
+
+=How to Obtain=
+TODO: Fill this out.
+
+=Character Details=
+{{CharacterStatTable
+| minAtk = 315
+| maxAtk = 3152
+| minDef = 19
+| maxDef = 118
+| minHP = 2222
+| maxHP = 19260
+| minHealing = 1417
+| maxHealing = 4252
+| minAcc = 911
+| minEva = 197
+| minCRate = 202
+| minCDmg = 200
+| minStab = 1972
+| minRange = 750
+| minCCStr = 100
+| minCCRes = 100
+}}
+
+===Skills===
+{{EXSkillTable
+| SkillName = ドローイングアート
+| SkillIcon = Penetration_COMMON_SKILLICON_TARGET
+| SkillDamageType = Penetration
+| SkillBaseCost = 3
+| SkillDescriptionGeneral = 最大で敵5人に対して、順番にそれぞれ攻撃力の{{SkillValue|119%}}分のダメージ/
+同じ部隊にモモイがいる場合はさらに、攻撃力の{{SkillValue|39.8%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv1 = 最大で敵5人に対して、順番にそれぞれ攻撃力の{{SkillValue|119%}}分のダメージ/
+同じ部隊にモモイがいる場合はさらに、攻撃力の{{SkillValue|39.8%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv2 = 最大で敵5人に対して、順番にそれぞれ攻撃力の{{SkillValue|137%}}分のダメージ/
+同じ部隊にモモイがいる場合はさらに、攻撃力の{{SkillValue|39.8%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv3 = 最大で敵5人に対して、順番にそれぞれ攻撃力の{{SkillValue|155%}}分のダメージ/
+同じ部隊にモモイがいる場合はさらに、攻撃力の{{SkillValue|45.8%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv4 = 最大で敵5人に対して、順番にそれぞれ攻撃力の{{SkillValue|173%}}分のダメージ/
+同じ部隊にモモイがいる場合はさらに、攻撃力の{{SkillValue|45.8%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv5 = 最大で敵5人に対して、順番にそれぞれ攻撃力の{{SkillValue|191%}}分のダメージ/
+同じ部隊にモモイがいる場合はさらに、攻撃力の{{SkillValue|51.8%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv6 = 最大で敵5人に対して、順番にそれぞれ攻撃力の{{SkillValue|209%}}分のダメージ/
+同じ部隊にモモイがいる場合はさらに、攻撃力の{{SkillValue|51.8%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv7 = 最大で敵5人に対して、順番にそれぞれ攻撃力の{{SkillValue|245%}}分のダメージ/
+同じ部隊にモモイがいる場合はさらに、攻撃力の{{SkillValue|51.8%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv8 = 最大で敵5人に対して、順番にそれぞれ攻撃力の{{SkillValue|263%}}分のダメージ/
+同じ部隊にモモイがいる場合はさらに、攻撃力の{{SkillValue|51.8%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv9 = 最大で敵5人に対して、順番にそれぞれ攻撃力の{{SkillValue|298%}}分のダメージ/
+同じ部隊にモモイがいる場合はさらに、攻撃力の{{SkillValue|51.8%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+| SkillDescriptionLv10 = 最大で敵5人に対して、順番にそれぞれ攻撃力の{{SkillValue|316%}}分のダメージ/
+同じ部隊にモモイがいる場合はさらに、攻撃力の{{SkillValue|51.8%}}分の中毒系持続ダメージを付与（{{SkillValue|20秒}}間）
+}}
+
+{{SkillTable
+| SkillName = 磨き上げるセンス
+| SkillIcon = Penetration_COMMON_SKILLICON_HEAL
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、HPが最も低い味方1人に対して治癒力の{{SkillValue|77.5%}}分の回復
+| SkillDescriptionLv1 = {{SkillValue|25秒}}毎に、HPが最も低い味方1人に対して治癒力の{{SkillValue|77.5%}}分の回復
+| SkillDescriptionLv2 = {{SkillValue|25秒}}毎に、HPが最も低い味方1人に対して治癒力の{{SkillValue|81.4%}}分の回復
+| SkillDescriptionLv3 = {{SkillValue|25秒}}毎に、HPが最も低い味方1人に対して治癒力の{{SkillValue|85.3%}}分の回復
+| SkillDescriptionLv4 = {{SkillValue|25秒}}毎に、HPが最も低い味方1人に対して治癒力の{{SkillValue|100%}}分の回復
+| SkillDescriptionLv5 = {{SkillValue|25秒}}毎に、HPが最も低い味方1人に対して治癒力の{{SkillValue|104%}}分の回復
+| SkillDescriptionLv6 = {{SkillValue|25秒}}毎に、HPが最も低い味方1人に対して治癒力の{{SkillValue|108%}}分の回復
+| SkillDescriptionLv7 = {{SkillValue|25秒}}毎に、HPが最も低い味方1人に対して治癒力の{{SkillValue|124%}}分の回復
+| SkillDescriptionLv8 = {{SkillValue|25秒}}毎に、HPが最も低い味方1人に対して治癒力の{{SkillValue|127%}}分の回復
+| SkillDescriptionLv9 = {{SkillValue|25秒}}毎に、HPが最も低い味方1人に対して治癒力の{{SkillValue|131%}}分の回復
+| SkillDescriptionLv10 = {{SkillValue|25秒}}毎に、HPが最も低い味方1人に対して治癒力の{{SkillValue|147%}}分の回復
+}}
+
+{{SkillTable
+| SkillName = アーティストインスピレーション
+| SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = 会心値を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 会心値を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 会心値を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 会心値を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 会心値を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 会心値を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 会心値を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 会心値を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 会心値を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 会心値を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 会心値を{{SkillValue|26.6%}}増加
+}}
+
+{{SkillTable
+| SkillName = 開発者シナジー：モモイ
+| SkillIcon = SKILLICON_MIDORI_EXTRAPASSIVESKILL
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = 攻撃速度を{{SkillValue|15.1%}}増加/
+同じ部隊にモモイがいる場合は、{{SkillValue|18.1%}}増加
+| SkillDescriptionLv1 = 攻撃速度を{{SkillValue|15.1%}}増加/
+同じ部隊にモモイがいる場合は、{{SkillValue|18.1%}}増加
+| SkillDescriptionLv2 = 攻撃速度を{{SkillValue|15.8%}}増加/
+同じ部隊にモモイがいる場合は、{{SkillValue|19%}}増加
+| SkillDescriptionLv3 = 攻撃速度を{{SkillValue|16.6%}}増加/
+同じ部隊にモモイがいる場合は、{{SkillValue|19.9%}}増加
+| SkillDescriptionLv4 = 攻撃速度を{{SkillValue|19.6%}}増加/
+同じ部隊にモモイがいる場合は、{{SkillValue|23.5%}}増加
+| SkillDescriptionLv5 = 攻撃速度を{{SkillValue|20.4%}}増加/
+同じ部隊にモモイがいる場合は、{{SkillValue|24.5%}}増加
+| SkillDescriptionLv6 = 攻撃速度を{{SkillValue|21.1%}}増加/
+同じ部隊にモモイがいる場合は、{{SkillValue|25.4%}}増加
+| SkillDescriptionLv7 = 攻撃速度を{{SkillValue|24.2%}}増加/
+同じ部隊にモモイがいる場合は、{{SkillValue|29%}}増加
+| SkillDescriptionLv8 = 攻撃速度を{{SkillValue|24.9%}}増加/
+同じ部隊にモモイがいる場合は、{{SkillValue|29.9%}}増加
+| SkillDescriptionLv9 = 攻撃速度を{{SkillValue|25.7%}}増加/
+同じ部隊にモモイがいる場合は、{{SkillValue|30.8%}}増加
+| SkillDescriptionLv10 = 攻撃速度を{{SkillValue|28.7%}}増加/
+同じ部隊にモモイがいる場合は、{{SkillValue|34.4%}}増加
+}}
+[[Category:Characters]]

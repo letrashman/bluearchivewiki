@@ -58,25 +58,25 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_HEAL
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = 味方1人に対して、治癒力の<span style="color: #007eff">195%</span>分の回復
-| SkillDescriptionLv1 = 味方1人に対して、治癒力の<span style="color: #007eff">195%</span>分の回復
-| SkillDescriptionLv2 = 味方1人に対して、治癒力の<span style="color: #007eff">224%</span>分の回復
-| SkillDescriptionLv3 = 味方1人に対して、治癒力の<span style="color: #007eff">254%</span>分の回復
-さらに弱体状態を<span style="color: #007eff">1つ</span>解除
-| SkillDescriptionLv4 = 味方1人に対して、治癒力の<span style="color: #007eff">283%</span>分の回復
-さらに弱体状態を<span style="color: #007eff">1つ</span>解除
-| SkillDescriptionLv5 = 味方1人に対して、治癒力の<span style="color: #007eff">342%</span>分の回復
-さらに弱体状態を<span style="color: #007eff">1つ</span>解除
-| SkillDescriptionLv6 = 味方1人に対して、治癒力の<span style="color: #007eff">371%</span>分の回復
-さらに弱体状態を<span style="color: #007eff">1つ</span>解除
-| SkillDescriptionLv7 = 味方1人に対して、治癒力の<span style="color: #007eff">430%</span>分の回復
-さらに弱体状態を<span style="color: #007eff">1つ</span>解除
-| SkillDescriptionLv8 = 味方1人に対して、治癒力の<span style="color: #007eff">459%</span>分の回復
-さらに弱体状態を<span style="color: #007eff">1つ</span>解除
-| SkillDescriptionLv9 = 味方1人に対して、治癒力の<span style="color: #007eff">518%</span>分の回復
-さらに弱体状態を<span style="color: #007eff">1つ</span>解除
-| SkillDescriptionLv10 = 味方1人に対して、治癒力の<span style="color: #007eff">547%</span>分の回復
-さらに弱体状態を<span style="color: #007eff">1つ</span>解除
+| SkillDescriptionGeneral = 味方1人に対して、治癒力の{{SkillValue|195%}}分の回復
+| SkillDescriptionLv1 = 味方1人に対して、治癒力の{{SkillValue|195%}}分の回復
+| SkillDescriptionLv2 = 味方1人に対して、治癒力の{{SkillValue|224%}}分の回復
+| SkillDescriptionLv3 = 味方1人に対して、治癒力の{{SkillValue|254%}}分の回復
+さらに弱体状態を{{SkillValue|1つ}}解除
+| SkillDescriptionLv4 = 味方1人に対して、治癒力の{{SkillValue|283%}}分の回復
+さらに弱体状態を{{SkillValue|1つ}}解除
+| SkillDescriptionLv5 = 味方1人に対して、治癒力の{{SkillValue|342%}}分の回復
+さらに弱体状態を{{SkillValue|1つ}}解除
+| SkillDescriptionLv6 = 味方1人に対して、治癒力の{{SkillValue|371%}}分の回復
+さらに弱体状態を{{SkillValue|1つ}}解除
+| SkillDescriptionLv7 = 味方1人に対して、治癒力の{{SkillValue|430%}}分の回復
+さらに弱体状態を{{SkillValue|1つ}}解除
+| SkillDescriptionLv8 = 味方1人に対して、治癒力の{{SkillValue|459%}}分の回復
+さらに弱体状態を{{SkillValue|1つ}}解除
+| SkillDescriptionLv9 = 味方1人に対して、治癒力の{{SkillValue|518%}}分の回復
+さらに弱体状態を{{SkillValue|1つ}}解除
+| SkillDescriptionLv10 = 味方1人に対して、治癒力の{{SkillValue|547%}}分の回復
+さらに弱体状態を{{SkillValue|1つ}}解除
 }}
 
 {{SkillTable
@@ -84,17 +84,17 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = <span style="color: #007eff">40秒</span>毎に、HPが最も低い味方1人の回避値を<span style="color: #007eff">50.9%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv1 = <span style="color: #007eff">40秒</span>毎に、HPが最も低い味方1人の回避値を<span style="color: #007eff">50.9%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv2 = <span style="color: #007eff">40秒</span>毎に、HPが最も低い味方1人の回避値を<span style="color: #007eff">51.8%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv3 = <span style="color: #007eff">40秒</span>毎に、HPが最も低い味方1人の回避値を<span style="color: #007eff">52.7%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv4 = <span style="color: #007eff">40秒</span>毎に、HPが最も低い味方1人の回避値を<span style="color: #007eff">56.3%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv5 = <span style="color: #007eff">40秒</span>毎に、HPが最も低い味方1人の回避値を<span style="color: #007eff">57.2%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv6 = <span style="color: #007eff">40秒</span>毎に、HPが最も低い味方1人の回避値を<span style="color: #007eff">58.1%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv7 = <span style="color: #007eff">40秒</span>毎に、HPが最も低い味方1人の回避値を<span style="color: #007eff">61.7%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv8 = <span style="color: #007eff">40秒</span>毎に、HPが最も低い味方1人の回避値を<span style="color: #007eff">62.6%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv9 = <span style="color: #007eff">40秒</span>毎に、HPが最も低い味方1人の回避値を<span style="color: #007eff">63.5%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv10 = <span style="color: #007eff">40秒</span>毎に、HPが最も低い味方1人の回避値を<span style="color: #007eff">67%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionGeneral = {{SkillValue|40秒}}毎に、HPが最も低い味方1人の回避値を{{SkillValue|50.9%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv1 = {{SkillValue|40秒}}毎に、HPが最も低い味方1人の回避値を{{SkillValue|50.9%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv2 = {{SkillValue|40秒}}毎に、HPが最も低い味方1人の回避値を{{SkillValue|51.8%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv3 = {{SkillValue|40秒}}毎に、HPが最も低い味方1人の回避値を{{SkillValue|52.7%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv4 = {{SkillValue|40秒}}毎に、HPが最も低い味方1人の回避値を{{SkillValue|56.3%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv5 = {{SkillValue|40秒}}毎に、HPが最も低い味方1人の回避値を{{SkillValue|57.2%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv6 = {{SkillValue|40秒}}毎に、HPが最も低い味方1人の回避値を{{SkillValue|58.1%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv7 = {{SkillValue|40秒}}毎に、HPが最も低い味方1人の回避値を{{SkillValue|61.7%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv8 = {{SkillValue|40秒}}毎に、HPが最も低い味方1人の回避値を{{SkillValue|62.6%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv9 = {{SkillValue|40秒}}毎に、HPが最も低い味方1人の回避値を{{SkillValue|63.5%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv10 = {{SkillValue|40秒}}毎に、HPが最も低い味方1人の回避値を{{SkillValue|67%}}増加（{{SkillValue|30秒}}間）
 }}
 
 {{SkillTable
@@ -102,17 +102,17 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Penetration
 | SkillType = Passive
-| SkillDescriptionGeneral = 治癒力を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 治癒力を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 治癒力を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 治癒力を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 治癒力を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 治癒力を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 治癒力を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 治癒力を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 治癒力を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 治癒力を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 治癒力を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 治癒力を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 治癒力を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 治癒力を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 治癒力を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 治癒力を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 治癒力を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 治癒力を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 治癒力を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 治癒力を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 治癒力を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 治癒力を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -120,16 +120,16 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = 味方の防御力を<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv1 = 味方の防御力を<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv2 = 味方の防御力を<span style="color: #007eff">9.5%</span>増加
-| SkillDescriptionLv3 = 味方の防御力を<span style="color: #007eff">10%</span>増加
-| SkillDescriptionLv4 = 味方の防御力を<span style="color: #007eff">11.8%</span>増加
-| SkillDescriptionLv5 = 味方の防御力を<span style="color: #007eff">12.3%</span>増加
-| SkillDescriptionLv6 = 味方の防御力を<span style="color: #007eff">12.7%</span>増加
-| SkillDescriptionLv7 = 味方の防御力を<span style="color: #007eff">14.5%</span>増加
-| SkillDescriptionLv8 = 味方の防御力を<span style="color: #007eff">15%</span>増加
-| SkillDescriptionLv9 = 味方の防御力を<span style="color: #007eff">15.5%</span>増加
-| SkillDescriptionLv10 = 味方の防御力を<span style="color: #007eff">17.3%</span>増加
+| SkillDescriptionGeneral = 味方の防御力を{{SkillValue|9.1%}}増加
+| SkillDescriptionLv1 = 味方の防御力を{{SkillValue|9.1%}}増加
+| SkillDescriptionLv2 = 味方の防御力を{{SkillValue|9.5%}}増加
+| SkillDescriptionLv3 = 味方の防御力を{{SkillValue|10%}}増加
+| SkillDescriptionLv4 = 味方の防御力を{{SkillValue|11.8%}}増加
+| SkillDescriptionLv5 = 味方の防御力を{{SkillValue|12.3%}}増加
+| SkillDescriptionLv6 = 味方の防御力を{{SkillValue|12.7%}}増加
+| SkillDescriptionLv7 = 味方の防御力を{{SkillValue|14.5%}}増加
+| SkillDescriptionLv8 = 味方の防御力を{{SkillValue|15%}}増加
+| SkillDescriptionLv9 = 味方の防御力を{{SkillValue|15.5%}}増加
+| SkillDescriptionLv10 = 味方の防御力を{{SkillValue|17.3%}}増加
 }}
 [[Category:Characters]]

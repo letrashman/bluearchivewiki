@@ -58,25 +58,25 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Explosive
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = 円形範囲内の敵に攻撃力の<span style="color: #007eff">389%</span>分のダメージ
-| SkillDescriptionLv1 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">389%</span>分のダメージ
-| SkillDescriptionLv2 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">410%</span>分のダメージ
-| SkillDescriptionLv3 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">442%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">3.6秒</span>間）
-| SkillDescriptionLv4 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">470%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">3.6秒</span>間）
-| SkillDescriptionLv5 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">518%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">4.1秒</span>間）
-| SkillDescriptionLv6 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">567%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">4.1秒</span>間）
-| SkillDescriptionLv7 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">664%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">4.1秒</span>間）
-| SkillDescriptionLv8 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">713%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">4.1秒</span>間）
-| SkillDescriptionLv9 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">810%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">4.1秒</span>間）
-| SkillDescriptionLv10 = 円形範囲内の敵に攻撃力の<span style="color: #007eff">859%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">4.1秒</span>間）
+| SkillDescriptionGeneral = 円形範囲内の敵に攻撃力の{{SkillValue|389%}}分のダメージ
+| SkillDescriptionLv1 = 円形範囲内の敵に攻撃力の{{SkillValue|389%}}分のダメージ
+| SkillDescriptionLv2 = 円形範囲内の敵に攻撃力の{{SkillValue|410%}}分のダメージ
+| SkillDescriptionLv3 = 円形範囲内の敵に攻撃力の{{SkillValue|442%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.6秒}}間）
+| SkillDescriptionLv4 = 円形範囲内の敵に攻撃力の{{SkillValue|470%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.6秒}}間）
+| SkillDescriptionLv5 = 円形範囲内の敵に攻撃力の{{SkillValue|518%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|4.1秒}}間）
+| SkillDescriptionLv6 = 円形範囲内の敵に攻撃力の{{SkillValue|567%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|4.1秒}}間）
+| SkillDescriptionLv7 = 円形範囲内の敵に攻撃力の{{SkillValue|664%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|4.1秒}}間）
+| SkillDescriptionLv8 = 円形範囲内の敵に攻撃力の{{SkillValue|713%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|4.1秒}}間）
+| SkillDescriptionLv9 = 円形範囲内の敵に攻撃力の{{SkillValue|810%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|4.1秒}}間）
+| SkillDescriptionLv10 = 円形範囲内の敵に攻撃力の{{SkillValue|859%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|4.1秒}}間）
 }}
 
 {{SkillTable
@@ -84,17 +84,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_TARGET
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">233%</span>分のダメージ
-| SkillDescriptionLv1 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">233%</span>分のダメージ
-| SkillDescriptionLv2 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">244%</span>分のダメージ
-| SkillDescriptionLv3 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">256%</span>分のダメージ
-| SkillDescriptionLv4 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">303%</span>分のダメージ
-| SkillDescriptionLv5 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">314%</span>分のダメージ
-| SkillDescriptionLv6 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">326%</span>分のダメージ
-| SkillDescriptionLv7 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">373%</span>分のダメージ
-| SkillDescriptionLv8 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">384%</span>分のダメージ
-| SkillDescriptionLv9 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">396%</span>分のダメージ
-| SkillDescriptionLv10 = <span style="color: #007eff">25秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">443%</span>分のダメージ
+| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|233%}}分のダメージ
+| SkillDescriptionLv1 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|233%}}分のダメージ
+| SkillDescriptionLv2 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|244%}}分のダメージ
+| SkillDescriptionLv3 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|256%}}分のダメージ
+| SkillDescriptionLv4 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|303%}}分のダメージ
+| SkillDescriptionLv5 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|314%}}分のダメージ
+| SkillDescriptionLv6 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|326%}}分のダメージ
+| SkillDescriptionLv7 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|373%}}分のダメージ
+| SkillDescriptionLv8 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|384%}}分のダメージ
+| SkillDescriptionLv9 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|396%}}分のダメージ
+| SkillDescriptionLv10 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|443%}}分のダメージ
 }}
 
 {{SkillTable
@@ -102,17 +102,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = 回避値を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 回避値を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 回避値を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 回避値を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 回避値を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 回避値を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 回避値を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 回避値を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 回避値を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 回避値を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 回避値を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 回避値を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 回避値を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 回避値を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 回避値を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 回避値を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 回避値を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 回避値を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 回避値を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 回避値を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 回避値を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 回避値を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -120,16 +120,16 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_EXTRADAMAGE
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">27.5%</span>分の追加ダメージ
-| SkillDescriptionLv1 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">27.5%</span>分の追加ダメージ
-| SkillDescriptionLv2 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">28.9%</span>分の追加ダメージ
-| SkillDescriptionLv3 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">30.3%</span>分の追加ダメージ
-| SkillDescriptionLv4 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">35.8%</span>分の追加ダメージ
-| SkillDescriptionLv5 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">37.2%</span>分の追加ダメージ
-| SkillDescriptionLv6 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">38.6%</span>分の追加ダメージ
-| SkillDescriptionLv7 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">44.1%</span>分の追加ダメージ
-| SkillDescriptionLv8 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">45.5%</span>分の追加ダメージ
-| SkillDescriptionLv9 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">46.8%</span>分の追加ダメージ
-| SkillDescriptionLv10 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">52.3%</span>分の追加ダメージ
+| SkillDescriptionGeneral = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|27.5%}}分の追加ダメージ
+| SkillDescriptionLv1 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|27.5%}}分の追加ダメージ
+| SkillDescriptionLv2 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|28.9%}}分の追加ダメージ
+| SkillDescriptionLv3 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|30.3%}}分の追加ダメージ
+| SkillDescriptionLv4 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|35.8%}}分の追加ダメージ
+| SkillDescriptionLv5 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|37.2%}}分の追加ダメージ
+| SkillDescriptionLv6 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|38.6%}}分の追加ダメージ
+| SkillDescriptionLv7 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|44.1%}}分の追加ダメージ
+| SkillDescriptionLv8 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|45.5%}}分の追加ダメージ
+| SkillDescriptionLv9 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|46.8%}}分の追加ダメージ
+| SkillDescriptionLv10 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|52.3%}}分の追加ダメージ
 }}
 [[Category:Characters]]

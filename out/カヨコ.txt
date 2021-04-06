@@ -58,28 +58,28 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_FEAR
 | SkillDamageType = Explosive
 | SkillBaseCost = 6
-| SkillDescriptionGeneral = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">349%</span>分のダメージ/
-恐怖状態を付与（<span style="color: #007eff">3.9秒</span>間）
-| SkillDescriptionLv1 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">349%</span>分のダメージ/
-恐怖状態を付与（<span style="color: #007eff">3.9秒</span>間）
-| SkillDescriptionLv2 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">401%</span>分のダメージ/
-恐怖状態を付与（<span style="color: #007eff">3.9秒</span>間）
-| SkillDescriptionLv3 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">453%</span>分のダメージ/
-恐怖状態を付与（<span style="color: #007eff">4.5秒</span>間）
-| SkillDescriptionLv4 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">506%</span>分のダメージ/
-恐怖状態を付与（<span style="color: #007eff">4.5秒</span>間）
-| SkillDescriptionLv5 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">558%</span>分のダメージ/
-恐怖状態を付与（<span style="color: #007eff">5.1秒</span>間）
-| SkillDescriptionLv6 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">610%</span>分のダメージ/
-恐怖状態を付与（<span style="color: #007eff">5.1秒</span>間）
-| SkillDescriptionLv7 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">715%</span>分のダメージ/
-恐怖状態を付与（<span style="color: #007eff">5.1秒</span>間）
-| SkillDescriptionLv8 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">767%</span>分のダメージ/
-恐怖状態を付与（<span style="color: #007eff">5.1秒</span>間）
-| SkillDescriptionLv9 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">872%</span>分のダメージ/
-恐怖状態を付与（<span style="color: #007eff">5.1秒</span>間）
-| SkillDescriptionLv10 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">924%</span>分のダメージ/
-恐怖状態を付与（<span style="color: #007eff">5.1秒</span>間）
+| SkillDescriptionGeneral = 円形範囲内の敵に対して、攻撃力の{{SkillValue|349%}}分のダメージ/
+恐怖状態を付与（{{SkillValue|3.9秒}}間）
+| SkillDescriptionLv1 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|349%}}分のダメージ/
+恐怖状態を付与（{{SkillValue|3.9秒}}間）
+| SkillDescriptionLv2 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|401%}}分のダメージ/
+恐怖状態を付与（{{SkillValue|3.9秒}}間）
+| SkillDescriptionLv3 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|453%}}分のダメージ/
+恐怖状態を付与（{{SkillValue|4.5秒}}間）
+| SkillDescriptionLv4 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|506%}}分のダメージ/
+恐怖状態を付与（{{SkillValue|4.5秒}}間）
+| SkillDescriptionLv5 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|558%}}分のダメージ/
+恐怖状態を付与（{{SkillValue|5.1秒}}間）
+| SkillDescriptionLv6 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|610%}}分のダメージ/
+恐怖状態を付与（{{SkillValue|5.1秒}}間）
+| SkillDescriptionLv7 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|715%}}分のダメージ/
+恐怖状態を付与（{{SkillValue|5.1秒}}間）
+| SkillDescriptionLv8 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|767%}}分のダメージ/
+恐怖状態を付与（{{SkillValue|5.1秒}}間）
+| SkillDescriptionLv9 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|872%}}分のダメージ/
+恐怖状態を付与（{{SkillValue|5.1秒}}間）
+| SkillDescriptionLv10 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|924%}}分のダメージ/
+恐怖状態を付与（{{SkillValue|5.1秒}}間）
 }}
 
 {{SkillTable
@@ -87,28 +87,28 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_FEAR
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">132%</span>分のダメージ/
-さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
-| SkillDescriptionLv1 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">132%</span>分のダメージ/
-さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
-| SkillDescriptionLv2 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">139%</span>分のダメージ/
-さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
-| SkillDescriptionLv3 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">146%</span>分のダメージ/
-さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
-| SkillDescriptionLv4 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">172%</span>分のダメージ/
-さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
-| SkillDescriptionLv5 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">179%</span>分のダメージ/
-さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
-| SkillDescriptionLv6 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">185%</span>分のダメージ/
-さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
-| SkillDescriptionLv7 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">212%</span>分のダメージ/
-さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
-| SkillDescriptionLv8 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">219%</span>分のダメージ/
-さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
-| SkillDescriptionLv9 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">225%</span>分のダメージ/
-さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
-| SkillDescriptionLv10 = <span style="color: #007eff">20秒</span>毎に、敵1人に対して攻撃力の<span style="color: #007eff">252%</span>分のダメージ/
-さらに<span style="color: #007eff">30%</span>の確率で恐怖状態を付与（<span style="color: #007eff">3.6秒</span>間）
+| SkillDescriptionGeneral = {{SkillValue|20秒}}毎に、敵1人に対して攻撃力の{{SkillValue|132%}}分のダメージ/
+さらに{{SkillValue|30%}}の確率で恐怖状態を付与（{{SkillValue|3.6秒}}間）
+| SkillDescriptionLv1 = {{SkillValue|20秒}}毎に、敵1人に対して攻撃力の{{SkillValue|132%}}分のダメージ/
+さらに{{SkillValue|30%}}の確率で恐怖状態を付与（{{SkillValue|3.6秒}}間）
+| SkillDescriptionLv2 = {{SkillValue|20秒}}毎に、敵1人に対して攻撃力の{{SkillValue|139%}}分のダメージ/
+さらに{{SkillValue|30%}}の確率で恐怖状態を付与（{{SkillValue|3.6秒}}間）
+| SkillDescriptionLv3 = {{SkillValue|20秒}}毎に、敵1人に対して攻撃力の{{SkillValue|146%}}分のダメージ/
+さらに{{SkillValue|30%}}の確率で恐怖状態を付与（{{SkillValue|3.6秒}}間）
+| SkillDescriptionLv4 = {{SkillValue|20秒}}毎に、敵1人に対して攻撃力の{{SkillValue|172%}}分のダメージ/
+さらに{{SkillValue|30%}}の確率で恐怖状態を付与（{{SkillValue|3.6秒}}間）
+| SkillDescriptionLv5 = {{SkillValue|20秒}}毎に、敵1人に対して攻撃力の{{SkillValue|179%}}分のダメージ/
+さらに{{SkillValue|30%}}の確率で恐怖状態を付与（{{SkillValue|3.6秒}}間）
+| SkillDescriptionLv6 = {{SkillValue|20秒}}毎に、敵1人に対して攻撃力の{{SkillValue|185%}}分のダメージ/
+さらに{{SkillValue|30%}}の確率で恐怖状態を付与（{{SkillValue|3.6秒}}間）
+| SkillDescriptionLv7 = {{SkillValue|20秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+さらに{{SkillValue|30%}}の確率で恐怖状態を付与（{{SkillValue|3.6秒}}間）
+| SkillDescriptionLv8 = {{SkillValue|20秒}}毎に、敵1人に対して攻撃力の{{SkillValue|219%}}分のダメージ/
+さらに{{SkillValue|30%}}の確率で恐怖状態を付与（{{SkillValue|3.6秒}}間）
+| SkillDescriptionLv9 = {{SkillValue|20秒}}毎に、敵1人に対して攻撃力の{{SkillValue|225%}}分のダメージ/
+さらに{{SkillValue|30%}}の確率で恐怖状態を付与（{{SkillValue|3.6秒}}間）
+| SkillDescriptionLv10 = {{SkillValue|20秒}}毎に、敵1人に対して攻撃力の{{SkillValue|252%}}分のダメージ/
+さらに{{SkillValue|30%}}の確率で恐怖状態を付与（{{SkillValue|3.6秒}}間）
 }}
 
 {{SkillTable
@@ -116,17 +116,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = CC強化力を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = CC強化力を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = CC強化力を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = CC強化力を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = CC強化力を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = CC強化力を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = CC強化力を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = CC強化力を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = CC強化力を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = CC強化力を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = CC強化力を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = CC強化力を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = CC強化力を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = CC強化力を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = CC強化力を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = CC強化力を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = CC強化力を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = CC強化力を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = CC強化力を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = CC強化力を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = CC強化力を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = CC強化力を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -134,16 +134,16 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_EXTRADAMAGE
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">74.8%</span>分の追加ダメージ
-| SkillDescriptionLv1 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">74.8%</span>分の追加ダメージ
-| SkillDescriptionLv2 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">78.5%</span>分の追加ダメージ
-| SkillDescriptionLv3 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">82.2%</span>分の追加ダメージ
-| SkillDescriptionLv4 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">97.2%</span>分の追加ダメージ
-| SkillDescriptionLv5 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">100%</span>分の追加ダメージ
-| SkillDescriptionLv6 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">104%</span>分の追加ダメージ
-| SkillDescriptionLv7 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">119%</span>分の追加ダメージ
-| SkillDescriptionLv8 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">123%</span>分の追加ダメージ
-| SkillDescriptionLv9 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">127%</span>分の追加ダメージ
-| SkillDescriptionLv10 = CC状態の敵を攻撃した時、攻撃力の<span style="color: #007eff">142%</span>分の追加ダメージ
+| SkillDescriptionGeneral = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|74.8%}}分の追加ダメージ
+| SkillDescriptionLv1 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|74.8%}}分の追加ダメージ
+| SkillDescriptionLv2 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|78.5%}}分の追加ダメージ
+| SkillDescriptionLv3 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|82.2%}}分の追加ダメージ
+| SkillDescriptionLv4 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|97.2%}}分の追加ダメージ
+| SkillDescriptionLv5 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|100%}}分の追加ダメージ
+| SkillDescriptionLv6 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|104%}}分の追加ダメージ
+| SkillDescriptionLv7 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|119%}}分の追加ダメージ
+| SkillDescriptionLv8 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|123%}}分の追加ダメージ
+| SkillDescriptionLv9 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|127%}}分の追加ダメージ
+| SkillDescriptionLv10 = CC状態の敵を攻撃した時、攻撃力の{{SkillValue|142%}}分の追加ダメージ
 }}
 [[Category:Characters]]

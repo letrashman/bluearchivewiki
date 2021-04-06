@@ -59,28 +59,28 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">220%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">2.2秒</span>間）
-| SkillDescriptionLv1 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">220%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">2.2秒</span>間）
-| SkillDescriptionLv2 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">254%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">2.2秒</span>間）
-| SkillDescriptionLv3 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">287%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">2.5秒</span>間）
-| SkillDescriptionLv4 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">320%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">2.5秒</span>間）
-| SkillDescriptionLv5 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">353%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">2.9秒</span>間）
-| SkillDescriptionLv6 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">386%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">2.9秒</span>間）
-| SkillDescriptionLv7 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">452%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">2.9秒</span>間）
-| SkillDescriptionLv8 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">486%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">2.9秒</span>間）
-| SkillDescriptionLv9 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">552%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">2.9秒</span>間）
-| SkillDescriptionLv10 = 円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">585%</span>分のダメージ/
-さらに気絶状態を付与（<span style="color: #007eff">2.9秒</span>間）
+| SkillDescriptionGeneral = 円形範囲内の敵に対して、攻撃力の{{SkillValue|220%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|2.2秒}}間）
+| SkillDescriptionLv1 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|220%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|2.2秒}}間）
+| SkillDescriptionLv2 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|254%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|2.2秒}}間）
+| SkillDescriptionLv3 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|287%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|2.5秒}}間）
+| SkillDescriptionLv4 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|320%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|2.5秒}}間）
+| SkillDescriptionLv5 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|353%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|2.9秒}}間）
+| SkillDescriptionLv6 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|386%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|2.9秒}}間）
+| SkillDescriptionLv7 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|452%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|2.9秒}}間）
+| SkillDescriptionLv8 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|486%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|2.9秒}}間）
+| SkillDescriptionLv9 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|552%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|2.9秒}}間）
+| SkillDescriptionLv10 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|585%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|2.9秒}}間）
 }}
 
 {{SkillTable
@@ -88,17 +88,17 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">191%</span>分のダメージ
-| SkillDescriptionLv1 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">191%</span>分のダメージ
-| SkillDescriptionLv2 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">201%</span>分のダメージ
-| SkillDescriptionLv3 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">210%</span>分のダメージ
-| SkillDescriptionLv4 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">249%</span>分のダメージ
-| SkillDescriptionLv5 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">258%</span>分のダメージ
-| SkillDescriptionLv6 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">268%</span>分のダメージ
-| SkillDescriptionLv7 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">306%</span>分のダメージ
-| SkillDescriptionLv8 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">316%</span>分のダメージ
-| SkillDescriptionLv9 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">325%</span>分のダメージ
-| SkillDescriptionLv10 = <span style="color: #007eff">25秒</span>毎に、円形範囲内の敵に対して攻撃力の<span style="color: #007eff">364%</span>分のダメージ
+| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|191%}}分のダメージ
+| SkillDescriptionLv1 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|191%}}分のダメージ
+| SkillDescriptionLv2 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|201%}}分のダメージ
+| SkillDescriptionLv3 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|210%}}分のダメージ
+| SkillDescriptionLv4 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|249%}}分のダメージ
+| SkillDescriptionLv5 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|258%}}分のダメージ
+| SkillDescriptionLv6 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|268%}}分のダメージ
+| SkillDescriptionLv7 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|306%}}分のダメージ
+| SkillDescriptionLv8 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|316%}}分のダメージ
+| SkillDescriptionLv9 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|325%}}分のダメージ
+| SkillDescriptionLv10 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|364%}}分のダメージ
 }}
 
 {{SkillTable
@@ -106,17 +106,17 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Passive
-| SkillDescriptionGeneral = 会心値を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 会心値を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 会心値を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 会心値を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 会心値を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 会心値を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 会心値を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 会心値を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 会心値を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 会心値を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 会心値を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 会心値を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 会心値を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 会心値を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 会心値を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 会心値を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 会心値を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 会心値を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 会心値を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 会心値を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 会心値を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 会心値を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -124,16 +124,16 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = 味方のCC強化力を<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv1 = 味方のCC強化力を<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv2 = 味方のCC強化力を<span style="color: #007eff">9.5%</span>増加
-| SkillDescriptionLv3 = 味方のCC強化力を<span style="color: #007eff">10%</span>増加
-| SkillDescriptionLv4 = 味方のCC強化力を<span style="color: #007eff">11.8%</span>増加
-| SkillDescriptionLv5 = 味方のCC強化力を<span style="color: #007eff">12.3%</span>増加
-| SkillDescriptionLv6 = 味方のCC強化力を<span style="color: #007eff">12.7%</span>増加
-| SkillDescriptionLv7 = 味方のCC強化力を<span style="color: #007eff">14.5%</span>増加
-| SkillDescriptionLv8 = 味方のCC強化力を<span style="color: #007eff">15%</span>増加
-| SkillDescriptionLv9 = 味方のCC強化力を<span style="color: #007eff">15.5%</span>増加
-| SkillDescriptionLv10 = 味方のCC強化力を<span style="color: #007eff">17.3%</span>増加
+| SkillDescriptionGeneral = 味方のCC強化力を{{SkillValue|9.1%}}増加
+| SkillDescriptionLv1 = 味方のCC強化力を{{SkillValue|9.1%}}増加
+| SkillDescriptionLv2 = 味方のCC強化力を{{SkillValue|9.5%}}増加
+| SkillDescriptionLv3 = 味方のCC強化力を{{SkillValue|10%}}増加
+| SkillDescriptionLv4 = 味方のCC強化力を{{SkillValue|11.8%}}増加
+| SkillDescriptionLv5 = 味方のCC強化力を{{SkillValue|12.3%}}増加
+| SkillDescriptionLv6 = 味方のCC強化力を{{SkillValue|12.7%}}増加
+| SkillDescriptionLv7 = 味方のCC強化力を{{SkillValue|14.5%}}増加
+| SkillDescriptionLv8 = 味方のCC強化力を{{SkillValue|15%}}増加
+| SkillDescriptionLv9 = 味方のCC強化力を{{SkillValue|15.5%}}増加
+| SkillDescriptionLv10 = 味方のCC強化力を{{SkillValue|17.3%}}増加
 }}
 [[Category:Characters]]

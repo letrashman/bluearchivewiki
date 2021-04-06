@@ -57,17 +57,17 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_BATTLEITEM
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">175%</span>分のシールド効果を発動
-| SkillDescriptionLv1 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">175%</span>分のシールド効果を発動
-| SkillDescriptionLv2 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">202%</span>分のシールド効果を発動
-| SkillDescriptionLv3 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">255%</span>分のシールド効果を発動
-| SkillDescriptionLv4 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">281%</span>分のシールド効果を発動
-| SkillDescriptionLv5 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">334%</span>分のシールド効果を発動
-| SkillDescriptionLv6 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">360%</span>分のシールド効果を発動
-| SkillDescriptionLv7 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">413%</span>分のシールド効果を発動
-| SkillDescriptionLv8 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">439%</span>分のシールド効果を発動
-| SkillDescriptionLv9 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">492%</span>分のシールド効果を発動
-| SkillDescriptionLv10 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の<span style="color: #007eff">519%</span>分のシールド効果を発動
+| SkillDescriptionGeneral = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|175%}}分のシールド効果を発動
+| SkillDescriptionLv1 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|175%}}分のシールド効果を発動
+| SkillDescriptionLv2 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|202%}}分のシールド効果を発動
+| SkillDescriptionLv3 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|255%}}分のシールド効果を発動
+| SkillDescriptionLv4 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|281%}}分のシールド効果を発動
+| SkillDescriptionLv5 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|334%}}分のシールド効果を発動
+| SkillDescriptionLv6 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|360%}}分のシールド効果を発動
+| SkillDescriptionLv7 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|413%}}分のシールド効果を発動
+| SkillDescriptionLv8 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|439%}}分のシールド効果を発動
+| SkillDescriptionLv9 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|492%}}分のシールド効果を発動
+| SkillDescriptionLv10 = 円形範囲内の味方4人を指定した位置に移動させた後、治癒力の{{SkillValue|519%}}分のシールド効果を発動
 }}
 
 {{SkillTable
@@ -75,17 +75,17 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_FAN
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = <span style="color: #007eff">35秒</span>毎に、扇形範囲内の敵に攻撃力の<span style="color: #007eff">269%</span>分のダメージ
-| SkillDescriptionLv1 = <span style="color: #007eff">35秒</span>毎に、扇形範囲内の敵に攻撃力の<span style="color: #007eff">269%</span>分のダメージ
-| SkillDescriptionLv2 = <span style="color: #007eff">35秒</span>毎に、扇形範囲内の敵に攻撃力の<span style="color: #007eff">282%</span>分のダメージ
-| SkillDescriptionLv3 = <span style="color: #007eff">35秒</span>毎に、扇形範囲内の敵に攻撃力の<span style="color: #007eff">296%</span>分のダメージ
-| SkillDescriptionLv4 = <span style="color: #007eff">35秒</span>毎に、扇形範囲内の敵に攻撃力の<span style="color: #007eff">350%</span>分のダメージ
-| SkillDescriptionLv5 = <span style="color: #007eff">35秒</span>毎に、扇形範囲内の敵に攻撃力の<span style="color: #007eff">363%</span>分のダメージ
-| SkillDescriptionLv6 = <span style="color: #007eff">35秒</span>毎に、扇形範囲内の敵に攻撃力の<span style="color: #007eff">377%</span>分のダメージ
-| SkillDescriptionLv7 = <span style="color: #007eff">35秒</span>毎に、扇形範囲内の敵に攻撃力の<span style="color: #007eff">430%</span>分のダメージ
-| SkillDescriptionLv8 = <span style="color: #007eff">35秒</span>毎に、扇形範囲内の敵に攻撃力の<span style="color: #007eff">444%</span>分のダメージ
-| SkillDescriptionLv9 = <span style="color: #007eff">35秒</span>毎に、扇形範囲内の敵に攻撃力の<span style="color: #007eff">457%</span>分のダメージ
-| SkillDescriptionLv10 = <span style="color: #007eff">35秒</span>毎に、扇形範囲内の敵に攻撃力の<span style="color: #007eff">511%</span>分のダメージ
+| SkillDescriptionGeneral = {{SkillValue|35秒}}毎に、扇形範囲内の敵に攻撃力の{{SkillValue|269%}}分のダメージ
+| SkillDescriptionLv1 = {{SkillValue|35秒}}毎に、扇形範囲内の敵に攻撃力の{{SkillValue|269%}}分のダメージ
+| SkillDescriptionLv2 = {{SkillValue|35秒}}毎に、扇形範囲内の敵に攻撃力の{{SkillValue|282%}}分のダメージ
+| SkillDescriptionLv3 = {{SkillValue|35秒}}毎に、扇形範囲内の敵に攻撃力の{{SkillValue|296%}}分のダメージ
+| SkillDescriptionLv4 = {{SkillValue|35秒}}毎に、扇形範囲内の敵に攻撃力の{{SkillValue|350%}}分のダメージ
+| SkillDescriptionLv5 = {{SkillValue|35秒}}毎に、扇形範囲内の敵に攻撃力の{{SkillValue|363%}}分のダメージ
+| SkillDescriptionLv6 = {{SkillValue|35秒}}毎に、扇形範囲内の敵に攻撃力の{{SkillValue|377%}}分のダメージ
+| SkillDescriptionLv7 = {{SkillValue|35秒}}毎に、扇形範囲内の敵に攻撃力の{{SkillValue|430%}}分のダメージ
+| SkillDescriptionLv8 = {{SkillValue|35秒}}毎に、扇形範囲内の敵に攻撃力の{{SkillValue|444%}}分のダメージ
+| SkillDescriptionLv9 = {{SkillValue|35秒}}毎に、扇形範囲内の敵に攻撃力の{{SkillValue|457%}}分のダメージ
+| SkillDescriptionLv10 = {{SkillValue|35秒}}毎に、扇形範囲内の敵に攻撃力の{{SkillValue|511%}}分のダメージ
 }}
 
 {{SkillTable
@@ -93,17 +93,17 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Passive
-| SkillDescriptionGeneral = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 会心ダメージ率を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 会心ダメージ率を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 会心ダメージ率を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 会心ダメージ率を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 会心ダメージ率を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 会心ダメージ率を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 会心ダメージ率を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 会心ダメージ率を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 会心ダメージ率を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 会心ダメージ率を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 会心ダメージ率を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 会心ダメージ率を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 会心ダメージ率を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 会心ダメージ率を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 会心ダメージ率を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 会心ダメージ率を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 会心ダメージ率を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 会心ダメージ率を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 会心ダメージ率を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 会心ダメージ率を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -111,16 +111,16 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = 敵を倒した時、会心ダメージ率を<span style="color: #007eff">20.1%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv1 = 敵を倒した時、会心ダメージ率を<span style="color: #007eff">20.1%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv2 = 敵を倒した時、会心ダメージ率を<span style="color: #007eff">21.1%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv3 = 敵を倒した時、会心ダメージ率を<span style="color: #007eff">22.1%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv4 = 敵を倒した時、会心ダメージ率を<span style="color: #007eff">26.2%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv5 = 敵を倒した時、会心ダメージ率を<span style="color: #007eff">27.2%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv6 = 敵を倒した時、会心ダメージ率を<span style="color: #007eff">28.2%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv7 = 敵を倒した時、会心ダメージ率を<span style="color: #007eff">32.2%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv8 = 敵を倒した時、会心ダメージ率を<span style="color: #007eff">33.2%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv9 = 敵を倒した時、会心ダメージ率を<span style="color: #007eff">34.2%</span>増加（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv10 = 敵を倒した時、会心ダメージ率を<span style="color: #007eff">38.3%</span>増加（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionGeneral = 敵を倒した時、会心ダメージ率を{{SkillValue|20.1%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv1 = 敵を倒した時、会心ダメージ率を{{SkillValue|20.1%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv2 = 敵を倒した時、会心ダメージ率を{{SkillValue|21.1%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv3 = 敵を倒した時、会心ダメージ率を{{SkillValue|22.1%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv4 = 敵を倒した時、会心ダメージ率を{{SkillValue|26.2%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv5 = 敵を倒した時、会心ダメージ率を{{SkillValue|27.2%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv6 = 敵を倒した時、会心ダメージ率を{{SkillValue|28.2%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv7 = 敵を倒した時、会心ダメージ率を{{SkillValue|32.2%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv8 = 敵を倒した時、会心ダメージ率を{{SkillValue|33.2%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv9 = 敵を倒した時、会心ダメージ率を{{SkillValue|34.2%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv10 = 敵を倒した時、会心ダメージ率を{{SkillValue|38.3%}}増加（{{SkillValue|30秒}}間）
 }}
 [[Category:Characters]]

@@ -57,17 +57,17 @@ TODO: Fill this out.
 | SkillIcon = SKILLICON_UTAHA_EXSKILL
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = ターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">81.4%</span>分の攻撃力を持ちます（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv1 = ターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">81.4%</span>分の攻撃力を持ちます（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv2 = ターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">93.6%</span>分の攻撃力を持ちます（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv3 = ターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">118%</span>分の攻撃力を持ちます（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv4 = ターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">130%</span>分の攻撃力を持ちます（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv5 = ターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">154%</span>分の攻撃力を持ちます（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv6 = ターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">166%</span>分の攻撃力を持ちます（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv7 = ターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">191%</span>分の攻撃力を持ちます（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv8 = ターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">203%</span>分の攻撃力を持ちます（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv9 = ターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">227%</span>分の攻撃力を持ちます（<span style="color: #007eff">30秒</span>間）
-| SkillDescriptionLv10 = ターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">240%</span>分の攻撃力を持ちます（<span style="color: #007eff">30秒</span>間）
+| SkillDescriptionGeneral = ターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|81.4%}}分の攻撃力を持ちます（{{SkillValue|30秒}}間）
+| SkillDescriptionLv1 = ターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|81.4%}}分の攻撃力を持ちます（{{SkillValue|30秒}}間）
+| SkillDescriptionLv2 = ターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|93.6%}}分の攻撃力を持ちます（{{SkillValue|30秒}}間）
+| SkillDescriptionLv3 = ターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|118%}}分の攻撃力を持ちます（{{SkillValue|30秒}}間）
+| SkillDescriptionLv4 = ターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|130%}}分の攻撃力を持ちます（{{SkillValue|30秒}}間）
+| SkillDescriptionLv5 = ターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|154%}}分の攻撃力を持ちます（{{SkillValue|30秒}}間）
+| SkillDescriptionLv6 = ターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|166%}}分の攻撃力を持ちます（{{SkillValue|30秒}}間）
+| SkillDescriptionLv7 = ターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|191%}}分の攻撃力を持ちます（{{SkillValue|30秒}}間）
+| SkillDescriptionLv8 = ターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|203%}}分の攻撃力を持ちます（{{SkillValue|30秒}}間）
+| SkillDescriptionLv9 = ターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|227%}}分の攻撃力を持ちます（{{SkillValue|30秒}}間）
+| SkillDescriptionLv10 = ターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|240%}}分の攻撃力を持ちます（{{SkillValue|30秒}}間）
 }}
 
 {{SkillTable
@@ -75,17 +75,17 @@ TODO: Fill this out.
 | SkillIcon = SKILLICON_UTAHA_EXSKILL
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = <span style="color: #007eff">30秒</span>毎にターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">38.2%</span>分の攻撃力を持ちます（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv1 = <span style="color: #007eff">30秒</span>毎にターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">38.2%</span>分の攻撃力を持ちます（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv2 = <span style="color: #007eff">30秒</span>毎にターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">40.1%</span>分の攻撃力を持ちます（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv3 = <span style="color: #007eff">30秒</span>毎にターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">42%</span>分の攻撃力を持ちます（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv4 = <span style="color: #007eff">30秒</span>毎にターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">49.7%</span>分の攻撃力を持ちます（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv5 = <span style="color: #007eff">30秒</span>毎にターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">51.6%</span>分の攻撃力を持ちます（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv6 = <span style="color: #007eff">30秒</span>毎にターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">53.5%</span>分の攻撃力を持ちます（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv7 = <span style="color: #007eff">30秒</span>毎にターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">61.1%</span>分の攻撃力を持ちます（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv8 = <span style="color: #007eff">30秒</span>毎にターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">63.1%</span>分の攻撃力を持ちます（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv9 = <span style="color: #007eff">30秒</span>毎にターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">65%</span>分の攻撃力を持ちます（<span style="color: #007eff">20秒</span>間）
-| SkillDescriptionLv10 = <span style="color: #007eff">30秒</span>毎にターレットを召喚、ターレットはウタハの攻撃力の<span style="color: #007eff">72.6%</span>分の攻撃力を持ちます（<span style="color: #007eff">20秒</span>間）
+| SkillDescriptionGeneral = {{SkillValue|30秒}}毎にターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|38.2%}}分の攻撃力を持ちます（{{SkillValue|20秒}}間）
+| SkillDescriptionLv1 = {{SkillValue|30秒}}毎にターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|38.2%}}分の攻撃力を持ちます（{{SkillValue|20秒}}間）
+| SkillDescriptionLv2 = {{SkillValue|30秒}}毎にターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|40.1%}}分の攻撃力を持ちます（{{SkillValue|20秒}}間）
+| SkillDescriptionLv3 = {{SkillValue|30秒}}毎にターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|42%}}分の攻撃力を持ちます（{{SkillValue|20秒}}間）
+| SkillDescriptionLv4 = {{SkillValue|30秒}}毎にターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|49.7%}}分の攻撃力を持ちます（{{SkillValue|20秒}}間）
+| SkillDescriptionLv5 = {{SkillValue|30秒}}毎にターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|51.6%}}分の攻撃力を持ちます（{{SkillValue|20秒}}間）
+| SkillDescriptionLv6 = {{SkillValue|30秒}}毎にターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|53.5%}}分の攻撃力を持ちます（{{SkillValue|20秒}}間）
+| SkillDescriptionLv7 = {{SkillValue|30秒}}毎にターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|61.1%}}分の攻撃力を持ちます（{{SkillValue|20秒}}間）
+| SkillDescriptionLv8 = {{SkillValue|30秒}}毎にターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|63.1%}}分の攻撃力を持ちます（{{SkillValue|20秒}}間）
+| SkillDescriptionLv9 = {{SkillValue|30秒}}毎にターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|65%}}分の攻撃力を持ちます（{{SkillValue|20秒}}間）
+| SkillDescriptionLv10 = {{SkillValue|30秒}}毎にターレットを召喚、ターレットはウタハの攻撃力の{{SkillValue|72.6%}}分の攻撃力を持ちます（{{SkillValue|20秒}}間）
 }}
 
 {{SkillTable
@@ -93,17 +93,17 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Passive
-| SkillDescriptionGeneral = 攻撃力を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 攻撃力を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 攻撃力を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 攻撃力を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 攻撃力を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 攻撃力を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 攻撃力を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 攻撃力を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 攻撃力を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 攻撃力を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 攻撃力を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 攻撃力を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 攻撃力を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 攻撃力を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 攻撃力を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 攻撃力を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 攻撃力を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 攻撃力を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 攻撃力を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 攻撃力を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 攻撃力を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 攻撃力を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -111,16 +111,16 @@ TODO: Fill this out.
 | SkillIcon = Penetration_COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = 味方のHPを<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv1 = 味方のHPを<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv2 = 味方のHPを<span style="color: #007eff">9.5%</span>増加
-| SkillDescriptionLv3 = 味方のHPを<span style="color: #007eff">10%</span>増加
-| SkillDescriptionLv4 = 味方のHPを<span style="color: #007eff">11.8%</span>増加
-| SkillDescriptionLv5 = 味方のHPを<span style="color: #007eff">12.3%</span>増加
-| SkillDescriptionLv6 = 味方のHPを<span style="color: #007eff">12.7%</span>増加
-| SkillDescriptionLv7 = 味方のHPを<span style="color: #007eff">14.5%</span>増加
-| SkillDescriptionLv8 = 味方のHPを<span style="color: #007eff">15%</span>増加
-| SkillDescriptionLv9 = 味方のHPを<span style="color: #007eff">15.5%</span>増加
-| SkillDescriptionLv10 = 味方のHPを<span style="color: #007eff">17.3%</span>増加
+| SkillDescriptionGeneral = 味方のHPを{{SkillValue|9.1%}}増加
+| SkillDescriptionLv1 = 味方のHPを{{SkillValue|9.1%}}増加
+| SkillDescriptionLv2 = 味方のHPを{{SkillValue|9.5%}}増加
+| SkillDescriptionLv3 = 味方のHPを{{SkillValue|10%}}増加
+| SkillDescriptionLv4 = 味方のHPを{{SkillValue|11.8%}}増加
+| SkillDescriptionLv5 = 味方のHPを{{SkillValue|12.3%}}増加
+| SkillDescriptionLv6 = 味方のHPを{{SkillValue|12.7%}}増加
+| SkillDescriptionLv7 = 味方のHPを{{SkillValue|14.5%}}増加
+| SkillDescriptionLv8 = 味方のHPを{{SkillValue|15%}}増加
+| SkillDescriptionLv9 = 味方のHPを{{SkillValue|15.5%}}増加
+| SkillDescriptionLv10 = 味方のHPを{{SkillValue|17.3%}}増加
 }}
 [[Category:Characters]]

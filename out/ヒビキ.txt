@@ -58,17 +58,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Explosive
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = 5つの円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">311%</span>分のダメージ
-| SkillDescriptionLv1 = 5つの円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">311%</span>分のダメージ
-| SkillDescriptionLv2 = 5つの円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">358%</span>分のダメージ
-| SkillDescriptionLv3 = 5つの円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">451%</span>分のダメージ
-| SkillDescriptionLv4 = 5つの円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">498%</span>分のダメージ
-| SkillDescriptionLv5 = 5つの円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">591%</span>分のダメージ
-| SkillDescriptionLv6 = 5つの円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">638%</span>分のダメージ
-| SkillDescriptionLv7 = 5つの円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">731%</span>分のダメージ
-| SkillDescriptionLv8 = 5つの円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">778%</span>分のダメージ
-| SkillDescriptionLv9 = 5つの円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">871%</span>分のダメージ
-| SkillDescriptionLv10 = 5つの円形範囲内の敵に対して、攻撃力の<span style="color: #007eff">918%</span>分のダメージ
+| SkillDescriptionGeneral = 5つの円形範囲内の敵に対して、攻撃力の{{SkillValue|311%}}分のダメージ
+| SkillDescriptionLv1 = 5つの円形範囲内の敵に対して、攻撃力の{{SkillValue|311%}}分のダメージ
+| SkillDescriptionLv2 = 5つの円形範囲内の敵に対して、攻撃力の{{SkillValue|358%}}分のダメージ
+| SkillDescriptionLv3 = 5つの円形範囲内の敵に対して、攻撃力の{{SkillValue|451%}}分のダメージ
+| SkillDescriptionLv4 = 5つの円形範囲内の敵に対して、攻撃力の{{SkillValue|498%}}分のダメージ
+| SkillDescriptionLv5 = 5つの円形範囲内の敵に対して、攻撃力の{{SkillValue|591%}}分のダメージ
+| SkillDescriptionLv6 = 5つの円形範囲内の敵に対して、攻撃力の{{SkillValue|638%}}分のダメージ
+| SkillDescriptionLv7 = 5つの円形範囲内の敵に対して、攻撃力の{{SkillValue|731%}}分のダメージ
+| SkillDescriptionLv8 = 5つの円形範囲内の敵に対して、攻撃力の{{SkillValue|778%}}分のダメージ
+| SkillDescriptionLv9 = 5つの円形範囲内の敵に対して、攻撃力の{{SkillValue|871%}}分のダメージ
+| SkillDescriptionLv10 = 5つの円形範囲内の敵に対して、攻撃力の{{SkillValue|918%}}分のダメージ
 }}
 
 {{SkillTable
@@ -76,17 +76,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = <span style="color: #007eff">20秒</span>毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の<span style="color: #007eff">144%</span>分のダメージ
-| SkillDescriptionLv1 = <span style="color: #007eff">20秒</span>毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の<span style="color: #007eff">144%</span>分のダメージ
-| SkillDescriptionLv2 = <span style="color: #007eff">20秒</span>毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の<span style="color: #007eff">152%</span>分のダメージ
-| SkillDescriptionLv3 = <span style="color: #007eff">20秒</span>毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の<span style="color: #007eff">159%</span>分のダメージ
-| SkillDescriptionLv4 = <span style="color: #007eff">20秒</span>毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の<span style="color: #007eff">188%</span>分のダメージ
-| SkillDescriptionLv5 = <span style="color: #007eff">20秒</span>毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の<span style="color: #007eff">195%</span>分のダメージ
-| SkillDescriptionLv6 = <span style="color: #007eff">20秒</span>毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の<span style="color: #007eff">202%</span>分のダメージ
-| SkillDescriptionLv7 = <span style="color: #007eff">20秒</span>毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の<span style="color: #007eff">231%</span>分のダメージ
-| SkillDescriptionLv8 = <span style="color: #007eff">20秒</span>毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の<span style="color: #007eff">239%</span>分のダメージ
-| SkillDescriptionLv9 = <span style="color: #007eff">20秒</span>毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の<span style="color: #007eff">246%</span>分のダメージ
-| SkillDescriptionLv10 = <span style="color: #007eff">20秒</span>毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の<span style="color: #007eff">275%</span>分のダメージ
+| SkillDescriptionGeneral = {{SkillValue|20秒}}毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の{{SkillValue|144%}}分のダメージ
+| SkillDescriptionLv1 = {{SkillValue|20秒}}毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の{{SkillValue|144%}}分のダメージ
+| SkillDescriptionLv2 = {{SkillValue|20秒}}毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の{{SkillValue|152%}}分のダメージ
+| SkillDescriptionLv3 = {{SkillValue|20秒}}毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の{{SkillValue|159%}}分のダメージ
+| SkillDescriptionLv4 = {{SkillValue|20秒}}毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の{{SkillValue|188%}}分のダメージ
+| SkillDescriptionLv5 = {{SkillValue|20秒}}毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の{{SkillValue|195%}}分のダメージ
+| SkillDescriptionLv6 = {{SkillValue|20秒}}毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の{{SkillValue|202%}}分のダメージ
+| SkillDescriptionLv7 = {{SkillValue|20秒}}毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の{{SkillValue|231%}}分のダメージ
+| SkillDescriptionLv8 = {{SkillValue|20秒}}毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の{{SkillValue|239%}}分のダメージ
+| SkillDescriptionLv9 = {{SkillValue|20秒}}毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の{{SkillValue|246%}}分のダメージ
+| SkillDescriptionLv10 = {{SkillValue|20秒}}毎に、HPが最も低い敵を中心にした円形範囲内の敵に攻撃力の{{SkillValue|275%}}分のダメージ
 }}
 
 {{SkillTable
@@ -94,17 +94,17 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv1 = 会心ダメージ率を<span style="color: #007eff">14%</span>増加
-| SkillDescriptionLv2 = 会心ダメージ率を<span style="color: #007eff">14.7%</span>増加
-| SkillDescriptionLv3 = 会心ダメージ率を<span style="color: #007eff">15.4%</span>増加
-| SkillDescriptionLv4 = 会心ダメージ率を<span style="color: #007eff">18.2%</span>増加
-| SkillDescriptionLv5 = 会心ダメージ率を<span style="color: #007eff">18.9%</span>増加
-| SkillDescriptionLv6 = 会心ダメージ率を<span style="color: #007eff">19.6%</span>増加
-| SkillDescriptionLv7 = 会心ダメージ率を<span style="color: #007eff">22.4%</span>増加
-| SkillDescriptionLv8 = 会心ダメージ率を<span style="color: #007eff">23.1%</span>増加
-| SkillDescriptionLv9 = 会心ダメージ率を<span style="color: #007eff">23.8%</span>増加
-| SkillDescriptionLv10 = 会心ダメージ率を<span style="color: #007eff">26.6%</span>増加
+| SkillDescriptionGeneral = 会心ダメージ率を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 会心ダメージ率を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 会心ダメージ率を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 会心ダメージ率を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 会心ダメージ率を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 会心ダメージ率を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 会心ダメージ率を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 会心ダメージ率を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 会心ダメージ率を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 会心ダメージ率を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 会心ダメージ率を{{SkillValue|26.6%}}増加
 }}
 
 {{SkillTable
@@ -112,16 +112,16 @@ TODO: Fill this out.
 | SkillIcon = Explosive_COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = 味方の会心ダメージ率を<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv1 = 味方の会心ダメージ率を<span style="color: #007eff">9.1%</span>増加
-| SkillDescriptionLv2 = 味方の会心ダメージ率を<span style="color: #007eff">9.5%</span>増加
-| SkillDescriptionLv3 = 味方の会心ダメージ率を<span style="color: #007eff">10%</span>増加
-| SkillDescriptionLv4 = 味方の会心ダメージ率を<span style="color: #007eff">11.8%</span>増加
-| SkillDescriptionLv5 = 味方の会心ダメージ率を<span style="color: #007eff">12.3%</span>増加
-| SkillDescriptionLv6 = 味方の会心ダメージ率を<span style="color: #007eff">12.7%</span>増加
-| SkillDescriptionLv7 = 味方の会心ダメージ率を<span style="color: #007eff">14.5%</span>増加
-| SkillDescriptionLv8 = 味方の会心ダメージ率を<span style="color: #007eff">15%</span>増加
-| SkillDescriptionLv9 = 味方の会心ダメージ率を<span style="color: #007eff">15.5%</span>増加
-| SkillDescriptionLv10 = 味方の会心ダメージ率を<span style="color: #007eff">17.3%</span>増加
+| SkillDescriptionGeneral = 味方の会心ダメージ率を{{SkillValue|9.1%}}増加
+| SkillDescriptionLv1 = 味方の会心ダメージ率を{{SkillValue|9.1%}}増加
+| SkillDescriptionLv2 = 味方の会心ダメージ率を{{SkillValue|9.5%}}増加
+| SkillDescriptionLv3 = 味方の会心ダメージ率を{{SkillValue|10%}}増加
+| SkillDescriptionLv4 = 味方の会心ダメージ率を{{SkillValue|11.8%}}増加
+| SkillDescriptionLv5 = 味方の会心ダメージ率を{{SkillValue|12.3%}}増加
+| SkillDescriptionLv6 = 味方の会心ダメージ率を{{SkillValue|12.7%}}増加
+| SkillDescriptionLv7 = 味方の会心ダメージ率を{{SkillValue|14.5%}}増加
+| SkillDescriptionLv8 = 味方の会心ダメージ率を{{SkillValue|15%}}増加
+| SkillDescriptionLv9 = 味方の会心ダメージ率を{{SkillValue|15.5%}}増加
+| SkillDescriptionLv10 = 味方の会心ダメージ率を{{SkillValue|17.3%}}増加
 }}
 [[Category:Characters]]
