@@ -1,8 +1,8 @@
 {% raw %}{{{% endraw %}Character
 | Name = {{character.name}}
-| Image =
+| Image = {{character.filename}}
 | JPName = {{character.profile.full_name}}
-| JPReading =
+| JPReading = {{character.profile.reading}}
 | School = {{character.school}}
 | Age = {{character.profile.age}}
 | Birthday = {{character.profile.birthday}}
@@ -27,7 +27,7 @@
 {{character.profile.introduction}}
 
 =How to Obtain=
-TODO: Fill this out.
+{{character.how_to_obtain}}
 
 =Character Details=
 {% raw %}{{{% endraw %}CharacterStatTable
@@ -51,8 +51,8 @@ TODO: Fill this out.
 
 ===Skills===
 {% raw %}{{{% endraw %}EXSkillTable
-| SkillName = {{character.ex_skill.name}}
-| SkillIcon = {{character.ex_skill.icon}}
+| SkillName = {{character.ex_skill.name}}{% if character.ex_skill.name_translated %} / {{character.ex_skill.name_translated}}{% endif %}
+| SkillIconType = {{character.ex_skill.icon}}
 | SkillDamageType = {{character.ex_skill.damage_type}}
 | SkillBaseCost = {{character.ex_skill.levels[0][1]}}
 | SkillDescriptionGeneral = {{character.ex_skill.levels[0][0]|colorize}}
@@ -60,10 +60,9 @@ TODO: Fill this out.
 | SkillDescriptionLv{{loop.index}} = {{description|colorize}}
 {% endfor -%}
 {% raw %}}}{% endraw %}
-
 {% raw %}{{{% endraw %}SkillTable
-| SkillName = {{character.normal_skill.name}}
-| SkillIcon = {{character.normal_skill.icon}}
+| SkillName = {{character.normal_skill.name}}{% if character.normal_skill.name_translated %} / {{character.normal_skill.name_translated}}{% endif %}
+| SkillIconType = {{character.normal_skill.icon}}
 | SkillDamageType = {{character.normal_skill.damage_type}}
 | SkillType = Normal
 | SkillDescriptionGeneral = {{character.normal_skill.levels[0][0]|colorize}}
@@ -71,10 +70,9 @@ TODO: Fill this out.
 | SkillDescriptionLv{{loop.index}} = {{description|colorize}}
 {% endfor -%}
 {% raw %}}}{% endraw %}
-
 {% raw %}{{{% endraw %}SkillTable
-| SkillName = {{character.passive_skill.name}}
-| SkillIcon = {{character.passive_skill.icon}}
+| SkillName = {{character.passive_skill.name}}{% if character.passive_skill.name_translated %} / {{character.passive_skill.name_translated}}{% endif %}
+| SkillIconType = {{character.passive_skill.icon}}
 | SkillDamageType = {{character.passive_skill.damage_type}}
 | SkillType = Passive
 | SkillDescriptionGeneral = {{character.passive_skill.levels[0][0]|colorize}}
@@ -82,10 +80,9 @@ TODO: Fill this out.
 | SkillDescriptionLv{{loop.index}} = {{description|colorize}}
 {% endfor -%}
 {% raw %}}}{% endraw %}
-
 {% raw %}{{{% endraw %}SkillTable
-| SkillName = {{character.sub_skill.name}}
-| SkillIcon = {{character.sub_skill.icon}}
+| SkillName = {{character.sub_skill.name}}{% if character.sub_skill.name_translated %} / {{character.sub_skill.name_translated}}{% endif %}
+| SkillIconType = {{character.sub_skill.icon}}
 | SkillDamageType = {{character.sub_skill.damage_type}}
 | SkillType = Sub
 | SkillDescriptionGeneral = {{character.sub_skill.levels[0][0]|colorize}}

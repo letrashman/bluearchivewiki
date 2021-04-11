@@ -21,6 +21,10 @@ class Character(object):
         self.sub_skill = sub_skill
         self.stats = stats
 
+        # Extra information
+        self.filename = None
+        self.how_to_obtain = None
+
     @property
     def role(self):
         return {
@@ -82,7 +86,7 @@ class Character(object):
 
 
 class Profile(object):
-    def __init__(self, full_name, age, birthday, height, hobbies, illustrator, voice, introduction):
+    def __init__(self, full_name, age, birthday, height, hobbies, illustrator, voice, introduction, reading):
         self.full_name = full_name
         self._age = age
         self._birthday = birthday
@@ -91,6 +95,7 @@ class Profile(object):
         self.illustrator = illustrator
         self.voice = voice
         self.introduction = introduction
+        self.reading = reading
 
     @property
     def age(self):
@@ -126,24 +131,20 @@ class Profile(object):
             profile['HobbyJp'],
             profile['ArtistNameJp'],
             profile['CharacterVoiceJp'],
-            profile['ProfileIntroductionJp']
+            profile['ProfileIntroductionJp'],
+            f'{profile["FamilyNameRubyJp"]} {profile["PersonalNameJp"]}'
         )
 
 
 class Skill(object):
     def __init__(self, name, icon, levels, damage_type):
         self.name = name
-        self._icon = icon
+        self.icon = icon
         self.levels = levels
         self._damage_type = damage_type
 
-    @property
-    def icon(self):
-        icon = self._icon.split('/')[-1]
-        if icon.startswith('COMMON_'):
-            return f'{self.damage_type}_{icon}'
-
-        return icon
+        # Extra information
+        self.name_translated = None
 
     @property
     def damage_type(self):
@@ -166,7 +167,7 @@ class Skill(object):
         ]
         return cls(
             data.skills_localization[group[0]['LocalizeSkillId']]['NameJp'],
-            group[0]['IconName'],
+            group[0]['IconName'].rsplit('/', 1)[-1],
             levels,
             group[0]['BulletType']
         )
