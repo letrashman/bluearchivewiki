@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = Combat shield, engaged
+| SkillNameJP = 戦闘用シールド、装着
+| SkillIconType = COMMON_SKILLICON_PROVOKE
+| SkillDamageType = Penetration
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = Increases defense by {{SkillValue|28.1%}} for {{SkillValue|30 seconds}} and taunts enemies in a circular area for {{SkillValue|4.7 seconds}}.
+| SkillDescriptionLv1 = Increases defense by {{SkillValue|28.1%}} for {{SkillValue|30 seconds}} and taunts enemies in a circular area for {{SkillValue|4.7 seconds}}.
+| SkillDescriptionLv2 = Increases defense by {{SkillValue|32.3%}} for {{SkillValue|30 seconds}} and taunts enemies in a circular area for {{SkillValue|4.7 seconds}}.
+| SkillDescriptionLv3 = Increases defense by {{SkillValue|36.5%}} for {{SkillValue|30 seconds}} and taunts enemies in a circular area for {{SkillValue|5.4 seconds}}.
+| SkillDescriptionLv4 = Increases defense by {{SkillValue|40.7%}} for {{SkillValue|30 seconds}} and taunts enemies in a circular area for {{SkillValue|5.4 seconds}}.
+| SkillDescriptionLv5 = Increases defense by {{SkillValue|44.9%}} for {{SkillValue|30 seconds}} and taunts enemies in a circular area for {{SkillValue|6.2 seconds}}.
+| SkillDescriptionLv6 = Increases defense by {{SkillValue|49.1%}} for {{SkillValue|30 seconds}} and taunts enemies in a circular area for {{SkillValue|6.2 seconds}}.
+| SkillDescriptionLv7 = Increases defense by {{SkillValue|57.6%}} for {{SkillValue|30 seconds}} and taunts enemies in a circular area for {{SkillValue|6.2 seconds}}.
+| SkillDescriptionLv8 = Increases defense by {{SkillValue|61.8%}} for {{SkillValue|30 seconds}} and taunts enemies in a circular area for {{SkillValue|6.2 seconds}}.
+| SkillDescriptionLv9 = Increases defense by {{SkillValue|70.2%}} for {{SkillValue|30 seconds}} and taunts enemies in a circular area for {{SkillValue|6.2 seconds}}.
+| SkillDescriptionLv10 = Increases defense by {{SkillValue|74.4%}} for {{SkillValue|30 seconds}} and taunts enemies in a circular area for {{SkillValue|6.2 seconds}}.
+}}
+{{SkillTable
+| SkillName = If you get tired, you should sleep
+| SkillNameJP = 疲れたら寝るのが一番
+| SkillIconType = COMMON_SKILLICON_HEAL
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|349%}} of healing power once a battle.
+| SkillDescriptionLv1 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|349%}} of healing power once a battle.
+| SkillDescriptionLv2 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|366%}} of healing power once a battle.
+| SkillDescriptionLv3 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|384%}} of healing power once a battle.
+| SkillDescriptionLv4 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|454%}} of healing power once a battle.
+| SkillDescriptionLv5 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|471%}} of healing power once a battle.
+| SkillDescriptionLv6 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|489%}} of healing power once a battle.
+| SkillDescriptionLv7 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|558%}} of healing power once a battle.
+| SkillDescriptionLv8 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|576%}} of healing power once a battle.
+| SkillDescriptionLv9 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|593%}} of healing power once a battle.
+| SkillDescriptionLv10 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|663%}} of healing power once a battle.
+}}
+{{SkillTable
+| SkillName = Grit
+| SkillNameJP = 胆力
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = Increase defense by {{SkillValue|14%}}.
+| SkillDescriptionLv1 = Increase defense by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase defense by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase defense by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase defense by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase defense by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase defense by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase defense by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase defense by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase defense by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase defense by {{SkillValue|26.6%}}.
+}}
+{{SkillTable
+| SkillName = Dexterous reload
+| SkillNameJP = 手慣れたリロード
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = While reloading reduce damage taken by {{SkillValue|24%}}.
+| SkillDescriptionLv1 = While reloading reduce damage taken by {{SkillValue|24%}}.
+| SkillDescriptionLv2 = While reloading reduce damage taken by {{SkillValue|25.2%}}.
+| SkillDescriptionLv3 = While reloading reduce damage taken by {{SkillValue|26.4%}}.
+| SkillDescriptionLv4 = While reloading reduce damage taken by {{SkillValue|31.2%}}.
+| SkillDescriptionLv5 = While reloading reduce damage taken by {{SkillValue|32.4%}}.
+| SkillDescriptionLv6 = While reloading reduce damage taken by {{SkillValue|33.6%}}.
+| SkillDescriptionLv7 = While reloading reduce damage taken by {{SkillValue|38.4%}}.
+| SkillDescriptionLv8 = While reloading reduce damage taken by {{SkillValue|39.6%}}.
+| SkillDescriptionLv9 = While reloading reduce damage taken by {{SkillValue|40.8%}}.
+| SkillDescriptionLv10 = While reloading reduce damage taken by {{SkillValue|45.6%}}.
+}}
+
+[[Category:Characters]]

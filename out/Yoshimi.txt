@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = W-Who's panicking!?
+| SkillNameJP = だ、誰が慌ててるって！？
+| SkillIconType = COMMON_SKILLICON_CIRCLE
+| SkillDamageType = Penetration
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = Attack all enemies within a circular area for {{SkillValue|220%}} of Attack, inflict Stun status for {{SkillValue|2.2 seconds}}.
+| SkillDescriptionLv1 = Attack all enemies within a circular area for {{SkillValue|220%}} of Attack, inflict Stun status for {{SkillValue|2.2 seconds}}.
+| SkillDescriptionLv2 = Attack all enemies within a circular area for {{SkillValue|254%}} of Attack, inflict Stun status for {{SkillValue|2.2 seconds}}.
+| SkillDescriptionLv3 = Attack all enemies within a circular area for {{SkillValue|287%}} of Attack, inflict Stun status for {{SkillValue|2.5 seconds}}.
+| SkillDescriptionLv4 = Attack all enemies within a circular area for {{SkillValue|320%}} of Attack, inflict Stun status for {{SkillValue|2.5 seconds}}.
+| SkillDescriptionLv5 = Attack all enemies within a circular area for {{SkillValue|353%}} of Attack, inflict Stun status for {{SkillValue|2.9 seconds}}.
+| SkillDescriptionLv6 = Attack all enemies within a circular area for {{SkillValue|386%}} of Attack, inflict Stun status for {{SkillValue|2.9 seconds}}.
+| SkillDescriptionLv7 = Attack all enemies within a circular area for {{SkillValue|452%}} of Attack, inflict Stun status for {{SkillValue|2.9 seconds}}.
+| SkillDescriptionLv8 = Attack all enemies within a circular area for {{SkillValue|486%}} of Attack, inflict Stun status for {{SkillValue|2.9 seconds}}.
+| SkillDescriptionLv9 = Attack all enemies within a circular area for {{SkillValue|552%}} of Attack, inflict Stun status for {{SkillValue|2.9 seconds}}.
+| SkillDescriptionLv10 = Attack all enemies within a circular area for {{SkillValue|585%}} of Attack, inflict Stun status for {{SkillValue|2.9 seconds}}.
+}}
+{{SkillTable
+| SkillName = Do you want to get hurt?!
+| SkillNameJP = 痛い目に遭ってみる？！
+| SkillIconType = COMMON_SKILLICON_CIRCLE
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|191%}} of Attack.
+| SkillDescriptionLv1 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|191%}} of Attack.
+| SkillDescriptionLv2 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|201%}} of Attack.
+| SkillDescriptionLv3 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|210%}} of Attack.
+| SkillDescriptionLv4 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|249%}} of Attack.
+| SkillDescriptionLv5 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|258%}} of Attack.
+| SkillDescriptionLv6 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|268%}} of Attack.
+| SkillDescriptionLv7 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|306%}} of Attack.
+| SkillDescriptionLv8 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|316%}} of Attack.
+| SkillDescriptionLv9 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|325%}} of Attack.
+| SkillDescriptionLv10 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|364%}} of Attack.
+}}
+{{SkillTable
+| SkillName = D-Don't make fun of me!
+| SkillNameJP = な、舐めないで！
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = Increase Critical Rate by {{SkillValue|14%}}.
+| SkillDescriptionLv1 = Increase Critical Rate by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Critical Rate by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Critical Rate by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Critical Rate by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Critical Rate by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Critical Rate by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Critical Rate by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Critical Rate by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Critical Rate by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Critical Rate by {{SkillValue|26.6%}}.
+}}
+{{SkillTable
+| SkillName = Listen to what I have to say!
+| SkillNameJP = 私の話を聞きなさいよおっ！
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = Increase CC resistance of all allies by {{SkillValue|9.1%}}.
+| SkillDescriptionLv1 = Increase CC resistance of all allies by {{SkillValue|9.1%}}.
+| SkillDescriptionLv2 = Increase CC resistance of all allies by {{SkillValue|9.5%}}.
+| SkillDescriptionLv3 = Increase CC resistance of all allies by {{SkillValue|10%}}.
+| SkillDescriptionLv4 = Increase CC resistance of all allies by {{SkillValue|11.8%}}.
+| SkillDescriptionLv5 = Increase CC resistance of all allies by {{SkillValue|12.3%}}.
+| SkillDescriptionLv6 = Increase CC resistance of all allies by {{SkillValue|12.7%}}.
+| SkillDescriptionLv7 = Increase CC resistance of all allies by {{SkillValue|14.5%}}.
+| SkillDescriptionLv8 = Increase CC resistance of all allies by {{SkillValue|15%}}.
+| SkillDescriptionLv9 = Increase CC resistance of all allies by {{SkillValue|15.5%}}.
+| SkillDescriptionLv10 = Increase CC resistance of all allies by {{SkillValue|17.3%}}.
+}}
+
+[[Category:Characters]]

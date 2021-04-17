@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = None
+| SkillNameJP = 支援特急便
+| SkillIconType = COMMON_SKILLICON_HEAL
+| SkillDamageType = Penetration
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = 円形範囲内の味方に対して、治癒力の{{SkillValue|118%}}分の回復
+| SkillDescriptionLv1 = 円形範囲内の味方に対して、治癒力の{{SkillValue|118%}}分の回復
+| SkillDescriptionLv2 = 円形範囲内の味方に対して、治癒力の{{SkillValue|136%}}分の回復
+| SkillDescriptionLv3 = 円形範囲内の味方に対して、治癒力の{{SkillValue|171%}}分の回復
+| SkillDescriptionLv4 = 円形範囲内の味方に対して、治癒力の{{SkillValue|189%}}分の回復
+| SkillDescriptionLv5 = 円形範囲内の味方に対して、治癒力の{{SkillValue|224%}}分の回復
+| SkillDescriptionLv6 = 円形範囲内の味方に対して、治癒力の{{SkillValue|242%}}分の回復
+| SkillDescriptionLv7 = 円形範囲内の味方に対して、治癒力の{{SkillValue|278%}}分の回復
+| SkillDescriptionLv8 = 円形範囲内の味方に対して、治癒力の{{SkillValue|295%}}分の回復
+| SkillDescriptionLv9 = 円形範囲内の味方に対して、治癒力の{{SkillValue|331%}}分の回復
+| SkillDescriptionLv10 = 円形範囲内の味方に対して、治癒力の{{SkillValue|349%}}分の回復
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = 学習サポート
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|15.5%}}増加
+| SkillDescriptionLv1 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|15.5%}}増加
+| SkillDescriptionLv2 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|16.2%}}増加
+| SkillDescriptionLv3 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|17%}}増加
+| SkillDescriptionLv4 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|20.1%}}増加
+| SkillDescriptionLv5 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|20.9%}}増加
+| SkillDescriptionLv6 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|21.7%}}増加
+| SkillDescriptionLv7 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|24.8%}}増加
+| SkillDescriptionLv8 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|25.5%}}増加
+| SkillDescriptionLv9 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|26.3%}}増加
+| SkillDescriptionLv10 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|29.4%}}増加
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = 向学心
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = 治癒力を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 治癒力を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 治癒力を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 治癒力を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 治癒力を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 治癒力を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 治癒力を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 治癒力を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 治癒力を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 治癒力を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 治癒力を{{SkillValue|26.6%}}増加
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = 士気の向上
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = 味方のHPを{{SkillValue|9.1%}}増加
+| SkillDescriptionLv1 = 味方のHPを{{SkillValue|9.1%}}増加
+| SkillDescriptionLv2 = 味方のHPを{{SkillValue|9.5%}}増加
+| SkillDescriptionLv3 = 味方のHPを{{SkillValue|10%}}増加
+| SkillDescriptionLv4 = 味方のHPを{{SkillValue|11.8%}}増加
+| SkillDescriptionLv5 = 味方のHPを{{SkillValue|12.3%}}増加
+| SkillDescriptionLv6 = 味方のHPを{{SkillValue|12.7%}}増加
+| SkillDescriptionLv7 = 味方のHPを{{SkillValue|14.5%}}増加
+| SkillDescriptionLv8 = 味方のHPを{{SkillValue|15%}}増加
+| SkillDescriptionLv9 = 味方のHPを{{SkillValue|15.5%}}増加
+| SkillDescriptionLv10 = 味方のHPを{{SkillValue|17.3%}}増加
+}}
+
+[[Category:Characters]]

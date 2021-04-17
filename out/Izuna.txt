@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = This is The Izuna-Style Ninjutsu!
+| SkillNameJP = これぞイズナ流忍法！
+| SkillIconType = COMMON_SKILLICON_EVASION
+| SkillDamageType = Mystic
+| SkillBaseCost = 3
+| SkillDescriptionGeneral = Jump to the selected location, and increase attack speed by {{SkillValue|27.4%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv1 = Jump to the selected location, and increase attack speed by {{SkillValue|27.4%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv2 = Jump to the selected location, and increase attack speed by {{SkillValue|31.5%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv3 = Jump to the selected location, and increase attack speed by {{SkillValue|39.7%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv4 = Jump to the selected location, and increase attack speed by {{SkillValue|43.9%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv5 = Jump to the selected location, and increase attack speed by {{SkillValue|52.1%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv6 = Jump to the selected location, and increase attack speed by {{SkillValue|56.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv7 = Jump to the selected location, and increase attack speed by {{SkillValue|64.4%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv8 = Jump to the selected location, and increase attack speed by {{SkillValue|68.5%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv9 = Jump to the selected location, and increase attack speed by {{SkillValue|76.8%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv10 = Jump to the selected location, and increase attack speed by {{SkillValue|80.9%}} for {{SkillValue|30 seconds}}.
+}}
+{{SkillTable
+| SkillName = Secret technique! Explosive Shuriken!
+| SkillNameJP = 秘技！爆裂手裏剣！
+| SkillIconType = COMMON_SKILLICON_CIRCLE
+| SkillDamageType = Mystic
+| SkillType = Normal
+| SkillDescriptionGeneral = Every {{SkillValue|6}} normal attacks, deal {{SkillValue|444%}} damage to enemies in circular area.
+| SkillDescriptionLv1 = Every {{SkillValue|6}} normal attacks, deal {{SkillValue|444%}} damage to enemies in circular area.
+| SkillDescriptionLv2 = Every {{SkillValue|6}} normal attacks, deal {{SkillValue|466%}} damage to enemies in circular area.
+| SkillDescriptionLv3 = Every {{SkillValue|6}} normal attacks, deal {{SkillValue|489%}} damage to enemies in circular area.
+| SkillDescriptionLv4 = Every {{SkillValue|6}} normal attacks, deal {{SkillValue|578%}} damage to enemies in circular area.
+| SkillDescriptionLv5 = Every {{SkillValue|6}} normal attacks, deal {{SkillValue|600%}} damage to enemies in circular area.
+| SkillDescriptionLv6 = Every {{SkillValue|6}} normal attacks, deal {{SkillValue|622%}} damage to enemies in circular area.
+| SkillDescriptionLv7 = Every {{SkillValue|6}} normal attacks, deal {{SkillValue|711%}} damage to enemies in circular area.
+| SkillDescriptionLv8 = Every {{SkillValue|6}} normal attacks, deal {{SkillValue|733%}} damage to enemies in circular area.
+| SkillDescriptionLv9 = Every {{SkillValue|6}} normal attacks, deal {{SkillValue|756%}} damage to enemies in circular area.
+| SkillDescriptionLv10 = Every {{SkillValue|6}} normal attacks, deal {{SkillValue|845%}} damage to enemies in circular area.
+}}
+{{SkillTable
+| SkillName = Izuna-Style, Surprise Attack Jutsu
+| SkillNameJP = イズナ流、奇襲の術！
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Mystic
+| SkillType = Passive
+| SkillDescriptionGeneral = Increase Critical Damage by {{SkillValue|14%}}.
+| SkillDescriptionLv1 = Increase Critical Damage by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Critical Damage by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Critical Damage by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Critical Damage by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Critical Damage by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Critical Damage by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Critical Damage by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Critical Damage by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Critical Damage by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Critical Damage by {{SkillValue|26.6%}}.
+}}
+{{SkillTable
+| SkillName = Izuna-Ryuu, Funki no Jutsu
+| SkillNameJP = イズナ流、興起の術！
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Mystic
+| SkillType = Sub
+| SkillDescriptionGeneral = On EX skill use, increase Attack by {{SkillValue|20.1%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv1 = On EX skill use, increase Attack by {{SkillValue|20.1%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv2 = On EX skill use, increase Attack by {{SkillValue|21.1%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv3 = On EX skill use, increase Attack by {{SkillValue|22.1%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv4 = On EX skill use, increase Attack by {{SkillValue|26.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv5 = On EX skill use, increase Attack by {{SkillValue|27.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv6 = On EX skill use, increase Attack by {{SkillValue|28.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv7 = On EX skill use, increase Attack by {{SkillValue|32.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv8 = On EX skill use, increase Attack by {{SkillValue|33.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv9 = On EX skill use, increase Attack by {{SkillValue|34.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv10 = On EX skill use, increase Attack by {{SkillValue|38.3%}} for {{SkillValue|30 seconds}}.
+}}
+
+[[Category:Characters]]

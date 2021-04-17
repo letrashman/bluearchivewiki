@@ -1,0 +1,108 @@
+===Skills===
+{{EXSkillTable
+| SkillName = None
+| SkillNameJP = 助けて、ペロロ様！
+| SkillIconType = SKILLICON_HIHUMI_EXSKILL
+| SkillDamageType = Penetration
+| SkillBaseCost = 5
+| SkillDescriptionGeneral = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|202%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.4秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv1 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|202%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.4秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv2 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|234%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.4秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv3 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|294%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.4秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv4 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|326%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.4秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv5 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|386%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.9秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv6 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|416%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.9秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv7 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|478%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.9秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv8 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|508%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.9秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv9 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|570%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.9秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+| SkillDescriptionLv10 = ペロロ人形が出現し、円形範囲内の敵に対して攻撃力の{{SkillValue|600%}}分のダメージ/
+さらに挑発状態を付与（{{SkillValue|3.9秒}}間）/
+ペロロ人形は、ヒフミの最大HPの{{SkillValue|160%}}の分のHPを持ちます。
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = ペロロ様の応援
+| SkillIconType = COMMON_SKILLICON_WEAPONDEBUFF
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|16.8%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv1 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|16.8%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv2 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|17.7%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv3 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|18.5%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv4 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|21.9%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv5 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|22.7%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv6 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|23.6%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv7 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|26.9%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv8 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|27.8%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv9 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|28.6%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionLv10 = {{SkillValue|35秒}}毎に、敵1人に対して攻撃力の{{SkillValue|212%}}分のダメージ/
+命中値を{{SkillValue|32%}}減少（{{SkillValue|30秒}}間）
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = コレクター根性
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = HPを{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = HPを{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = HPを{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = HPを{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = HPを{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = HPを{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = HPを{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = HPを{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = HPを{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = HPを{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = HPを{{SkillValue|26.6%}}増加
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = すばしっこいコレクター
+| SkillIconType = COMMON_SKILLICON_REGENCOST
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = Exスキルの使用時、コスト回復力を{{SkillValue|980}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv1 = Exスキルの使用時、コスト回復力を{{SkillValue|980}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv2 = Exスキルの使用時、コスト回復力を{{SkillValue|1029}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv3 = Exスキルの使用時、コスト回復力を{{SkillValue|1078}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv4 = Exスキルの使用時、コスト回復力を{{SkillValue|1273}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv5 = Exスキルの使用時、コスト回復力を{{SkillValue|1322}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv6 = Exスキルの使用時、コスト回復力を{{SkillValue|1371}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv7 = Exスキルの使用時、コスト回復力を{{SkillValue|1567}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv8 = Exスキルの使用時、コスト回復力を{{SkillValue|1616}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv9 = Exスキルの使用時、コスト回復力を{{SkillValue|1665}}増加（{{SkillValue|5秒}}間）
+| SkillDescriptionLv10 = Exスキルの使用時、コスト回復力を{{SkillValue|1861}}増加（{{SkillValue|5秒}}間）
+}}
+
+[[Category:Characters]]

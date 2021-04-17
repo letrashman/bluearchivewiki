@@ -1,57 +1,7 @@
-{% raw %}{{{% endraw %}Character
-| Name = {{character.name}}
-| Image = {{character.filename}}
-| JPName = {{character.profile.full_name}}
-| JPReading = {{character.profile.reading}}
-| School = {{character.school}}
-| Age = {{character.profile.age}}
-| Birthday = {{character.profile.birthday}}
-| Height = {{character.profile.height}}
-| Hobbies = {{character.profile.hobbies}}
-| Illust = {{character.profile.illustrator}}
-| Voice = {{character.profile.voice}}
-| WeaponType = {{character.weapon_type}}
-| CityTownAffinity = {{character.stats.city_affinity}}
-| OutdoorAffinity = {{character.stats.outdoor_affinity}}
-| UsesCover = {{character.uses_cover}}
-| Rarity = {{character.rarity}}
-| CombatClass = {{character.combat_class}}
-| ArmorType = {{character.armor_type}}
-| AttackType = {{character.damage_type}}
-| Position = {{character.position}}
-| Role = {{character.role}}
-| IndoorAffinity = {{character.stats.indoor_affinity}}
-{% raw %}}}{% endraw %}
-
-=Background=
-{{character.profile.introduction}}
-
-=How to Obtain=
-{{character.how_to_obtain}}
-
-=Character Details=
-{% raw %}{{{% endraw %}CharacterStatTable
-| minAtk = {{character.stats.attack[0]}}
-| maxAtk = {{character.stats.attack[1]}}
-| minDef = {{character.stats.defense[0]}}
-| maxDef = {{character.stats.defense[1]}}
-| minHP = {{character.stats.hp[0]}}
-| maxHP = {{character.stats.hp[1]}}
-| minHealing = {{character.stats.healing[0]}}
-| maxHealing = {{character.stats.healing[1]}}
-| minAcc = {{character.stats.accuracy}}
-| minEva = {{character.stats.evasion}}
-| minCRate = {{character.stats.critical_rate}}
-| minCDmg = {{character.stats.critical_damage}}
-| minStab = {{character.stats.stability}}
-| minRange = {{character.stats.firing_range}}
-| minCCStr = {{character.stats.cc_strength}}
-| minCCRes = {{character.stats.cc_resistance}}
-{% raw %}}}{% endraw %}
-
 ===Skills===
 {% raw %}{{{% endraw %}EXSkillTable
-| SkillName = {{character.ex_skill.name}}{% if character.ex_skill.name_translated %} / {{character.ex_skill.name_translated}}{% endif %}
+| SkillName = {{character.ex_skill.name_translated}}
+| SkillNameJP = {{character.ex_skill.name}}
 | SkillIconType = {{character.ex_skill.icon}}
 | SkillDamageType = {{character.ex_skill.damage_type}}
 | SkillBaseCost = {{character.ex_skill.levels[0][1]}}
@@ -61,7 +11,8 @@
 {% endfor -%}
 {% raw %}}}{% endraw %}
 {% raw %}{{{% endraw %}SkillTable
-| SkillName = {{character.normal_skill.name}}{% if character.normal_skill.name_translated %} / {{character.normal_skill.name_translated}}{% endif %}
+| SkillName = {{character.normal_skill.name_translated}}
+| SkillNameJP = {{character.normal_skill.name}}
 | SkillIconType = {{character.normal_skill.icon}}
 | SkillDamageType = {{character.normal_skill.damage_type}}
 | SkillType = Normal
@@ -71,7 +22,8 @@
 {% endfor -%}
 {% raw %}}}{% endraw %}
 {% raw %}{{{% endraw %}SkillTable
-| SkillName = {{character.passive_skill.name}}{% if character.passive_skill.name_translated %} / {{character.passive_skill.name_translated}}{% endif %}
+| SkillName = {{character.passive_skill.name_translated}}
+| SkillNameJP = {{character.passive_skill.name}}
 | SkillIconType = {{character.passive_skill.icon}}
 | SkillDamageType = {{character.passive_skill.damage_type}}
 | SkillType = Passive
@@ -81,7 +33,8 @@
 {% endfor -%}
 {% raw %}}}{% endraw %}
 {% raw %}{{{% endraw %}SkillTable
-| SkillName = {{character.sub_skill.name}}{% if character.sub_skill.name_translated %} / {{character.sub_skill.name_translated}}{% endif %}
+| SkillName = {{character.sub_skill.name_translated}}
+| SkillNameJP = {{character.sub_skill.name}}
 | SkillIconType = {{character.sub_skill.icon}}
 | SkillDamageType = {{character.sub_skill.damage_type}}
 | SkillType = Sub
@@ -90,4 +43,5 @@
 | SkillDescriptionLv{{loop.index}} = {{description|colorize}}
 {% endfor -%}
 {% raw %}}}{% endraw %}
+
 [[Category:Characters]]

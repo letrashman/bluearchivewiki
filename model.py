@@ -1,8 +1,9 @@
 import operator
+import re
 
 
 class Character(object):
-    def __init__(self, name, rarity, school, role, position, damage_type, armor_type, combat_class, weapon_type,
+    def __init__(self, name, dev_name, name_en, rarity, school, role, position, damage_type, armor_type, combat_class, weapon_type,
                  uses_cover, profile, normal_skill, ex_skill, passive_skill, sub_skill, stats):
         self.name = name
         self.rarity = rarity
@@ -20,6 +21,9 @@ class Character(object):
         self.passive_skill = passive_skill
         self.sub_skill = sub_skill
         self.stats = stats
+
+        self.dev_name = dev_name
+        self.name_translated = name_en
 
         # Extra information
         self.filename = None
@@ -67,6 +71,8 @@ class Character(object):
         character_ai = data.characters_ai[character['CharacterAIId']]
         return cls(
             data.characters_localization[character_id]['PersonalNameJp'],
+            character['DevName'],
+            data.translated_characters[character_id]['PersonalNameEn'],
             character['DefaultStarGrade'],
             character['School'],
             character['TacticRole'],
@@ -137,14 +143,14 @@ class Profile(object):
 
 
 class Skill(object):
-    def __init__(self, name, icon, levels, damage_type):
+    def __init__(self, name, name_translated, icon, levels, damage_type):
         self.name = name
         self.icon = icon
         self.levels = levels
         self._damage_type = damage_type
 
         # Extra information
-        self.name_translated = None
+        self.name_translated = name_translated
 
     @property
     def damage_type(self):
@@ -160,17 +166,48 @@ class Skill(object):
         if not group:
             raise KeyError(group_id)
 
+
+        def replace_units(text):
+            text = re.sub('回', '', text)
+            text = re.sub('秒', ' seconds', text)
+            return text
+
+
+        def translate_skill(text_jp, group_id):
+            try: text_en = data.translated_skills[group_id]['DescriptionEn']
+            except KeyError: 
+                return text_jp
+            else: 
+                variables = re.findall(r'\[c]\[[0-9A-Fa-f]{6}]([^\[]*)\[-]\[/c]', replace_units(text_jp))
+                for i in range(len(variables)):
+                    text_en = re.sub(f'\${i+1}', '{{SkillValue|' + variables[i] + '}}', text_en)
+                return text_en
+
+
         levels = [
-            (data.skills_localization[level['LocalizeSkillId']]['DescriptionJp'], level['SkillCost'])
+            (translate_skill(data.skills_localization[level['LocalizeSkillId']]['DescriptionJp'], group_id), level['SkillCost'])
             for level
             in sorted(group, key=operator.itemgetter('Level'))
         ]
+
+
+        try: data.translated_skills[group[0]['GroupId']]['NameEn']
+        except KeyError: 
+            skill_name_en = None
+        else:  
+            skill_name_en = data.translated_skills[group[0]['GroupId']]['NameEn']
+
+
         return cls(
             data.skills_localization[group[0]['LocalizeSkillId']]['NameJp'],
+            skill_name_en,
             group[0]['IconName'].rsplit('/', 1)[-1],
             levels,
             group[0]['BulletType']
         )
+
+        
+
 
 
 class Stats(object):

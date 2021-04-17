@@ -1,0 +1,97 @@
+===Skills===
+{{EXSkillTable
+| SkillName = None
+| SkillNameJP = 奇奇怪怪
+| SkillIconType = COMMON_SKILLICON_FORMCHANGE
+| SkillDamageType = Penetration
+| SkillBaseCost = 3
+| SkillDescriptionGeneral = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の{{SkillValue|138%}}分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を{{SkillValue|25.8%}}増加（リロードを {{SkillValue|1回}}行うまで有効）
+| SkillDescriptionLv1 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の{{SkillValue|138%}}分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を{{SkillValue|25.8%}}増加（リロードを {{SkillValue|1回}}行うまで有効）
+| SkillDescriptionLv2 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の{{SkillValue|138%}}分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を{{SkillValue|29.7%}}増加（リロードを {{SkillValue|1回}}行うまで有効）
+| SkillDescriptionLv3 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の{{SkillValue|138%}}分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を{{SkillValue|37.5%}}増加（リロードを {{SkillValue|1回}}行うまで有効）
+| SkillDescriptionLv4 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の{{SkillValue|138%}}分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を{{SkillValue|41.4%}}増加（リロードを {{SkillValue|1回}}行うまで有効）
+| SkillDescriptionLv5 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の{{SkillValue|138%}}分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を{{SkillValue|45.2%}}増加（リロードを {{SkillValue|2回}}行うまで有効）
+| SkillDescriptionLv6 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の{{SkillValue|138%}}分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を{{SkillValue|49.1%}}増加（リロードを {{SkillValue|2回}}行うまで有効）
+| SkillDescriptionLv7 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の{{SkillValue|138%}}分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を{{SkillValue|56.9%}}増加（リロードを {{SkillValue|2回}}行うまで有効）
+| SkillDescriptionLv8 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の{{SkillValue|138%}}分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を{{SkillValue|60.8%}}増加（リロードを {{SkillValue|2回}}行うまで有効）
+| SkillDescriptionLv9 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の{{SkillValue|138%}}分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を{{SkillValue|68.5%}}増加（リロードを {{SkillValue|2回}}行うまで有効）
+| SkillDescriptionLv10 = スキル発動後すぐにリロード/
+通常攻撃を攻撃力の{{SkillValue|138%}}分のダメージを与える扇形範囲攻撃に変更/
+攻撃力を{{SkillValue|72.4%}}増加（リロードを {{SkillValue|2回}}行うまで有効）
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = 激情
+| SkillIconType = COMMON_SKILLICON_HEAL
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = 敵を倒した時、治癒力の{{SkillValue|116%}}分の回復（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv1 = 敵を倒した時、治癒力の{{SkillValue|116%}}分の回復（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv2 = 敵を倒した時、治癒力の{{SkillValue|122%}}分の回復（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv3 = 敵を倒した時、治癒力の{{SkillValue|127%}}分の回復（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv4 = 敵を倒した時、治癒力の{{SkillValue|151%}}分の回復（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv5 = 敵を倒した時、治癒力の{{SkillValue|157%}}分の回復（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv6 = 敵を倒した時、治癒力の{{SkillValue|162%}}分の回復（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv7 = 敵を倒した時、治癒力の{{SkillValue|186%}}分の回復（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv8 = 敵を倒した時、治癒力の{{SkillValue|191%}}分の回復（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv9 = 敵を倒した時、治癒力の{{SkillValue|197%}}分の回復（クールタイム{{SkillValue|10秒}}）
+| SkillDescriptionLv10 = 敵を倒した時、治癒力の{{SkillValue|221%}}分の回復（クールタイム{{SkillValue|10秒}}）
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = 機敏
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = 移動速度を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 移動速度を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 移動速度を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 移動速度を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 移動速度を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 移動速度を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 移動速度を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 移動速度を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 移動速度を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 移動速度を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 移動速度を{{SkillValue|26.6%}}増加
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = 制御不能の力
+| SkillIconType = COMMON_SKILLICON_RELOAD
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = 敵を倒した時、{{SkillValue|30%}}の確率で弾薬数を{{SkillValue|1}}追加
+| SkillDescriptionLv1 = 敵を倒した時、{{SkillValue|30%}}の確率で弾薬数を{{SkillValue|1}}追加
+| SkillDescriptionLv2 = 敵を倒した時、{{SkillValue|33%}}の確率で弾薬数を{{SkillValue|1}}追加
+| SkillDescriptionLv3 = 敵を倒した時、{{SkillValue|36%}}の確率で弾薬数を{{SkillValue|1}}追加
+| SkillDescriptionLv4 = 敵を倒した時、{{SkillValue|39%}}の確率で弾薬数を{{SkillValue|1}}追加
+| SkillDescriptionLv5 = 敵を倒した時、{{SkillValue|42%}}の確率で弾薬数を{{SkillValue|1}}追加
+| SkillDescriptionLv6 = 敵を倒した時、{{SkillValue|45%}}の確率で弾薬数を{{SkillValue|1}}追加
+| SkillDescriptionLv7 = 敵を倒した時、{{SkillValue|48%}}の確率で弾薬数を{{SkillValue|1}}追加
+| SkillDescriptionLv8 = 敵を倒した時、{{SkillValue|51%}}の確率で弾薬数を{{SkillValue|1}}追加
+| SkillDescriptionLv9 = 敵を倒した時、{{SkillValue|54%}}の確率で弾薬数を{{SkillValue|1}}追加
+| SkillDescriptionLv10 = 敵を倒した時、{{SkillValue|57%}}の確率で弾薬数を{{SkillValue|1}}追加
+}}
+
+[[Category:Characters]]

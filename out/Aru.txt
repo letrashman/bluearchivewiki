@@ -1,0 +1,97 @@
+===Skills===
+{{EXSkillTable
+| SkillName = None
+| SkillNameJP = ハードボイルドショット
+| SkillIconType = COMMON_SKILLICON_CIRCLE
+| SkillDamageType = Explosive
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = 敵1人に対して、攻撃力の{{SkillValue|274%}}分のダメージ/
+さらに、円形範囲内の敵に攻撃力の{{SkillValue|292%}}分のダメージ
+| SkillDescriptionLv1 = 敵1人に対して、攻撃力の{{SkillValue|274%}}分のダメージ/
+さらに、円形範囲内の敵に攻撃力の{{SkillValue|292%}}分のダメージ
+| SkillDescriptionLv2 = 敵1人に対して、攻撃力の{{SkillValue|315%}}分のダメージ/
+さらに、円形範囲内の敵に攻撃力の{{SkillValue|335%}}分のダメージ
+| SkillDescriptionLv3 = 敵1人に対して、攻撃力の{{SkillValue|397%}}分のダメージ/
+さらに、円形範囲内の敵に攻撃力の{{SkillValue|423%}}分のダメージ
+| SkillDescriptionLv4 = 敵1人に対して、攻撃力の{{SkillValue|438%}}分のダメージ/
+さらに、円形範囲内の敵に攻撃力の{{SkillValue|467%}}分のダメージ
+| SkillDescriptionLv5 = 敵1人に対して、攻撃力の{{SkillValue|521%}}分のダメージ/
+さらに、円形範囲内の敵に攻撃力の{{SkillValue|554%}}分のダメージ
+| SkillDescriptionLv6 = 敵1人に対して、攻撃力の{{SkillValue|562%}}分のダメージ/
+さらに、円形範囲内の敵に攻撃力の{{SkillValue|598%}}分のダメージ
+| SkillDescriptionLv7 = 敵1人に対して、攻撃力の{{SkillValue|644%}}分のダメージ/
+さらに、円形範囲内の敵に攻撃力の{{SkillValue|686%}}分のダメージ
+| SkillDescriptionLv8 = 敵1人に対して、攻撃力の{{SkillValue|685%}}分のダメージ/
+さらに、円形範囲内の敵に攻撃力の{{SkillValue|730%}}分のダメージ
+| SkillDescriptionLv9 = 敵1人に対して、攻撃力の{{SkillValue|768%}}分のダメージ/
+さらに、円形範囲内の敵に攻撃力の{{SkillValue|817%}}分のダメージ
+| SkillDescriptionLv10 = 敵1人に対して、攻撃力の{{SkillValue|809%}}分のダメージ/
+さらに、円形範囲内の敵に攻撃力の{{SkillValue|861%}}分のダメージ
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = ノワールシュート
+| SkillIconType = COMMON_SKILLICON_TARGET
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|152%}}分のダメージ/
+{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|251%}}分のダメージ
+| SkillDescriptionLv1 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|152%}}分のダメージ/
+{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|251%}}分のダメージ
+| SkillDescriptionLv2 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|160%}}分のダメージ/
+{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|263%}}分のダメージ
+| SkillDescriptionLv3 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|168%}}分のダメージ/
+{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|276%}}分のダメージ
+| SkillDescriptionLv4 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|198%}}分のダメージ/
+{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|326%}}分のダメージ
+| SkillDescriptionLv5 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|206%}}分のダメージ/
+{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|338%}}分のダメージ
+| SkillDescriptionLv6 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|213%}}分のダメージ/
+{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|351%}}分のダメージ
+| SkillDescriptionLv7 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|244%}}分のダメージ/
+{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|401%}}分のダメージ
+| SkillDescriptionLv8 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|251%}}分のダメージ/
+{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|414%}}分のダメージ
+| SkillDescriptionLv9 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|259%}}分のダメージ/
+{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|426%}}分のダメージ
+| SkillDescriptionLv10 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|290%}}分のダメージ/
+{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|476%}}分のダメージ
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = 社長の威厳
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = 会心ダメージ率を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 会心ダメージ率を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 会心ダメージ率を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 会心ダメージ率を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 会心ダメージ率を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 会心ダメージ率を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 会心ダメージ率を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 会心ダメージ率を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 会心ダメージ率を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 会心ダメージ率を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 会心ダメージ率を{{SkillValue|26.6%}}増加
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = アウトローの流儀
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = Exスキルの使用中、会心値を{{SkillValue|20.1%}}増加
+| SkillDescriptionLv1 = Exスキルの使用中、会心値を{{SkillValue|20.1%}}増加
+| SkillDescriptionLv2 = Exスキルの使用中、会心値を{{SkillValue|21.1%}}増加
+| SkillDescriptionLv3 = Exスキルの使用中、会心値を{{SkillValue|22.1%}}増加
+| SkillDescriptionLv4 = Exスキルの使用中、会心値を{{SkillValue|26.2%}}増加
+| SkillDescriptionLv5 = Exスキルの使用中、会心値を{{SkillValue|27.2%}}増加
+| SkillDescriptionLv6 = Exスキルの使用中、会心値を{{SkillValue|28.2%}}増加
+| SkillDescriptionLv7 = Exスキルの使用中、会心値を{{SkillValue|32.2%}}増加
+| SkillDescriptionLv8 = Exスキルの使用中、会心値を{{SkillValue|33.2%}}増加
+| SkillDescriptionLv9 = Exスキルの使用中、会心値を{{SkillValue|34.2%}}増加
+| SkillDescriptionLv10 = Exスキルの使用中、会心値を{{SkillValue|38.3%}}増加
+}}
+
+[[Category:Characters]]

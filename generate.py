@@ -17,8 +17,10 @@ def colorize(value):
     )
 
 
-def generate(datadir, outdir):
-    data = load_data(datadir)
+
+
+def generate(datadir, localedir, outdir):
+    data = load_data(datadir, localedir)
 
     env = Environment(loader=FileSystemLoader(os.path.dirname(__file__)))
     env.filters['colorize'] = colorize
@@ -34,16 +36,16 @@ def generate(datadir, outdir):
             print(f'Failed to parse for DevName {character["DevName"]}: {err}')
             traceback.print_exc()
             continue
-
-        with open(os.path.join(outdir, f'{character.name}.txt'), 'w') as f:
+        
+        with open(os.path.join(outdir, f'{character.name_translated}.txt'), 'w', encoding="utf8") as f:
             f.write(template.render(character=character))
 
 
 def main():
     try:
-        generate(sys.argv[1], sys.argv[2])
+        generate(sys.argv[1], sys.argv[2], sys.argv[3])
     except IndexError:
-        print('usage: generate.py <datadir> <outdir>')
+        print('usage: generate.py <datadir> <localedir> <outdir>')
 
 
 if __name__ == '__main__':

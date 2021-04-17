@@ -1,0 +1,259 @@
+{
+  "DataList": [
+    {
+      "CharacterId": 16004,
+      "FamilyNameEn": "Asahina",
+      "PersonalNameEn": "Fina"
+    },
+    {
+      "CharacterId": 13009,
+      "FamilyNameEn": "Kasuga",
+      "PersonalNameEn": "Tsubaki"
+    },
+    {
+      "CharacterId": 16003,
+      "FamilyNameEn": "Moritsuki",
+      "PersonalNameEn": "Suzumi"
+    },
+    {
+      "CharacterId": 13003,
+      "FamilyNameEn": "Hanekawa",
+      "PersonalNameEn": "Hasumi"
+    },
+    {
+      "CharacterId": 10003,
+      "FamilyNameEn": "Ajitani",
+      "PersonalNameEn": "Hifumi"
+    },
+    {
+      "CharacterId": 10013,
+      "FamilyNameEn": "Kenzaki",
+      "PersonalNameEn": "Tsurugi"
+    },
+    {
+      "CharacterId": 13006,
+      "FamilyNameEn": "Asagi",
+      "PersonalNameEn": "Mutsuki"
+    },
+    {
+      "CharacterId": 13005,
+      "FamilyNameEn": "Guifang",
+      "PersonalNameEn": "Kayoko"
+    },
+    {
+      "CharacterId": 10000,
+      "FamilyNameEn": "Rikuhachima",
+      "PersonalNameEn": "Aru"
+    },
+    {
+      "CharacterId": 16000,
+      "FamilyNameEn": "Igusa",
+      "PersonalNameEn": "Haruka"
+    },
+    {
+      "CharacterId": 13004,
+      "FamilyNameEn": "Izayoi",
+      "PersonalNameEn": "Nonomi"
+    },
+    {
+      "CharacterId": 13007,
+      "FamilyNameEn": "Akashi",
+      "PersonalNameEn": "Junko"
+    },
+    {
+      "CharacterId": 10004,
+      "FamilyNameEn": "Sorasaki",
+      "PersonalNameEn": "Hina"
+    },
+    {
+      "CharacterId": 10010,
+      "FamilyNameEn": "Sunaōkami",
+      "PersonalNameEn": "Shiroko"
+    },
+    {
+      "CharacterId": 13008,
+      "FamilyNameEn": "Kuromi",
+      "PersonalNameEn": "Serika"
+    },
+    {
+      "CharacterId": 10009,
+      "FamilyNameEn": "Shishido",
+      "PersonalNameEn": "Izumi"
+    },
+    {
+      "CharacterId": 10005,
+      "FamilyNameEn": "Takanashi",
+      "PersonalNameEn": "Hoshino"
+    },
+    {
+      "CharacterId": 16001,
+      "FamilyNameEn": "Ichinose",
+      "PersonalNameEn": "Asuna"
+    },
+    {
+      "CharacterId": 13010,
+      "FamilyNameEn": "Hayase",
+      "PersonalNameEn": "Yuuka"
+    },
+    {
+      "CharacterId": 13000,
+      "FamilyNameEn": "Murogasa",
+      "PersonalNameEn": "Akane"
+    },
+    {
+      "CharacterId": 10001,
+      "FamilyNameEn": "Izumimoto",
+      "PersonalNameEn": "Eimi"
+    },
+    {
+      "CharacterId": 10008,
+      "FamilyNameEn": "Mikamo",
+      "PersonalNameEn": "Neru"
+    },
+    {
+      "CharacterId": 13011,
+      "FamilyNameEn": "Saito",
+      "PersonalNameEn": "Momoi"
+    },
+    {
+      "CharacterId": 10016,
+      "FamilyNameEn": "Saito",
+      "PersonalNameEn": "Midori"
+    },
+    {
+      "CharacterId": 10015,
+      "FamilyNameEn": "Tendo",
+      "PersonalNameEn": "Alice"
+    },
+    {
+      "CharacterId": 23002,
+      "FamilyNameEn": "Asagao",
+      "PersonalNameEn": "Hanae"
+    },
+    {
+      "CharacterId": 20003,
+      "FamilyNameEn": "Shizuyama",
+      "PersonalNameEn": "Mashiro"
+    },
+    {
+      "CharacterId": 26000,
+      "FamilyNameEn": "Hinomiya",
+      "PersonalNameEn": "Chinatsu"
+    },
+    {
+      "CharacterId": 23001,
+      "FamilyNameEn": "Aikiyo",
+      "PersonalNameEn": "Fuuka"
+    },
+    {
+      "CharacterId": 26002,
+      "FamilyNameEn": "Ushimaki",
+      "PersonalNameEn": "Juri"
+    },
+    {
+      "CharacterId": 23003,
+      "FamilyNameEn": "Omagari",
+      "PersonalNameEn": "Hare"
+    },
+    {
+      "CharacterId": 26001,
+      "FamilyNameEn": "Otose",
+      "PersonalNameEn": "Kotama"
+    },
+    {
+      "CharacterId": 20001,
+      "FamilyNameEn": "Kakudate",
+      "PersonalNameEn": "Karin"
+    },
+    {
+      "CharacterId": 20002,
+      "FamilyNameEn": "Yakushi",
+      "PersonalNameEn": "Saya"
+    },
+    {
+      "CharacterId": 26004,
+      "FamilyNameEn": "Endō",
+      "PersonalNameEn": "Shimiko"
+    },
+    {
+      "CharacterId": 26003,
+      "FamilyNameEn": "Sumi",
+      "PersonalNameEn": "Serina"
+    },
+    {
+      "CharacterId": 23000,
+      "FamilyNameEn": "Kurimura",
+      "PersonalNameEn": "Airi"
+    },
+    {
+      "CharacterId": 26005,
+      "FamilyNameEn": "Ibaragi",
+      "PersonalNameEn": "Yoshimi"
+    },
+    {
+      "CharacterId": 10006,
+      "FamilyNameEn": "Shiromi",
+      "PersonalNameEn": "Iori"
+    },
+    {
+      "CharacterId": 13002,
+      "FamilyNameEn": "Wanibuchi",
+      "PersonalNameEn": "Akari"
+    },
+    {
+      "CharacterId": 10002,
+      "FamilyNameEn": "Kurodate",
+      "PersonalNameEn": "Haruna"
+    },
+    {
+      "CharacterId": 10012,
+      "FamilyNameEn": "Otohana",
+      "PersonalNameEn": "Sumire"
+    },
+    {
+      "CharacterId": 10007,
+      "FamilyNameEn": "Konuri",
+      "PersonalNameEn": "Maki"
+    },
+    {
+      "CharacterId": 20000,
+      "FamilyNameEn": "Nekozuka",
+      "PersonalNameEn": "Hibiki"
+    },
+    {
+      "CharacterId": 23004,
+      "FamilyNameEn": "Shiraishi",
+      "PersonalNameEn": "Utaha"
+    },
+    {
+      "CharacterId": 16002,
+      "FamilyNameEn": "Toyomi",
+      "PersonalNameEn": "Kotori"
+    },
+    {
+      "CharacterId": 13001,
+      "FamilyNameEn": "Waraku",
+      "PersonalNameEn": "Chise"
+    },
+    {
+      "CharacterId": 10011,
+      "FamilyNameEn": "Haruhara",
+      "PersonalNameEn": "Shun"
+    },
+    {
+      "CharacterId": 23005,
+      "FamilyNameEn": "Okusora",
+      "PersonalNameEn": "Ayane"
+    },
+    {
+      "CharacterId": 10014,
+      "FamilyNameEn": "Kuda",
+      "PersonalNameEn": "Izuna"
+    },
+    {
+      "CharacterId": 23006,
+       "FamilyNameEn": "Kawawa",
+       "PersonalNameEn": "Shizuko"
+     }
+   ]
+}

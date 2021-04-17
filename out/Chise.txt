@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = None
+| SkillNameJP = これは痛いかもよ～
+| SkillIconType = COMMON_SKILLICON_ZONE
+| SkillDamageType = Mystic
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = 円形範囲内の敵に対して、攻撃力の{{SkillValue|56%}}分の持続ダメージを付与（{{SkillValue|10秒}}間）
+| SkillDescriptionLv1 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|56%}}分の持続ダメージを付与（{{SkillValue|10秒}}間）
+| SkillDescriptionLv2 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|64.5%}}分の持続ダメージを付与（{{SkillValue|10秒}}間）
+| SkillDescriptionLv3 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|81.2%}}分の持続ダメージを付与（{{SkillValue|10秒}}間）
+| SkillDescriptionLv4 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|89.6%}}分の持続ダメージを付与（{{SkillValue|10秒}}間）
+| SkillDescriptionLv5 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|106%}}分の持続ダメージを付与（{{SkillValue|10秒}}間）
+| SkillDescriptionLv6 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|114%}}分の持続ダメージを付与（{{SkillValue|10秒}}間）
+| SkillDescriptionLv7 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|131%}}分の持続ダメージを付与（{{SkillValue|10秒}}間）
+| SkillDescriptionLv8 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|140%}}分の持続ダメージを付与（{{SkillValue|10秒}}間）
+| SkillDescriptionLv9 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|156%}}分の持続ダメージを付与（{{SkillValue|10秒}}間）
+| SkillDescriptionLv10 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|165%}}分の持続ダメージを付与（{{SkillValue|10秒}}間）
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = 撃つよ～
+| SkillIconType = COMMON_SKILLICON_CIRCLE
+| SkillDamageType = Mystic
+| SkillType = Normal
+| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|219%}}分のダメージ
+| SkillDescriptionLv1 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|219%}}分のダメージ
+| SkillDescriptionLv2 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|230%}}分のダメージ
+| SkillDescriptionLv3 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|241%}}分のダメージ
+| SkillDescriptionLv4 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|285%}}分のダメージ
+| SkillDescriptionLv5 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|295%}}分のダメージ
+| SkillDescriptionLv6 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|306%}}分のダメージ
+| SkillDescriptionLv7 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|350%}}分のダメージ
+| SkillDescriptionLv8 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|361%}}分のダメージ
+| SkillDescriptionLv9 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|372%}}分のダメージ
+| SkillDescriptionLv10 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|416%}}分のダメージ
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = よーし、頑張ろ～
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Mystic
+| SkillType = Passive
+| SkillDescriptionGeneral = 攻撃力を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 攻撃力を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 攻撃力を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 攻撃力を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 攻撃力を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 攻撃力を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 攻撃力を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 攻撃力を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 攻撃力を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 攻撃力を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 攻撃力を{{SkillValue|26.6%}}増加
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = ちょっと痛むよ～
+| SkillIconType = COMMON_SKILLICON_BURNNIG
+| SkillDamageType = Mystic
+| SkillType = Sub
+| SkillDescriptionGeneral = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力の{{SkillValue|53.7%}}分の火傷持続ダメージを付与（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|5秒}}）
+| SkillDescriptionLv1 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力の{{SkillValue|53.7%}}分の火傷持続ダメージを付与（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|5秒}}）
+| SkillDescriptionLv2 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力の{{SkillValue|56.4%}}分の火傷持続ダメージを付与（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|5秒}}）
+| SkillDescriptionLv3 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力の{{SkillValue|59.1%}}分の火傷持続ダメージを付与（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|5秒}}）
+| SkillDescriptionLv4 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力の{{SkillValue|69.8%}}分の火傷持続ダメージを付与（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|5秒}}）
+| SkillDescriptionLv5 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力の{{SkillValue|72.5%}}分の火傷持続ダメージを付与（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|5秒}}）
+| SkillDescriptionLv6 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力の{{SkillValue|75.2%}}分の火傷持続ダメージを付与（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|5秒}}）
+| SkillDescriptionLv7 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力の{{SkillValue|85.9%}}分の火傷持続ダメージを付与（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|5秒}}）
+| SkillDescriptionLv8 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力の{{SkillValue|88.6%}}分の火傷持続ダメージを付与（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|5秒}}）
+| SkillDescriptionLv9 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力の{{SkillValue|91.3%}}分の火傷持続ダメージを付与（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|5秒}}）
+| SkillDescriptionLv10 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力の{{SkillValue|102%}}分の火傷持続ダメージを付与（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|5秒}}）
+}}
+
+[[Category:Characters]]

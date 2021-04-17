@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = Ending scene: Ishbóshet
+| SkillNameJP = 終幕：イシュ・ボシェテ
+| SkillIconType = COMMON_SKILLICON_FAN
+| SkillDamageType = Explosive
+| SkillBaseCost = 7
+| SkillDescriptionGeneral = Deal {{SkillValue|636%}} damage to enemies in fan-shaped area.
+| SkillDescriptionLv1 = Deal {{SkillValue|636%}} damage to enemies in fan-shaped area.
+| SkillDescriptionLv2 = Deal {{SkillValue|731%}} damage to enemies in fan-shaped area.
+| SkillDescriptionLv3 = Deal {{SkillValue|922%}} damage to enemies in fan-shaped area.
+| SkillDescriptionLv4 = Deal {{SkillValue|1017%}} damage to enemies in fan-shaped area.
+| SkillDescriptionLv5 = Deal {{SkillValue|1208%}} damage to enemies in fan-shaped area.
+| SkillDescriptionLv6 = Deal {{SkillValue|1303%}} damage to enemies in fan-shaped area.
+| SkillDescriptionLv7 = Deal {{SkillValue|1494%}} damage to enemies in fan-shaped area.
+| SkillDescriptionLv8 = Deal {{SkillValue|1589%}} damage to enemies in fan-shaped area.
+| SkillDescriptionLv9 = Deal {{SkillValue|1780%}} damage to enemies in fan-shaped area.
+| SkillDescriptionLv10 = Deal {{SkillValue|1876%}} damage to enemies in fan-shaped area.
+}}
+{{SkillTable
+| SkillName = Reload and Destroy
+| SkillNameJP = リロードアンドデストロイ
+| SkillIconType = COMMON_SKILLICON_RELOAD
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|21%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv1 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|21%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv2 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|22.1%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv3 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|23.1%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv4 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|27.3%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv5 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|28.4%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv6 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|29.4%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv7 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|33.6%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv8 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|34.7%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv9 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|35.7%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv10 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|39.9%}}. (Duration: {{SkillValue|16 seconds}})
+}}
+{{SkillTable
+| SkillName = Cool-headed Disciplinary committee
+| SkillNameJP = 冷徹な風紀委員会
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = Increases attack speed by {{SkillValue|14%}}.
+| SkillDescriptionLv1 = Increases attack speed by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increases attack speed by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increases attack speed by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increases attack speed by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increases attack speed by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increases attack speed by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increases attack speed by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increases attack speed by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increases attack speed by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increases attack speed by {{SkillValue|26.6%}}.
+}}
+{{SkillTable
+| SkillName = From beginning to end
+| SkillNameJP = 徹頭徹尾
+| SkillIconType = COMMON_SKILLICON_EXTRADAMAGE
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = When Hina attacks enemies that aren't taking cover, deal bonus damage of {{SkillValue|2.7%}} Attack.
+| SkillDescriptionLv1 = When Hina attacks enemies that aren't taking cover, deal bonus damage of {{SkillValue|2.7%}} Attack.
+| SkillDescriptionLv2 = When Hina attacks enemies that aren't taking cover, deal bonus damage of {{SkillValue|2.8%}} Attack.
+| SkillDescriptionLv3 = When Hina attacks enemies that aren't taking cover, deal bonus damage of {{SkillValue|3%}} Attack.
+| SkillDescriptionLv4 = When Hina attacks enemies that aren't taking cover, deal bonus damage of {{SkillValue|3.5%}} Attack.
+| SkillDescriptionLv5 = When Hina attacks enemies that aren't taking cover, deal bonus damage of {{SkillValue|3.6%}} Attack.
+| SkillDescriptionLv6 = When Hina attacks enemies that aren't taking cover, deal bonus damage of {{SkillValue|3.8%}} Attack.
+| SkillDescriptionLv7 = When Hina attacks enemies that aren't taking cover, deal bonus damage of {{SkillValue|4.3%}} Attack.
+| SkillDescriptionLv8 = When Hina attacks enemies that aren't taking cover, deal bonus damage of {{SkillValue|4.4%}} Attack.
+| SkillDescriptionLv9 = When Hina attacks enemies that aren't taking cover, deal bonus damage of {{SkillValue|4.6%}} Attack.
+| SkillDescriptionLv10 = When Hina attacks enemies that aren't taking cover, deal bonus damage of {{SkillValue|5.2%}} Attack.
+}}
+
+[[Category:Characters]]
