@@ -38,7 +38,7 @@
         {
             "GroupId": "SerinaExtraPassive01",
             "NameEn": "Angel's smile",
-            "DescriptionEn": "Increase CC resistance of all allies by $1"
+            "DescriptionEn": "Increase CC Resistance of all allies by $1"
         },
         {
             "GroupId": "UtahaEx01",
@@ -58,7 +58,7 @@
         {
             "GroupId": "UtahaExtraPassive01",
             "NameEn": "Oath of My star",
-            "DescriptionEn": "Increases allies's HP by $1."
+            "DescriptionEn": "Increase HP of all allies by $1."
         },
         {
             "GroupId": "ShimikoEx01",
@@ -78,7 +78,7 @@
         {
             "GroupId": "ShimikoExtraPassive01",
             "NameEn": "Let's open a Book Club!",
-            "DescriptionEn": "Increase allies' Defense by $1."
+            "DescriptionEn": "Increase Defense of all allies by $1."
         },
         {
             "GroupId": "ShunEx01",
@@ -258,7 +258,7 @@
         {
             "GroupId": "FuukaExtraPassive01",
             "NameEn": "Pride of School Lunch Club",
-            "DescriptionEn": "Increase CC resistance of all allies by $1."
+            "DescriptionEn": "Increase CC Resistance of all allies by $1."
         },
         {
             "GroupId": "MutsukiEx01",
@@ -298,7 +298,7 @@
         {
             "GroupId": "YoshimiExtraPassive01",
             "NameEn": "Listen to what I have to say!",
-            "DescriptionEn": "Increase CC resistance of all allies by $1."
+            "DescriptionEn": "Increase CC Resistance of all allies by $1."
         },
         {
             "GroupId": "YuukaEx01",
@@ -338,7 +338,7 @@
         {
             "GroupId": "MashiroExtraPassive01",
             "NameEn": "Justice Solidarity",
-            "DescriptionEn": "Increase accuracy of all allies by $1."
+            "DescriptionEn": "Increase Accuracy of all allies by $1."
         },
         {
             "GroupId": "ChinatsuEx01",
@@ -359,7 +359,7 @@
         {
             "GroupId": "ChinatsuExtraPassive01",
             "NameEn": "Strengthened defensive support",
-            "DescriptionEn": "Increase allies' Defense by $1."
+            "DescriptionEn": "Increase Defense of all allies by $1."
         },
         {
             "GroupId": "SuzumiEx01",
@@ -440,7 +440,7 @@
         {
             "GroupId": "HanaeExtraPassive01",
             "NameEn": "Do your very best, everyone～!",
-            "DescriptionEn": "Increase allies's critical damage by $1."
+            "DescriptionEn": "Increase Critical Damage of all allies by $1."
         },
         {
             "GroupId": "KotamaEx01",
@@ -480,7 +480,7 @@
         {
             "GroupId": "JuriExtraPassive01",
             "NameEn": "Bon Appétit!",
-            "DescriptionEn": "Increase allies' HP by $1."
+            "DescriptionEn": "Increase HP of all allies by $1."
         },
         {
             "GroupId": "ZunkoEx01",
@@ -560,7 +560,47 @@
         {
             "GroupId": "SayaExtraPassive01",
             "NameEn": "Believe only in me!",
-            "DescriptionEn": "Increase allies' critical rate by $1."
+            "DescriptionEn": "Increase Critical Rate of all allies by $1."
+        },
+        {
+            "GroupId": "KotoriEx01",
+            "NameEn": "Black box",
+            "DescriptionEn": "Moves 4 allies to the specified location and applies a shield equal to $1 of Healing power."
+        },
+        {
+            "GroupId": "KotoriPublic01",
+            "NameEn": "Sorry!",
+            "DescriptionEn": "Every $1, deal $2 damage to enemies within a fan shaped area."
+        },
+        {
+            "GroupId": "KotoriPassive01",
+            "NameEn": "Comprehending the issue",
+            "DescriptionEn": "Increase Critical Rate by $1."
+        },
+        {
+            "GroupId": "KotoriExtraPassive01",
+            "NameEn": "Understood!",
+            "DescriptionEn": "After defeating an enemy, increase Critical Rate by $1 for $2."
+        },
+        {
+            "GroupId": "TsurugiEx01",
+            "NameEn": "Strange and mysterious",
+            "DescriptionEn": "Reload immediately after activating the skill. Change normal attack to a fan-shaped range attack that deals $1 damage; increase Attack power by $2. (Effective until one reload is performed)"
+        },
+        {
+            "GroupId": "TsurugiPublic01",
+            "NameEn": "Passion",
+            "DescriptionEn": "When defeating an enemy, recover $1 of Healing power. (Cooldown: $2)"
+        },
+        {
+            "GroupId": "TsurugiPassive01",
+            "NameEn": "Agility",
+            "DescriptionEn": "Increase movement speed by $1."
+        },
+        {
+            "GroupId": "TsurugiExtraPassive01",
+            "NameEn": "Uncontrollable power",
+            "DescriptionEn": "$1 chance to add 1 ammo when defeating an enemy."
         }
 
 
