@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = Increase the Attack of all allies in a circular area by {{SkillValue|24.9~73.6%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionGeneral = Increase the Attack of all allies in a circular area by {{SkillValue|24.9~47.4%}}. (Duration: {{SkillValue|30 seconds}})
 | SkillDescriptionLv1 = Increase the Attack of all allies in a circular area by {{SkillValue|24.9%}}. (Duration: {{SkillValue|30 seconds}})
 | SkillDescriptionLv2 = Increase the Attack of all allies in a circular area by {{SkillValue|28.7%}}. (Duration: {{SkillValue|30 seconds}})
 | SkillDescriptionLv3 = Increase the Attack of all allies in a circular area by {{SkillValue|36.2%}}. (Duration: {{SkillValue|30 seconds}})

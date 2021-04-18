@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = Order-made Flashbang
+| SkillNameJP = オーダーメイド閃光弾
+| SkillIconType = COMMON_SKILLICON_CIRCLE
+| SkillDamageType = Explosive
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = Attack all enemies within a circular area for {{SkillValue|389~518%}} Attack, inflict Stun status for {{SkillValue|0~4.1 seconds}}.
+| SkillDescriptionLv1 = Attack all enemies within a circular area for {{SkillValue|389%}} Attack.
+| SkillDescriptionLv2 = Attack all enemies within a circular area for {{SkillValue|410%}} Attack.
+| SkillDescriptionLv3 = Attack all enemies within a circular area for {{SkillValue|442%}} Attack, inflict Stun status for {{SkillValue|3.6 seconds}}.
+| SkillDescriptionLv4 = Attack all enemies within a circular area for {{SkillValue|470%}} Attack, inflict Stun status for {{SkillValue|3.6 seconds}}.
+| SkillDescriptionLv5 = Attack all enemies within a circular area for {{SkillValue|518%}} Attack, inflict Stun status for {{SkillValue|4.1 seconds}}.
+| SkillDescriptionLv6 = Attack all enemies within a circular area for {{SkillValue|567%}} Attack, inflict Stun status for {{SkillValue|4.1 seconds}}.
+| SkillDescriptionLv7 = Attack all enemies within a circular area for {{SkillValue|664%}} Attack, inflict Stun status for {{SkillValue|4.1 seconds}}.
+| SkillDescriptionLv8 = Attack all enemies within a circular area for {{SkillValue|713%}} Attack, inflict Stun status for {{SkillValue|4.1 seconds}}.
+| SkillDescriptionLv9 = Attack all enemies within a circular area for {{SkillValue|810%}} Attack, inflict Stun status for {{SkillValue|4.1 seconds}}.
+| SkillDescriptionLv10 = Attack all enemies within a circular area for {{SkillValue|859%}} Attack, inflict Stun status for {{SkillValue|4.1 seconds}}.
+}}
+{{SkillTable
+| SkillName = Hidden Strength of the Vigilante Corps
+| SkillNameJP = 自警団の底力
+| SkillIconType = COMMON_SKILLICON_TARGET
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|233~443%}} Attack.
+| SkillDescriptionLv1 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|233%}} Attack.
+| SkillDescriptionLv2 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|244%}} Attack.
+| SkillDescriptionLv3 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|256%}} Attack.
+| SkillDescriptionLv4 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|303%}} Attack.
+| SkillDescriptionLv5 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|314%}} Attack.
+| SkillDescriptionLv6 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|326%}} Attack.
+| SkillDescriptionLv7 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|373%}} Attack.
+| SkillDescriptionLv8 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|384%}} Attack.
+| SkillDescriptionLv9 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|396%}} Attack.
+| SkillDescriptionLv10 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|443%}} Attack.
+}}
+{{SkillTable
+| SkillName = Emergency Evasion
+| SkillNameJP = 緊急回避
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = Increase Evasion by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Evasion by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Evasion by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Evasion by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Evasion by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Evasion by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Evasion by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Evasion by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Evasion by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Evasion by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Evasion by {{SkillValue|26.6%}}.
+}}
+{{SkillTable
+| SkillName = Vigilante Corps Fierce Assault
+| SkillNameJP = 自警団の猛襲
+| SkillIconType = COMMON_SKILLICON_EXTRADAMAGE
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = Increase damage by {{SkillValue|27.5~52.3%}} of Attack on enemies under CC effects.
+| SkillDescriptionLv1 = Increase damage by {{SkillValue|27.5%}} of Attack on enemies under CC effects.
+| SkillDescriptionLv2 = Increase damage by {{SkillValue|28.9%}} of Attack on enemies under CC effects.
+| SkillDescriptionLv3 = Increase damage by {{SkillValue|30.3%}} of Attack on enemies under CC effects.
+| SkillDescriptionLv4 = Increase damage by {{SkillValue|35.8%}} of Attack on enemies under CC effects.
+| SkillDescriptionLv5 = Increase damage by {{SkillValue|37.2%}} of Attack on enemies under CC effects.
+| SkillDescriptionLv6 = Increase damage by {{SkillValue|38.6%}} of Attack on enemies under CC effects.
+| SkillDescriptionLv7 = Increase damage by {{SkillValue|44.1%}} of Attack on enemies under CC effects.
+| SkillDescriptionLv8 = Increase damage by {{SkillValue|45.5%}} of Attack on enemies under CC effects.
+| SkillDescriptionLv9 = Increase damage by {{SkillValue|46.8%}} of Attack on enemies under CC effects.
+| SkillDescriptionLv10 = Increase damage by {{SkillValue|52.3%}} of Attack on enemies under CC effects.
+}}
+
+[[Category:Characters]]

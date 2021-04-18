@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_LINE
 | SkillDamageType = Penetration
 | SkillBaseCost = 5
-| SkillDescriptionGeneral = Junko sacrifices {{SkillValue|746~2200%}} of current HP and deals damage equal to {{SkillValue|25.7%}} to attack to enemies in a straight line.
+| SkillDescriptionGeneral = Junko sacrifices {{SkillValue|746~1417%}} of current HP and deals damage equal to {{SkillValue|25.7%}} to attack to enemies in a straight line.
 | SkillDescriptionLv1 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|746%}} to attack to enemies in a straight line.
 | SkillDescriptionLv2 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|857%}} to attack to enemies in a straight line.
 | SkillDescriptionLv3 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|1081%}} to attack to enemies in a straight line.

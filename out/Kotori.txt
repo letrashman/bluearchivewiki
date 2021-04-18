@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_BATTLEITEM
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Moves 4 allies to the specified location and applies a shield equal to {{SkillValue|175~519%}} of Healing power.
+| SkillDescriptionGeneral = Moves 4 allies to the specified location and applies a shield equal to {{SkillValue|175~334%}} of Healing power.
 | SkillDescriptionLv1 = Moves 4 allies to the specified location and applies a shield equal to {{SkillValue|175%}} of Healing power.
 | SkillDescriptionLv2 = Moves 4 allies to the specified location and applies a shield equal to {{SkillValue|202%}} of Healing power.
 | SkillDescriptionLv3 = Moves 4 allies to the specified location and applies a shield equal to {{SkillValue|255%}} of Healing power.

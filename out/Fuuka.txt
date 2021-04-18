@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_BATTLEITEM
 | SkillDamageType = Explosive
 | SkillBaseCost = 5
-| SkillDescriptionGeneral = Fuuka moves allies (max 4) in circular area to a specified position and recovers their HP by {{SkillValue|109~322%}} of her Healing.
+| SkillDescriptionGeneral = Fuuka moves allies (max 4) in circular area to a specified position and recovers their HP by {{SkillValue|109~207%}} of her Healing.
 | SkillDescriptionLv1 = Fuuka moves allies (max 4) in circular area to a specified position and recovers their HP by {{SkillValue|109%}} of her Healing.
 | SkillDescriptionLv2 = Fuuka moves allies (max 4) in circular area to a specified position and recovers their HP by {{SkillValue|125%}} of her Healing.
 | SkillDescriptionLv3 = Fuuka moves allies (max 4) in circular area to a specified position and recovers their HP by {{SkillValue|158%}} of her Healing.

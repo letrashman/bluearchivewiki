@@ -5,8 +5,8 @@
 | SkillIconType = COMMON_SKILLICON_STATDEBUFF
 | SkillDamageType = Penetration
 | SkillBaseCost = 2
-| SkillDescriptionGeneral = 敵1人に対して、攻撃力の{{SkillValue|547%}}分のダメージ/
-さらに防御力を{{SkillValue|29%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionGeneral = 敵1人に対して、攻撃力の{{SkillValue|1452%}}分のダメージ/
+さらに防御力を{{SkillValue|37.7%}}減少（{{SkillValue|30秒}}間）
 | SkillDescriptionLv1 = 敵1人に対して、攻撃力の{{SkillValue|547%}}分のダメージ/
 さらに防御力を{{SkillValue|29%}}減少（{{SkillValue|30秒}}間）
 | SkillDescriptionLv2 = 敵1人に対して、攻撃力の{{SkillValue|630%}}分のダメージ/
@@ -34,7 +34,7 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|396%}}分のダメージ
+| SkillDescriptionGeneral = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|753%}}分のダメージ
 | SkillDescriptionLv1 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|396%}}分のダメージ
 | SkillDescriptionLv2 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|416%}}分のダメージ
 | SkillDescriptionLv3 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|436%}}分のダメージ
@@ -52,7 +52,7 @@
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Penetration
 | SkillType = Passive
-| SkillDescriptionGeneral = 移動速度を{{SkillValue|14%}}増加
+| SkillDescriptionGeneral = 移動速度を{{SkillValue|26.6%}}増加
 | SkillDescriptionLv1 = 移動速度を{{SkillValue|14%}}増加
 | SkillDescriptionLv2 = 移動速度を{{SkillValue|14.7%}}増加
 | SkillDescriptionLv3 = 移動速度を{{SkillValue|15.4%}}増加
@@ -70,7 +70,7 @@
 | SkillIconType = COMMON_SKILLICON_STATDEBUFF
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = 攻撃時、{{SkillValue|10%}}の確率で敵の回避値を{{SkillValue|6.7%}}減少（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|5秒}}）
+| SkillDescriptionGeneral = 攻撃時、{{SkillValue|10%}}の確率で敵の回避値を{{SkillValue|12.7%}}減少（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|5秒}}）
 | SkillDescriptionLv1 = 攻撃時、{{SkillValue|10%}}の確率で敵の回避値を{{SkillValue|6.7%}}減少（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|5秒}}）
 | SkillDescriptionLv2 = 攻撃時、{{SkillValue|10%}}の確率で敵の回避値を{{SkillValue|7%}}減少（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|5秒}}）
 | SkillDescriptionLv3 = 攻撃時、{{SkillValue|10%}}の確率で敵の回避値を{{SkillValue|7.4%}}減少（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|5秒}}）

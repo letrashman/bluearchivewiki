@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_ZONE
 | SkillDamageType = Explosive
 | SkillBaseCost = 6
-| SkillDescriptionGeneral = Apply continuous damage in an area for {{SkillValue|126~372%}} of Saya's Attack. (Duration: {{SkillValue|8 seconds}})
+| SkillDescriptionGeneral = Apply continuous damage in an area for {{SkillValue|126~239%}} of Saya's Attack. (Duration: {{SkillValue|8 seconds}})
 | SkillDescriptionLv1 = Apply continuous damage in an area for {{SkillValue|126%}} of Saya's Attack. (Duration: {{SkillValue|8 seconds}})
 | SkillDescriptionLv2 = Apply continuous damage in an area for {{SkillValue|145%}} of Saya's Attack. (Duration: {{SkillValue|8 seconds}})
 | SkillDescriptionLv3 = Apply continuous damage in an area for {{SkillValue|182%}} of Saya's Attack. (Duration: {{SkillValue|8 seconds}})

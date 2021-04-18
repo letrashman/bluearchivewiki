@@ -6,7 +6,7 @@
 | SkillDamageType = Mystic
 | SkillBaseCost = 2
 | SkillDescriptionGeneral = スキルの使用中、回避値を{{SkillValue|43.4%}}増加/
-攻撃速度を{{SkillValue|30.2%}}増加（{{SkillValue|30秒}}間）
+攻撃速度を{{SkillValue|89%}}増加（{{SkillValue|30秒}}間）
 | SkillDescriptionLv1 = スキルの使用中、回避値を{{SkillValue|43.4%}}増加/
 攻撃速度を{{SkillValue|30.2%}}増加（{{SkillValue|30秒}}間）
 | SkillDescriptionLv2 = スキルの使用中、回避値を{{SkillValue|43.4%}}増加/
@@ -34,7 +34,7 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Mystic
 | SkillType = Normal
-| SkillDescriptionGeneral = {{SkillValue|20秒}}毎に敵1人に対して攻撃力の{{SkillValue|219%}}分のダメージ
+| SkillDescriptionGeneral = {{SkillValue|20秒}}毎に敵1人に対して攻撃力の{{SkillValue|416%}}分のダメージ
 | SkillDescriptionLv1 = {{SkillValue|20秒}}毎に敵1人に対して攻撃力の{{SkillValue|219%}}分のダメージ
 | SkillDescriptionLv2 = {{SkillValue|20秒}}毎に敵1人に対して攻撃力の{{SkillValue|230%}}分のダメージ
 | SkillDescriptionLv3 = {{SkillValue|20秒}}毎に敵1人に対して攻撃力の{{SkillValue|241%}}分のダメージ
@@ -52,7 +52,7 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Mystic
 | SkillType = Passive
-| SkillDescriptionGeneral = 会心ダメージ率を{{SkillValue|14%}}増加
+| SkillDescriptionGeneral = 会心ダメージ率を{{SkillValue|26.6%}}増加
 | SkillDescriptionLv1 = 会心ダメージ率を{{SkillValue|14%}}増加
 | SkillDescriptionLv2 = 会心ダメージ率を{{SkillValue|14.7%}}増加
 | SkillDescriptionLv3 = 会心ダメージ率を{{SkillValue|15.4%}}増加
@@ -70,7 +70,7 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Mystic
 | SkillType = Sub
-| SkillDescriptionGeneral = Exスキルの使用時、攻撃速度を{{SkillValue|20.1%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionGeneral = Exスキルの使用時、攻撃速度を{{SkillValue|38.3%}}増加（{{SkillValue|30秒}}間）
 | SkillDescriptionLv1 = Exスキルの使用時、攻撃速度を{{SkillValue|20.1%}}増加（{{SkillValue|30秒}}間）
 | SkillDescriptionLv2 = Exスキルの使用時、攻撃速度を{{SkillValue|21.1%}}増加（{{SkillValue|30秒}}間）
 | SkillDescriptionLv3 = Exスキルの使用時、攻撃速度を{{SkillValue|22.1%}}増加（{{SkillValue|30秒}}間）

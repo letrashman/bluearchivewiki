@@ -1,75 +1,75 @@
 ===Skills===
 {{EXSkillTable
-| SkillName = None
+| SkillName = Spurt Forward!
 | SkillNameJP = スパートをかけます！
 | SkillIconType = COMMON_SKILLICON_FAN
 | SkillDamageType = Penetration
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|742%}}分のダメージ
-| SkillDescriptionLv1 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|742%}}分のダメージ
-| SkillDescriptionLv2 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|853%}}分のダメージ
-| SkillDescriptionLv3 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1076%}}分のダメージ
-| SkillDescriptionLv4 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1187%}}分のダメージ
-| SkillDescriptionLv5 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1410%}}分のダメージ
-| SkillDescriptionLv6 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1521%}}分のダメージ
-| SkillDescriptionLv7 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1744%}}分のダメージ
-| SkillDescriptionLv8 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1855%}}分のダメージ
-| SkillDescriptionLv9 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|2078%}}分のダメージ
-| SkillDescriptionLv10 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|2189%}}分のダメージ
+| SkillDescriptionGeneral = Attack all enemies in a conical area for {{SkillValue|742~1410%}} of Sumire's Attack.
+| SkillDescriptionLv1 = Attack all enemies in a conical area for {{SkillValue|742%}} of Sumire's Attack.
+| SkillDescriptionLv2 = Attack all enemies in a conical area for {{SkillValue|853%}} of Sumire's Attack.
+| SkillDescriptionLv3 = Attack all enemies in a conical area for {{SkillValue|1076%}} of Sumire's Attack.
+| SkillDescriptionLv4 = Attack all enemies in a conical area for {{SkillValue|1187%}} of Sumire's Attack.
+| SkillDescriptionLv5 = Attack all enemies in a conical area for {{SkillValue|1410%}} of Sumire's Attack.
+| SkillDescriptionLv6 = Attack all enemies in a conical area for {{SkillValue|1521%}} of Sumire's Attack.
+| SkillDescriptionLv7 = Attack all enemies in a conical area for {{SkillValue|1744%}} of Sumire's Attack.
+| SkillDescriptionLv8 = Attack all enemies in a conical area for {{SkillValue|1855%}} of Sumire's Attack.
+| SkillDescriptionLv9 = Attack all enemies in a conical area for {{SkillValue|2078%}} of Sumire's Attack.
+| SkillDescriptionLv10 = Attack all enemies in a conical area for {{SkillValue|2189%}} of Sumire's Attack.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Warming Up
 | SkillNameJP = ウォーミングアップ
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = {{SkillValue|40秒}}毎に、攻撃力を{{SkillValue|25.2%}}増加（{{SkillValue|20秒}}間）
-| SkillDescriptionLv1 = {{SkillValue|40秒}}毎に、攻撃力を{{SkillValue|25.2%}}増加（{{SkillValue|20秒}}間）
-| SkillDescriptionLv2 = {{SkillValue|40秒}}毎に、攻撃力を{{SkillValue|26.4%}}増加（{{SkillValue|20秒}}間）
-| SkillDescriptionLv3 = {{SkillValue|40秒}}毎に、攻撃力を{{SkillValue|27.7%}}増加（{{SkillValue|20秒}}間）
-| SkillDescriptionLv4 = {{SkillValue|40秒}}毎に、攻撃力を{{SkillValue|32.8%}}増加（{{SkillValue|20秒}}間）
-| SkillDescriptionLv5 = {{SkillValue|40秒}}毎に、攻撃力を{{SkillValue|34%}}増加（{{SkillValue|20秒}}間）
-| SkillDescriptionLv6 = {{SkillValue|40秒}}毎に、攻撃力を{{SkillValue|35.3%}}増加（{{SkillValue|20秒}}間）
-| SkillDescriptionLv7 = {{SkillValue|40秒}}毎に、攻撃力を{{SkillValue|40.3%}}増加（{{SkillValue|20秒}}間）
-| SkillDescriptionLv8 = {{SkillValue|40秒}}毎に、攻撃力を{{SkillValue|41.6%}}増加（{{SkillValue|20秒}}間）
-| SkillDescriptionLv9 = {{SkillValue|40秒}}毎に、攻撃力を{{SkillValue|42.8%}}増加（{{SkillValue|20秒}}間）
-| SkillDescriptionLv10 = {{SkillValue|40秒}}毎に、攻撃力を{{SkillValue|47.9%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionGeneral = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|25.2~47.9%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|25.2%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|26.4%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|27.7%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|32.8%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|34%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|35.3%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|40.3%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|41.6%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|42.8%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|47.9%}}. (Duration: {{SkillValue|20 seconds}})
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Pinpoint Attack
 | SkillNameJP = ピンポイントアタック
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Penetration
 | SkillType = Passive
-| SkillDescriptionGeneral = HPを{{SkillValue|14%}}増加
-| SkillDescriptionLv1 = HPを{{SkillValue|14%}}増加
-| SkillDescriptionLv2 = HPを{{SkillValue|14.7%}}増加
-| SkillDescriptionLv3 = HPを{{SkillValue|15.4%}}増加
-| SkillDescriptionLv4 = HPを{{SkillValue|18.2%}}増加
-| SkillDescriptionLv5 = HPを{{SkillValue|18.9%}}増加
-| SkillDescriptionLv6 = HPを{{SkillValue|19.6%}}増加
-| SkillDescriptionLv7 = HPを{{SkillValue|22.4%}}増加
-| SkillDescriptionLv8 = HPを{{SkillValue|23.1%}}増加
-| SkillDescriptionLv9 = HPを{{SkillValue|23.8%}}増加
-| SkillDescriptionLv10 = HPを{{SkillValue|26.6%}}増加
+| SkillDescriptionGeneral = Increase HP by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase HP by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase HP by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase HP by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase HP by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase HP by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase HP by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase HP by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase HP by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase HP by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase HP by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Tension Up
 | SkillNameJP = テンションアップ
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = 自身がCC状態ではない時、防御力を{{SkillValue|13.4%}}増加
-| SkillDescriptionLv1 = 自身がCC状態ではない時、防御力を{{SkillValue|13.4%}}増加
-| SkillDescriptionLv2 = 自身がCC状態ではない時、防御力を{{SkillValue|14.1%}}増加
-| SkillDescriptionLv3 = 自身がCC状態ではない時、防御力を{{SkillValue|14.7%}}増加
-| SkillDescriptionLv4 = 自身がCC状態ではない時、防御力を{{SkillValue|17.4%}}増加
-| SkillDescriptionLv5 = 自身がCC状態ではない時、防御力を{{SkillValue|18.1%}}増加
-| SkillDescriptionLv6 = 自身がCC状態ではない時、防御力を{{SkillValue|18.8%}}増加
-| SkillDescriptionLv7 = 自身がCC状態ではない時、防御力を{{SkillValue|21.5%}}増加
-| SkillDescriptionLv8 = 自身がCC状態ではない時、防御力を{{SkillValue|22.1%}}増加
-| SkillDescriptionLv9 = 自身がCC状態ではない時、防御力を{{SkillValue|22.8%}}増加
-| SkillDescriptionLv10 = 自身がCC状態ではない時、防御力を{{SkillValue|25.5%}}増加
+| SkillDescriptionGeneral = When not under the effect of Crowd Control, increase Defense by {{SkillValue|13.4~25.5%}}.
+| SkillDescriptionLv1 = When not under the effect of Crowd Control, increase Defense by {{SkillValue|13.4%}}.
+| SkillDescriptionLv2 = When not under the effect of Crowd Control, increase Defense by {{SkillValue|14.1%}}.
+| SkillDescriptionLv3 = When not under the effect of Crowd Control, increase Defense by {{SkillValue|14.7%}}.
+| SkillDescriptionLv4 = When not under the effect of Crowd Control, increase Defense by {{SkillValue|17.4%}}.
+| SkillDescriptionLv5 = When not under the effect of Crowd Control, increase Defense by {{SkillValue|18.1%}}.
+| SkillDescriptionLv6 = When not under the effect of Crowd Control, increase Defense by {{SkillValue|18.8%}}.
+| SkillDescriptionLv7 = When not under the effect of Crowd Control, increase Defense by {{SkillValue|21.5%}}.
+| SkillDescriptionLv8 = When not under the effect of Crowd Control, increase Defense by {{SkillValue|22.1%}}.
+| SkillDescriptionLv9 = When not under the effect of Crowd Control, increase Defense by {{SkillValue|22.8%}}.
+| SkillDescriptionLv10 = When not under the effect of Crowd Control, increase Defense by {{SkillValue|25.5%}}.
 }}
 
 [[Category:Characters]]

@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_DOTHEAL
 | SkillDamageType = Explosive
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Regenerate HP equal to {{SkillValue|8.6~25.4%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionGeneral = Regenerate HP equal to {{SkillValue|8.6~16.4%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20 seconds}})
 | SkillDescriptionLv1 = Regenerate HP equal to {{SkillValue|8.6%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20 seconds}})
 | SkillDescriptionLv2 = Regenerate HP equal to {{SkillValue|9.9%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20 seconds}})
 | SkillDescriptionLv3 = Regenerate HP equal to {{SkillValue|12.5%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20 seconds}})

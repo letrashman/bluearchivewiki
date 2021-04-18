@@ -5,7 +5,7 @@
 | SkillIconType = SKILLICON_UTAHA_EXSKILL
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Summon a turret. The turret's attack equals to {{SkillValue|81.4~240%}} of Utaha's attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionGeneral = Summon a turret. The turret's attack equals to {{SkillValue|81.4~154%}} of Utaha's attack. (Duration: {{SkillValue|30 seconds}})
 | SkillDescriptionLv1 = Summon a turret. The turret's attack equals to {{SkillValue|81.4%}} of Utaha's attack. (Duration: {{SkillValue|30 seconds}})
 | SkillDescriptionLv2 = Summon a turret. The turret's attack equals to {{SkillValue|93.6%}} of Utaha's attack. (Duration: {{SkillValue|30 seconds}})
 | SkillDescriptionLv3 = Summon a turret. The turret's attack equals to {{SkillValue|118%}} of Utaha's attack. (Duration: {{SkillValue|30 seconds}})

@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_SHIELD
 | SkillDamageType = Explosive
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = Generates a shield around Yuuka with HP equal to {{SkillValue|190~411%}} of her Healing. (Duration: {{SkillValue|15~25 seconds}})
+| SkillDescriptionGeneral = Generates a shield around Yuuka with HP equal to {{SkillValue|190~248%}} of her Healing. (Duration: {{SkillValue|15~25 seconds}})
 | SkillDescriptionLv1 = Generates a shield around Yuuka with HP equal to {{SkillValue|190%}} of her Healing. (Duration: {{SkillValue|15 seconds}})
 | SkillDescriptionLv2 = Generates a shield around Yuuka with HP equal to {{SkillValue|219%}} of her Healing. (Duration: {{SkillValue|15 seconds}})
 | SkillDescriptionLv3 = Generates a shield around Yuuka with HP equal to {{SkillValue|220%}} of her Healing. (Duration: {{SkillValue|20 seconds}})

@@ -5,8 +5,8 @@
 | SkillIconType = COMMON_SKILLICON_STUNNED
 | SkillDamageType = Explosive
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = 円形範囲内の敵に対して、攻撃力の{{SkillValue|271%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|2.7秒}}間）
+| SkillDescriptionGeneral = 円形範囲内の敵に対して、攻撃力の{{SkillValue|720%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
 | SkillDescriptionLv1 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|271%}}分のダメージ/
 さらに気絶状態を付与（{{SkillValue|2.7秒}}間）
 | SkillDescriptionLv2 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|312%}}分のダメージ/
@@ -34,7 +34,7 @@
 | SkillIconType = COMMON_SKILLICON_STATDEBUFF
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|26.7%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionGeneral = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|50.7%}}減少（{{SkillValue|15秒}}間）
 | SkillDescriptionLv1 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|26.7%}}減少（{{SkillValue|15秒}}間）
 | SkillDescriptionLv2 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|28%}}減少（{{SkillValue|15秒}}間）
 | SkillDescriptionLv3 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|29.3%}}減少（{{SkillValue|15秒}}間）
@@ -52,7 +52,7 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = 会心値を{{SkillValue|14%}}増加
+| SkillDescriptionGeneral = 会心値を{{SkillValue|26.6%}}増加
 | SkillDescriptionLv1 = 会心値を{{SkillValue|14%}}増加
 | SkillDescriptionLv2 = 会心値を{{SkillValue|14.7%}}増加
 | SkillDescriptionLv3 = 会心値を{{SkillValue|15.4%}}増加
@@ -70,7 +70,7 @@
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = 味方の回避値を{{SkillValue|9.1%}}増加
+| SkillDescriptionGeneral = 味方の回避値を{{SkillValue|17.3%}}増加
 | SkillDescriptionLv1 = 味方の回避値を{{SkillValue|9.1%}}増加
 | SkillDescriptionLv2 = 味方の回避値を{{SkillValue|9.5%}}増加
 | SkillDescriptionLv3 = 味方の回避値を{{SkillValue|10%}}増加

@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_FORMCHANGE
 | SkillDamageType = Penetration
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = Reload immediately after activating the skill. Change normal attack to a fan-shaped range attack that deals {{SkillValue|138%}} damage; increase Attack power by {{SkillValue|25.8~72.4%}}. (Effective until one reload is performed)
+| SkillDescriptionGeneral = Reload immediately after activating the skill. Change normal attack to a fan-shaped range attack that deals {{SkillValue|138%}} damage; increase Attack power by {{SkillValue|25.8~45.2%}}. (Effective until one reload is performed)
 | SkillDescriptionLv1 = Reload immediately after activating the skill. Change normal attack to a fan-shaped range attack that deals {{SkillValue|138%}} damage; increase Attack power by {{SkillValue|25.8%}}. (Effective until one reload is performed)
 | SkillDescriptionLv2 = Reload immediately after activating the skill. Change normal attack to a fan-shaped range attack that deals {{SkillValue|138%}} damage; increase Attack power by {{SkillValue|29.7%}}. (Effective until one reload is performed)
 | SkillDescriptionLv3 = Reload immediately after activating the skill. Change normal attack to a fan-shaped range attack that deals {{SkillValue|138%}} damage; increase Attack power by {{SkillValue|37.5%}}. (Effective until one reload is performed)

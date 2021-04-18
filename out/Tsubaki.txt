@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_PROVOKE
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Increases defense by {{SkillValue|28.1~74.4%}} for {{SkillValue|30 seconds}} and taunts enemies in a circular area for {{SkillValue|4.7~6.2 seconds}}.
+| SkillDescriptionGeneral = Increases defense by {{SkillValue|28.1~44.9%}} for {{SkillValue|30 seconds}} and taunts enemies in a circular area for {{SkillValue|4.7~6.2 seconds}}.
 | SkillDescriptionLv1 = Increases defense by {{SkillValue|28.1%}} for {{SkillValue|30 seconds}} and taunts enemies in a circular area for {{SkillValue|4.7 seconds}}.
 | SkillDescriptionLv2 = Increases defense by {{SkillValue|32.3%}} for {{SkillValue|30 seconds}} and taunts enemies in a circular area for {{SkillValue|4.7 seconds}}.
 | SkillDescriptionLv3 = Increases defense by {{SkillValue|36.5%}} for {{SkillValue|30 seconds}} and taunts enemies in a circular area for {{SkillValue|5.4 seconds}}.

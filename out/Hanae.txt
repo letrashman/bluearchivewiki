@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_DOTHEAL
 | SkillDamageType = Explosive
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Continuously recover one ally HP by {{SkillValue|54.1~159%}} of Healing. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionGeneral = Continuously recover one ally HP by {{SkillValue|54.1~102%}} of Healing. (Duration: {{SkillValue|20 seconds}})
 | SkillDescriptionLv1 = Continuously recover one ally HP by {{SkillValue|54.1%}} of Healing. (Duration: {{SkillValue|20 seconds}})
 | SkillDescriptionLv2 = Continuously recover one ally HP by {{SkillValue|62.2%}} of Healing. (Duration: {{SkillValue|20 seconds}})
 | SkillDescriptionLv3 = Continuously recover one ally HP by {{SkillValue|78.5%}} of Healing. (Duration: {{SkillValue|20 seconds}})

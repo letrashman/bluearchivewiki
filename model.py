@@ -171,21 +171,25 @@ class Skill(object):
 
         def replace_units(text):
             text = re.sub('回', '', text)
+            text = re.sub('つ', '', text)
             text = re.sub('秒', ' seconds', text)
             return text
 
-        
 
-
-        def translate_skill(text_jp, group_id):
-            try: text_en = data.translated_skills[group_id]['DescriptionEn']
+        def translate_skill(text_jp, skill_level, group_id):
+            try: skill_desc = data.translated_skills[group_id]['DescriptionEn']
             except KeyError: 
-                return text_jp
-            else: 
-                variables = re.findall(r'\[c]\[[0-9A-Fa-f]{6}]([^\[]*)\[-]\[/c]', replace_units(text_jp))
-                for i in range(len(variables)):
-                    text_en = re.sub(f'\${i+1}', '{{SkillValue|' + variables[i] + '}}', text_en)
-                return text_en
+                skill_desc = text_jp
+                #print(f'{group_id} translation is missing')
+            else:
+                for i in range(skill_level+1):
+                    try: skill_desc = skill_desc.removesuffix('.') + data.translated_skills[group_id][f'AddOnLevel{i}']
+                    except KeyError: False
+
+            variables = re.findall(r'\[c]\[[0-9A-Fa-f]{6}]([^\[]*)\[-]\[/c]', replace_units(text_jp))
+            for i in range(len(variables)):
+                skill_desc = re.sub(f'\${i+1}', '{{SkillValue|' + variables[i] + '}}', skill_desc)
+            return skill_desc
 
 
         def format_description(levels, text_en):
@@ -193,25 +197,25 @@ class Skill(object):
             end_variables = re.findall(r'\{\{SkillValue\|([^\}\[]+)\}\}',  levels[max_level-1][0])
 
             for i in range(len(end_variables)):
-                stripped_start = re.findall(r'([0-9.]+).*', start_variables[i])
+                try: stripped_start = re.findall(r'([0-9.]+).*', start_variables[i])
+                except IndexError: 
+                    start_variables.append(0)
+                    stripped_start = [0]
+
                 range_text = start_variables[i] != end_variables[i] and f'{stripped_start[0]}~{end_variables[i]}' or f'{end_variables[i]}'
                 text_en = re.sub(f'\${i+1}', '{{SkillValue|' + range_text + '}}', text_en)
             return text_en
 
 
         levels = [
-            (translate_skill(data.skills_localization[level['LocalizeSkillId']]['DescriptionJp'], group_id), level['SkillCost'])
+            (translate_skill(data.skills_localization[level['LocalizeSkillId']]['DescriptionJp'], level['Level'], group_id), level['SkillCost'])
             for level
             in sorted(group, key=operator.itemgetter('Level'))
         ]
+        
 
-        try: text_general = data.translated_skills[group_id]['DescriptionEn']
-        except KeyError: 
-            print(f'{group_id} translation is missing')
-            text_general = translate_skill(levels[0][0], group_id)
-
+        text_general = translate_skill(levels[9][0], max_level, group_id)
         description_general = format_description(levels, text_general)
-        #print(description_general)
 
 
         try: data.translated_skills[group[0]['GroupId']]['NameEn']

@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_FEAR
 | SkillDamageType = Explosive
 | SkillBaseCost = 6
-| SkillDescriptionGeneral = Deal {{SkillValue|349~924%}} damage and inflict fear for {{SkillValue|3.9~5.1 seconds}} to enemies in a circular area.
+| SkillDescriptionGeneral = Deal {{SkillValue|349~558%}} damage and inflict fear for {{SkillValue|3.9~5.1 seconds}} to enemies in a circular area.
 | SkillDescriptionLv1 = Deal {{SkillValue|349%}} damage and inflict fear for {{SkillValue|3.9 seconds}} to enemies in a circular area.
 | SkillDescriptionLv2 = Deal {{SkillValue|401%}} damage and inflict fear for {{SkillValue|3.9 seconds}} to enemies in a circular area.
 | SkillDescriptionLv3 = Deal {{SkillValue|453%}} damage and inflict fear for {{SkillValue|4.5 seconds}} to enemies in a circular area.

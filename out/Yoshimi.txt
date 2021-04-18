@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Attack all enemies within a circular area for {{SkillValue|220~585%}} of Attack, inflict Stun status for {{SkillValue|2.2~2.9 seconds}}.
+| SkillDescriptionGeneral = Attack all enemies within a circular area for {{SkillValue|220~353%}} of Attack, inflict Stun status for {{SkillValue|2.2~2.9 seconds}}.
 | SkillDescriptionLv1 = Attack all enemies within a circular area for {{SkillValue|220%}} of Attack, inflict Stun status for {{SkillValue|2.2 seconds}}.
 | SkillDescriptionLv2 = Attack all enemies within a circular area for {{SkillValue|254%}} of Attack, inflict Stun status for {{SkillValue|2.2 seconds}}.
 | SkillDescriptionLv3 = Attack all enemies within a circular area for {{SkillValue|287%}} of Attack, inflict Stun status for {{SkillValue|2.5 seconds}}.

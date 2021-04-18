@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Penetration
 | SkillBaseCost = 2
-| SkillDescriptionGeneral = Attack 1 enemy with {{SkillValue|476~1263%}} Attack power. When angered, damage is multiplied {{SkillValue|1.5~1.7}}x.
+| SkillDescriptionGeneral = Attack 1 enemy with {{SkillValue|476~762%}} Attack power. When angered, damage is multiplied {{SkillValue|1.5~1.7}}x.
 | SkillDescriptionLv1 = Attack 1 enemy with {{SkillValue|476%}} Attack power. When angered, damage is multiplied {{SkillValue|1.5}}x.
 | SkillDescriptionLv2 = Attack 1 enemy with {{SkillValue|548%}} Attack power. When angered, damage is multiplied {{SkillValue|1.5}}x.
 | SkillDescriptionLv3 = Attack 1 enemy with {{SkillValue|619%}} Attack power. When angered, damage is multiplied {{SkillValue|1.6}}x.

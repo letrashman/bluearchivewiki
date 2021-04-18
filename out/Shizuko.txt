@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_OBSTACLE
 | SkillDamageType = Mystic
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|16.3~21.3%}} increased accuracy for {{SkillValue|30 seconds}}. Cover's durability is a set amount plus {{SkillValue|29.2~77.5%}} of Shizuko's HP.
+| SkillDescriptionGeneral = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|16.3~21.3%}} increased accuracy for {{SkillValue|30 seconds}}. Cover's durability is a set amount plus {{SkillValue|29.2~46.8%}} of Shizuko's HP.
 | SkillDescriptionLv1 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|16.3%}} increased accuracy for {{SkillValue|30 seconds}}. Cover's durability is a set amount plus {{SkillValue|29.2%}} of Shizuko's HP.
 | SkillDescriptionLv2 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|16.3%}} increased accuracy for {{SkillValue|30 seconds}}. Cover's durability is a set amount plus {{SkillValue|33.6%}} of Shizuko's HP.
 | SkillDescriptionLv3 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|18.8%}} increased accuracy for {{SkillValue|30 seconds}}. Cover's durability is a set amount plus {{SkillValue|38%}} of Shizuko's HP.

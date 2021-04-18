@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Explosive
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = Inflitct damage equal to {{SkillValue|415~1101%}} of Attack to one enemy, {{SkillValue|50~75%}} chance of additional {{SkillValue|623~716%}} damage
+| SkillDescriptionGeneral = Inflitct damage equal to {{SkillValue|415~664%}} of Attack to one enemy, {{SkillValue|50~75%}} chance of additional {{SkillValue|623~716%}} damage
 | SkillDescriptionLv1 = Inflitct damage equal to {{SkillValue|415%}} of Attack to one enemy, {{SkillValue|50%}} chance of additional {{SkillValue|623%}} damage
 | SkillDescriptionLv2 = Inflitct damage equal to {{SkillValue|477%}} of Attack to one enemy, {{SkillValue|50%}} chance of additional {{SkillValue|623%}} damage
 | SkillDescriptionLv3 = Inflitct damage equal to {{SkillValue|540%}} of Attack to one enemy, {{SkillValue|50%}} chance of additional {{SkillValue|716%}} damage

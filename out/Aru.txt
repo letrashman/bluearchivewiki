@@ -5,8 +5,8 @@
 | SkillIconType = COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Explosive
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = 敵1人に対して、攻撃力の{{SkillValue|274%}}分のダメージ/
-さらに、円形範囲内の敵に攻撃力の{{SkillValue|292%}}分のダメージ
+| SkillDescriptionGeneral = 敵1人に対して、攻撃力の{{SkillValue|809%}}分のダメージ/
+さらに、円形範囲内の敵に攻撃力の{{SkillValue|861%}}分のダメージ
 | SkillDescriptionLv1 = 敵1人に対して、攻撃力の{{SkillValue|274%}}分のダメージ/
 さらに、円形範囲内の敵に攻撃力の{{SkillValue|292%}}分のダメージ
 | SkillDescriptionLv2 = 敵1人に対して、攻撃力の{{SkillValue|315%}}分のダメージ/
@@ -34,8 +34,8 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|152%}}分のダメージ/
-{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|251%}}分のダメージ
+| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|290%}}分のダメージ/
+{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|476%}}分のダメージ
 | SkillDescriptionLv1 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|152%}}分のダメージ/
 {{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|251%}}分のダメージ
 | SkillDescriptionLv2 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|160%}}分のダメージ/
@@ -63,7 +63,7 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = 会心ダメージ率を{{SkillValue|14%}}増加
+| SkillDescriptionGeneral = 会心ダメージ率を{{SkillValue|26.6%}}増加
 | SkillDescriptionLv1 = 会心ダメージ率を{{SkillValue|14%}}増加
 | SkillDescriptionLv2 = 会心ダメージ率を{{SkillValue|14.7%}}増加
 | SkillDescriptionLv3 = 会心ダメージ率を{{SkillValue|15.4%}}増加
@@ -81,7 +81,7 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = Exスキルの使用中、会心値を{{SkillValue|20.1%}}増加
+| SkillDescriptionGeneral = Exスキルの使用中、会心値を{{SkillValue|38.3%}}増加
 | SkillDescriptionLv1 = Exスキルの使用中、会心値を{{SkillValue|20.1%}}増加
 | SkillDescriptionLv2 = Exスキルの使用中、会心値を{{SkillValue|21.1%}}増加
 | SkillDescriptionLv3 = Exスキルの使用中、会心値を{{SkillValue|22.1%}}増加

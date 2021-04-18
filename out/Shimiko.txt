@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_OBSTACLE
 | SkillDamageType = Explosive
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|16.3~43.4%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionGeneral = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|16.3~26.2%}}. (Duration: {{SkillValue|30 seconds}})
 | SkillDescriptionLv1 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|16.3%}}. (Duration: {{SkillValue|30 seconds}})
 | SkillDescriptionLv2 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|18.8%}}. (Duration: {{SkillValue|30 seconds}})
 | SkillDescriptionLv3 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|21.3%}}. (Duration: {{SkillValue|30 seconds}})

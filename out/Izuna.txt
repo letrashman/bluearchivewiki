@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_EVASION
 | SkillDamageType = Mystic
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = Jump to the selected location, and increase attack speed by {{SkillValue|27.4~80.9%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionGeneral = Jump to the selected location, and increase attack speed by {{SkillValue|27.4~52.1%}} for {{SkillValue|30 seconds}}.
 | SkillDescriptionLv1 = Jump to the selected location, and increase attack speed by {{SkillValue|27.4%}} for {{SkillValue|30 seconds}}.
 | SkillDescriptionLv2 = Jump to the selected location, and increase attack speed by {{SkillValue|31.5%}} for {{SkillValue|30 seconds}}.
 | SkillDescriptionLv3 = Jump to the selected location, and increase attack speed by {{SkillValue|39.7%}} for {{SkillValue|30 seconds}}.

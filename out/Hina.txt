@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_FAN
 | SkillDamageType = Explosive
 | SkillBaseCost = 7
-| SkillDescriptionGeneral = Deal {{SkillValue|636~1876%}} damage to enemies in fan-shaped area.
+| SkillDescriptionGeneral = Deal {{SkillValue|636~1208%}} damage to enemies in fan-shaped area.
 | SkillDescriptionLv1 = Deal {{SkillValue|636%}} damage to enemies in fan-shaped area.
 | SkillDescriptionLv2 = Deal {{SkillValue|731%}} damage to enemies in fan-shaped area.
 | SkillDescriptionLv3 = Deal {{SkillValue|922%}} damage to enemies in fan-shaped area.

@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Explosive
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Deal {{SkillValue|311~918%}} damage to enemies in 5 circular areas.
+| SkillDescriptionGeneral = Deal {{SkillValue|311~591%}} damage to enemies in 5 circular areas.
 | SkillDescriptionLv1 = Deal {{SkillValue|311%}} damage to enemies in 5 circular areas.
 | SkillDescriptionLv2 = Deal {{SkillValue|358%}} damage to enemies in 5 circular areas.
 | SkillDescriptionLv3 = Deal {{SkillValue|451%}} damage to enemies in 5 circular areas.

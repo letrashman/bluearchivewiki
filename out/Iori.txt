@@ -1,75 +1,75 @@
 ===Skills===
 {{EXSkillTable
-| SkillName = None
+| SkillName = Total Arrest
 | SkillNameJP = 一網打尽
 | SkillIconType = COMMON_SKILLICON_FAN
 | SkillDamageType = Penetration
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|350%}}分のダメージ
-| SkillDescriptionLv1 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|350%}}分のダメージ
-| SkillDescriptionLv2 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|403%}}分のダメージ
-| SkillDescriptionLv3 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|508%}}分のダメージ
-| SkillDescriptionLv4 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|561%}}分のダメージ
-| SkillDescriptionLv5 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|666%}}分のダメージ
-| SkillDescriptionLv6 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|718%}}分のダメージ
-| SkillDescriptionLv7 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|824%}}分のダメージ
-| SkillDescriptionLv8 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|876%}}分のダメージ
-| SkillDescriptionLv9 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|981%}}分のダメージ
-| SkillDescriptionLv10 = 銃弾を3回発射。攻撃した敵と、その後ろ扇形範囲内の敵に対して、それぞれ攻撃力の{{SkillValue|1034%}}分のダメージ
+| SkillDescriptionGeneral = Fires 3 shots at an enemy. Each shot has {{SkillValue|350~666%}} Attack power and deals damage in a conical shape behind the enemy.
+| SkillDescriptionLv1 = Fires 3 shots at an enemy. Each shot has {{SkillValue|350%}} Attack power and deals damage in a conical shape behind the enemy.
+| SkillDescriptionLv2 = Fires 3 shots at an enemy. Each shot has {{SkillValue|403%}} Attack power and deals damage in a conical shape behind the enemy.
+| SkillDescriptionLv3 = Fires 3 shots at an enemy. Each shot has {{SkillValue|508%}} Attack power and deals damage in a conical shape behind the enemy.
+| SkillDescriptionLv4 = Fires 3 shots at an enemy. Each shot has {{SkillValue|561%}} Attack power and deals damage in a conical shape behind the enemy.
+| SkillDescriptionLv5 = Fires 3 shots at an enemy. Each shot has {{SkillValue|666%}} Attack power and deals damage in a conical shape behind the enemy.
+| SkillDescriptionLv6 = Fires 3 shots at an enemy. Each shot has {{SkillValue|718%}} Attack power and deals damage in a conical shape behind the enemy.
+| SkillDescriptionLv7 = Fires 3 shots at an enemy. Each shot has {{SkillValue|824%}} Attack power and deals damage in a conical shape behind the enemy.
+| SkillDescriptionLv8 = Fires 3 shots at an enemy. Each shot has {{SkillValue|876%}} Attack power and deals damage in a conical shape behind the enemy.
+| SkillDescriptionLv9 = Fires 3 shots at an enemy. Each shot has {{SkillValue|981%}} Attack power and deals damage in a conical shape behind the enemy.
+| SkillDescriptionLv10 = Fires 3 shots at an enemy. Each shot has {{SkillValue|1034%}} Attack power and deals damage in a conical shape behind the enemy.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Wanted List
 | SkillNameJP = 指名手配
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|229%}}分のダメージ
-| SkillDescriptionLv1 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|229%}}分のダメージ
-| SkillDescriptionLv2 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|241%}}分のダメージ
-| SkillDescriptionLv3 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|252%}}分のダメージ
-| SkillDescriptionLv4 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|298%}}分のダメージ
-| SkillDescriptionLv5 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|310%}}分のダメージ
-| SkillDescriptionLv6 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|321%}}分のダメージ
-| SkillDescriptionLv7 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|367%}}分のダメージ
-| SkillDescriptionLv8 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|379%}}分のダメージ
-| SkillDescriptionLv9 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|390%}}分のダメージ
-| SkillDescriptionLv10 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|436%}}分のダメージ
+| SkillDescriptionGeneral = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|229~436%}} of Attack power against one enemy.
+| SkillDescriptionLv1 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|229%}} of Attack power against one enemy.
+| SkillDescriptionLv2 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|241%}} of Attack power against one enemy.
+| SkillDescriptionLv3 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|252%}} of Attack power against one enemy.
+| SkillDescriptionLv4 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|298%}} of Attack power against one enemy.
+| SkillDescriptionLv5 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|310%}} of Attack power against one enemy.
+| SkillDescriptionLv6 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|321%}} of Attack power against one enemy.
+| SkillDescriptionLv7 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|367%}} of Attack power against one enemy.
+| SkillDescriptionLv8 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|379%}} of Attack power against one enemy.
+| SkillDescriptionLv9 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|390%}} of Attack power against one enemy.
+| SkillDescriptionLv10 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|436%}} of Attack power against one enemy.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Hitting the mark in one shot
 | SkillNameJP = 一撃必中
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Passive
-| SkillDescriptionGeneral = 命中値を{{SkillValue|14%}}増加
-| SkillDescriptionLv1 = 命中値を{{SkillValue|14%}}増加
-| SkillDescriptionLv2 = 命中値を{{SkillValue|14.7%}}増加
-| SkillDescriptionLv3 = 命中値を{{SkillValue|15.4%}}増加
-| SkillDescriptionLv4 = 命中値を{{SkillValue|18.2%}}増加
-| SkillDescriptionLv5 = 命中値を{{SkillValue|18.9%}}増加
-| SkillDescriptionLv6 = 命中値を{{SkillValue|19.6%}}増加
-| SkillDescriptionLv7 = 命中値を{{SkillValue|22.4%}}増加
-| SkillDescriptionLv8 = 命中値を{{SkillValue|23.1%}}増加
-| SkillDescriptionLv9 = 命中値を{{SkillValue|23.8%}}増加
-| SkillDescriptionLv10 = 命中値を{{SkillValue|26.6%}}増加
+| SkillDescriptionGeneral = Increase Accuracy by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Accuracy by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Accuracy by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Accuracy by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Accuracy by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Accuracy by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Accuracy by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Accuracy by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Accuracy by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Accuracy by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Accuracy by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Bravery of the Disciplinary Committee
 | SkillNameJP = 風紀委員の度胸
 | SkillIconType = COMMON_SKILLICON_EXTRADAMAGE
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|22.6%}}分の追加ダメージ
-| SkillDescriptionLv1 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|22.6%}}分の追加ダメージ
-| SkillDescriptionLv2 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|23.8%}}分の追加ダメージ
-| SkillDescriptionLv3 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|24.9%}}分の追加ダメージ
-| SkillDescriptionLv4 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|29.4%}}分の追加ダメージ
-| SkillDescriptionLv5 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|30.6%}}分の追加ダメージ
-| SkillDescriptionLv6 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|31.7%}}分の追加ダメージ
-| SkillDescriptionLv7 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|36.2%}}分の追加ダメージ
-| SkillDescriptionLv8 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|37.4%}}分の追加ダメージ
-| SkillDescriptionLv9 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|38.5%}}分の追加ダメージ
-| SkillDescriptionLv10 = 自身が隠れていない状態での攻撃時、攻撃力の{{SkillValue|43.1%}}分の追加ダメージ
+| SkillDescriptionGeneral = When Iori is not taking cover, attacks deal {{SkillValue|22.6~43.1%}} Attack power additional damage.
+| SkillDescriptionLv1 = When Iori is not taking cover, attacks deal {{SkillValue|22.6%}} Attack power additional damage.
+| SkillDescriptionLv2 = When Iori is not taking cover, attacks deal {{SkillValue|23.8%}} Attack power additional damage.
+| SkillDescriptionLv3 = When Iori is not taking cover, attacks deal {{SkillValue|24.9%}} Attack power additional damage.
+| SkillDescriptionLv4 = When Iori is not taking cover, attacks deal {{SkillValue|29.4%}} Attack power additional damage.
+| SkillDescriptionLv5 = When Iori is not taking cover, attacks deal {{SkillValue|30.6%}} Attack power additional damage.
+| SkillDescriptionLv6 = When Iori is not taking cover, attacks deal {{SkillValue|31.7%}} Attack power additional damage.
+| SkillDescriptionLv7 = When Iori is not taking cover, attacks deal {{SkillValue|36.2%}} Attack power additional damage.
+| SkillDescriptionLv8 = When Iori is not taking cover, attacks deal {{SkillValue|37.4%}} Attack power additional damage.
+| SkillDescriptionLv9 = When Iori is not taking cover, attacks deal {{SkillValue|38.5%}} Attack power additional damage.
+| SkillDescriptionLv10 = When Iori is not taking cover, attacks deal {{SkillValue|43.1%}} Attack power additional damage.
 }}
 
 [[Category:Characters]]

@@ -5,8 +5,8 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = 敵1人に対して、攻撃力の{{SkillValue|687%}}分のダメージ/
-超大型の敵には{{SkillValue|481%}}分の追加ダメージ
+| SkillDescriptionGeneral = 敵1人に対して、攻撃力の{{SkillValue|1821%}}分のダメージ/
+超大型の敵には{{SkillValue|625%}}分の追加ダメージ
 | SkillDescriptionLv1 = 敵1人に対して、攻撃力の{{SkillValue|687%}}分のダメージ/
 超大型の敵には{{SkillValue|481%}}分の追加ダメージ
 | SkillDescriptionLv2 = 敵1人に対して、攻撃力の{{SkillValue|790%}}分のダメージ/
@@ -34,7 +34,7 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|223%}}分のダメージ/
+| SkillDescriptionGeneral = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|424%}}分のダメージ/
 さらに{{SkillValue|50%}}の確率で、気絶状態を付与（{{SkillValue|3.1秒}}間）
 | SkillDescriptionLv1 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|223%}}分のダメージ/
 さらに{{SkillValue|50%}}の確率で、気絶状態を付与（{{SkillValue|3.1秒}}間）
@@ -63,7 +63,7 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Passive
-| SkillDescriptionGeneral = 攻撃力を{{SkillValue|14%}}増加
+| SkillDescriptionGeneral = 攻撃力を{{SkillValue|26.6%}}増加
 | SkillDescriptionLv1 = 攻撃力を{{SkillValue|14%}}増加
 | SkillDescriptionLv2 = 攻撃力を{{SkillValue|14.7%}}増加
 | SkillDescriptionLv3 = 攻撃力を{{SkillValue|15.4%}}増加
@@ -81,7 +81,7 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = 味方の攻撃力を{{SkillValue|9.1%}}増加
+| SkillDescriptionGeneral = 味方の攻撃力を{{SkillValue|17.3%}}増加
 | SkillDescriptionLv1 = 味方の攻撃力を{{SkillValue|9.1%}}増加
 | SkillDescriptionLv2 = 味方の攻撃力を{{SkillValue|9.5%}}増加
 | SkillDescriptionLv3 = 味方の攻撃力を{{SkillValue|10%}}増加

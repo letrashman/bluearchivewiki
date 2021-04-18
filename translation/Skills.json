@@ -343,8 +343,8 @@
         {
             "GroupId": "ChinatsuEx01",
             "NameEn": "Combat casualty aid",
-            "DescriptionEn": "Heal 1 ally for $1 of Chinatsu's Healing. $2",
-            "note": "gains: , {{SkillValue|remove 1 debuff from the target}}."
+            "DescriptionEn": "Heal 1 ally for $1 of Chinatsu's Healing.",
+            "AddOnLevel3": ", remove $2 debuff from the target."
         },
         {
             "GroupId": "ChinatsuPublic01",
@@ -364,8 +364,8 @@
         {
             "GroupId": "SuzumiEx01",
             "NameEn": "Order-made Flashbang",
-            "DescriptionEn": "Attack all enemies within a circular area for $1 Attack, inflict Stun status for $2.",
-            "note": "stun appears at lvl 3"
+            "DescriptionEn": "Attack all enemies within a circular area for $1 Attack.",
+            "AddOnLevel3": ", inflict Stun status for $2."
         },
         {
             "GroupId": "SuzumiPublic01",
@@ -601,6 +601,87 @@
             "GroupId": "TsurugiExtraPassive01",
             "NameEn": "Uncontrollable power",
             "DescriptionEn": "$1 chance to add 1 ammo when defeating an enemy."
+        },
+        {
+            "GroupId": "IoriEx01",
+            "NameEn": "Total Arrest",
+            "DescriptionEn": "Fires 3 shots at an enemy. Each shot has $1 Attack power and deals damage in a conical shape behind the enemy."
+        },
+        {
+            "GroupId": "IoriPublic01",
+            "NameEn": "Wanted List",
+            "DescriptionEn": "Every $1, deal damage equal to $2 of Attack power against one enemy."
+        },
+        {
+            "GroupId": "IoriPassive01",
+            "NameEn": "Hitting the mark in one shot",
+            "DescriptionEn": "Increase Accuracy by $1."
+        },
+        {
+            "GroupId": "IoriExtraPassive01",
+            "NameEn": "Bravery of the Disciplinary Committee",
+            "DescriptionEn": "When Iori is not taking cover, attacks deal $1 Attack power additional damage."
+        },
+        {
+            "GroupId": "HihumiEx01",
+            "NameEn": "Help me, Peroro-sama!",
+            "DescriptionEn": "Summon a Peroro Doll, dealing $1 damage to enemies in a circular area and taunting them for $2. The Peroro Doll has $3 of Hifumi's Max HP."
+        },
+        {
+            "GroupId": "HihumiPublic01",
+            "NameEn": "Peroro-sama's Support",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy and reduce their accuracy by $3 for $4."
+        },
+        {
+            "GroupId": "HihumiPassive01",
+            "NameEn": "Collector's Spirit",
+            "DescriptionEn": "Increase HP by $1."
+        },
+        {
+            "GroupId": "HihumiExtraPassive01",
+            "NameEn": "Nimble Collector",
+            "DescriptionEn": "When using EX skill, increase skill cost recovery speed by $1. (Duration: $2)"
+        },
+        {
+            "GroupId": "SumireEx01",
+            "NameEn": "Spurt Forward!",
+            "DescriptionEn": "Attack all enemies in a conical area for $1 of Sumire's Attack."
+        },
+        {
+            "GroupId": "SumirePublic01",
+            "NameEn": "Warming Up",
+            "DescriptionEn": "Every $1, increase Attack by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "SumirePassive01",
+            "NameEn": "Pinpoint Attack",
+            "DescriptionEn": "Increase HP by $1."
+        },
+        {
+            "GroupId": "SumireExtraPassive01",
+            "NameEn": "Tension Up",
+            "DescriptionEn": "When not under the effect of Crowd Control, increase Defense by $1."
+        },
+        {
+            "GroupId": "HoshinoEx01",
+            "NameEn": "Tactical Suppression",
+            "DescriptionEn": "Deal $1 of Hoshino's Attack as damage to enemies within a conical area.",
+            "AddOnLevel3": " and stun them for $2."
+        },
+        {
+            "GroupId": "HoshinoPublic01",
+            "NameEn": "Emergency Field Aid",
+            "DescriptionEn": "When HP falls to $1, continuously regenerate $2 of Healing power for $3. (Can only be used once per battle)"
+        },
+        {
+            "GroupId": "HoshinoPassive01",
+            "NameEn": "Countermeasures Council President",
+            "DescriptionEn": "Increase Defense by $1."
+        },
+        {
+            "GroupId": "HoshinoExtraPassive01",
+            "NameEn": "Supression Veteran",
+            "DescriptionEn": "When EX skill is in use, activate a shield that has $1 Healing power in health."
         }
 
 

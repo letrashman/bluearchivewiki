@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = Combat casualty aid
+| SkillNameJP = 戦傷治療
+| SkillIconType = COMMON_SKILLICON_HEAL
+| SkillDamageType = Penetration
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = Heal 1 ally for {{SkillValue|195~342%}} of Chinatsu's Healing, remove {{SkillValue|0~1}} debuff from the target.
+| SkillDescriptionLv1 = Heal 1 ally for {{SkillValue|195%}} of Chinatsu's Healing.
+| SkillDescriptionLv2 = Heal 1 ally for {{SkillValue|224%}} of Chinatsu's Healing.
+| SkillDescriptionLv3 = Heal 1 ally for {{SkillValue|254%}} of Chinatsu's Healing, remove {{SkillValue|1}} debuff from the target.
+| SkillDescriptionLv4 = Heal 1 ally for {{SkillValue|283%}} of Chinatsu's Healing, remove {{SkillValue|1}} debuff from the target.
+| SkillDescriptionLv5 = Heal 1 ally for {{SkillValue|342%}} of Chinatsu's Healing, remove {{SkillValue|1}} debuff from the target.
+| SkillDescriptionLv6 = Heal 1 ally for {{SkillValue|371%}} of Chinatsu's Healing, remove {{SkillValue|1}} debuff from the target.
+| SkillDescriptionLv7 = Heal 1 ally for {{SkillValue|430%}} of Chinatsu's Healing, remove {{SkillValue|1}} debuff from the target.
+| SkillDescriptionLv8 = Heal 1 ally for {{SkillValue|459%}} of Chinatsu's Healing, remove {{SkillValue|1}} debuff from the target.
+| SkillDescriptionLv9 = Heal 1 ally for {{SkillValue|518%}} of Chinatsu's Healing, remove {{SkillValue|1}} debuff from the target.
+| SkillDescriptionLv10 = Heal 1 ally for {{SkillValue|547%}} of Chinatsu's Healing, remove {{SkillValue|1}} debuff from the target.
+}}
+{{SkillTable
+| SkillName = Reshaping the battle
+| SkillNameJP = 戦況の立て直し
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|50.9~67%}}. (Duration {{SkillValue|30 seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|50.9%}}. (Duration {{SkillValue|30 seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|51.8%}}. (Duration {{SkillValue|30 seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|52.7%}}. (Duration {{SkillValue|30 seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|56.3%}}. (Duration {{SkillValue|30 seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|57.2%}}. (Duration {{SkillValue|30 seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|58.1%}}. (Duration {{SkillValue|30 seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|61.7%}}. (Duration {{SkillValue|30 seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|62.6%}}. (Duration {{SkillValue|30 seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|63.5%}}. (Duration {{SkillValue|30 seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|67%}}. (Duration {{SkillValue|30 seconds}})
+}}
+{{SkillTable
+| SkillName = Strengthened medical support
+| SkillNameJP = 医療支援を強化
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = Increase Healing by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Healing by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Healing by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Healing by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Healing by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Healing by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Healing by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Healing by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Healing by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Healing by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Healing by {{SkillValue|26.6%}}.
+}}
+{{SkillTable
+| SkillName = Strengthened defensive support
+| SkillNameJP = 防御支援を強化
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = Increase Defense of all allies by {{SkillValue|9.1~17.3%}}.
+| SkillDescriptionLv1 = Increase Defense of all allies by {{SkillValue|9.1%}}.
+| SkillDescriptionLv2 = Increase Defense of all allies by {{SkillValue|9.5%}}.
+| SkillDescriptionLv3 = Increase Defense of all allies by {{SkillValue|10%}}.
+| SkillDescriptionLv4 = Increase Defense of all allies by {{SkillValue|11.8%}}.
+| SkillDescriptionLv5 = Increase Defense of all allies by {{SkillValue|12.3%}}.
+| SkillDescriptionLv6 = Increase Defense of all allies by {{SkillValue|12.7%}}.
+| SkillDescriptionLv7 = Increase Defense of all allies by {{SkillValue|14.5%}}.
+| SkillDescriptionLv8 = Increase Defense of all allies by {{SkillValue|15%}}.
+| SkillDescriptionLv9 = Increase Defense of all allies by {{SkillValue|15.5%}}.
+| SkillDescriptionLv10 = Increase Defense of all allies by {{SkillValue|17.3%}}.
+}}
+
+[[Category:Characters]]

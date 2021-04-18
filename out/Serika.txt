@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_RELOAD
 | SkillDamageType = Explosive
 | SkillBaseCost = 2
-| SkillDescriptionGeneral = Reload and increase attack power by {{SkillValue|35.6~105%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionGeneral = Reload and increase attack power by {{SkillValue|35.6~67.7%}} for {{SkillValue|30 seconds}}.
 | SkillDescriptionLv1 = Reload and increase attack power by {{SkillValue|35.6%}} for {{SkillValue|30 seconds}}.
 | SkillDescriptionLv2 = Reload and increase attack power by {{SkillValue|41%}} for {{SkillValue|30 seconds}}.
 | SkillDescriptionLv3 = Reload and increase attack power by {{SkillValue|51.6%}} for {{SkillValue|30 seconds}}.

@@ -5,8 +5,8 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Penetration
 | SkillBaseCost = 5
-| SkillDescriptionGeneral = 敵1人に対して、攻撃力の{{SkillValue|676%}}分のダメージ/
-攻撃力を{{SkillValue|41.9%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionGeneral = 敵1人に対して、攻撃力の{{SkillValue|1791%}}分のダメージ/
+攻撃力を{{SkillValue|54.5%}}増加（{{SkillValue|30秒}}間）
 | SkillDescriptionLv1 = 敵1人に対して、攻撃力の{{SkillValue|676%}}分のダメージ/
 攻撃力を{{SkillValue|41.9%}}増加（{{SkillValue|30秒}}間）
 | SkillDescriptionLv2 = 敵1人に対して、攻撃力の{{SkillValue|777%}}分のダメージ/
@@ -34,7 +34,7 @@
 | SkillIconType = COMMON_SKILLICON_MARK
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、敵1人の防御力を{{SkillValue|18.3%}}減少、マーク状態を付与（{{SkillValue|15秒}}間）
+| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、敵1人の防御力を{{SkillValue|34.8%}}減少、マーク状態を付与（{{SkillValue|15秒}}間）
 | SkillDescriptionLv1 = {{SkillValue|25秒}}毎に、敵1人の防御力を{{SkillValue|18.3%}}減少、マーク状態を付与（{{SkillValue|15秒}}間）
 | SkillDescriptionLv2 = {{SkillValue|25秒}}毎に、敵1人の防御力を{{SkillValue|19.2%}}減少、マーク状態を付与（{{SkillValue|15秒}}間）
 | SkillDescriptionLv3 = {{SkillValue|25秒}}毎に、敵1人の防御力を{{SkillValue|20.2%}}減少、マーク状態を付与（{{SkillValue|15秒}}間）
@@ -52,7 +52,7 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Passive
-| SkillDescriptionGeneral = 攻撃速度を{{SkillValue|14%}}増加
+| SkillDescriptionGeneral = 攻撃速度を{{SkillValue|26.6%}}増加
 | SkillDescriptionLv1 = 攻撃速度を{{SkillValue|14%}}増加
 | SkillDescriptionLv2 = 攻撃速度を{{SkillValue|14.7%}}増加
 | SkillDescriptionLv3 = 攻撃速度を{{SkillValue|15.4%}}増加
@@ -70,7 +70,7 @@
 | SkillIconType = COMMON_SKILLICON_EXTRADAMAGE
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = マーク状態の敵を攻撃時、攻撃力の{{SkillValue|14.9%}}分の追加ダメージ
+| SkillDescriptionGeneral = マーク状態の敵を攻撃時、攻撃力の{{SkillValue|28.3%}}分の追加ダメージ
 | SkillDescriptionLv1 = マーク状態の敵を攻撃時、攻撃力の{{SkillValue|14.9%}}分の追加ダメージ
 | SkillDescriptionLv2 = マーク状態の敵を攻撃時、攻撃力の{{SkillValue|15.7%}}分の追加ダメージ
 | SkillDescriptionLv3 = マーク状態の敵を攻撃時、攻撃力の{{SkillValue|16.4%}}分の追加ダメージ

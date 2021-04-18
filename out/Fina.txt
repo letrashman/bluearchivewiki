@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_IGNOREDELAY
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Reloads and increases attack power by {{SkillValue|29.1~68.4%}} for {{SkillValue|3~5}} while ignoring attack delay {{SkillValue|30 seconds}}
+| SkillDescriptionGeneral = Reloads and increases attack power by {{SkillValue|29.1~46.6%}} for {{SkillValue|3~5}} while ignoring attack delay {{SkillValue|30 seconds}}
 | SkillDescriptionLv1 = Reloads and increases attack power by {{SkillValue|29.1%}} for {{SkillValue|30 seconds}} while ignoring attack delay {{SkillValue|3}}
 | SkillDescriptionLv2 = Reloads and increases attack power by {{SkillValue|33.4%}} for {{SkillValue|30 seconds}} while ignoring attack delay {{SkillValue|3}}
 | SkillDescriptionLv3 = Reloads and increases attack power by {{SkillValue|37.8%}} for {{SkillValue|30 seconds}} while ignoring attack delay {{SkillValue|4}}

@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_FOODDEBUFF
 | SkillDamageType = Explosive
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = Reposition 4 enemies within a circular area, inflict a poisoning effect for {{SkillValue|58.9~174%}} of Juri's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionGeneral = Reposition 4 enemies within a circular area, inflict a poisoning effect for {{SkillValue|58.9~112%}} of Juri's Attack. (Duration: {{SkillValue|20 seconds}})
 | SkillDescriptionLv1 = Reposition 4 enemies within a circular area, inflict a poisoning effect for {{SkillValue|58.9%}} of Juri's Attack. (Duration: {{SkillValue|20 seconds}})
 | SkillDescriptionLv2 = Reposition 4 enemies within a circular area, inflict a poisoning effect for {{SkillValue|67.8%}} of Juri's Attack. (Duration: {{SkillValue|20 seconds}})
 | SkillDescriptionLv3 = Reposition 4 enemies within a circular area, inflict a poisoning effect for {{SkillValue|85.5%}} of Juri's Attack. (Duration: {{SkillValue|20 seconds}})

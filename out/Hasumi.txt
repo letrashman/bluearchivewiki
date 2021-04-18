@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Penetration
 | SkillBaseCost = 5
-| SkillDescriptionGeneral = Deals {{SkillValue|574~1694%}} damage to one enemy.
+| SkillDescriptionGeneral = Deals {{SkillValue|574~1091%}} damage to one enemy.
 | SkillDescriptionLv1 = Deals {{SkillValue|574%}} damage to one enemy.
 | SkillDescriptionLv2 = Deals {{SkillValue|660%}} damage to one enemy.
 | SkillDescriptionLv3 = Deals {{SkillValue|832%}} damage to one enemy.

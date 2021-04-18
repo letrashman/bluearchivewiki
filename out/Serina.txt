@@ -5,7 +5,7 @@
 | SkillIconType = COMMON_SKILLICON_BATTLEITEM
 | SkillDamageType = Mystic
 | SkillBaseCost = 2
-| SkillDescriptionGeneral = Moves the closest ally to the first aid box and recovers their HP by {{SkillValue|120~354%}}
+| SkillDescriptionGeneral = Moves the closest ally to the first aid box and recovers their HP by {{SkillValue|120~228%}}
 | SkillDescriptionLv1 = Moves the closest ally to the first aid box and recovers their HP by {{SkillValue|120%}}
 | SkillDescriptionLv2 = Moves the closest ally to the first aid box and recovers their HP by {{SkillValue|138%}}
 | SkillDescriptionLv3 = Moves the closest ally to the first aid box and recovers their HP by {{SkillValue|174%}}

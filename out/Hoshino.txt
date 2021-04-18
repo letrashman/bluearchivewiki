@@ -1,94 +1,75 @@
 ===Skills===
 {{EXSkillTable
-| SkillName = None
+| SkillName = Tactical Suppression
 | SkillNameJP = 戦術的鎮圧
 | SkillIconType = COMMON_SKILLICON_FAN
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|435%}}分のダメージ
-| SkillDescriptionLv1 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|435%}}分のダメージ
-| SkillDescriptionLv2 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|501%}}分のダメージ
-| SkillDescriptionLv3 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|566%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|1秒}}間）
-| SkillDescriptionLv4 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|632%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|1秒}}間）
-| SkillDescriptionLv5 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|697%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|1.4秒}}間）
-| SkillDescriptionLv6 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|762%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|1.4秒}}間）
-| SkillDescriptionLv7 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|893%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|1.4秒}}間）
-| SkillDescriptionLv8 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|959%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|1.4秒}}間）
-| SkillDescriptionLv9 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1089%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|1.4秒}}間）
-| SkillDescriptionLv10 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1155%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|1.4秒}}間）
+| SkillDescriptionGeneral = Deal {{SkillValue|435~697%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|0~1.4 seconds}}.
+| SkillDescriptionLv1 = Deal {{SkillValue|435%}} of Hoshino's Attack as damage to enemies within a conical area.
+| SkillDescriptionLv2 = Deal {{SkillValue|501%}} of Hoshino's Attack as damage to enemies within a conical area.
+| SkillDescriptionLv3 = Deal {{SkillValue|566%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1 seconds}}.
+| SkillDescriptionLv4 = Deal {{SkillValue|632%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1 seconds}}.
+| SkillDescriptionLv5 = Deal {{SkillValue|697%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1.4 seconds}}.
+| SkillDescriptionLv6 = Deal {{SkillValue|762%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1.4 seconds}}.
+| SkillDescriptionLv7 = Deal {{SkillValue|893%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1.4 seconds}}.
+| SkillDescriptionLv8 = Deal {{SkillValue|959%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1.4 seconds}}.
+| SkillDescriptionLv9 = Deal {{SkillValue|1089%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1.4 seconds}}.
+| SkillDescriptionLv10 = Deal {{SkillValue|1155%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1.4 seconds}}.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Emergency Field Aid
 | SkillNameJP = 応急手当
 | SkillIconType = COMMON_SKILLICON_DOTHEAL
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|100%}}分の持続回復を付与（{{SkillValue|20秒}}間）
-（戦闘中に{{SkillValue|1回}}のみ）
-| SkillDescriptionLv1 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|100%}}分の持続回復を付与（{{SkillValue|20秒}}間）
-（戦闘中に{{SkillValue|1回}}のみ）
-| SkillDescriptionLv2 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|105%}}分の持続回復を付与（{{SkillValue|20秒}}間）
-（戦闘中に{{SkillValue|1回}}のみ）
-| SkillDescriptionLv3 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|110%}}分の持続回復を付与（{{SkillValue|20秒}}間）
-（戦闘中に{{SkillValue|1回}}のみ）
-| SkillDescriptionLv4 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|130%}}分の持続回復を付与（{{SkillValue|20秒}}間）
-（戦闘中に{{SkillValue|1回}}のみ）
-| SkillDescriptionLv5 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|135%}}分の持続回復を付与（{{SkillValue|20秒}}間）
-（戦闘中に{{SkillValue|1回}}のみ）
-| SkillDescriptionLv6 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|140%}}分の持続回復を付与（{{SkillValue|20秒}}間）
-（戦闘中に{{SkillValue|1回}}のみ）
-| SkillDescriptionLv7 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|160%}}分の持続回復を付与（{{SkillValue|20秒}}間）
-（戦闘中に{{SkillValue|1回}}のみ）
-| SkillDescriptionLv8 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|165%}}分の持続回復を付与（{{SkillValue|20秒}}間）
-（戦闘中に{{SkillValue|1回}}のみ）
-| SkillDescriptionLv9 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|171%}}分の持続回復を付与（{{SkillValue|20秒}}間）
-（戦闘中に{{SkillValue|1回}}のみ）
-| SkillDescriptionLv10 = HPが{{SkillValue|30%}}以下の時、治癒力の{{SkillValue|191%}}分の持続回復を付与（{{SkillValue|20秒}}間）
-（戦闘中に{{SkillValue|1回}}のみ）
+| SkillDescriptionGeneral = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|100~191%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used once per battle)
+| SkillDescriptionLv1 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|100%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used once per battle)
+| SkillDescriptionLv2 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|105%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used once per battle)
+| SkillDescriptionLv3 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|110%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used once per battle)
+| SkillDescriptionLv4 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|130%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used once per battle)
+| SkillDescriptionLv5 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|135%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used once per battle)
+| SkillDescriptionLv6 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|140%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used once per battle)
+| SkillDescriptionLv7 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|160%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used once per battle)
+| SkillDescriptionLv8 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|165%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used once per battle)
+| SkillDescriptionLv9 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|171%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used once per battle)
+| SkillDescriptionLv10 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|191%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used once per battle)
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Countermeasures Council President
 | SkillNameJP = 対策委員会の委員長
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Penetration
 | SkillType = Passive
-| SkillDescriptionGeneral = 防御力を{{SkillValue|14%}}増加
-| SkillDescriptionLv1 = 防御力を{{SkillValue|14%}}増加
-| SkillDescriptionLv2 = 防御力を{{SkillValue|14.7%}}増加
-| SkillDescriptionLv3 = 防御力を{{SkillValue|15.4%}}増加
-| SkillDescriptionLv4 = 防御力を{{SkillValue|18.2%}}増加
-| SkillDescriptionLv5 = 防御力を{{SkillValue|18.9%}}増加
-| SkillDescriptionLv6 = 防御力を{{SkillValue|19.6%}}増加
-| SkillDescriptionLv7 = 防御力を{{SkillValue|22.4%}}増加
-| SkillDescriptionLv8 = 防御力を{{SkillValue|23.1%}}増加
-| SkillDescriptionLv9 = 防御力を{{SkillValue|23.8%}}増加
-| SkillDescriptionLv10 = 防御力を{{SkillValue|26.6%}}増加
+| SkillDescriptionGeneral = Increase Defense by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Defense by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Defense by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Defense by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Defense by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Defense by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Defense by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Defense by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Defense by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Defense by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Defense by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Supression Veteran
 | SkillNameJP = 鎮圧のベテラン
 | SkillIconType = COMMON_SKILLICON_SHIELD
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = Exスキルの使用中、治癒力の{{SkillValue|108%}}分のシールド効果を発動
-| SkillDescriptionLv1 = Exスキルの使用中、治癒力の{{SkillValue|108%}}分のシールド効果を発動
-| SkillDescriptionLv2 = Exスキルの使用中、治癒力の{{SkillValue|113%}}分のシールド効果を発動
-| SkillDescriptionLv3 = Exスキルの使用中、治癒力の{{SkillValue|118%}}分のシールド効果を発動
-| SkillDescriptionLv4 = Exスキルの使用中、治癒力の{{SkillValue|140%}}分のシールド効果を発動
-| SkillDescriptionLv5 = Exスキルの使用中、治癒力の{{SkillValue|145%}}分のシールド効果を発動
-| SkillDescriptionLv6 = Exスキルの使用中、治癒力の{{SkillValue|151%}}分のシールド効果を発動
-| SkillDescriptionLv7 = Exスキルの使用中、治癒力の{{SkillValue|172%}}分のシールド効果を発動
-| SkillDescriptionLv8 = Exスキルの使用中、治癒力の{{SkillValue|178%}}分のシールド効果を発動
-| SkillDescriptionLv9 = Exスキルの使用中、治癒力の{{SkillValue|183%}}分のシールド効果を発動
-| SkillDescriptionLv10 = Exスキルの使用中、治癒力の{{SkillValue|205%}}分のシールド効果を発動
+| SkillDescriptionGeneral = When EX skill is in use, activate a shield that has {{SkillValue|108~205%}} Healing power in health.
+| SkillDescriptionLv1 = When EX skill is in use, activate a shield that has {{SkillValue|108%}} Healing power in health.
+| SkillDescriptionLv2 = When EX skill is in use, activate a shield that has {{SkillValue|113%}} Healing power in health.
+| SkillDescriptionLv3 = When EX skill is in use, activate a shield that has {{SkillValue|118%}} Healing power in health.
+| SkillDescriptionLv4 = When EX skill is in use, activate a shield that has {{SkillValue|140%}} Healing power in health.
+| SkillDescriptionLv5 = When EX skill is in use, activate a shield that has {{SkillValue|145%}} Healing power in health.
+| SkillDescriptionLv6 = When EX skill is in use, activate a shield that has {{SkillValue|151%}} Healing power in health.
+| SkillDescriptionLv7 = When EX skill is in use, activate a shield that has {{SkillValue|172%}} Healing power in health.
+| SkillDescriptionLv8 = When EX skill is in use, activate a shield that has {{SkillValue|178%}} Healing power in health.
+| SkillDescriptionLv9 = When EX skill is in use, activate a shield that has {{SkillValue|183%}} Healing power in health.
+| SkillDescriptionLv10 = When EX skill is in use, activate a shield that has {{SkillValue|205%}} Healing power in health.
 }}
 
 [[Category:Characters]]

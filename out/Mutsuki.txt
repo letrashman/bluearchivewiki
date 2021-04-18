@@ -5,7 +5,7 @@
 | SkillIconType = SKILLICON_MUTSUKI_EXSKILL
 | SkillDamageType = Explosive
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Deal damage equal to {{SkillValue|409~1208%}} of Attack to enemies in 3 circular areas.
+| SkillDescriptionGeneral = Deal damage equal to {{SkillValue|409~778%}} of Attack to enemies in 3 circular areas.
 | SkillDescriptionLv1 = Deal damage equal to {{SkillValue|409%}} of Attack to enemies in 3 circular areas.
 | SkillDescriptionLv2 = Deal damage equal to {{SkillValue|471%}} of Attack to enemies in 3 circular areas.
 | SkillDescriptionLv3 = Deal damage equal to {{SkillValue|594%}} of Attack to enemies in 3 circular areas.
