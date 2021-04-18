@@ -1,75 +1,75 @@
 ===Skills===
 {{EXSkillTable
-| SkillName = None
+| SkillName = Care Package
 | SkillNameJP = 支援特急便
 | SkillIconType = COMMON_SKILLICON_HEAL
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = 円形範囲内の味方に対して、治癒力の{{SkillValue|349%}}分の回復
-| SkillDescriptionLv1 = 円形範囲内の味方に対して、治癒力の{{SkillValue|118%}}分の回復
-| SkillDescriptionLv2 = 円形範囲内の味方に対して、治癒力の{{SkillValue|136%}}分の回復
-| SkillDescriptionLv3 = 円形範囲内の味方に対して、治癒力の{{SkillValue|171%}}分の回復
-| SkillDescriptionLv4 = 円形範囲内の味方に対して、治癒力の{{SkillValue|189%}}分の回復
-| SkillDescriptionLv5 = 円形範囲内の味方に対して、治癒力の{{SkillValue|224%}}分の回復
-| SkillDescriptionLv6 = 円形範囲内の味方に対して、治癒力の{{SkillValue|242%}}分の回復
-| SkillDescriptionLv7 = 円形範囲内の味方に対して、治癒力の{{SkillValue|278%}}分の回復
-| SkillDescriptionLv8 = 円形範囲内の味方に対して、治癒力の{{SkillValue|295%}}分の回復
-| SkillDescriptionLv9 = 円形範囲内の味方に対して、治癒力の{{SkillValue|331%}}分の回復
-| SkillDescriptionLv10 = 円形範囲内の味方に対して、治癒力の{{SkillValue|349%}}分の回復
+| SkillDescriptionGeneral = Heal all allies within a circular area for {{SkillValue|118~224%}} of Ayane's Healing.
+| SkillDescriptionLv1 = Heal all allies within a circular area for {{SkillValue|118%}} of Ayane's Healing.
+| SkillDescriptionLv2 = Heal all allies within a circular area for {{SkillValue|136%}} of Ayane's Healing.
+| SkillDescriptionLv3 = Heal all allies within a circular area for {{SkillValue|171%}} of Ayane's Healing.
+| SkillDescriptionLv4 = Heal all allies within a circular area for {{SkillValue|189%}} of Ayane's Healing.
+| SkillDescriptionLv5 = Heal all allies within a circular area for {{SkillValue|224%}} of Ayane's Healing.
+| SkillDescriptionLv6 = Heal all allies within a circular area for {{SkillValue|242%}} of Ayane's Healing.
+| SkillDescriptionLv7 = Heal all allies within a circular area for {{SkillValue|278%}} of Ayane's Healing.
+| SkillDescriptionLv8 = Heal all allies within a circular area for {{SkillValue|295%}} of Ayane's Healing.
+| SkillDescriptionLv9 = Heal all allies within a circular area for {{SkillValue|331%}} of Ayane's Healing.
+| SkillDescriptionLv10 = Heal all allies within a circular area for {{SkillValue|349%}} of Ayane's Healing.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Learning Support
 | SkillNameJP = 学習サポート
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|29.4%}}増加
-| SkillDescriptionLv1 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|15.5%}}増加
-| SkillDescriptionLv2 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|16.2%}}増加
-| SkillDescriptionLv3 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|17%}}増加
-| SkillDescriptionLv4 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|20.1%}}増加
-| SkillDescriptionLv5 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|20.9%}}増加
-| SkillDescriptionLv6 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|21.7%}}増加
-| SkillDescriptionLv7 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|24.8%}}増加
-| SkillDescriptionLv8 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|25.5%}}増加
-| SkillDescriptionLv9 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|26.3%}}増加
-| SkillDescriptionLv10 = {{SkillValue|30秒}}毎に、円形範囲内の味方の会心抵抗値を{{SkillValue|29.4%}}増加
+| SkillDescriptionGeneral = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|15.5~29.4%}}.
+| SkillDescriptionLv1 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|15.5%}}.
+| SkillDescriptionLv2 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|16.2%}}.
+| SkillDescriptionLv3 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|17%}}.
+| SkillDescriptionLv4 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|20.1%}}.
+| SkillDescriptionLv5 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|20.9%}}.
+| SkillDescriptionLv6 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|21.7%}}.
+| SkillDescriptionLv7 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|24.8%}}.
+| SkillDescriptionLv8 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|25.5%}}.
+| SkillDescriptionLv9 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|26.3%}}.
+| SkillDescriptionLv10 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|29.4%}}.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Passion for Learning
 | SkillNameJP = 向学心
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Penetration
 | SkillType = Passive
-| SkillDescriptionGeneral = 治癒力を{{SkillValue|26.6%}}増加
-| SkillDescriptionLv1 = 治癒力を{{SkillValue|14%}}増加
-| SkillDescriptionLv2 = 治癒力を{{SkillValue|14.7%}}増加
-| SkillDescriptionLv3 = 治癒力を{{SkillValue|15.4%}}増加
-| SkillDescriptionLv4 = 治癒力を{{SkillValue|18.2%}}増加
-| SkillDescriptionLv5 = 治癒力を{{SkillValue|18.9%}}増加
-| SkillDescriptionLv6 = 治癒力を{{SkillValue|19.6%}}増加
-| SkillDescriptionLv7 = 治癒力を{{SkillValue|22.4%}}増加
-| SkillDescriptionLv8 = 治癒力を{{SkillValue|23.1%}}増加
-| SkillDescriptionLv9 = 治癒力を{{SkillValue|23.8%}}増加
-| SkillDescriptionLv10 = 治癒力を{{SkillValue|26.6%}}増加
+| SkillDescriptionGeneral = Increase Healing by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Healing by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Healing by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Healing by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Healing by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Healing by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Healing by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Healing by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Healing by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Healing by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Healing by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Increasing Morale
 | SkillNameJP = 士気の向上
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = 味方のHPを{{SkillValue|17.3%}}増加
-| SkillDescriptionLv1 = 味方のHPを{{SkillValue|9.1%}}増加
-| SkillDescriptionLv2 = 味方のHPを{{SkillValue|9.5%}}増加
-| SkillDescriptionLv3 = 味方のHPを{{SkillValue|10%}}増加
-| SkillDescriptionLv4 = 味方のHPを{{SkillValue|11.8%}}増加
-| SkillDescriptionLv5 = 味方のHPを{{SkillValue|12.3%}}増加
-| SkillDescriptionLv6 = 味方のHPを{{SkillValue|12.7%}}増加
-| SkillDescriptionLv7 = 味方のHPを{{SkillValue|14.5%}}増加
-| SkillDescriptionLv8 = 味方のHPを{{SkillValue|15%}}増加
-| SkillDescriptionLv9 = 味方のHPを{{SkillValue|15.5%}}増加
-| SkillDescriptionLv10 = 味方のHPを{{SkillValue|17.3%}}増加
+| SkillDescriptionGeneral = Increase HP of all allies by {{SkillValue|9.1~17.3%}}.
+| SkillDescriptionLv1 = Increase HP of all allies by {{SkillValue|9.1%}}.
+| SkillDescriptionLv2 = Increase HP of all allies by {{SkillValue|9.5%}}.
+| SkillDescriptionLv3 = Increase HP of all allies by {{SkillValue|10%}}.
+| SkillDescriptionLv4 = Increase HP of all allies by {{SkillValue|11.8%}}.
+| SkillDescriptionLv5 = Increase HP of all allies by {{SkillValue|12.3%}}.
+| SkillDescriptionLv6 = Increase HP of all allies by {{SkillValue|12.7%}}.
+| SkillDescriptionLv7 = Increase HP of all allies by {{SkillValue|14.5%}}.
+| SkillDescriptionLv8 = Increase HP of all allies by {{SkillValue|15%}}.
+| SkillDescriptionLv9 = Increase HP of all allies by {{SkillValue|15.5%}}.
+| SkillDescriptionLv10 = Increase HP of all allies by {{SkillValue|17.3%}}.
 }}
 
 [[Category:Characters]]

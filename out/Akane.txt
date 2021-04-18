@@ -1,86 +1,75 @@
 ===Skills===
 {{EXSkillTable
-| SkillName = None
+| SkillName = Elegant Removal
 | SkillNameJP = 優雅に排除します
 | SkillIconType = COMMON_SKILLICON_STATDEBUFF
 | SkillDamageType = Penetration
 | SkillBaseCost = 2
-| SkillDescriptionGeneral = 敵1人に対して、攻撃力の{{SkillValue|1452%}}分のダメージ/
-さらに防御力を{{SkillValue|37.7%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv1 = 敵1人に対して、攻撃力の{{SkillValue|547%}}分のダメージ/
-さらに防御力を{{SkillValue|29%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv2 = 敵1人に対して、攻撃力の{{SkillValue|630%}}分のダメージ/
-さらに防御力を{{SkillValue|29%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv3 = 敵1人に対して、攻撃力の{{SkillValue|712%}}分のダメージ/
-さらに防御力を{{SkillValue|33.3%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv4 = 敵1人に対して、攻撃力の{{SkillValue|794%}}分のダメージ/
-さらに防御力を{{SkillValue|33.3%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv5 = 敵1人に対して、攻撃力の{{SkillValue|876%}}分のダメージ/
-さらに防御力を{{SkillValue|37.7%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv6 = 敵1人に対して、攻撃力の{{SkillValue|958%}}分のダメージ/
-さらに防御力を{{SkillValue|37.7%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv7 = 敵1人に対して、攻撃力の{{SkillValue|1123%}}分のダメージ/
-さらに防御力を{{SkillValue|37.7%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv8 = 敵1人に対して、攻撃力の{{SkillValue|1205%}}分のダメージ/
-さらに防御力を{{SkillValue|37.7%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv9 = 敵1人に対して、攻撃力の{{SkillValue|1369%}}分のダメージ/
-さらに防御力を{{SkillValue|37.7%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv10 = 敵1人に対して、攻撃力の{{SkillValue|1452%}}分のダメージ/
-さらに防御力を{{SkillValue|37.7%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionGeneral = Deal {{SkillValue|547~876%}} damage to one enemy and lower their defense by {{SkillValue|29~37.7%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv1 = Deal {{SkillValue|547%}} damage to one enemy and lower their defense by {{SkillValue|29%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv2 = Deal {{SkillValue|630%}} damage to one enemy and lower their defense by {{SkillValue|29%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv3 = Deal {{SkillValue|712%}} damage to one enemy and lower their defense by {{SkillValue|33.3%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv4 = Deal {{SkillValue|794%}} damage to one enemy and lower their defense by {{SkillValue|33.3%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv5 = Deal {{SkillValue|876%}} damage to one enemy and lower their defense by {{SkillValue|37.7%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv6 = Deal {{SkillValue|958%}} damage to one enemy and lower their defense by {{SkillValue|37.7%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv7 = Deal {{SkillValue|1123%}} damage to one enemy and lower their defense by {{SkillValue|37.7%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv8 = Deal {{SkillValue|1205%}} damage to one enemy and lower their defense by {{SkillValue|37.7%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv9 = Deal {{SkillValue|1369%}} damage to one enemy and lower their defense by {{SkillValue|37.7%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv10 = Deal {{SkillValue|1452%}} damage to one enemy and lower their defense by {{SkillValue|37.7%}} for {{SkillValue|30&nbsp;seconds}}.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = High-Quality Penetration
 | SkillNameJP = 上品に貫きます
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|753%}}分のダメージ
-| SkillDescriptionLv1 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|396%}}分のダメージ
-| SkillDescriptionLv2 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|416%}}分のダメージ
-| SkillDescriptionLv3 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|436%}}分のダメージ
-| SkillDescriptionLv4 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|515%}}分のダメージ
-| SkillDescriptionLv5 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|535%}}分のダメージ
-| SkillDescriptionLv6 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|555%}}分のダメージ
-| SkillDescriptionLv7 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|634%}}分のダメージ
-| SkillDescriptionLv8 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|654%}}分のダメージ
-| SkillDescriptionLv9 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|674%}}分のダメージ
-| SkillDescriptionLv10 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|753%}}分のダメージ
+| SkillDescriptionGeneral = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|396~753%}} damage to one enemy.
+| SkillDescriptionLv1 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|396%}} damage to one enemy.
+| SkillDescriptionLv2 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|416%}} damage to one enemy.
+| SkillDescriptionLv3 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|436%}} damage to one enemy.
+| SkillDescriptionLv4 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|515%}} damage to one enemy.
+| SkillDescriptionLv5 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|535%}} damage to one enemy.
+| SkillDescriptionLv6 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|555%}} damage to one enemy.
+| SkillDescriptionLv7 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|634%}} damage to one enemy.
+| SkillDescriptionLv8 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|654%}} damage to one enemy.
+| SkillDescriptionLv9 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|674%}} damage to one enemy.
+| SkillDescriptionLv10 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|753%}} damage to one enemy.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Swift Advance
 | SkillNameJP = 速やかに前進します
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Penetration
 | SkillType = Passive
-| SkillDescriptionGeneral = 移動速度を{{SkillValue|26.6%}}増加
-| SkillDescriptionLv1 = 移動速度を{{SkillValue|14%}}増加
-| SkillDescriptionLv2 = 移動速度を{{SkillValue|14.7%}}増加
-| SkillDescriptionLv3 = 移動速度を{{SkillValue|15.4%}}増加
-| SkillDescriptionLv4 = 移動速度を{{SkillValue|18.2%}}増加
-| SkillDescriptionLv5 = 移動速度を{{SkillValue|18.9%}}増加
-| SkillDescriptionLv6 = 移動速度を{{SkillValue|19.6%}}増加
-| SkillDescriptionLv7 = 移動速度を{{SkillValue|22.4%}}増加
-| SkillDescriptionLv8 = 移動速度を{{SkillValue|23.1%}}増加
-| SkillDescriptionLv9 = 移動速度を{{SkillValue|23.8%}}増加
-| SkillDescriptionLv10 = 移動速度を{{SkillValue|26.6%}}増加
+| SkillDescriptionGeneral = Increase movement speed by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase movement speed by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase movement speed by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase movement speed by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase movement speed by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase movement speed by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase movement speed by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase movement speed by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase movement speed by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase movement speed by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase movement speed by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Precise Suppression
 | SkillNameJP = 的確に制圧します
 | SkillIconType = COMMON_SKILLICON_STATDEBUFF
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = 攻撃時、{{SkillValue|10%}}の確率で敵の回避値を{{SkillValue|12.7%}}減少（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|5秒}}）
-| SkillDescriptionLv1 = 攻撃時、{{SkillValue|10%}}の確率で敵の回避値を{{SkillValue|6.7%}}減少（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|5秒}}）
-| SkillDescriptionLv2 = 攻撃時、{{SkillValue|10%}}の確率で敵の回避値を{{SkillValue|7%}}減少（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|5秒}}）
-| SkillDescriptionLv3 = 攻撃時、{{SkillValue|10%}}の確率で敵の回避値を{{SkillValue|7.4%}}減少（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|5秒}}）
-| SkillDescriptionLv4 = 攻撃時、{{SkillValue|10%}}の確率で敵の回避値を{{SkillValue|8.7%}}減少（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|5秒}}）
-| SkillDescriptionLv5 = 攻撃時、{{SkillValue|10%}}の確率で敵の回避値を{{SkillValue|9%}}減少（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|5秒}}）
-| SkillDescriptionLv6 = 攻撃時、{{SkillValue|10%}}の確率で敵の回避値を{{SkillValue|9.4%}}減少（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|5秒}}）
-| SkillDescriptionLv7 = 攻撃時、{{SkillValue|10%}}の確率で敵の回避値を{{SkillValue|10.7%}}減少（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|5秒}}）
-| SkillDescriptionLv8 = 攻撃時、{{SkillValue|10%}}の確率で敵の回避値を{{SkillValue|11%}}減少（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|5秒}}）
-| SkillDescriptionLv9 = 攻撃時、{{SkillValue|10%}}の確率で敵の回避値を{{SkillValue|11.4%}}減少（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|5秒}}）
-| SkillDescriptionLv10 = 攻撃時、{{SkillValue|10%}}の確率で敵の回避値を{{SkillValue|12.7%}}減少（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|5秒}}）
+| SkillDescriptionGeneral = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|6.7~12.7%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv1 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|6.7%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv2 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|7%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv3 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|7.4%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv4 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|8.7%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv5 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|9%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv6 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|9.4%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv7 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|10.7%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv8 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|11%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv9 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|11.4%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv10 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|12.7%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
 }}
 
 [[Category:Characters]]

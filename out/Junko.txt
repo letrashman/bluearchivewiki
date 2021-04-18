@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_IMMORTAL
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = Junko gains immortal status for {{SkillValue|20%}} when her HP is under {{SkillValue|12.8~24.3 seconds}}. (1 time per battle)
-| SkillDescriptionLv1 = Junko gains immortal status for {{SkillValue|12.8 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
-| SkillDescriptionLv2 = Junko gains immortal status for {{SkillValue|13.5 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
-| SkillDescriptionLv3 = Junko gains immortal status for {{SkillValue|14.1 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
-| SkillDescriptionLv4 = Junko gains immortal status for {{SkillValue|16.7 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
-| SkillDescriptionLv5 = Junko gains immortal status for {{SkillValue|17.3 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
-| SkillDescriptionLv6 = Junko gains immortal status for {{SkillValue|17.9 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
-| SkillDescriptionLv7 = Junko gains immortal status for {{SkillValue|20.5 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
-| SkillDescriptionLv8 = Junko gains immortal status for {{SkillValue|21.1 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
-| SkillDescriptionLv9 = Junko gains immortal status for {{SkillValue|21.8 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
-| SkillDescriptionLv10 = Junko gains immortal status for {{SkillValue|24.3 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionGeneral = Junko gains immortal status for {{SkillValue|20%}} when her HP is under {{SkillValue|12.8~24.3&nbsp;seconds}}. (1 time per battle)
+| SkillDescriptionLv1 = Junko gains immortal status for {{SkillValue|12.8&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv2 = Junko gains immortal status for {{SkillValue|13.5&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv3 = Junko gains immortal status for {{SkillValue|14.1&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv4 = Junko gains immortal status for {{SkillValue|16.7&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv5 = Junko gains immortal status for {{SkillValue|17.3&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv6 = Junko gains immortal status for {{SkillValue|17.9&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv7 = Junko gains immortal status for {{SkillValue|20.5&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv8 = Junko gains immortal status for {{SkillValue|21.1&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv9 = Junko gains immortal status for {{SkillValue|21.8&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv10 = Junko gains immortal status for {{SkillValue|24.3&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
 }}
 {{SkillTable
 | SkillName = Merit of being a petite

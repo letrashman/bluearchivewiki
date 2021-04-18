@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_DOTHEAL
 | SkillDamageType = Explosive
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Continuously recover one ally HP by {{SkillValue|54.1~102%}} of Healing. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv1 = Continuously recover one ally HP by {{SkillValue|54.1%}} of Healing. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv2 = Continuously recover one ally HP by {{SkillValue|62.2%}} of Healing. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv3 = Continuously recover one ally HP by {{SkillValue|78.5%}} of Healing. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv4 = Continuously recover one ally HP by {{SkillValue|86.6%}} of Healing. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv5 = Continuously recover one ally HP by {{SkillValue|102%}} of Healing. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv6 = Continuously recover one ally HP by {{SkillValue|111%}} of Healing. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv7 = Continuously recover one ally HP by {{SkillValue|127%}} of Healing. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv8 = Continuously recover one ally HP by {{SkillValue|135%}} of Healing. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv9 = Continuously recover one ally HP by {{SkillValue|151%}} of Healing. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv10 = Continuously recover one ally HP by {{SkillValue|159%}} of Healing. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionGeneral = Continuously recover one ally HP by {{SkillValue|54.1~102%}} of Healing. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv1 = Continuously recover one ally HP by {{SkillValue|54.1%}} of Healing. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv2 = Continuously recover one ally HP by {{SkillValue|62.2%}} of Healing. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv3 = Continuously recover one ally HP by {{SkillValue|78.5%}} of Healing. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv4 = Continuously recover one ally HP by {{SkillValue|86.6%}} of Healing. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv5 = Continuously recover one ally HP by {{SkillValue|102%}} of Healing. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv6 = Continuously recover one ally HP by {{SkillValue|111%}} of Healing. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv7 = Continuously recover one ally HP by {{SkillValue|127%}} of Healing. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv8 = Continuously recover one ally HP by {{SkillValue|135%}} of Healing. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv9 = Continuously recover one ally HP by {{SkillValue|151%}} of Healing. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv10 = Continuously recover one ally HP by {{SkillValue|159%}} of Healing. (Duration: {{SkillValue|20&nbsp;seconds}})
 }}
 {{SkillTable
 | SkillName = You mustn't collapse!
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|25 seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|17.7~33.7%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv1 = Every {{SkillValue|25 seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|17.7%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv2 = Every {{SkillValue|25 seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|18.6%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv3 = Every {{SkillValue|25 seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|19.5%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv4 = Every {{SkillValue|25 seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|23%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv5 = Every {{SkillValue|25 seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|23.9%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv6 = Every {{SkillValue|25 seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|24.8%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv7 = Every {{SkillValue|25 seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|28.4%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv8 = Every {{SkillValue|25 seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|29.2%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv9 = Every {{SkillValue|25 seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|30.1%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv10 = Every {{SkillValue|25 seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|33.7%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionGeneral = Every {{SkillValue|25&nbsp;seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|17.7~33.7%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|25&nbsp;seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|17.7%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|25&nbsp;seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|18.6%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|25&nbsp;seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|19.5%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|25&nbsp;seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|23%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|25&nbsp;seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|23.9%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|25&nbsp;seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|24.8%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|25&nbsp;seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|28.4%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|25&nbsp;seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|29.2%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|25&nbsp;seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|30.1%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|25&nbsp;seconds}}, increase Defense of ally with the lowest HP by {{SkillValue|33.7%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
 }}
 {{SkillTable
 | SkillName = Ability improvement

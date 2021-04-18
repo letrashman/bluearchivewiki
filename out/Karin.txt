@@ -1,97 +1,75 @@
 ===Skills===
 {{EXSkillTable
-| SkillName = None
+| SkillName = Eliminating Target
 | SkillNameJP = ターゲット、排除する
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = 敵1人に対して、攻撃力の{{SkillValue|1821%}}分のダメージ/
-超大型の敵には{{SkillValue|625%}}分の追加ダメージ
-| SkillDescriptionLv1 = 敵1人に対して、攻撃力の{{SkillValue|687%}}分のダメージ/
-超大型の敵には{{SkillValue|481%}}分の追加ダメージ
-| SkillDescriptionLv2 = 敵1人に対して、攻撃力の{{SkillValue|790%}}分のダメージ/
-超大型の敵には{{SkillValue|481%}}分の追加ダメージ
-| SkillDescriptionLv3 = 敵1人に対して、攻撃力の{{SkillValue|893%}}分のダメージ/
-超大型の敵には{{SkillValue|553%}}分の追加ダメージ
-| SkillDescriptionLv4 = 敵1人に対して、攻撃力の{{SkillValue|996%}}分のダメージ/
-超大型の敵には{{SkillValue|553%}}分の追加ダメージ
-| SkillDescriptionLv5 = 敵1人に対して、攻撃力の{{SkillValue|1099%}}分のダメージ/
-超大型の敵には{{SkillValue|625%}}分の追加ダメージ
-| SkillDescriptionLv6 = 敵1人に対して、攻撃力の{{SkillValue|1202%}}分のダメージ/
-超大型の敵には{{SkillValue|625%}}分の追加ダメージ
-| SkillDescriptionLv7 = 敵1人に対して、攻撃力の{{SkillValue|1408%}}分のダメージ/
-超大型の敵には{{SkillValue|625%}}分の追加ダメージ
-| SkillDescriptionLv8 = 敵1人に対して、攻撃力の{{SkillValue|1511%}}分のダメージ/
-超大型の敵には{{SkillValue|625%}}分の追加ダメージ
-| SkillDescriptionLv9 = 敵1人に対して、攻撃力の{{SkillValue|1718%}}分のダメージ/
-超大型の敵には{{SkillValue|625%}}分の追加ダメージ
-| SkillDescriptionLv10 = 敵1人に対して、攻撃力の{{SkillValue|1821%}}分のダメージ/
-超大型の敵には{{SkillValue|625%}}分の追加ダメージ
+| SkillDescriptionGeneral = Deal {{SkillValue|687~1099%}} Attack damage to one enemy. If enemy is colossal-sized, deal an additional {{SkillValue|481~625%}} damage.
+| SkillDescriptionLv1 = Deal {{SkillValue|687%}} Attack damage to one enemy. If enemy is colossal-sized, deal an additional {{SkillValue|481%}} damage.
+| SkillDescriptionLv2 = Deal {{SkillValue|790%}} Attack damage to one enemy. If enemy is colossal-sized, deal an additional {{SkillValue|481%}} damage.
+| SkillDescriptionLv3 = Deal {{SkillValue|893%}} Attack damage to one enemy. If enemy is colossal-sized, deal an additional {{SkillValue|553%}} damage.
+| SkillDescriptionLv4 = Deal {{SkillValue|996%}} Attack damage to one enemy. If enemy is colossal-sized, deal an additional {{SkillValue|553%}} damage.
+| SkillDescriptionLv5 = Deal {{SkillValue|1099%}} Attack damage to one enemy. If enemy is colossal-sized, deal an additional {{SkillValue|625%}} damage.
+| SkillDescriptionLv6 = Deal {{SkillValue|1202%}} Attack damage to one enemy. If enemy is colossal-sized, deal an additional {{SkillValue|625%}} damage.
+| SkillDescriptionLv7 = Deal {{SkillValue|1408%}} Attack damage to one enemy. If enemy is colossal-sized, deal an additional {{SkillValue|625%}} damage.
+| SkillDescriptionLv8 = Deal {{SkillValue|1511%}} Attack damage to one enemy. If enemy is colossal-sized, deal an additional {{SkillValue|625%}} damage.
+| SkillDescriptionLv9 = Deal {{SkillValue|1718%}} Attack damage to one enemy. If enemy is colossal-sized, deal an additional {{SkillValue|625%}} damage.
+| SkillDescriptionLv10 = Deal {{SkillValue|1821%}} Attack damage to one enemy. If enemy is colossal-sized, deal an additional {{SkillValue|625%}} damage.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Initiate Fire Support
 | SkillNameJP = 火力支援、開始
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|424%}}分のダメージ/
-さらに{{SkillValue|50%}}の確率で、気絶状態を付与（{{SkillValue|3.1秒}}間）
-| SkillDescriptionLv1 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|223%}}分のダメージ/
-さらに{{SkillValue|50%}}の確率で、気絶状態を付与（{{SkillValue|3.1秒}}間）
-| SkillDescriptionLv2 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|234%}}分のダメージ/
-さらに{{SkillValue|50%}}の確率で、気絶状態を付与（{{SkillValue|3.1秒}}間）
-| SkillDescriptionLv3 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|245%}}分のダメージ/
-さらに{{SkillValue|50%}}の確率で、気絶状態を付与（{{SkillValue|3.1秒}}間）
-| SkillDescriptionLv4 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|290%}}分のダメージ/
-さらに{{SkillValue|50%}}の確率で、気絶状態を付与（{{SkillValue|3.1秒}}間）
-| SkillDescriptionLv5 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|301%}}分のダメージ/
-さらに{{SkillValue|50%}}の確率で、気絶状態を付与（{{SkillValue|3.1秒}}間）
-| SkillDescriptionLv6 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|313%}}分のダメージ/
-さらに{{SkillValue|50%}}の確率で、気絶状態を付与（{{SkillValue|3.1秒}}間）
-| SkillDescriptionLv7 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|357%}}分のダメージ/
-さらに{{SkillValue|50%}}の確率で、気絶状態を付与（{{SkillValue|3.1秒}}間）
-| SkillDescriptionLv8 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|368%}}分のダメージ/
-さらに{{SkillValue|50%}}の確率で、気絶状態を付与（{{SkillValue|3.1秒}}間）
-| SkillDescriptionLv9 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|380%}}分のダメージ/
-さらに{{SkillValue|50%}}の確率で、気絶状態を付与（{{SkillValue|3.1秒}}間）
-| SkillDescriptionLv10 = {{SkillValue|40秒}}毎に、敵1人に対して攻撃力の{{SkillValue|424%}}分のダメージ/
-さらに{{SkillValue|50%}}の確率で、気絶状態を付与（{{SkillValue|3.1秒}}間）
+| SkillDescriptionGeneral = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|223~424%}} Attack damage to one enemy, with a {{SkillValue|50%}} chance to stun. (Duration: {{SkillValue|3.1&nbsp;seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|223%}} Attack damage to one enemy, with a {{SkillValue|50%}} chance to stun. (Duration: {{SkillValue|3.1&nbsp;seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|234%}} Attack damage to one enemy, with a {{SkillValue|50%}} chance to stun. (Duration: {{SkillValue|3.1&nbsp;seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|245%}} Attack damage to one enemy, with a {{SkillValue|50%}} chance to stun. (Duration: {{SkillValue|3.1&nbsp;seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|290%}} Attack damage to one enemy, with a {{SkillValue|50%}} chance to stun. (Duration: {{SkillValue|3.1&nbsp;seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|301%}} Attack damage to one enemy, with a {{SkillValue|50%}} chance to stun. (Duration: {{SkillValue|3.1&nbsp;seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|313%}} Attack damage to one enemy, with a {{SkillValue|50%}} chance to stun. (Duration: {{SkillValue|3.1&nbsp;seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|357%}} Attack damage to one enemy, with a {{SkillValue|50%}} chance to stun. (Duration: {{SkillValue|3.1&nbsp;seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|368%}} Attack damage to one enemy, with a {{SkillValue|50%}} chance to stun. (Duration: {{SkillValue|3.1&nbsp;seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|380%}} Attack damage to one enemy, with a {{SkillValue|50%}} chance to stun. (Duration: {{SkillValue|3.1&nbsp;seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|424%}} Attack damage to one enemy, with a {{SkillValue|50%}} chance to stun. (Duration: {{SkillValue|3.1&nbsp;seconds}})
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Weapon Upgrade, Complete
 | SkillNameJP = 武装強化、完了
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Passive
-| SkillDescriptionGeneral = 攻撃力を{{SkillValue|26.6%}}増加
-| SkillDescriptionLv1 = 攻撃力を{{SkillValue|14%}}増加
-| SkillDescriptionLv2 = 攻撃力を{{SkillValue|14.7%}}増加
-| SkillDescriptionLv3 = 攻撃力を{{SkillValue|15.4%}}増加
-| SkillDescriptionLv4 = 攻撃力を{{SkillValue|18.2%}}増加
-| SkillDescriptionLv5 = 攻撃力を{{SkillValue|18.9%}}増加
-| SkillDescriptionLv6 = 攻撃力を{{SkillValue|19.6%}}増加
-| SkillDescriptionLv7 = 攻撃力を{{SkillValue|22.4%}}増加
-| SkillDescriptionLv8 = 攻撃力を{{SkillValue|23.1%}}増加
-| SkillDescriptionLv9 = 攻撃力を{{SkillValue|23.8%}}増加
-| SkillDescriptionLv10 = 攻撃力を{{SkillValue|26.6%}}増加
+| SkillDescriptionGeneral = Increase Attack by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Attack by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Attack by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Attack by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Attack by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Attack by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Attack by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Attack by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Attack by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Attack by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Attack by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Initiating Support Actions
 | SkillNameJP = 支援活動、開始
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = 味方の攻撃力を{{SkillValue|17.3%}}増加
-| SkillDescriptionLv1 = 味方の攻撃力を{{SkillValue|9.1%}}増加
-| SkillDescriptionLv2 = 味方の攻撃力を{{SkillValue|9.5%}}増加
-| SkillDescriptionLv3 = 味方の攻撃力を{{SkillValue|10%}}増加
-| SkillDescriptionLv4 = 味方の攻撃力を{{SkillValue|11.8%}}増加
-| SkillDescriptionLv5 = 味方の攻撃力を{{SkillValue|12.3%}}増加
-| SkillDescriptionLv6 = 味方の攻撃力を{{SkillValue|12.7%}}増加
-| SkillDescriptionLv7 = 味方の攻撃力を{{SkillValue|14.5%}}増加
-| SkillDescriptionLv8 = 味方の攻撃力を{{SkillValue|15%}}増加
-| SkillDescriptionLv9 = 味方の攻撃力を{{SkillValue|15.5%}}増加
-| SkillDescriptionLv10 = 味方の攻撃力を{{SkillValue|17.3%}}増加
+| SkillDescriptionGeneral = Increase Attack of all allies by {{SkillValue|9.1~17.3%}}.
+| SkillDescriptionLv1 = Increase Attack of all allies by {{SkillValue|9.1%}}.
+| SkillDescriptionLv2 = Increase Attack of all allies by {{SkillValue|9.5%}}.
+| SkillDescriptionLv3 = Increase Attack of all allies by {{SkillValue|10%}}.
+| SkillDescriptionLv4 = Increase Attack of all allies by {{SkillValue|11.8%}}.
+| SkillDescriptionLv5 = Increase Attack of all allies by {{SkillValue|12.3%}}.
+| SkillDescriptionLv6 = Increase Attack of all allies by {{SkillValue|12.7%}}.
+| SkillDescriptionLv7 = Increase Attack of all allies by {{SkillValue|14.5%}}.
+| SkillDescriptionLv8 = Increase Attack of all allies by {{SkillValue|15%}}.
+| SkillDescriptionLv9 = Increase Attack of all allies by {{SkillValue|15.5%}}.
+| SkillDescriptionLv10 = Increase Attack of all allies by {{SkillValue|17.3%}}.
 }}
 
 [[Category:Characters]]

@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_IGNOREDELAY
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Reloads and increases attack power by {{SkillValue|29.1~46.6%}} for {{SkillValue|3~5}} while ignoring attack delay {{SkillValue|30 seconds}}
-| SkillDescriptionLv1 = Reloads and increases attack power by {{SkillValue|29.1%}} for {{SkillValue|30 seconds}} while ignoring attack delay {{SkillValue|3}}
-| SkillDescriptionLv2 = Reloads and increases attack power by {{SkillValue|33.4%}} for {{SkillValue|30 seconds}} while ignoring attack delay {{SkillValue|3}}
-| SkillDescriptionLv3 = Reloads and increases attack power by {{SkillValue|37.8%}} for {{SkillValue|30 seconds}} while ignoring attack delay {{SkillValue|4}}
-| SkillDescriptionLv4 = Reloads and increases attack power by {{SkillValue|42.2%}} for {{SkillValue|30 seconds}} while ignoring attack delay {{SkillValue|4}}
-| SkillDescriptionLv5 = Reloads and increases attack power by {{SkillValue|46.6%}} for {{SkillValue|30 seconds}} while ignoring attack delay {{SkillValue|5}}
-| SkillDescriptionLv6 = Reloads and increases attack power by {{SkillValue|50.9%}} for {{SkillValue|30 seconds}} while ignoring attack delay {{SkillValue|5}}
-| SkillDescriptionLv7 = Reloads and increases attack power by {{SkillValue|55.3%}} for {{SkillValue|30 seconds}} while ignoring attack delay {{SkillValue|5}}
-| SkillDescriptionLv8 = Reloads and increases attack power by {{SkillValue|59.7%}} for {{SkillValue|30 seconds}} while ignoring attack delay {{SkillValue|5}}
-| SkillDescriptionLv9 = Reloads and increases attack power by {{SkillValue|64%}} for {{SkillValue|30 seconds}} while ignoring attack delay {{SkillValue|5}}
-| SkillDescriptionLv10 = Reloads and increases attack power by {{SkillValue|68.4%}} for {{SkillValue|30 seconds}} while ignoring attack delay {{SkillValue|5}}
+| SkillDescriptionGeneral = Reloads and increases attack power by {{SkillValue|29.1~46.6%}} for {{SkillValue|3~5}} while ignoring attack delay {{SkillValue|30&nbsp;seconds}}
+| SkillDescriptionLv1 = Reloads and increases attack power by {{SkillValue|29.1%}} for {{SkillValue|30&nbsp;seconds}} while ignoring attack delay {{SkillValue|3}}
+| SkillDescriptionLv2 = Reloads and increases attack power by {{SkillValue|33.4%}} for {{SkillValue|30&nbsp;seconds}} while ignoring attack delay {{SkillValue|3}}
+| SkillDescriptionLv3 = Reloads and increases attack power by {{SkillValue|37.8%}} for {{SkillValue|30&nbsp;seconds}} while ignoring attack delay {{SkillValue|4}}
+| SkillDescriptionLv4 = Reloads and increases attack power by {{SkillValue|42.2%}} for {{SkillValue|30&nbsp;seconds}} while ignoring attack delay {{SkillValue|4}}
+| SkillDescriptionLv5 = Reloads and increases attack power by {{SkillValue|46.6%}} for {{SkillValue|30&nbsp;seconds}} while ignoring attack delay {{SkillValue|5}}
+| SkillDescriptionLv6 = Reloads and increases attack power by {{SkillValue|50.9%}} for {{SkillValue|30&nbsp;seconds}} while ignoring attack delay {{SkillValue|5}}
+| SkillDescriptionLv7 = Reloads and increases attack power by {{SkillValue|55.3%}} for {{SkillValue|30&nbsp;seconds}} while ignoring attack delay {{SkillValue|5}}
+| SkillDescriptionLv8 = Reloads and increases attack power by {{SkillValue|59.7%}} for {{SkillValue|30&nbsp;seconds}} while ignoring attack delay {{SkillValue|5}}
+| SkillDescriptionLv9 = Reloads and increases attack power by {{SkillValue|64%}} for {{SkillValue|30&nbsp;seconds}} while ignoring attack delay {{SkillValue|5}}
+| SkillDescriptionLv10 = Reloads and increases attack power by {{SkillValue|68.4%}} for {{SkillValue|30&nbsp;seconds}} while ignoring attack delay {{SkillValue|5}}
 }}
 {{SkillTable
 | SkillName = Ignite once more!
@@ -59,17 +59,17 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = Increase attack speed by {{SkillValue|10 seconds}} when standing still for {{SkillValue|20.1~38.3%}}.
-| SkillDescriptionLv1 = Increase attack speed by {{SkillValue|20.1%}} when standing still for {{SkillValue|10 seconds}}.
-| SkillDescriptionLv2 = Increase attack speed by {{SkillValue|21.1%}} when standing still for {{SkillValue|10 seconds}}.
-| SkillDescriptionLv3 = Increase attack speed by {{SkillValue|22.1%}} when standing still for {{SkillValue|10 seconds}}.
-| SkillDescriptionLv4 = Increase attack speed by {{SkillValue|26.2%}} when standing still for {{SkillValue|10 seconds}}.
-| SkillDescriptionLv5 = Increase attack speed by {{SkillValue|27.2%}} when standing still for {{SkillValue|10 seconds}}.
-| SkillDescriptionLv6 = Increase attack speed by {{SkillValue|28.2%}} when standing still for {{SkillValue|10 seconds}}.
-| SkillDescriptionLv7 = Increase attack speed by {{SkillValue|32.2%}} when standing still for {{SkillValue|10 seconds}}.
-| SkillDescriptionLv8 = Increase attack speed by {{SkillValue|33.2%}} when standing still for {{SkillValue|10 seconds}}.
-| SkillDescriptionLv9 = Increase attack speed by {{SkillValue|34.2%}} when standing still for {{SkillValue|10 seconds}}.
-| SkillDescriptionLv10 = Increase attack speed by {{SkillValue|38.3%}} when standing still for {{SkillValue|10 seconds}}.
+| SkillDescriptionGeneral = Increase Attack Speed by {{SkillValue|10&nbsp;seconds}} when standing still for {{SkillValue|20.1~38.3%}}.
+| SkillDescriptionLv1 = Increase Attack Speed by {{SkillValue|20.1%}} when standing still for {{SkillValue|10&nbsp;seconds}}.
+| SkillDescriptionLv2 = Increase Attack Speed by {{SkillValue|21.1%}} when standing still for {{SkillValue|10&nbsp;seconds}}.
+| SkillDescriptionLv3 = Increase Attack Speed by {{SkillValue|22.1%}} when standing still for {{SkillValue|10&nbsp;seconds}}.
+| SkillDescriptionLv4 = Increase Attack Speed by {{SkillValue|26.2%}} when standing still for {{SkillValue|10&nbsp;seconds}}.
+| SkillDescriptionLv5 = Increase Attack Speed by {{SkillValue|27.2%}} when standing still for {{SkillValue|10&nbsp;seconds}}.
+| SkillDescriptionLv6 = Increase Attack Speed by {{SkillValue|28.2%}} when standing still for {{SkillValue|10&nbsp;seconds}}.
+| SkillDescriptionLv7 = Increase Attack Speed by {{SkillValue|32.2%}} when standing still for {{SkillValue|10&nbsp;seconds}}.
+| SkillDescriptionLv8 = Increase Attack Speed by {{SkillValue|33.2%}} when standing still for {{SkillValue|10&nbsp;seconds}}.
+| SkillDescriptionLv9 = Increase Attack Speed by {{SkillValue|34.2%}} when standing still for {{SkillValue|10&nbsp;seconds}}.
+| SkillDescriptionLv10 = Increase Attack Speed by {{SkillValue|38.3%}} when standing still for {{SkillValue|10&nbsp;seconds}}.
 }}
 
 [[Category:Characters]]

@@ -1,97 +1,75 @@
 ===Skills===
 {{EXSkillTable
-| SkillName = None
+| SkillName = Hard boiled shot
 | SkillNameJP = ハードボイルドショット
 | SkillIconType = COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Explosive
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = 敵1人に対して、攻撃力の{{SkillValue|809%}}分のダメージ/
-さらに、円形範囲内の敵に攻撃力の{{SkillValue|861%}}分のダメージ
-| SkillDescriptionLv1 = 敵1人に対して、攻撃力の{{SkillValue|274%}}分のダメージ/
-さらに、円形範囲内の敵に攻撃力の{{SkillValue|292%}}分のダメージ
-| SkillDescriptionLv2 = 敵1人に対して、攻撃力の{{SkillValue|315%}}分のダメージ/
-さらに、円形範囲内の敵に攻撃力の{{SkillValue|335%}}分のダメージ
-| SkillDescriptionLv3 = 敵1人に対して、攻撃力の{{SkillValue|397%}}分のダメージ/
-さらに、円形範囲内の敵に攻撃力の{{SkillValue|423%}}分のダメージ
-| SkillDescriptionLv4 = 敵1人に対して、攻撃力の{{SkillValue|438%}}分のダメージ/
-さらに、円形範囲内の敵に攻撃力の{{SkillValue|467%}}分のダメージ
-| SkillDescriptionLv5 = 敵1人に対して、攻撃力の{{SkillValue|521%}}分のダメージ/
-さらに、円形範囲内の敵に攻撃力の{{SkillValue|554%}}分のダメージ
-| SkillDescriptionLv6 = 敵1人に対して、攻撃力の{{SkillValue|562%}}分のダメージ/
-さらに、円形範囲内の敵に攻撃力の{{SkillValue|598%}}分のダメージ
-| SkillDescriptionLv7 = 敵1人に対して、攻撃力の{{SkillValue|644%}}分のダメージ/
-さらに、円形範囲内の敵に攻撃力の{{SkillValue|686%}}分のダメージ
-| SkillDescriptionLv8 = 敵1人に対して、攻撃力の{{SkillValue|685%}}分のダメージ/
-さらに、円形範囲内の敵に攻撃力の{{SkillValue|730%}}分のダメージ
-| SkillDescriptionLv9 = 敵1人に対して、攻撃力の{{SkillValue|768%}}分のダメージ/
-さらに、円形範囲内の敵に攻撃力の{{SkillValue|817%}}分のダメージ
-| SkillDescriptionLv10 = 敵1人に対して、攻撃力の{{SkillValue|809%}}分のダメージ/
-さらに、円形範囲内の敵に攻撃力の{{SkillValue|861%}}分のダメージ
+| SkillDescriptionGeneral = Deal {{SkillValue|274~521%}} damage to one enemy. Deal an additional {{SkillValue|292~554%}} damage to enemies in circular area around the targeted enemy.
+| SkillDescriptionLv1 = Deal {{SkillValue|274%}} damage to one enemy. Deal an additional {{SkillValue|292%}} damage to enemies in circular area around the targeted enemy.
+| SkillDescriptionLv2 = Deal {{SkillValue|315%}} damage to one enemy. Deal an additional {{SkillValue|335%}} damage to enemies in circular area around the targeted enemy.
+| SkillDescriptionLv3 = Deal {{SkillValue|397%}} damage to one enemy. Deal an additional {{SkillValue|423%}} damage to enemies in circular area around the targeted enemy.
+| SkillDescriptionLv4 = Deal {{SkillValue|438%}} damage to one enemy. Deal an additional {{SkillValue|467%}} damage to enemies in circular area around the targeted enemy.
+| SkillDescriptionLv5 = Deal {{SkillValue|521%}} damage to one enemy. Deal an additional {{SkillValue|554%}} damage to enemies in circular area around the targeted enemy.
+| SkillDescriptionLv6 = Deal {{SkillValue|562%}} damage to one enemy. Deal an additional {{SkillValue|598%}} damage to enemies in circular area around the targeted enemy.
+| SkillDescriptionLv7 = Deal {{SkillValue|644%}} damage to one enemy. Deal an additional {{SkillValue|686%}} damage to enemies in circular area around the targeted enemy.
+| SkillDescriptionLv8 = Deal {{SkillValue|685%}} damage to one enemy. Deal an additional {{SkillValue|730%}} damage to enemies in circular area around the targeted enemy.
+| SkillDescriptionLv9 = Deal {{SkillValue|768%}} damage to one enemy. Deal an additional {{SkillValue|817%}} damage to enemies in circular area around the targeted enemy.
+| SkillDescriptionLv10 = Deal {{SkillValue|809%}} damage to one enemy. Deal an additional {{SkillValue|861%}} damage to enemies in circular area around the targeted enemy.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Noir shoot
 | SkillNameJP = ノワールシュート
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|290%}}分のダメージ/
-{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|476%}}分のダメージ
-| SkillDescriptionLv1 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|152%}}分のダメージ/
-{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|251%}}分のダメージ
-| SkillDescriptionLv2 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|160%}}分のダメージ/
-{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|263%}}分のダメージ
-| SkillDescriptionLv3 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|168%}}分のダメージ/
-{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|276%}}分のダメージ
-| SkillDescriptionLv4 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|198%}}分のダメージ/
-{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|326%}}分のダメージ
-| SkillDescriptionLv5 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|206%}}分のダメージ/
-{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|338%}}分のダメージ
-| SkillDescriptionLv6 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|213%}}分のダメージ/
-{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|351%}}分のダメージ
-| SkillDescriptionLv7 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|244%}}分のダメージ/
-{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|401%}}分のダメージ
-| SkillDescriptionLv8 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|251%}}分のダメージ/
-{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|414%}}分のダメージ
-| SkillDescriptionLv9 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|259%}}分のダメージ/
-{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|426%}}分のダメージ
-| SkillDescriptionLv10 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃力の{{SkillValue|290%}}分のダメージ/
-{{SkillValue|50%}}の確率で、さらに円形範囲内の敵に攻撃力の{{SkillValue|476%}}分のダメージ
+| SkillDescriptionGeneral = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|152~290%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|251~476%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv1 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|152%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|251%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv2 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|160%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|263%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv3 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|168%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|276%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv4 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|198%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|326%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv5 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|206%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|338%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv6 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|213%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|351%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv7 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|244%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|401%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv8 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|251%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|414%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv9 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|259%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|426%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv10 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|290%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|476%}} damage to enemies in a circular area around the targeted enemy.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = President's Dignity
 | SkillNameJP = 社長の威厳
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = 会心ダメージ率を{{SkillValue|26.6%}}増加
-| SkillDescriptionLv1 = 会心ダメージ率を{{SkillValue|14%}}増加
-| SkillDescriptionLv2 = 会心ダメージ率を{{SkillValue|14.7%}}増加
-| SkillDescriptionLv3 = 会心ダメージ率を{{SkillValue|15.4%}}増加
-| SkillDescriptionLv4 = 会心ダメージ率を{{SkillValue|18.2%}}増加
-| SkillDescriptionLv5 = 会心ダメージ率を{{SkillValue|18.9%}}増加
-| SkillDescriptionLv6 = 会心ダメージ率を{{SkillValue|19.6%}}増加
-| SkillDescriptionLv7 = 会心ダメージ率を{{SkillValue|22.4%}}増加
-| SkillDescriptionLv8 = 会心ダメージ率を{{SkillValue|23.1%}}増加
-| SkillDescriptionLv9 = 会心ダメージ率を{{SkillValue|23.8%}}増加
-| SkillDescriptionLv10 = 会心ダメージ率を{{SkillValue|26.6%}}増加
+| SkillDescriptionGeneral = Increase Critical Damage by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Critical Damage by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Critical Damage by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Critical Damage by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Critical Damage by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Critical Damage by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Critical Damage by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Critical Damage by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Critical Damage by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Critical Damage by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Critical Damage by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Outlaw Style
 | SkillNameJP = アウトローの流儀
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = Exスキルの使用中、会心値を{{SkillValue|38.3%}}増加
-| SkillDescriptionLv1 = Exスキルの使用中、会心値を{{SkillValue|20.1%}}増加
-| SkillDescriptionLv2 = Exスキルの使用中、会心値を{{SkillValue|21.1%}}増加
-| SkillDescriptionLv3 = Exスキルの使用中、会心値を{{SkillValue|22.1%}}増加
-| SkillDescriptionLv4 = Exスキルの使用中、会心値を{{SkillValue|26.2%}}増加
-| SkillDescriptionLv5 = Exスキルの使用中、会心値を{{SkillValue|27.2%}}増加
-| SkillDescriptionLv6 = Exスキルの使用中、会心値を{{SkillValue|28.2%}}増加
-| SkillDescriptionLv7 = Exスキルの使用中、会心値を{{SkillValue|32.2%}}増加
-| SkillDescriptionLv8 = Exスキルの使用中、会心値を{{SkillValue|33.2%}}増加
-| SkillDescriptionLv9 = Exスキルの使用中、会心値を{{SkillValue|34.2%}}増加
-| SkillDescriptionLv10 = Exスキルの使用中、会心値を{{SkillValue|38.3%}}増加
+| SkillDescriptionGeneral = Increase Critical Rate of EX skill by {{SkillValue|20.1~38.3%}}.
+| SkillDescriptionLv1 = Increase Critical Rate of EX skill by {{SkillValue|20.1%}}.
+| SkillDescriptionLv2 = Increase Critical Rate of EX skill by {{SkillValue|21.1%}}.
+| SkillDescriptionLv3 = Increase Critical Rate of EX skill by {{SkillValue|22.1%}}.
+| SkillDescriptionLv4 = Increase Critical Rate of EX skill by {{SkillValue|26.2%}}.
+| SkillDescriptionLv5 = Increase Critical Rate of EX skill by {{SkillValue|27.2%}}.
+| SkillDescriptionLv6 = Increase Critical Rate of EX skill by {{SkillValue|28.2%}}.
+| SkillDescriptionLv7 = Increase Critical Rate of EX skill by {{SkillValue|32.2%}}.
+| SkillDescriptionLv8 = Increase Critical Rate of EX skill by {{SkillValue|33.2%}}.
+| SkillDescriptionLv9 = Increase Critical Rate of EX skill by {{SkillValue|34.2%}}.
+| SkillDescriptionLv10 = Increase Critical Rate of EX skill by {{SkillValue|38.3%}}.
 }}
 
 [[Category:Characters]]

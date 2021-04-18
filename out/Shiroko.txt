@@ -1,75 +1,75 @@
 ===Skills===
 {{EXSkillTable
-| SkillName = None
+| SkillName = Summon Drone: Fire Support
 | SkillNameJP = ドローン召喚：火力支援
 | SkillIconType = SKILLICON_SHIROKO_EXSKILL
 | SkillDamageType = Explosive
 | SkillBaseCost = 2
-| SkillDescriptionGeneral = 敵1人に対して、攻撃力の{{SkillValue|1181%}}分のダメージ
-| SkillDescriptionLv1 = 敵1人に対して、攻撃力の{{SkillValue|400%}}分のダメージ
-| SkillDescriptionLv2 = 敵1人に対して、攻撃力の{{SkillValue|460%}}分のダメージ
-| SkillDescriptionLv3 = 敵1人に対して、攻撃力の{{SkillValue|580%}}分のダメージ
-| SkillDescriptionLv4 = 敵1人に対して、攻撃力の{{SkillValue|640%}}分のダメージ
-| SkillDescriptionLv5 = 敵1人に対して、攻撃力の{{SkillValue|760%}}分のダメージ
-| SkillDescriptionLv6 = 敵1人に対して、攻撃力の{{SkillValue|820%}}分のダメージ
-| SkillDescriptionLv7 = 敵1人に対して、攻撃力の{{SkillValue|941%}}分のダメージ
-| SkillDescriptionLv8 = 敵1人に対して、攻撃力の{{SkillValue|1001%}}分のダメージ
-| SkillDescriptionLv9 = 敵1人に対して、攻撃力の{{SkillValue|1121%}}分のダメージ
-| SkillDescriptionLv10 = 敵1人に対して、攻撃力の{{SkillValue|1181%}}分のダメージ
+| SkillDescriptionGeneral = Deal {{SkillValue|400~760%}} of Shiroko's Attack as damage to one enemy.
+| SkillDescriptionLv1 = Deal {{SkillValue|400%}} of Shiroko's Attack as damage to one enemy.
+| SkillDescriptionLv2 = Deal {{SkillValue|460%}} of Shiroko's Attack as damage to one enemy.
+| SkillDescriptionLv3 = Deal {{SkillValue|580%}} of Shiroko's Attack as damage to one enemy.
+| SkillDescriptionLv4 = Deal {{SkillValue|640%}} of Shiroko's Attack as damage to one enemy.
+| SkillDescriptionLv5 = Deal {{SkillValue|760%}} of Shiroko's Attack as damage to one enemy.
+| SkillDescriptionLv6 = Deal {{SkillValue|820%}} of Shiroko's Attack as damage to one enemy.
+| SkillDescriptionLv7 = Deal {{SkillValue|941%}} of Shiroko's Attack as damage to one enemy.
+| SkillDescriptionLv8 = Deal {{SkillValue|1001%}} of Shiroko's Attack as damage to one enemy.
+| SkillDescriptionLv9 = Deal {{SkillValue|1121%}} of Shiroko's Attack as damage to one enemy.
+| SkillDescriptionLv10 = Deal {{SkillValue|1181%}} of Shiroko's Attack as damage to one enemy.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Grenade Toss
 | SkillNameJP = 手榴弾投擲
 | SkillIconType = COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|368%}}分のダメージ
-| SkillDescriptionLv1 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|193%}}分のダメージ
-| SkillDescriptionLv2 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|203%}}分のダメージ
-| SkillDescriptionLv3 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|213%}}分のダメージ
-| SkillDescriptionLv4 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|251%}}分のダメージ
-| SkillDescriptionLv5 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|261%}}分のダメージ
-| SkillDescriptionLv6 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|271%}}分のダメージ
-| SkillDescriptionLv7 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|309%}}分のダメージ
-| SkillDescriptionLv8 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|319%}}分のダメージ
-| SkillDescriptionLv9 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|329%}}分のダメージ
-| SkillDescriptionLv10 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|368%}}分のダメージ
+| SkillDescriptionGeneral = Every {{SkillValue|25&nbsp;seconds}}, deal {{SkillValue|193~368%}} of Shiroko's Attack as damage to a circular area.
+| SkillDescriptionLv1 = Every {{SkillValue|25&nbsp;seconds}}, deal {{SkillValue|193%}} of Shiroko's Attack as damage to a circular area.
+| SkillDescriptionLv2 = Every {{SkillValue|25&nbsp;seconds}}, deal {{SkillValue|203%}} of Shiroko's Attack as damage to a circular area.
+| SkillDescriptionLv3 = Every {{SkillValue|25&nbsp;seconds}}, deal {{SkillValue|213%}} of Shiroko's Attack as damage to a circular area.
+| SkillDescriptionLv4 = Every {{SkillValue|25&nbsp;seconds}}, deal {{SkillValue|251%}} of Shiroko's Attack as damage to a circular area.
+| SkillDescriptionLv5 = Every {{SkillValue|25&nbsp;seconds}}, deal {{SkillValue|261%}} of Shiroko's Attack as damage to a circular area.
+| SkillDescriptionLv6 = Every {{SkillValue|25&nbsp;seconds}}, deal {{SkillValue|271%}} of Shiroko's Attack as damage to a circular area.
+| SkillDescriptionLv7 = Every {{SkillValue|25&nbsp;seconds}}, deal {{SkillValue|309%}} of Shiroko's Attack as damage to a circular area.
+| SkillDescriptionLv8 = Every {{SkillValue|25&nbsp;seconds}}, deal {{SkillValue|319%}} of Shiroko's Attack as damage to a circular area.
+| SkillDescriptionLv9 = Every {{SkillValue|25&nbsp;seconds}}, deal {{SkillValue|329%}} of Shiroko's Attack as damage to a circular area.
+| SkillDescriptionLv10 = Every {{SkillValue|25&nbsp;seconds}}, deal {{SkillValue|368%}} of Shiroko's Attack as damage to a circular area.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Pinpoint
 | SkillNameJP = ピンポイント
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = 会心値を{{SkillValue|26.6%}}増加
-| SkillDescriptionLv1 = 会心値を{{SkillValue|14%}}増加
-| SkillDescriptionLv2 = 会心値を{{SkillValue|14.7%}}増加
-| SkillDescriptionLv3 = 会心値を{{SkillValue|15.4%}}増加
-| SkillDescriptionLv4 = 会心値を{{SkillValue|18.2%}}増加
-| SkillDescriptionLv5 = 会心値を{{SkillValue|18.9%}}増加
-| SkillDescriptionLv6 = 会心値を{{SkillValue|19.6%}}増加
-| SkillDescriptionLv7 = 会心値を{{SkillValue|22.4%}}増加
-| SkillDescriptionLv8 = 会心値を{{SkillValue|23.1%}}増加
-| SkillDescriptionLv9 = 会心値を{{SkillValue|23.8%}}増加
-| SkillDescriptionLv10 = 会心値を{{SkillValue|26.6%}}増加
+| SkillDescriptionGeneral = Increase Critical Rate by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Critical Rate by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Critical Rate by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Critical Rate by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Critical Rate by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Critical Rate by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Critical Rate by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Critical Rate by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Critical Rate by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Critical Rate by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Critical Rate by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = High-speed Rapid Fire
 | SkillNameJP = 高速連射
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|57.4%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
-| SkillDescriptionLv1 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|30.2%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
-| SkillDescriptionLv2 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|31.7%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
-| SkillDescriptionLv3 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|33.2%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
-| SkillDescriptionLv4 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|39.3%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
-| SkillDescriptionLv5 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|40.8%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
-| SkillDescriptionLv6 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|42.3%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
-| SkillDescriptionLv7 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|48.3%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
-| SkillDescriptionLv8 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|49.9%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
-| SkillDescriptionLv9 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|51.4%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
-| SkillDescriptionLv10 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|57.4%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionGeneral = Normal attacks have a {{SkillValue|20%}} chance to increase Attack Speed by {{SkillValue|30.2~57.4%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
+| SkillDescriptionLv1 = Normal attacks have a {{SkillValue|20%}} chance to increase Attack Speed by {{SkillValue|30.2%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
+| SkillDescriptionLv2 = Normal attacks have a {{SkillValue|20%}} chance to increase Attack Speed by {{SkillValue|31.7%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
+| SkillDescriptionLv3 = Normal attacks have a {{SkillValue|20%}} chance to increase Attack Speed by {{SkillValue|33.2%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
+| SkillDescriptionLv4 = Normal attacks have a {{SkillValue|20%}} chance to increase Attack Speed by {{SkillValue|39.3%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
+| SkillDescriptionLv5 = Normal attacks have a {{SkillValue|20%}} chance to increase Attack Speed by {{SkillValue|40.8%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
+| SkillDescriptionLv6 = Normal attacks have a {{SkillValue|20%}} chance to increase Attack Speed by {{SkillValue|42.3%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
+| SkillDescriptionLv7 = Normal attacks have a {{SkillValue|20%}} chance to increase Attack Speed by {{SkillValue|48.3%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
+| SkillDescriptionLv8 = Normal attacks have a {{SkillValue|20%}} chance to increase Attack Speed by {{SkillValue|49.9%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
+| SkillDescriptionLv9 = Normal attacks have a {{SkillValue|20%}} chance to increase Attack Speed by {{SkillValue|51.4%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
+| SkillDescriptionLv10 = Normal attacks have a {{SkillValue|20%}} chance to increase Attack Speed by {{SkillValue|57.4%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
 }}
 
 [[Category:Characters]]

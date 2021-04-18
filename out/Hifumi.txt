@@ -5,17 +5,17 @@
 | SkillIconType = SKILLICON_HIHUMI_EXSKILL
 | SkillDamageType = Penetration
 | SkillBaseCost = 5
-| SkillDescriptionGeneral = Summon a Peroro Doll, dealing {{SkillValue|202~386%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.4~3.9 seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
-| SkillDescriptionLv1 = Summon a Peroro Doll, dealing {{SkillValue|202%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.4 seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
-| SkillDescriptionLv2 = Summon a Peroro Doll, dealing {{SkillValue|234%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.4 seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
-| SkillDescriptionLv3 = Summon a Peroro Doll, dealing {{SkillValue|294%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.4 seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
-| SkillDescriptionLv4 = Summon a Peroro Doll, dealing {{SkillValue|326%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.4 seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
-| SkillDescriptionLv5 = Summon a Peroro Doll, dealing {{SkillValue|386%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.9 seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
-| SkillDescriptionLv6 = Summon a Peroro Doll, dealing {{SkillValue|416%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.9 seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
-| SkillDescriptionLv7 = Summon a Peroro Doll, dealing {{SkillValue|478%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.9 seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
-| SkillDescriptionLv8 = Summon a Peroro Doll, dealing {{SkillValue|508%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.9 seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
-| SkillDescriptionLv9 = Summon a Peroro Doll, dealing {{SkillValue|570%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.9 seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
-| SkillDescriptionLv10 = Summon a Peroro Doll, dealing {{SkillValue|600%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.9 seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
+| SkillDescriptionGeneral = Summon a Peroro Doll, dealing {{SkillValue|202~386%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.4~3.9&nbsp;seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
+| SkillDescriptionLv1 = Summon a Peroro Doll, dealing {{SkillValue|202%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.4&nbsp;seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
+| SkillDescriptionLv2 = Summon a Peroro Doll, dealing {{SkillValue|234%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.4&nbsp;seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
+| SkillDescriptionLv3 = Summon a Peroro Doll, dealing {{SkillValue|294%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.4&nbsp;seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
+| SkillDescriptionLv4 = Summon a Peroro Doll, dealing {{SkillValue|326%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.4&nbsp;seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
+| SkillDescriptionLv5 = Summon a Peroro Doll, dealing {{SkillValue|386%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.9&nbsp;seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
+| SkillDescriptionLv6 = Summon a Peroro Doll, dealing {{SkillValue|416%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.9&nbsp;seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
+| SkillDescriptionLv7 = Summon a Peroro Doll, dealing {{SkillValue|478%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.9&nbsp;seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
+| SkillDescriptionLv8 = Summon a Peroro Doll, dealing {{SkillValue|508%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.9&nbsp;seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
+| SkillDescriptionLv9 = Summon a Peroro Doll, dealing {{SkillValue|570%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.9&nbsp;seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
+| SkillDescriptionLv10 = Summon a Peroro Doll, dealing {{SkillValue|600%}} damage to enemies in a circular area and taunting them for {{SkillValue|3.9&nbsp;seconds}}. The Peroro Doll has {{SkillValue|160%}} of Hifumi's Max HP.
 }}
 {{SkillTable
 | SkillName = Peroro-sama's Support
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONDEBUFF
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|35 seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|16.8~32%}} for {{SkillValue|30 seconds}}.
-| SkillDescriptionLv1 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|16.8%}} for {{SkillValue|30 seconds}}.
-| SkillDescriptionLv2 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|17.7%}} for {{SkillValue|30 seconds}}.
-| SkillDescriptionLv3 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|18.5%}} for {{SkillValue|30 seconds}}.
-| SkillDescriptionLv4 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|21.9%}} for {{SkillValue|30 seconds}}.
-| SkillDescriptionLv5 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|22.7%}} for {{SkillValue|30 seconds}}.
-| SkillDescriptionLv6 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|23.6%}} for {{SkillValue|30 seconds}}.
-| SkillDescriptionLv7 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|26.9%}} for {{SkillValue|30 seconds}}.
-| SkillDescriptionLv8 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|27.8%}} for {{SkillValue|30 seconds}}.
-| SkillDescriptionLv9 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|28.6%}} for {{SkillValue|30 seconds}}.
-| SkillDescriptionLv10 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|32%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionGeneral = Every {{SkillValue|35&nbsp;seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|16.8~32%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv1 = Every {{SkillValue|35&nbsp;seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|16.8%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv2 = Every {{SkillValue|35&nbsp;seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|17.7%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv3 = Every {{SkillValue|35&nbsp;seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|18.5%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv4 = Every {{SkillValue|35&nbsp;seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|21.9%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv5 = Every {{SkillValue|35&nbsp;seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|22.7%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv6 = Every {{SkillValue|35&nbsp;seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|23.6%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv7 = Every {{SkillValue|35&nbsp;seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|26.9%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv8 = Every {{SkillValue|35&nbsp;seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|27.8%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv9 = Every {{SkillValue|35&nbsp;seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|28.6%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv10 = Every {{SkillValue|35&nbsp;seconds}}, deal {{SkillValue|212%}} damage to one enemy and reduce their accuracy by {{SkillValue|32%}} for {{SkillValue|30&nbsp;seconds}}.
 }}
 {{SkillTable
 | SkillName = Collector's Spirit
@@ -59,17 +59,17 @@
 | SkillIconType = COMMON_SKILLICON_REGENCOST
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = When using EX skill, increase skill cost recovery speed by {{SkillValue|980~1861}}. (Duration: {{SkillValue|5 seconds}})
-| SkillDescriptionLv1 = When using EX skill, increase skill cost recovery speed by {{SkillValue|980}}. (Duration: {{SkillValue|5 seconds}})
-| SkillDescriptionLv2 = When using EX skill, increase skill cost recovery speed by {{SkillValue|1029}}. (Duration: {{SkillValue|5 seconds}})
-| SkillDescriptionLv3 = When using EX skill, increase skill cost recovery speed by {{SkillValue|1078}}. (Duration: {{SkillValue|5 seconds}})
-| SkillDescriptionLv4 = When using EX skill, increase skill cost recovery speed by {{SkillValue|1273}}. (Duration: {{SkillValue|5 seconds}})
-| SkillDescriptionLv5 = When using EX skill, increase skill cost recovery speed by {{SkillValue|1322}}. (Duration: {{SkillValue|5 seconds}})
-| SkillDescriptionLv6 = When using EX skill, increase skill cost recovery speed by {{SkillValue|1371}}. (Duration: {{SkillValue|5 seconds}})
-| SkillDescriptionLv7 = When using EX skill, increase skill cost recovery speed by {{SkillValue|1567}}. (Duration: {{SkillValue|5 seconds}})
-| SkillDescriptionLv8 = When using EX skill, increase skill cost recovery speed by {{SkillValue|1616}}. (Duration: {{SkillValue|5 seconds}})
-| SkillDescriptionLv9 = When using EX skill, increase skill cost recovery speed by {{SkillValue|1665}}. (Duration: {{SkillValue|5 seconds}})
-| SkillDescriptionLv10 = When using EX skill, increase skill cost recovery speed by {{SkillValue|1861}}. (Duration: {{SkillValue|5 seconds}})
+| SkillDescriptionGeneral = When using EX skill, increase skill cost recovery speed by {{SkillValue|980~1861}}. (Duration: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv1 = When using EX skill, increase skill cost recovery speed by {{SkillValue|980}}. (Duration: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv2 = When using EX skill, increase skill cost recovery speed by {{SkillValue|1029}}. (Duration: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv3 = When using EX skill, increase skill cost recovery speed by {{SkillValue|1078}}. (Duration: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv4 = When using EX skill, increase skill cost recovery speed by {{SkillValue|1273}}. (Duration: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv5 = When using EX skill, increase skill cost recovery speed by {{SkillValue|1322}}. (Duration: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv6 = When using EX skill, increase skill cost recovery speed by {{SkillValue|1371}}. (Duration: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv7 = When using EX skill, increase skill cost recovery speed by {{SkillValue|1567}}. (Duration: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv8 = When using EX skill, increase skill cost recovery speed by {{SkillValue|1616}}. (Duration: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv9 = When using EX skill, increase skill cost recovery speed by {{SkillValue|1665}}. (Duration: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionLv10 = When using EX skill, increase skill cost recovery speed by {{SkillValue|1861}}. (Duration: {{SkillValue|5&nbsp;seconds}})
 }}
 
 [[Category:Characters]]

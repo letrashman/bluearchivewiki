@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|50.9~67%}}. (Duration {{SkillValue|30 seconds}})
-| SkillDescriptionLv1 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|50.9%}}. (Duration {{SkillValue|30 seconds}})
-| SkillDescriptionLv2 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|51.8%}}. (Duration {{SkillValue|30 seconds}})
-| SkillDescriptionLv3 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|52.7%}}. (Duration {{SkillValue|30 seconds}})
-| SkillDescriptionLv4 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|56.3%}}. (Duration {{SkillValue|30 seconds}})
-| SkillDescriptionLv5 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|57.2%}}. (Duration {{SkillValue|30 seconds}})
-| SkillDescriptionLv6 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|58.1%}}. (Duration {{SkillValue|30 seconds}})
-| SkillDescriptionLv7 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|61.7%}}. (Duration {{SkillValue|30 seconds}})
-| SkillDescriptionLv8 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|62.6%}}. (Duration {{SkillValue|30 seconds}})
-| SkillDescriptionLv9 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|63.5%}}. (Duration {{SkillValue|30 seconds}})
-| SkillDescriptionLv10 = Every {{SkillValue|40 seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|67%}}. (Duration {{SkillValue|30 seconds}})
+| SkillDescriptionGeneral = Every {{SkillValue|40&nbsp;seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|50.9~67%}}. (Duration {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|40&nbsp;seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|50.9%}}. (Duration {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|40&nbsp;seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|51.8%}}. (Duration {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|40&nbsp;seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|52.7%}}. (Duration {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|40&nbsp;seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|56.3%}}. (Duration {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|40&nbsp;seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|57.2%}}. (Duration {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|40&nbsp;seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|58.1%}}. (Duration {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|40&nbsp;seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|61.7%}}. (Duration {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|40&nbsp;seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|62.6%}}. (Duration {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|40&nbsp;seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|63.5%}}. (Duration {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|40&nbsp;seconds}}, increase the Evasion of 1 ally with the lowest current HP by {{SkillValue|67%}}. (Duration {{SkillValue|30&nbsp;seconds}})
 }}
 {{SkillTable
 | SkillName = Strengthened medical support

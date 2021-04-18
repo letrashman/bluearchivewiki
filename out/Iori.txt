@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|229~436%}} of Attack power against one enemy.
-| SkillDescriptionLv1 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|229%}} of Attack power against one enemy.
-| SkillDescriptionLv2 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|241%}} of Attack power against one enemy.
-| SkillDescriptionLv3 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|252%}} of Attack power against one enemy.
-| SkillDescriptionLv4 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|298%}} of Attack power against one enemy.
-| SkillDescriptionLv5 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|310%}} of Attack power against one enemy.
-| SkillDescriptionLv6 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|321%}} of Attack power against one enemy.
-| SkillDescriptionLv7 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|367%}} of Attack power against one enemy.
-| SkillDescriptionLv8 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|379%}} of Attack power against one enemy.
-| SkillDescriptionLv9 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|390%}} of Attack power against one enemy.
-| SkillDescriptionLv10 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|436%}} of Attack power against one enemy.
+| SkillDescriptionGeneral = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|229~436%}} of Attack power against one enemy.
+| SkillDescriptionLv1 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|229%}} of Attack power against one enemy.
+| SkillDescriptionLv2 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|241%}} of Attack power against one enemy.
+| SkillDescriptionLv3 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|252%}} of Attack power against one enemy.
+| SkillDescriptionLv4 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|298%}} of Attack power against one enemy.
+| SkillDescriptionLv5 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|310%}} of Attack power against one enemy.
+| SkillDescriptionLv6 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|321%}} of Attack power against one enemy.
+| SkillDescriptionLv7 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|367%}} of Attack power against one enemy.
+| SkillDescriptionLv8 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|379%}} of Attack power against one enemy.
+| SkillDescriptionLv9 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|390%}} of Attack power against one enemy.
+| SkillDescriptionLv10 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|436%}} of Attack power against one enemy.
 }}
 {{SkillTable
 | SkillName = Hitting the mark in one shot

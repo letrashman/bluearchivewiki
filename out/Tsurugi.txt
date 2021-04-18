@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_HEAL
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = When defeating an enemy, recover {{SkillValue|116~221%}} of Healing power. (Cooldown: {{SkillValue|10 seconds}})
-| SkillDescriptionLv1 = When defeating an enemy, recover {{SkillValue|116%}} of Healing power. (Cooldown: {{SkillValue|10 seconds}})
-| SkillDescriptionLv2 = When defeating an enemy, recover {{SkillValue|122%}} of Healing power. (Cooldown: {{SkillValue|10 seconds}})
-| SkillDescriptionLv3 = When defeating an enemy, recover {{SkillValue|127%}} of Healing power. (Cooldown: {{SkillValue|10 seconds}})
-| SkillDescriptionLv4 = When defeating an enemy, recover {{SkillValue|151%}} of Healing power. (Cooldown: {{SkillValue|10 seconds}})
-| SkillDescriptionLv5 = When defeating an enemy, recover {{SkillValue|157%}} of Healing power. (Cooldown: {{SkillValue|10 seconds}})
-| SkillDescriptionLv6 = When defeating an enemy, recover {{SkillValue|162%}} of Healing power. (Cooldown: {{SkillValue|10 seconds}})
-| SkillDescriptionLv7 = When defeating an enemy, recover {{SkillValue|186%}} of Healing power. (Cooldown: {{SkillValue|10 seconds}})
-| SkillDescriptionLv8 = When defeating an enemy, recover {{SkillValue|191%}} of Healing power. (Cooldown: {{SkillValue|10 seconds}})
-| SkillDescriptionLv9 = When defeating an enemy, recover {{SkillValue|197%}} of Healing power. (Cooldown: {{SkillValue|10 seconds}})
-| SkillDescriptionLv10 = When defeating an enemy, recover {{SkillValue|221%}} of Healing power. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionGeneral = When defeating an enemy, recover {{SkillValue|116~221%}} of Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv1 = When defeating an enemy, recover {{SkillValue|116%}} of Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv2 = When defeating an enemy, recover {{SkillValue|122%}} of Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv3 = When defeating an enemy, recover {{SkillValue|127%}} of Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv4 = When defeating an enemy, recover {{SkillValue|151%}} of Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv5 = When defeating an enemy, recover {{SkillValue|157%}} of Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv6 = When defeating an enemy, recover {{SkillValue|162%}} of Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv7 = When defeating an enemy, recover {{SkillValue|186%}} of Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv8 = When defeating an enemy, recover {{SkillValue|191%}} of Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv9 = When defeating an enemy, recover {{SkillValue|197%}} of Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv10 = When defeating an enemy, recover {{SkillValue|221%}} of Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
 }}
 {{SkillTable
 | SkillName = Agility

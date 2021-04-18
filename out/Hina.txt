@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_RELOAD
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|21~39.9%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv1 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|21%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv2 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|22.1%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv3 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|23.1%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv4 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|27.3%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv5 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|28.4%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv6 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|29.4%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv7 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|33.6%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv8 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|34.7%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv9 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|35.7%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv10 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|39.9%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionGeneral = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|21~39.9%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv1 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|21%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv2 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|22.1%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv3 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|23.1%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv4 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|27.3%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv5 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|28.4%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv6 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|29.4%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv7 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|33.6%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv8 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|34.7%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv9 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|35.7%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv10 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|39.9%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
 }}
 {{SkillTable
 | SkillName = Cool-headed Disciplinary committee
@@ -41,17 +41,17 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = Increases attack speed by {{SkillValue|14~26.6%}}.
-| SkillDescriptionLv1 = Increases attack speed by {{SkillValue|14%}}.
-| SkillDescriptionLv2 = Increases attack speed by {{SkillValue|14.7%}}.
-| SkillDescriptionLv3 = Increases attack speed by {{SkillValue|15.4%}}.
-| SkillDescriptionLv4 = Increases attack speed by {{SkillValue|18.2%}}.
-| SkillDescriptionLv5 = Increases attack speed by {{SkillValue|18.9%}}.
-| SkillDescriptionLv6 = Increases attack speed by {{SkillValue|19.6%}}.
-| SkillDescriptionLv7 = Increases attack speed by {{SkillValue|22.4%}}.
-| SkillDescriptionLv8 = Increases attack speed by {{SkillValue|23.1%}}.
-| SkillDescriptionLv9 = Increases attack speed by {{SkillValue|23.8%}}.
-| SkillDescriptionLv10 = Increases attack speed by {{SkillValue|26.6%}}.
+| SkillDescriptionGeneral = Increases Attack Speed by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increases Attack Speed by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increases Attack Speed by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increases Attack Speed by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increases Attack Speed by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increases Attack Speed by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increases Attack Speed by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increases Attack Speed by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increases Attack Speed by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increases Attack Speed by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increases Attack Speed by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
 | SkillName = From beginning to end

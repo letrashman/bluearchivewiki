@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Attack all enemies within a circular area for {{SkillValue|220~353%}} of Attack, inflict Stun status for {{SkillValue|2.2~2.9 seconds}}.
-| SkillDescriptionLv1 = Attack all enemies within a circular area for {{SkillValue|220%}} of Attack, inflict Stun status for {{SkillValue|2.2 seconds}}.
-| SkillDescriptionLv2 = Attack all enemies within a circular area for {{SkillValue|254%}} of Attack, inflict Stun status for {{SkillValue|2.2 seconds}}.
-| SkillDescriptionLv3 = Attack all enemies within a circular area for {{SkillValue|287%}} of Attack, inflict Stun status for {{SkillValue|2.5 seconds}}.
-| SkillDescriptionLv4 = Attack all enemies within a circular area for {{SkillValue|320%}} of Attack, inflict Stun status for {{SkillValue|2.5 seconds}}.
-| SkillDescriptionLv5 = Attack all enemies within a circular area for {{SkillValue|353%}} of Attack, inflict Stun status for {{SkillValue|2.9 seconds}}.
-| SkillDescriptionLv6 = Attack all enemies within a circular area for {{SkillValue|386%}} of Attack, inflict Stun status for {{SkillValue|2.9 seconds}}.
-| SkillDescriptionLv7 = Attack all enemies within a circular area for {{SkillValue|452%}} of Attack, inflict Stun status for {{SkillValue|2.9 seconds}}.
-| SkillDescriptionLv8 = Attack all enemies within a circular area for {{SkillValue|486%}} of Attack, inflict Stun status for {{SkillValue|2.9 seconds}}.
-| SkillDescriptionLv9 = Attack all enemies within a circular area for {{SkillValue|552%}} of Attack, inflict Stun status for {{SkillValue|2.9 seconds}}.
-| SkillDescriptionLv10 = Attack all enemies within a circular area for {{SkillValue|585%}} of Attack, inflict Stun status for {{SkillValue|2.9 seconds}}.
+| SkillDescriptionGeneral = Attack all enemies within a circular area for {{SkillValue|220~353%}} of Attack, inflict Stun status for {{SkillValue|2.2~2.9&nbsp;seconds}}.
+| SkillDescriptionLv1 = Attack all enemies within a circular area for {{SkillValue|220%}} of Attack, inflict Stun status for {{SkillValue|2.2&nbsp;seconds}}.
+| SkillDescriptionLv2 = Attack all enemies within a circular area for {{SkillValue|254%}} of Attack, inflict Stun status for {{SkillValue|2.2&nbsp;seconds}}.
+| SkillDescriptionLv3 = Attack all enemies within a circular area for {{SkillValue|287%}} of Attack, inflict Stun status for {{SkillValue|2.5&nbsp;seconds}}.
+| SkillDescriptionLv4 = Attack all enemies within a circular area for {{SkillValue|320%}} of Attack, inflict Stun status for {{SkillValue|2.5&nbsp;seconds}}.
+| SkillDescriptionLv5 = Attack all enemies within a circular area for {{SkillValue|353%}} of Attack, inflict Stun status for {{SkillValue|2.9&nbsp;seconds}}.
+| SkillDescriptionLv6 = Attack all enemies within a circular area for {{SkillValue|386%}} of Attack, inflict Stun status for {{SkillValue|2.9&nbsp;seconds}}.
+| SkillDescriptionLv7 = Attack all enemies within a circular area for {{SkillValue|452%}} of Attack, inflict Stun status for {{SkillValue|2.9&nbsp;seconds}}.
+| SkillDescriptionLv8 = Attack all enemies within a circular area for {{SkillValue|486%}} of Attack, inflict Stun status for {{SkillValue|2.9&nbsp;seconds}}.
+| SkillDescriptionLv9 = Attack all enemies within a circular area for {{SkillValue|552%}} of Attack, inflict Stun status for {{SkillValue|2.9&nbsp;seconds}}.
+| SkillDescriptionLv10 = Attack all enemies within a circular area for {{SkillValue|585%}} of Attack, inflict Stun status for {{SkillValue|2.9&nbsp;seconds}}.
 }}
 {{SkillTable
 | SkillName = Do you want to get hurt?!
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|191~364%}} of Attack.
-| SkillDescriptionLv1 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|191%}} of Attack.
-| SkillDescriptionLv2 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|201%}} of Attack.
-| SkillDescriptionLv3 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|210%}} of Attack.
-| SkillDescriptionLv4 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|249%}} of Attack.
-| SkillDescriptionLv5 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|258%}} of Attack.
-| SkillDescriptionLv6 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|268%}} of Attack.
-| SkillDescriptionLv7 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|306%}} of Attack.
-| SkillDescriptionLv8 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|316%}} of Attack.
-| SkillDescriptionLv9 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|325%}} of Attack.
-| SkillDescriptionLv10 = Every {{SkillValue|25 seconds}}, attack all enemies within a circular area for {{SkillValue|364%}} of Attack.
+| SkillDescriptionGeneral = Every {{SkillValue|25&nbsp;seconds}}, attack all enemies within a circular area for {{SkillValue|191~364%}} of Attack.
+| SkillDescriptionLv1 = Every {{SkillValue|25&nbsp;seconds}}, attack all enemies within a circular area for {{SkillValue|191%}} of Attack.
+| SkillDescriptionLv2 = Every {{SkillValue|25&nbsp;seconds}}, attack all enemies within a circular area for {{SkillValue|201%}} of Attack.
+| SkillDescriptionLv3 = Every {{SkillValue|25&nbsp;seconds}}, attack all enemies within a circular area for {{SkillValue|210%}} of Attack.
+| SkillDescriptionLv4 = Every {{SkillValue|25&nbsp;seconds}}, attack all enemies within a circular area for {{SkillValue|249%}} of Attack.
+| SkillDescriptionLv5 = Every {{SkillValue|25&nbsp;seconds}}, attack all enemies within a circular area for {{SkillValue|258%}} of Attack.
+| SkillDescriptionLv6 = Every {{SkillValue|25&nbsp;seconds}}, attack all enemies within a circular area for {{SkillValue|268%}} of Attack.
+| SkillDescriptionLv7 = Every {{SkillValue|25&nbsp;seconds}}, attack all enemies within a circular area for {{SkillValue|306%}} of Attack.
+| SkillDescriptionLv8 = Every {{SkillValue|25&nbsp;seconds}}, attack all enemies within a circular area for {{SkillValue|316%}} of Attack.
+| SkillDescriptionLv9 = Every {{SkillValue|25&nbsp;seconds}}, attack all enemies within a circular area for {{SkillValue|325%}} of Attack.
+| SkillDescriptionLv10 = Every {{SkillValue|25&nbsp;seconds}}, attack all enemies within a circular area for {{SkillValue|364%}} of Attack.
 }}
 {{SkillTable
 | SkillName = D-Don't make fun of me!

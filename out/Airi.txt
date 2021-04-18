@@ -1,86 +1,75 @@
 ===Skills===
 {{EXSkillTable
-| SkillName = None
+| SkillName = It's a waste but... umph!
 | SkillNameJP = 勿体ないけど……えぇいっ！
 | SkillIconType = SKILLICON_AIRI_EXSKILL
 | SkillDamageType = Explosive
 | SkillBaseCost = 5
-| SkillDescriptionGeneral = 円形範囲内の敵に対して、攻撃力の{{SkillValue|743%}}分のダメージ/
-さらに移動速度を{{SkillValue|22.8%}}減少、攻撃速度を{{SkillValue|26.2%}}減少（{{SkillValue|20秒}}間）
-| SkillDescriptionLv1 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|265%}}分のダメージ/
-さらに移動速度を{{SkillValue|22.8%}}減少（{{SkillValue|20秒}}間）
-| SkillDescriptionLv2 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|305%}}分のダメージ/
-さらに移動速度を{{SkillValue|22.8%}}減少（{{SkillValue|20秒}}間）
-| SkillDescriptionLv3 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|345%}}分のダメージ/
-さらに移動速度を{{SkillValue|22.8%}}減少、攻撃速度を{{SkillValue|26.2%}}減少（{{SkillValue|20秒}}間）
-| SkillDescriptionLv4 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|384%}}分のダメージ/
-さらに移動速度を{{SkillValue|22.8%}}減少、攻撃速度を{{SkillValue|26.2%}}減少（{{SkillValue|20秒}}間）
-| SkillDescriptionLv5 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|464%}}分のダメージ/
-さらに移動速度を{{SkillValue|22.8%}}減少、攻撃速度を{{SkillValue|26.2%}}減少（{{SkillValue|20秒}}間）
-| SkillDescriptionLv6 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|504%}}分のダメージ/
-さらに移動速度を{{SkillValue|22.8%}}減少、攻撃速度を{{SkillValue|26.2%}}減少（{{SkillValue|20秒}}間）
-| SkillDescriptionLv7 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|583%}}分のダメージ/
-さらに移動速度を{{SkillValue|22.8%}}減少、攻撃速度を{{SkillValue|26.2%}}減少（{{SkillValue|20秒}}間）
-| SkillDescriptionLv8 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|623%}}分のダメージ/
-さらに移動速度を{{SkillValue|22.8%}}減少、攻撃速度を{{SkillValue|26.2%}}減少（{{SkillValue|20秒}}間）
-| SkillDescriptionLv9 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|703%}}分のダメージ/
-さらに移動速度を{{SkillValue|22.8%}}減少、攻撃速度を{{SkillValue|26.2%}}減少（{{SkillValue|20秒}}間）
-| SkillDescriptionLv10 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|743%}}分のダメージ/
-さらに移動速度を{{SkillValue|22.8%}}減少、攻撃速度を{{SkillValue|26.2%}}減少（{{SkillValue|20秒}}間）
+| SkillDescriptionGeneral = Attack all enemies in a circular area for {{SkillValue|265~464%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|0~26.2%}} and reduce attack speed by {{SkillValue|0~20&nbsp;seconds}} for {{SkillValue|0~26.2%}}.
+| SkillDescriptionLv1 = Attack all enemies in a circular area for {{SkillValue|265%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for $4.
+| SkillDescriptionLv2 = Attack all enemies in a circular area for {{SkillValue|305%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for $4.
+| SkillDescriptionLv3 = Attack all enemies in a circular area for {{SkillValue|345%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|20&nbsp;seconds}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20&nbsp;seconds}}.
+| SkillDescriptionLv4 = Attack all enemies in a circular area for {{SkillValue|384%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|20&nbsp;seconds}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20&nbsp;seconds}}.
+| SkillDescriptionLv5 = Attack all enemies in a circular area for {{SkillValue|464%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|20&nbsp;seconds}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20&nbsp;seconds}}.
+| SkillDescriptionLv6 = Attack all enemies in a circular area for {{SkillValue|504%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|20&nbsp;seconds}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20&nbsp;seconds}}.
+| SkillDescriptionLv7 = Attack all enemies in a circular area for {{SkillValue|583%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|20&nbsp;seconds}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20&nbsp;seconds}}.
+| SkillDescriptionLv8 = Attack all enemies in a circular area for {{SkillValue|623%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|20&nbsp;seconds}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20&nbsp;seconds}}.
+| SkillDescriptionLv9 = Attack all enemies in a circular area for {{SkillValue|703%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|20&nbsp;seconds}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20&nbsp;seconds}}.
+| SkillDescriptionLv10 = Attack all enemies in a circular area for {{SkillValue|743%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|20&nbsp;seconds}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20&nbsp;seconds}}.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = You might feel a little brain freeze...
 | SkillNameJP = 頭がキーンってするかも……
 | SkillIconType = COMMON_SKILLICON_STATDEBUFF
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、敵1人に対して攻撃速度を{{SkillValue|35.1%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv1 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃速度を{{SkillValue|18.4%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv2 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃速度を{{SkillValue|19.4%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv3 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃速度を{{SkillValue|20.3%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv4 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃速度を{{SkillValue|24%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv5 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃速度を{{SkillValue|24.9%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv6 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃速度を{{SkillValue|25.8%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv7 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃速度を{{SkillValue|29.5%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv8 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃速度を{{SkillValue|30.5%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv9 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃速度を{{SkillValue|31.4%}}減少（{{SkillValue|30秒}}間）
-| SkillDescriptionLv10 = {{SkillValue|25秒}}毎に、敵1人に対して攻撃速度を{{SkillValue|35.1%}}減少（{{SkillValue|30秒}}間）
+| SkillDescriptionGeneral = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|18.4~35.1%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|18.4%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|19.4%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|20.3%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|24%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|24.9%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|25.8%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|29.5%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|30.5%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|31.4%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|35.1%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = The power of pudding
 | SkillNameJP = デザートの力
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = 攻撃力を{{SkillValue|26.6%}}増加
-| SkillDescriptionLv1 = 攻撃力を{{SkillValue|14%}}増加
-| SkillDescriptionLv2 = 攻撃力を{{SkillValue|14.7%}}増加
-| SkillDescriptionLv3 = 攻撃力を{{SkillValue|15.4%}}増加
-| SkillDescriptionLv4 = 攻撃力を{{SkillValue|18.2%}}増加
-| SkillDescriptionLv5 = 攻撃力を{{SkillValue|18.9%}}増加
-| SkillDescriptionLv6 = 攻撃力を{{SkillValue|19.6%}}増加
-| SkillDescriptionLv7 = 攻撃力を{{SkillValue|22.4%}}増加
-| SkillDescriptionLv8 = 攻撃力を{{SkillValue|23.1%}}増加
-| SkillDescriptionLv9 = 攻撃力を{{SkillValue|23.8%}}増加
-| SkillDescriptionLv10 = 攻撃力を{{SkillValue|26.6%}}増加
+| SkillDescriptionGeneral = Increase Attack by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Attack by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Attack by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Attack by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Attack by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Attack by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Attack by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Attack by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Attack by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Attack by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Attack by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Airi's encouragement
 | SkillNameJP = アイリの声援
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = 味方の攻撃速度を{{SkillValue|17.3%}}増加
-| SkillDescriptionLv1 = 味方の攻撃速度を{{SkillValue|9.1%}}増加
-| SkillDescriptionLv2 = 味方の攻撃速度を{{SkillValue|9.5%}}増加
-| SkillDescriptionLv3 = 味方の攻撃速度を{{SkillValue|10%}}増加
-| SkillDescriptionLv4 = 味方の攻撃速度を{{SkillValue|11.8%}}増加
-| SkillDescriptionLv5 = 味方の攻撃速度を{{SkillValue|12.3%}}増加
-| SkillDescriptionLv6 = 味方の攻撃速度を{{SkillValue|12.7%}}増加
-| SkillDescriptionLv7 = 味方の攻撃速度を{{SkillValue|14.5%}}増加
-| SkillDescriptionLv8 = 味方の攻撃速度を{{SkillValue|15%}}増加
-| SkillDescriptionLv9 = 味方の攻撃速度を{{SkillValue|15.5%}}増加
-| SkillDescriptionLv10 = 味方の攻撃速度を{{SkillValue|17.3%}}増加
+| SkillDescriptionGeneral = Increase Attack Speed of all allies by {{SkillValue|9.1~17.3%}}.
+| SkillDescriptionLv1 = Increase Attack Speed of all allies by {{SkillValue|9.1%}}.
+| SkillDescriptionLv2 = Increase Attack Speed of all allies by {{SkillValue|9.5%}}.
+| SkillDescriptionLv3 = Increase Attack Speed of all allies by {{SkillValue|10%}}.
+| SkillDescriptionLv4 = Increase Attack Speed of all allies by {{SkillValue|11.8%}}.
+| SkillDescriptionLv5 = Increase Attack Speed of all allies by {{SkillValue|12.3%}}.
+| SkillDescriptionLv6 = Increase Attack Speed of all allies by {{SkillValue|12.7%}}.
+| SkillDescriptionLv7 = Increase Attack Speed of all allies by {{SkillValue|14.5%}}.
+| SkillDescriptionLv8 = Increase Attack Speed of all allies by {{SkillValue|15%}}.
+| SkillDescriptionLv9 = Increase Attack Speed of all allies by {{SkillValue|15.5%}}.
+| SkillDescriptionLv10 = Increase Attack Speed of all allies by {{SkillValue|17.3%}}.
 }}
 
 [[Category:Characters]]

@@ -1,86 +1,75 @@
 ===Skills===
 {{EXSkillTable
-| SkillName = None
+| SkillName = Here I go!
 | SkillNameJP = 行っくよー！
 | SkillIconType = COMMON_SKILLICON_EVASION
 | SkillDamageType = Mystic
 | SkillBaseCost = 2
-| SkillDescriptionGeneral = スキルの使用中、回避値を{{SkillValue|43.4%}}増加/
-攻撃速度を{{SkillValue|89%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv1 = スキルの使用中、回避値を{{SkillValue|43.4%}}増加/
-攻撃速度を{{SkillValue|30.2%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv2 = スキルの使用中、回避値を{{SkillValue|43.4%}}増加/
-攻撃速度を{{SkillValue|34.7%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv3 = スキルの使用中、回避値を{{SkillValue|43.4%}}増加/
-攻撃速度を{{SkillValue|43.7%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv4 = スキルの使用中、回避値を{{SkillValue|43.4%}}増加/
-攻撃速度を{{SkillValue|48.3%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv5 = スキルの使用中、回避値を{{SkillValue|43.4%}}増加/
-攻撃速度を{{SkillValue|57.3%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv6 = スキルの使用中、回避値を{{SkillValue|43.4%}}増加/
-攻撃速度を{{SkillValue|61.9%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv7 = スキルの使用中、回避値を{{SkillValue|43.4%}}増加/
-攻撃速度を{{SkillValue|70.9%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv8 = スキルの使用中、回避値を{{SkillValue|43.4%}}増加/
-攻撃速度を{{SkillValue|75.4%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv9 = スキルの使用中、回避値を{{SkillValue|43.4%}}増加/
-攻撃速度を{{SkillValue|84.5%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv10 = スキルの使用中、回避値を{{SkillValue|43.4%}}増加/
-攻撃速度を{{SkillValue|89%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionGeneral = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|30.2~57.3%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv1 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|30.2%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv2 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|34.7%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv3 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|43.7%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv4 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|48.3%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv5 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|57.3%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv6 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|61.9%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv7 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|70.9%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv8 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|75.4%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv9 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|84.5%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv10 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|89%}} for {{SkillValue|30&nbsp;seconds}}.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = I'm gonna fire!
 | SkillNameJP = 撃つよーっ！
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Mystic
 | SkillType = Normal
-| SkillDescriptionGeneral = {{SkillValue|20秒}}毎に敵1人に対して攻撃力の{{SkillValue|416%}}分のダメージ
-| SkillDescriptionLv1 = {{SkillValue|20秒}}毎に敵1人に対して攻撃力の{{SkillValue|219%}}分のダメージ
-| SkillDescriptionLv2 = {{SkillValue|20秒}}毎に敵1人に対して攻撃力の{{SkillValue|230%}}分のダメージ
-| SkillDescriptionLv3 = {{SkillValue|20秒}}毎に敵1人に対して攻撃力の{{SkillValue|241%}}分のダメージ
-| SkillDescriptionLv4 = {{SkillValue|20秒}}毎に敵1人に対して攻撃力の{{SkillValue|284%}}分のダメージ
-| SkillDescriptionLv5 = {{SkillValue|20秒}}毎に敵1人に対して攻撃力の{{SkillValue|295%}}分のダメージ
-| SkillDescriptionLv6 = {{SkillValue|20秒}}毎に敵1人に対して攻撃力の{{SkillValue|306%}}分のダメージ
-| SkillDescriptionLv7 = {{SkillValue|20秒}}毎に敵1人に対して攻撃力の{{SkillValue|350%}}分のダメージ
-| SkillDescriptionLv8 = {{SkillValue|20秒}}毎に敵1人に対して攻撃力の{{SkillValue|361%}}分のダメージ
-| SkillDescriptionLv9 = {{SkillValue|20秒}}毎に敵1人に対して攻撃力の{{SkillValue|372%}}分のダメージ
-| SkillDescriptionLv10 = {{SkillValue|20秒}}毎に敵1人に対して攻撃力の{{SkillValue|416%}}分のダメージ
+| SkillDescriptionGeneral = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|219~416%}} damage to one enemy.
+| SkillDescriptionLv1 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|219%}} damage to one enemy.
+| SkillDescriptionLv2 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|230%}} damage to one enemy.
+| SkillDescriptionLv3 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|241%}} damage to one enemy.
+| SkillDescriptionLv4 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|284%}} damage to one enemy.
+| SkillDescriptionLv5 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|295%}} damage to one enemy.
+| SkillDescriptionLv6 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|306%}} damage to one enemy.
+| SkillDescriptionLv7 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|350%}} damage to one enemy.
+| SkillDescriptionLv8 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|361%}} damage to one enemy.
+| SkillDescriptionLv9 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|372%}} damage to one enemy.
+| SkillDescriptionLv10 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|416%}} damage to one enemy.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Does that hurt?
 | SkillNameJP = これは痛いよ？
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Mystic
 | SkillType = Passive
-| SkillDescriptionGeneral = 会心ダメージ率を{{SkillValue|26.6%}}増加
-| SkillDescriptionLv1 = 会心ダメージ率を{{SkillValue|14%}}増加
-| SkillDescriptionLv2 = 会心ダメージ率を{{SkillValue|14.7%}}増加
-| SkillDescriptionLv3 = 会心ダメージ率を{{SkillValue|15.4%}}増加
-| SkillDescriptionLv4 = 会心ダメージ率を{{SkillValue|18.2%}}増加
-| SkillDescriptionLv5 = 会心ダメージ率を{{SkillValue|18.9%}}増加
-| SkillDescriptionLv6 = 会心ダメージ率を{{SkillValue|19.6%}}増加
-| SkillDescriptionLv7 = 会心ダメージ率を{{SkillValue|22.4%}}増加
-| SkillDescriptionLv8 = 会心ダメージ率を{{SkillValue|23.1%}}増加
-| SkillDescriptionLv9 = 会心ダメージ率を{{SkillValue|23.8%}}増加
-| SkillDescriptionLv10 = 会心ダメージ率を{{SkillValue|26.6%}}増加
+| SkillDescriptionGeneral = Increase Critical Damage by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Critical Damage by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Critical Damage by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Critical Damage by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Critical Damage by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Critical Damage by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Critical Damage by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Critical Damage by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Critical Damage by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Critical Damage by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Critical Damage by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = We're gonna speed things up, okay?
 | SkillNameJP = スピード上げるね？
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Mystic
 | SkillType = Sub
-| SkillDescriptionGeneral = Exスキルの使用時、攻撃速度を{{SkillValue|38.3%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv1 = Exスキルの使用時、攻撃速度を{{SkillValue|20.1%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv2 = Exスキルの使用時、攻撃速度を{{SkillValue|21.1%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv3 = Exスキルの使用時、攻撃速度を{{SkillValue|22.1%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv4 = Exスキルの使用時、攻撃速度を{{SkillValue|26.2%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv5 = Exスキルの使用時、攻撃速度を{{SkillValue|27.2%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv6 = Exスキルの使用時、攻撃速度を{{SkillValue|28.2%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv7 = Exスキルの使用時、攻撃速度を{{SkillValue|32.2%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv8 = Exスキルの使用時、攻撃速度を{{SkillValue|33.2%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv9 = Exスキルの使用時、攻撃速度を{{SkillValue|34.2%}}増加（{{SkillValue|30秒}}間）
-| SkillDescriptionLv10 = Exスキルの使用時、攻撃速度を{{SkillValue|38.3%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionGeneral = When EX skill is activated increase Attack Speed by {{SkillValue|20.1~38.3%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv1 = When EX skill is activated increase Attack Speed by {{SkillValue|20.1%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv2 = When EX skill is activated increase Attack Speed by {{SkillValue|21.1%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv3 = When EX skill is activated increase Attack Speed by {{SkillValue|22.1%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv4 = When EX skill is activated increase Attack Speed by {{SkillValue|26.2%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv5 = When EX skill is activated increase Attack Speed by {{SkillValue|27.2%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv6 = When EX skill is activated increase Attack Speed by {{SkillValue|28.2%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv7 = When EX skill is activated increase Attack Speed by {{SkillValue|32.2%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv8 = When EX skill is activated increase Attack Speed by {{SkillValue|33.2%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv9 = When EX skill is activated increase Attack Speed by {{SkillValue|34.2%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv10 = When EX skill is activated increase Attack Speed by {{SkillValue|38.3%}} for {{SkillValue|30&nbsp;seconds}}.
 }}
 
 [[Category:Characters]]

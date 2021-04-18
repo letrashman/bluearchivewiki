@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|20 seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|18.1~34.4%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv1 = Every {{SkillValue|20 seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|18.1%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv2 = Every {{SkillValue|20 seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|19%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv3 = Every {{SkillValue|20 seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|19.9%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv4 = Every {{SkillValue|20 seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|23.6%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv5 = Every {{SkillValue|20 seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|24.5%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv6 = Every {{SkillValue|20 seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|25.4%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv7 = Every {{SkillValue|20 seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|29%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv8 = Every {{SkillValue|20 seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|29.9%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv9 = Every {{SkillValue|20 seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|30.8%}}. (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv10 = Every {{SkillValue|20 seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|34.4%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionGeneral = Every {{SkillValue|20&nbsp;seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|18.1~34.4%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|20&nbsp;seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|18.1%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|20&nbsp;seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|19%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|20&nbsp;seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|19.9%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|20&nbsp;seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|23.6%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|20&nbsp;seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|24.5%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|20&nbsp;seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|25.4%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|20&nbsp;seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|29%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|20&nbsp;seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|29.9%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|20&nbsp;seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|30.8%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|20&nbsp;seconds}}, Fuuka increases the defense of the ally with the highest HP by {{SkillValue|34.4%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
 }}
 {{SkillTable
 | SkillName = Let's garther fresh ingredients

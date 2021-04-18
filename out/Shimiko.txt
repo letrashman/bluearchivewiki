@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_OBSTACLE
 | SkillDamageType = Explosive
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|16.3~26.2%}}. (Duration: {{SkillValue|30 seconds}})
-| SkillDescriptionLv1 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|16.3%}}. (Duration: {{SkillValue|30 seconds}})
-| SkillDescriptionLv2 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|18.8%}}. (Duration: {{SkillValue|30 seconds}})
-| SkillDescriptionLv3 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|21.3%}}. (Duration: {{SkillValue|30 seconds}})
-| SkillDescriptionLv4 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|23.7%}}. (Duration: {{SkillValue|30 seconds}})
-| SkillDescriptionLv5 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|26.2%}}. (Duration: {{SkillValue|30 seconds}})
-| SkillDescriptionLv6 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|28.6%}}. (Duration: {{SkillValue|30 seconds}})
-| SkillDescriptionLv7 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|33.6%}}. (Duration: {{SkillValue|30 seconds}})
-| SkillDescriptionLv8 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|36%}}. (Duration: {{SkillValue|30 seconds}})
-| SkillDescriptionLv9 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|40.9%}}. (Duration: {{SkillValue|30 seconds}})
-| SkillDescriptionLv10 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|43.4%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionGeneral = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|16.3~26.2%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv1 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|16.3%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv2 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|18.8%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv3 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|21.3%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv4 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|23.7%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv5 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|26.2%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv6 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|28.6%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv7 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|33.6%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv8 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|36%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv9 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|40.9%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv10 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|43.4%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
 }}
 {{SkillTable
 | SkillName = Chicken soup for the Soul
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_SHIELD
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|119~226%}} to Healing). (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv1 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|119%}} to Healing). (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv2 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|125%}} to Healing). (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv3 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|131%}} to Healing). (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv4 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|154%}} to Healing). (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv5 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|160%}} to Healing). (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv6 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|166%}} to Healing). (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv7 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|190%}} to Healing). (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv8 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|196%}} to Healing). (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv9 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|202%}} to Healing). (Duration: {{SkillValue|16 seconds}})
-| SkillDescriptionLv10 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|226%}} to Healing). (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionGeneral = For every {{SkillValue|35&nbsp;seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|119~226%}} to Healing). (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv1 = For every {{SkillValue|35&nbsp;seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|119%}} to Healing). (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv2 = For every {{SkillValue|35&nbsp;seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|125%}} to Healing). (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv3 = For every {{SkillValue|35&nbsp;seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|131%}} to Healing). (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv4 = For every {{SkillValue|35&nbsp;seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|154%}} to Healing). (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv5 = For every {{SkillValue|35&nbsp;seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|160%}} to Healing). (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv6 = For every {{SkillValue|35&nbsp;seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|166%}} to Healing). (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv7 = For every {{SkillValue|35&nbsp;seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|190%}} to Healing). (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv8 = For every {{SkillValue|35&nbsp;seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|196%}} to Healing). (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv9 = For every {{SkillValue|35&nbsp;seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|202%}} to Healing). (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionLv10 = For every {{SkillValue|35&nbsp;seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|226%}} to Healing). (Duration: {{SkillValue|16&nbsp;seconds}})
 }}
 {{SkillTable
 | SkillName = Let's accumulate more knowledge!

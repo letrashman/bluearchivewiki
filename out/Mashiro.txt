@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|150~286%}} Attack.
-| SkillDescriptionLv1 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|150%}} Attack.
-| SkillDescriptionLv2 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|158%}} Attack.
-| SkillDescriptionLv3 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|166%}} Attack.
-| SkillDescriptionLv4 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|196%}} Attack.
-| SkillDescriptionLv5 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|203%}} Attack.
-| SkillDescriptionLv6 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|211%}} Attack.
-| SkillDescriptionLv7 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|241%}} Attack.
-| SkillDescriptionLv8 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|249%}} Attack.
-| SkillDescriptionLv9 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|256%}} Attack.
-| SkillDescriptionLv10 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|286%}} Attack.
+| SkillDescriptionGeneral = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|150~286%}} Attack.
+| SkillDescriptionLv1 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|150%}} Attack.
+| SkillDescriptionLv2 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|158%}} Attack.
+| SkillDescriptionLv3 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|166%}} Attack.
+| SkillDescriptionLv4 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|196%}} Attack.
+| SkillDescriptionLv5 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|203%}} Attack.
+| SkillDescriptionLv6 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|211%}} Attack.
+| SkillDescriptionLv7 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|241%}} Attack.
+| SkillDescriptionLv8 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|249%}} Attack.
+| SkillDescriptionLv9 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|256%}} Attack.
+| SkillDescriptionLv10 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|286%}} Attack.
 }}
 {{SkillTable
 | SkillName = Sprit of Justice

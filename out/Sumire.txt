@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|25.2~47.9%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv1 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|25.2%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv2 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|26.4%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv3 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|27.7%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv4 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|32.8%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv5 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|34%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv6 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|35.3%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv7 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|40.3%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv8 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|41.6%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv9 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|42.8%}}. (Duration: {{SkillValue|20 seconds}})
-| SkillDescriptionLv10 = Every {{SkillValue|40 seconds}}, increase Attack by {{SkillValue|47.9%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionGeneral = Every {{SkillValue|40&nbsp;seconds}}, increase Attack by {{SkillValue|25.2~47.9%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|40&nbsp;seconds}}, increase Attack by {{SkillValue|25.2%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|40&nbsp;seconds}}, increase Attack by {{SkillValue|26.4%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|40&nbsp;seconds}}, increase Attack by {{SkillValue|27.7%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|40&nbsp;seconds}}, increase Attack by {{SkillValue|32.8%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|40&nbsp;seconds}}, increase Attack by {{SkillValue|34%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|40&nbsp;seconds}}, increase Attack by {{SkillValue|35.3%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|40&nbsp;seconds}}, increase Attack by {{SkillValue|40.3%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|40&nbsp;seconds}}, increase Attack by {{SkillValue|41.6%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|40&nbsp;seconds}}, increase Attack by {{SkillValue|42.8%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|40&nbsp;seconds}}, increase Attack by {{SkillValue|47.9%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
 }}
 {{SkillTable
 | SkillName = Pinpoint Attack

@@ -1,75 +1,75 @@
 ===Skills===
 {{EXSkillTable
-| SkillName = None
+| SkillName = One large serving of grenades!
 | SkillNameJP = グレネード、大盛りで！
 | SkillIconType = COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Explosive
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = 円形範囲内の敵に攻撃力の{{SkillValue|1156%}}分のダメージ
-| SkillDescriptionLv1 = 円形範囲内の敵に攻撃力の{{SkillValue|392%}}分のダメージ
-| SkillDescriptionLv2 = 円形範囲内の敵に攻撃力の{{SkillValue|450%}}分のダメージ
-| SkillDescriptionLv3 = 円形範囲内の敵に攻撃力の{{SkillValue|568%}}分のダメージ
-| SkillDescriptionLv4 = 円形範囲内の敵に攻撃力の{{SkillValue|627%}}分のダメージ
-| SkillDescriptionLv5 = 円形範囲内の敵に攻撃力の{{SkillValue|744%}}分のダメージ
-| SkillDescriptionLv6 = 円形範囲内の敵に攻撃力の{{SkillValue|803%}}分のダメージ
-| SkillDescriptionLv7 = 円形範囲内の敵に攻撃力の{{SkillValue|921%}}分のダメージ
-| SkillDescriptionLv8 = 円形範囲内の敵に攻撃力の{{SkillValue|980%}}分のダメージ
-| SkillDescriptionLv9 = 円形範囲内の敵に攻撃力の{{SkillValue|1097%}}分のダメージ
-| SkillDescriptionLv10 = 円形範囲内の敵に攻撃力の{{SkillValue|1156%}}分のダメージ
+| SkillDescriptionGeneral = Deal {{SkillValue|392~744%}} Attack damage to enemies in circular area.
+| SkillDescriptionLv1 = Deal {{SkillValue|392%}} Attack damage to enemies in circular area.
+| SkillDescriptionLv2 = Deal {{SkillValue|450%}} Attack damage to enemies in circular area.
+| SkillDescriptionLv3 = Deal {{SkillValue|568%}} Attack damage to enemies in circular area.
+| SkillDescriptionLv4 = Deal {{SkillValue|627%}} Attack damage to enemies in circular area.
+| SkillDescriptionLv5 = Deal {{SkillValue|744%}} Attack damage to enemies in circular area.
+| SkillDescriptionLv6 = Deal {{SkillValue|803%}} Attack damage to enemies in circular area.
+| SkillDescriptionLv7 = Deal {{SkillValue|921%}} Attack damage to enemies in circular area.
+| SkillDescriptionLv8 = Deal {{SkillValue|980%}} Attack damage to enemies in circular area.
+| SkillDescriptionLv9 = Deal {{SkillValue|1097%}} Attack damage to enemies in circular area.
+| SkillDescriptionLv10 = Deal {{SkillValue|1156%}} Attack damage to enemies in circular area.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = One spicy second serving!
 | SkillNameJP = おかわり、ちょっと辛めで！
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|73.6%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
-| SkillDescriptionLv1 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|38.7%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
-| SkillDescriptionLv2 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|40.7%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
-| SkillDescriptionLv3 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|42.6%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
-| SkillDescriptionLv4 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|50.4%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
-| SkillDescriptionLv5 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|52.3%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
-| SkillDescriptionLv6 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|54.2%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
-| SkillDescriptionLv7 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|62%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
-| SkillDescriptionLv8 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|63.9%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
-| SkillDescriptionLv9 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|65.9%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
-| SkillDescriptionLv10 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|73.6%}}増加（{{SkillValue|20秒}}間）（クールタイム{{SkillValue|15秒}}）
+| SkillDescriptionGeneral = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|38.7~73.6%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv1 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|38.7%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv2 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|40.7%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv3 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|42.6%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv4 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|50.4%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv5 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|52.3%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv6 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|54.2%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv7 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|62%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv8 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|63.9%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv9 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|65.9%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv10 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|73.6%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Thanks for the food!
 | SkillNameJP = ごちそうさまです！
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = HPを{{SkillValue|26.6%}}増加
-| SkillDescriptionLv1 = HPを{{SkillValue|14%}}増加
-| SkillDescriptionLv2 = HPを{{SkillValue|14.7%}}増加
-| SkillDescriptionLv3 = HPを{{SkillValue|15.4%}}増加
-| SkillDescriptionLv4 = HPを{{SkillValue|18.2%}}増加
-| SkillDescriptionLv5 = HPを{{SkillValue|18.9%}}増加
-| SkillDescriptionLv6 = HPを{{SkillValue|19.6%}}増加
-| SkillDescriptionLv7 = HPを{{SkillValue|22.4%}}増加
-| SkillDescriptionLv8 = HPを{{SkillValue|23.1%}}増加
-| SkillDescriptionLv9 = HPを{{SkillValue|23.8%}}増加
-| SkillDescriptionLv10 = HPを{{SkillValue|26.6%}}増加
+| SkillDescriptionGeneral = Increase HP by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase HP by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase HP by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase HP by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase HP by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase HP by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase HP by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase HP by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase HP by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase HP by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase HP by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = I can still eat more and more!
 | SkillNameJP = まだまだ食べられますよ！
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|65.5%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
-| SkillDescriptionLv1 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|34.4%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
-| SkillDescriptionLv2 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|36.2%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
-| SkillDescriptionLv3 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|37.9%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
-| SkillDescriptionLv4 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|44.8%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
-| SkillDescriptionLv5 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|46.5%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
-| SkillDescriptionLv6 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|48.2%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
-| SkillDescriptionLv7 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|55.1%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
-| SkillDescriptionLv8 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|56.8%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
-| SkillDescriptionLv9 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|58.6%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
-| SkillDescriptionLv10 = 通常攻撃時、{{SkillValue|10%}}の確率で攻撃力を{{SkillValue|65.5%}}増加（{{SkillValue|26秒}}間）（クールタイム{{SkillValue|18秒}}）
+| SkillDescriptionGeneral = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|34.4~65.5%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
+| SkillDescriptionLv1 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|34.4%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
+| SkillDescriptionLv2 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|36.2%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
+| SkillDescriptionLv3 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|37.9%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
+| SkillDescriptionLv4 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|44.8%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
+| SkillDescriptionLv5 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|46.5%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
+| SkillDescriptionLv6 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|48.2%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
+| SkillDescriptionLv7 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|55.1%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
+| SkillDescriptionLv8 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|56.8%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
+| SkillDescriptionLv9 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|58.6%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
+| SkillDescriptionLv10 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|65.5%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
 }}
 
 [[Category:Characters]]

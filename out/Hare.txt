@@ -1,86 +1,75 @@
 ===Skills===
 {{EXSkillTable
-| SkillName = None
+| SkillName = Deploy EMP Drone
 | SkillNameJP = EMPドローン展開
 | SkillIconType = COMMON_SKILLICON_STUNNED
 | SkillDamageType = Explosive
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = 円形範囲内の敵に対して、攻撃力の{{SkillValue|720%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
-| SkillDescriptionLv1 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|271%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|2.7秒}}間）
-| SkillDescriptionLv2 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|312%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|2.7秒}}間）
-| SkillDescriptionLv3 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|353%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|3.1秒}}間）
-| SkillDescriptionLv4 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|394%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|3.1秒}}間）
-| SkillDescriptionLv5 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|435%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
-| SkillDescriptionLv6 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|475%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
-| SkillDescriptionLv7 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|557%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
-| SkillDescriptionLv8 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|598%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
-| SkillDescriptionLv9 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|679%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
-| SkillDescriptionLv10 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|720%}}分のダメージ/
-さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
+| SkillDescriptionGeneral = Deal {{SkillValue|271~435%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|2.7~3.5&nbsp;seconds}}.
+| SkillDescriptionLv1 = Deal {{SkillValue|271%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|2.7&nbsp;seconds}}.
+| SkillDescriptionLv2 = Deal {{SkillValue|312%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|2.7&nbsp;seconds}}.
+| SkillDescriptionLv3 = Deal {{SkillValue|353%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.1&nbsp;seconds}}.
+| SkillDescriptionLv4 = Deal {{SkillValue|394%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.1&nbsp;seconds}}.
+| SkillDescriptionLv5 = Deal {{SkillValue|435%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.5&nbsp;seconds}}.
+| SkillDescriptionLv6 = Deal {{SkillValue|475%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.5&nbsp;seconds}}.
+| SkillDescriptionLv7 = Deal {{SkillValue|557%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.5&nbsp;seconds}}.
+| SkillDescriptionLv8 = Deal {{SkillValue|598%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.5&nbsp;seconds}}.
+| SkillDescriptionLv9 = Deal {{SkillValue|679%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.5&nbsp;seconds}}.
+| SkillDescriptionLv10 = Deal {{SkillValue|720%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.5&nbsp;seconds}}.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Subversion: Plan A
 | SkillNameJP = 破壊工作：プランA
 | SkillIconType = COMMON_SKILLICON_STATDEBUFF
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|50.7%}}減少（{{SkillValue|15秒}}間）
-| SkillDescriptionLv1 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|26.7%}}減少（{{SkillValue|15秒}}間）
-| SkillDescriptionLv2 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|28%}}減少（{{SkillValue|15秒}}間）
-| SkillDescriptionLv3 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|29.3%}}減少（{{SkillValue|15秒}}間）
-| SkillDescriptionLv4 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|34.7%}}減少（{{SkillValue|15秒}}間）
-| SkillDescriptionLv5 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|36%}}減少（{{SkillValue|15秒}}間）
-| SkillDescriptionLv6 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|37.3%}}減少（{{SkillValue|15秒}}間）
-| SkillDescriptionLv7 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|42.7%}}減少（{{SkillValue|15秒}}間）
-| SkillDescriptionLv8 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|44%}}減少（{{SkillValue|15秒}}間）
-| SkillDescriptionLv9 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|45.3%}}減少（{{SkillValue|15秒}}間）
-| SkillDescriptionLv10 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|50.7%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionGeneral = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|26.7~50.7%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|26.7%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|28%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|29.3%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|34.7%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|36%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|37.3%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|42.7%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|44%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|45.3%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|50.7%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Armament Strengthening: Plan B
 | SkillNameJP = 武装強化：プランＢ
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = 会心値を{{SkillValue|26.6%}}増加
-| SkillDescriptionLv1 = 会心値を{{SkillValue|14%}}増加
-| SkillDescriptionLv2 = 会心値を{{SkillValue|14.7%}}増加
-| SkillDescriptionLv3 = 会心値を{{SkillValue|15.4%}}増加
-| SkillDescriptionLv4 = 会心値を{{SkillValue|18.2%}}増加
-| SkillDescriptionLv5 = 会心値を{{SkillValue|18.9%}}増加
-| SkillDescriptionLv6 = 会心値を{{SkillValue|19.6%}}増加
-| SkillDescriptionLv7 = 会心値を{{SkillValue|22.4%}}増加
-| SkillDescriptionLv8 = 会心値を{{SkillValue|23.1%}}増加
-| SkillDescriptionLv9 = 会心値を{{SkillValue|23.8%}}増加
-| SkillDescriptionLv10 = 会心値を{{SkillValue|26.6%}}増加
+| SkillDescriptionGeneral = Increase Critical Rate by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Critical Rate by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Critical Rate by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Critical Rate by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Critical Rate by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Critical Rate by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Critical Rate by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Critical Rate by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Critical Rate by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Critical Rate by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Critical Rate by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
-| SkillName = None
+| SkillName = Operate Interception System
 | SkillNameJP = 迎撃システム作動
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = 味方の回避値を{{SkillValue|17.3%}}増加
-| SkillDescriptionLv1 = 味方の回避値を{{SkillValue|9.1%}}増加
-| SkillDescriptionLv2 = 味方の回避値を{{SkillValue|9.5%}}増加
-| SkillDescriptionLv3 = 味方の回避値を{{SkillValue|10%}}増加
-| SkillDescriptionLv4 = 味方の回避値を{{SkillValue|11.8%}}増加
-| SkillDescriptionLv5 = 味方の回避値を{{SkillValue|12.3%}}増加
-| SkillDescriptionLv6 = 味方の回避値を{{SkillValue|12.7%}}増加
-| SkillDescriptionLv7 = 味方の回避値を{{SkillValue|14.5%}}増加
-| SkillDescriptionLv8 = 味方の回避値を{{SkillValue|15%}}増加
-| SkillDescriptionLv9 = 味方の回避値を{{SkillValue|15.5%}}増加
-| SkillDescriptionLv10 = 味方の回避値を{{SkillValue|17.3%}}増加
+| SkillDescriptionGeneral = Increase Evasion of all allies by {{SkillValue|9.1~17.3%}}.
+| SkillDescriptionLv1 = Increase Evasion of all allies by {{SkillValue|9.1%}}.
+| SkillDescriptionLv2 = Increase Evasion of all allies by {{SkillValue|9.5%}}.
+| SkillDescriptionLv3 = Increase Evasion of all allies by {{SkillValue|10%}}.
+| SkillDescriptionLv4 = Increase Evasion of all allies by {{SkillValue|11.8%}}.
+| SkillDescriptionLv5 = Increase Evasion of all allies by {{SkillValue|12.3%}}.
+| SkillDescriptionLv6 = Increase Evasion of all allies by {{SkillValue|12.7%}}.
+| SkillDescriptionLv7 = Increase Evasion of all allies by {{SkillValue|14.5%}}.
+| SkillDescriptionLv8 = Increase Evasion of all allies by {{SkillValue|15%}}.
+| SkillDescriptionLv9 = Increase Evasion of all allies by {{SkillValue|15.5%}}.
+| SkillDescriptionLv10 = Increase Evasion of all allies by {{SkillValue|17.3%}}.
 }}
 
 [[Category:Characters]]

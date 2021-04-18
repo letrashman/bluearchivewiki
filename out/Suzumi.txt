@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Explosive
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Attack all enemies within a circular area for {{SkillValue|389~518%}} Attack, inflict Stun status for {{SkillValue|0~4.1 seconds}}.
+| SkillDescriptionGeneral = Attack all enemies within a circular area for {{SkillValue|389~518%}} Attack, inflict Stun status for {{SkillValue|0~4.1&nbsp;seconds}}.
 | SkillDescriptionLv1 = Attack all enemies within a circular area for {{SkillValue|389%}} Attack.
 | SkillDescriptionLv2 = Attack all enemies within a circular area for {{SkillValue|410%}} Attack.
-| SkillDescriptionLv3 = Attack all enemies within a circular area for {{SkillValue|442%}} Attack, inflict Stun status for {{SkillValue|3.6 seconds}}.
-| SkillDescriptionLv4 = Attack all enemies within a circular area for {{SkillValue|470%}} Attack, inflict Stun status for {{SkillValue|3.6 seconds}}.
-| SkillDescriptionLv5 = Attack all enemies within a circular area for {{SkillValue|518%}} Attack, inflict Stun status for {{SkillValue|4.1 seconds}}.
-| SkillDescriptionLv6 = Attack all enemies within a circular area for {{SkillValue|567%}} Attack, inflict Stun status for {{SkillValue|4.1 seconds}}.
-| SkillDescriptionLv7 = Attack all enemies within a circular area for {{SkillValue|664%}} Attack, inflict Stun status for {{SkillValue|4.1 seconds}}.
-| SkillDescriptionLv8 = Attack all enemies within a circular area for {{SkillValue|713%}} Attack, inflict Stun status for {{SkillValue|4.1 seconds}}.
-| SkillDescriptionLv9 = Attack all enemies within a circular area for {{SkillValue|810%}} Attack, inflict Stun status for {{SkillValue|4.1 seconds}}.
-| SkillDescriptionLv10 = Attack all enemies within a circular area for {{SkillValue|859%}} Attack, inflict Stun status for {{SkillValue|4.1 seconds}}.
+| SkillDescriptionLv3 = Attack all enemies within a circular area for {{SkillValue|442%}} Attack, inflict Stun status for {{SkillValue|3.6&nbsp;seconds}}.
+| SkillDescriptionLv4 = Attack all enemies within a circular area for {{SkillValue|470%}} Attack, inflict Stun status for {{SkillValue|3.6&nbsp;seconds}}.
+| SkillDescriptionLv5 = Attack all enemies within a circular area for {{SkillValue|518%}} Attack, inflict Stun status for {{SkillValue|4.1&nbsp;seconds}}.
+| SkillDescriptionLv6 = Attack all enemies within a circular area for {{SkillValue|567%}} Attack, inflict Stun status for {{SkillValue|4.1&nbsp;seconds}}.
+| SkillDescriptionLv7 = Attack all enemies within a circular area for {{SkillValue|664%}} Attack, inflict Stun status for {{SkillValue|4.1&nbsp;seconds}}.
+| SkillDescriptionLv8 = Attack all enemies within a circular area for {{SkillValue|713%}} Attack, inflict Stun status for {{SkillValue|4.1&nbsp;seconds}}.
+| SkillDescriptionLv9 = Attack all enemies within a circular area for {{SkillValue|810%}} Attack, inflict Stun status for {{SkillValue|4.1&nbsp;seconds}}.
+| SkillDescriptionLv10 = Attack all enemies within a circular area for {{SkillValue|859%}} Attack, inflict Stun status for {{SkillValue|4.1&nbsp;seconds}}.
 }}
 {{SkillTable
 | SkillName = Hidden Strength of the Vigilante Corps
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|233~443%}} Attack.
-| SkillDescriptionLv1 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|233%}} Attack.
-| SkillDescriptionLv2 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|244%}} Attack.
-| SkillDescriptionLv3 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|256%}} Attack.
-| SkillDescriptionLv4 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|303%}} Attack.
-| SkillDescriptionLv5 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|314%}} Attack.
-| SkillDescriptionLv6 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|326%}} Attack.
-| SkillDescriptionLv7 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|373%}} Attack.
-| SkillDescriptionLv8 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|384%}} Attack.
-| SkillDescriptionLv9 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|396%}} Attack.
-| SkillDescriptionLv10 = Every {{SkillValue|25 seconds}}, attack 1 enemy for {{SkillValue|443%}} Attack.
+| SkillDescriptionGeneral = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|233~443%}} Attack.
+| SkillDescriptionLv1 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|233%}} Attack.
+| SkillDescriptionLv2 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|244%}} Attack.
+| SkillDescriptionLv3 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|256%}} Attack.
+| SkillDescriptionLv4 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|303%}} Attack.
+| SkillDescriptionLv5 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|314%}} Attack.
+| SkillDescriptionLv6 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|326%}} Attack.
+| SkillDescriptionLv7 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|373%}} Attack.
+| SkillDescriptionLv8 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|384%}} Attack.
+| SkillDescriptionLv9 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|396%}} Attack.
+| SkillDescriptionLv10 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|443%}} Attack.
 }}
 {{SkillTable
 | SkillName = Emergency Evasion
