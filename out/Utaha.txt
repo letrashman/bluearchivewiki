@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = Rai-chan, Summon
+| SkillNameJP = 雷ちゃん、召喚
+| SkillIconType = SKILLICON_UTAHA_EXSKILL
+| SkillDamageType = Penetration
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = Summon a turret. The turret's attack equals to {{SkillValue|81.4~240%}} of Utaha's attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv1 = Summon a turret. The turret's attack equals to {{SkillValue|81.4%}} of Utaha's attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv2 = Summon a turret. The turret's attack equals to {{SkillValue|93.6%}} of Utaha's attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv3 = Summon a turret. The turret's attack equals to {{SkillValue|118%}} of Utaha's attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv4 = Summon a turret. The turret's attack equals to {{SkillValue|130%}} of Utaha's attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv5 = Summon a turret. The turret's attack equals to {{SkillValue|154%}} of Utaha's attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv6 = Summon a turret. The turret's attack equals to {{SkillValue|166%}} of Utaha's attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv7 = Summon a turret. The turret's attack equals to {{SkillValue|191%}} of Utaha's attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv8 = Summon a turret. The turret's attack equals to {{SkillValue|203%}} of Utaha's attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv9 = Summon a turret. The turret's attack equals to {{SkillValue|227%}} of Utaha's attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv10 = Summon a turret. The turret's attack equals to {{SkillValue|240%}} of Utaha's attack. (Duration: {{SkillValue|30 seconds}})
+}}
+{{SkillTable
+| SkillName = Rai-chan MK-II, Active
+| SkillNameJP = 雷ちゃんMK-II、駆動
+| SkillIconType = SKILLICON_UTAHA_EXSKILL
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = For every {{SkillValue|30 seconds}}, summons a turret. The turret's attack equals to {{SkillValue|38.2~72.6%}} of Utaha's attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv1 = For every {{SkillValue|30 seconds}}, summons a turret. The turret's attack equals to {{SkillValue|38.2%}} of Utaha's attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv2 = For every {{SkillValue|30 seconds}}, summons a turret. The turret's attack equals to {{SkillValue|40.1%}} of Utaha's attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv3 = For every {{SkillValue|30 seconds}}, summons a turret. The turret's attack equals to {{SkillValue|42%}} of Utaha's attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv4 = For every {{SkillValue|30 seconds}}, summons a turret. The turret's attack equals to {{SkillValue|49.7%}} of Utaha's attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv5 = For every {{SkillValue|30 seconds}}, summons a turret. The turret's attack equals to {{SkillValue|51.6%}} of Utaha's attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv6 = For every {{SkillValue|30 seconds}}, summons a turret. The turret's attack equals to {{SkillValue|53.5%}} of Utaha's attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv7 = For every {{SkillValue|30 seconds}}, summons a turret. The turret's attack equals to {{SkillValue|61.1%}} of Utaha's attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv8 = For every {{SkillValue|30 seconds}}, summons a turret. The turret's attack equals to {{SkillValue|63.1%}} of Utaha's attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv9 = For every {{SkillValue|30 seconds}}, summons a turret. The turret's attack equals to {{SkillValue|65%}} of Utaha's attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv10 = For every {{SkillValue|30 seconds}}, summons a turret. The turret's attack equals to {{SkillValue|72.6%}} of Utaha's attack. (Duration: {{SkillValue|20 seconds}})
+}}
+{{SkillTable
+| SkillName = Technology's Revolution
+| SkillNameJP = 技術革命
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = Increases attack by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increases attack by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increases attack by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increases attack by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increases attack by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increases attack by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increases attack by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increases attack by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increases attack by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increases attack by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increases attack by {{SkillValue|26.6%}}.
+}}
+{{SkillTable
+| SkillName = Oath of My star
+| SkillNameJP = マイスターの誓い
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = Increase HP of all allies by {{SkillValue|9.1~17.3%}}.
+| SkillDescriptionLv1 = Increase HP of all allies by {{SkillValue|9.1%}}.
+| SkillDescriptionLv2 = Increase HP of all allies by {{SkillValue|9.5%}}.
+| SkillDescriptionLv3 = Increase HP of all allies by {{SkillValue|10%}}.
+| SkillDescriptionLv4 = Increase HP of all allies by {{SkillValue|11.8%}}.
+| SkillDescriptionLv5 = Increase HP of all allies by {{SkillValue|12.3%}}.
+| SkillDescriptionLv6 = Increase HP of all allies by {{SkillValue|12.7%}}.
+| SkillDescriptionLv7 = Increase HP of all allies by {{SkillValue|14.5%}}.
+| SkillDescriptionLv8 = Increase HP of all allies by {{SkillValue|15%}}.
+| SkillDescriptionLv9 = Increase HP of all allies by {{SkillValue|15.5%}}.
+| SkillDescriptionLv10 = Increase HP of all allies by {{SkillValue|17.3%}}.
+}}
+
+[[Category:Characters]]

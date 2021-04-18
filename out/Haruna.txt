@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = Piercing Elegance
+| SkillNameJP = 貫くエレガンス
+| SkillIconType = COMMON_SKILLICON_LINE
+| SkillDamageType = Mystic
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = Attack a selected enemy with {{SkillValue|506~1419%}} of Haruna's Attack, bullet will penetrate target and damage subsequent targets at sequential {{SkillValue|10%}} damage reduction per target. (Damage reduction caps at a low of {{SkillValue|30%}})
+| SkillDescriptionLv1 = Attack a selected enemy with {{SkillValue|506%}} of Haruna's Attack, bullet will penetrate target and damage subsequent targets at sequential {{SkillValue|10%}} damage reduction per target. (Damage reduction caps at a low of {{SkillValue|30%}})
+| SkillDescriptionLv2 = Attack a selected enemy with {{SkillValue|582%}} of Haruna's Attack, bullet will penetrate target and damage subsequent targets at sequential {{SkillValue|10%}} damage reduction per target. (Damage reduction caps at a low of {{SkillValue|30%}})
+| SkillDescriptionLv3 = Attack a selected enemy with {{SkillValue|735%}} of Haruna's Attack, bullet will penetrate target and damage subsequent targets at sequential {{SkillValue|10%}} damage reduction per target. (Damage reduction caps at a low of {{SkillValue|30%}})
+| SkillDescriptionLv4 = Attack a selected enemy with {{SkillValue|811%}} of Haruna's Attack, bullet will penetrate target and damage subsequent targets at sequential {{SkillValue|10%}} damage reduction per target. (Damage reduction caps at a low of {{SkillValue|30%}})
+| SkillDescriptionLv5 = Attack a selected enemy with {{SkillValue|887%}} of Haruna's Attack, bullet will penetrate target and damage subsequent targets at sequential {{SkillValue|10%}} damage reduction per target. (Damage reduction caps at a low of {{SkillValue|30%}})
+| SkillDescriptionLv6 = Attack a selected enemy with {{SkillValue|963%}} of Haruna's Attack, bullet will penetrate target and damage subsequent targets at sequential {{SkillValue|10%}} damage reduction per target. (Damage reduction caps at a low of {{SkillValue|30%}})
+| SkillDescriptionLv7 = Attack a selected enemy with {{SkillValue|1115%}} of Haruna's Attack, bullet will penetrate target and damage subsequent targets at sequential {{SkillValue|10%}} damage reduction per target. (Damage reduction caps at a low of {{SkillValue|30%}})
+| SkillDescriptionLv8 = Attack a selected enemy with {{SkillValue|1191%}} of Haruna's Attack, bullet will penetrate target and damage subsequent targets at sequential {{SkillValue|10%}} damage reduction per target. (Damage reduction caps at a low of {{SkillValue|30%}})
+| SkillDescriptionLv9 = Attack a selected enemy with {{SkillValue|1343%}} of Haruna's Attack, bullet will penetrate target and damage subsequent targets at sequential {{SkillValue|10%}} damage reduction per target. (Damage reduction caps at a low of {{SkillValue|30%}})
+| SkillDescriptionLv10 = Attack a selected enemy with {{SkillValue|1419%}} of Haruna's Attack, bullet will penetrate target and damage subsequent targets at sequential {{SkillValue|10%}} damage reduction per target. (Damage reduction caps at a low of {{SkillValue|30%}})
+}}
+{{SkillTable
+| SkillName = Exploding Exotic
+| SkillNameJP = 爆発するエキゾチック
+| SkillIconType = COMMON_SKILLICON_TARGET
+| SkillDamageType = Mystic
+| SkillType = Normal
+| SkillDescriptionGeneral = Every {{SkillValue|30 seconds}} seconds, attack one enemy with {{SkillValue|200~380%}} of Haruna's Attack.
+| SkillDescriptionLv1 = Every {{SkillValue|30 seconds}} seconds, attack one enemy with {{SkillValue|200%}} of Haruna's Attack.
+| SkillDescriptionLv2 = Every {{SkillValue|30 seconds}} seconds, attack one enemy with {{SkillValue|210%}} of Haruna's Attack.
+| SkillDescriptionLv3 = Every {{SkillValue|30 seconds}} seconds, attack one enemy with {{SkillValue|220%}} of Haruna's Attack.
+| SkillDescriptionLv4 = Every {{SkillValue|30 seconds}} seconds, attack one enemy with {{SkillValue|260%}} of Haruna's Attack.
+| SkillDescriptionLv5 = Every {{SkillValue|30 seconds}} seconds, attack one enemy with {{SkillValue|270%}} of Haruna's Attack.
+| SkillDescriptionLv6 = Every {{SkillValue|30 seconds}} seconds, attack one enemy with {{SkillValue|280%}} of Haruna's Attack.
+| SkillDescriptionLv7 = Every {{SkillValue|30 seconds}} seconds, attack one enemy with {{SkillValue|320%}} of Haruna's Attack.
+| SkillDescriptionLv8 = Every {{SkillValue|30 seconds}} seconds, attack one enemy with {{SkillValue|330%}} of Haruna's Attack.
+| SkillDescriptionLv9 = Every {{SkillValue|30 seconds}} seconds, attack one enemy with {{SkillValue|340%}} of Haruna's Attack.
+| SkillDescriptionLv10 = Every {{SkillValue|30 seconds}} seconds, attack one enemy with {{SkillValue|380%}} of Haruna's Attack.
+}}
+{{SkillTable
+| SkillName = The Dignity of the Gourmet
+| SkillNameJP = 美食家の気品
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Mystic
+| SkillType = Passive
+| SkillDescriptionGeneral = Increase HP by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase HP by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase HP by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase HP by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase HP by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase HP by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase HP by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase HP by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase HP by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase HP by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase HP by {{SkillValue|26.6%}}.
+}}
+{{SkillTable
+| SkillName = The Serenity of the Gourmet
+| SkillNameJP = 美食家の冷静さ
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Mystic
+| SkillType = Sub
+| SkillDescriptionGeneral = When not moving, increase Attack by {{SkillValue|10~19.1%}}.
+| SkillDescriptionLv1 = When not moving, increase Attack by {{SkillValue|10%}}.
+| SkillDescriptionLv2 = When not moving, increase Attack by {{SkillValue|10.5%}}.
+| SkillDescriptionLv3 = When not moving, increase Attack by {{SkillValue|11%}}.
+| SkillDescriptionLv4 = When not moving, increase Attack by {{SkillValue|13.1%}}.
+| SkillDescriptionLv5 = When not moving, increase Attack by {{SkillValue|13.6%}}.
+| SkillDescriptionLv6 = When not moving, increase Attack by {{SkillValue|14.1%}}.
+| SkillDescriptionLv7 = When not moving, increase Attack by {{SkillValue|16.1%}}.
+| SkillDescriptionLv8 = When not moving, increase Attack by {{SkillValue|16.6%}}.
+| SkillDescriptionLv9 = When not moving, increase Attack by {{SkillValue|17.1%}}.
+| SkillDescriptionLv10 = When not moving, increase Attack by {{SkillValue|19.1%}}.
+}}
+
+[[Category:Characters]]

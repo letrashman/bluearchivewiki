@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = None
+| SkillNameJP = ドローン召喚：火力支援
+| SkillIconType = SKILLICON_SHIROKO_EXSKILL
+| SkillDamageType = Explosive
+| SkillBaseCost = 2
+| SkillDescriptionGeneral = 敵1人に対して、攻撃力の{{SkillValue|400%}}分のダメージ
+| SkillDescriptionLv1 = 敵1人に対して、攻撃力の{{SkillValue|400%}}分のダメージ
+| SkillDescriptionLv2 = 敵1人に対して、攻撃力の{{SkillValue|460%}}分のダメージ
+| SkillDescriptionLv3 = 敵1人に対して、攻撃力の{{SkillValue|580%}}分のダメージ
+| SkillDescriptionLv4 = 敵1人に対して、攻撃力の{{SkillValue|640%}}分のダメージ
+| SkillDescriptionLv5 = 敵1人に対して、攻撃力の{{SkillValue|760%}}分のダメージ
+| SkillDescriptionLv6 = 敵1人に対して、攻撃力の{{SkillValue|820%}}分のダメージ
+| SkillDescriptionLv7 = 敵1人に対して、攻撃力の{{SkillValue|941%}}分のダメージ
+| SkillDescriptionLv8 = 敵1人に対して、攻撃力の{{SkillValue|1001%}}分のダメージ
+| SkillDescriptionLv9 = 敵1人に対して、攻撃力の{{SkillValue|1121%}}分のダメージ
+| SkillDescriptionLv10 = 敵1人に対して、攻撃力の{{SkillValue|1181%}}分のダメージ
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = 手榴弾投擲
+| SkillIconType = COMMON_SKILLICON_CIRCLE
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|193%}}分のダメージ
+| SkillDescriptionLv1 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|193%}}分のダメージ
+| SkillDescriptionLv2 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|203%}}分のダメージ
+| SkillDescriptionLv3 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|213%}}分のダメージ
+| SkillDescriptionLv4 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|251%}}分のダメージ
+| SkillDescriptionLv5 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|261%}}分のダメージ
+| SkillDescriptionLv6 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|271%}}分のダメージ
+| SkillDescriptionLv7 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|309%}}分のダメージ
+| SkillDescriptionLv8 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|319%}}分のダメージ
+| SkillDescriptionLv9 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|329%}}分のダメージ
+| SkillDescriptionLv10 = {{SkillValue|25秒}}毎に、円形範囲内の敵に対して攻撃力の{{SkillValue|368%}}分のダメージ
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = ピンポイント
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = 会心値を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 会心値を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 会心値を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 会心値を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 会心値を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 会心値を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 会心値を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 会心値を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 会心値を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 会心値を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 会心値を{{SkillValue|26.6%}}増加
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = 高速連射
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|30.2%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv1 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|30.2%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv2 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|31.7%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv3 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|33.2%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv4 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|39.3%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv5 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|40.8%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv6 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|42.3%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv7 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|48.3%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv8 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|49.9%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv9 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|51.4%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+| SkillDescriptionLv10 = 通常攻撃時、{{SkillValue|20%}}の確率で攻撃速度を{{SkillValue|57.4%}}増加（{{SkillValue|30秒}}間）（クールタイム{{SkillValue|25秒}}）
+}}
+
+[[Category:Characters]]

@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = Black box
+| SkillNameJP = ブラックボックス
+| SkillIconType = COMMON_SKILLICON_BATTLEITEM
+| SkillDamageType = Penetration
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = Moves 4 allies to the specified location and applies a shield equal to {{SkillValue|175~519%}} of Healing power.
+| SkillDescriptionLv1 = Moves 4 allies to the specified location and applies a shield equal to {{SkillValue|175%}} of Healing power.
+| SkillDescriptionLv2 = Moves 4 allies to the specified location and applies a shield equal to {{SkillValue|202%}} of Healing power.
+| SkillDescriptionLv3 = Moves 4 allies to the specified location and applies a shield equal to {{SkillValue|255%}} of Healing power.
+| SkillDescriptionLv4 = Moves 4 allies to the specified location and applies a shield equal to {{SkillValue|281%}} of Healing power.
+| SkillDescriptionLv5 = Moves 4 allies to the specified location and applies a shield equal to {{SkillValue|334%}} of Healing power.
+| SkillDescriptionLv6 = Moves 4 allies to the specified location and applies a shield equal to {{SkillValue|360%}} of Healing power.
+| SkillDescriptionLv7 = Moves 4 allies to the specified location and applies a shield equal to {{SkillValue|413%}} of Healing power.
+| SkillDescriptionLv8 = Moves 4 allies to the specified location and applies a shield equal to {{SkillValue|439%}} of Healing power.
+| SkillDescriptionLv9 = Moves 4 allies to the specified location and applies a shield equal to {{SkillValue|492%}} of Healing power.
+| SkillDescriptionLv10 = Moves 4 allies to the specified location and applies a shield equal to {{SkillValue|519%}} of Healing power.
+}}
+{{SkillTable
+| SkillName = Sorry!
+| SkillNameJP = ごめんなさい！
+| SkillIconType = COMMON_SKILLICON_FAN
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = Every {{SkillValue|35 seconds}}, deal {{SkillValue|269~511%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv1 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|269%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv2 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|282%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv3 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|296%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv4 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|350%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv5 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|363%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv6 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|377%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv7 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|430%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv8 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|444%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv9 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|457%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv10 = Every {{SkillValue|35 seconds}}, deal {{SkillValue|511%}} damage to enemies within a fan shaped area.
+}}
+{{SkillTable
+| SkillName = Comprehending the issue
+| SkillNameJP = 論点把握能力
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = Increase Critical Rate by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Critical Rate by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Critical Rate by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Critical Rate by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Critical Rate by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Critical Rate by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Critical Rate by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Critical Rate by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Critical Rate by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Critical Rate by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Critical Rate by {{SkillValue|26.6%}}.
+}}
+{{SkillTable
+| SkillName = Understood!
+| SkillNameJP = 理解しました！
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = After defeating an enemy, increase Critical Rate by {{SkillValue|20.1~38.3%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv1 = After defeating an enemy, increase Critical Rate by {{SkillValue|20.1%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv2 = After defeating an enemy, increase Critical Rate by {{SkillValue|21.1%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv3 = After defeating an enemy, increase Critical Rate by {{SkillValue|22.1%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv4 = After defeating an enemy, increase Critical Rate by {{SkillValue|26.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv5 = After defeating an enemy, increase Critical Rate by {{SkillValue|27.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv6 = After defeating an enemy, increase Critical Rate by {{SkillValue|28.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv7 = After defeating an enemy, increase Critical Rate by {{SkillValue|32.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv8 = After defeating an enemy, increase Critical Rate by {{SkillValue|33.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv9 = After defeating an enemy, increase Critical Rate by {{SkillValue|34.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv10 = After defeating an enemy, increase Critical Rate by {{SkillValue|38.3%}} for {{SkillValue|30 seconds}}.
+}}
+
+[[Category:Characters]]

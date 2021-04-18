@@ -143,7 +143,7 @@ class Profile(object):
 
 
 class Skill(object):
-    def __init__(self, name, name_translated, icon, levels, damage_type):
+    def __init__(self, name, name_translated, icon, levels, description_general, damage_type):
         self.name = name
         self.icon = icon
         self.levels = levels
@@ -151,6 +151,7 @@ class Skill(object):
 
         # Extra information
         self.name_translated = name_translated
+        self.description_general = description_general
 
     @property
     def damage_type(self):
@@ -172,6 +173,8 @@ class Skill(object):
             text = re.sub('秒', ' seconds', text)
             return text
 
+        
+
 
         def translate_skill(text_jp, group_id):
             try: text_en = data.translated_skills[group_id]['DescriptionEn']
@@ -184,11 +187,30 @@ class Skill(object):
                 return text_en
 
 
+        def format_description(levels, text_en):
+            start_variables = re.findall(r'\{\{SkillValue\|([^\}\[]+)\}\}',  levels[0][0])
+            end_variables = re.findall(r'\{\{SkillValue\|([^\}\[]+)\}\}',  levels[9][0])
+
+            for i in range(len(end_variables)):
+                stripped_start = re.findall(r'([0-9.]+).*', start_variables[i])
+                range_text = start_variables[i] != end_variables[i] and f'{stripped_start[0]}~{end_variables[i]}' or f'{end_variables[i]}'
+                text_en = re.sub(f'\${i+1}', '{{SkillValue|' + range_text + '}}', text_en)
+            return text_en
+
+
         levels = [
             (translate_skill(data.skills_localization[level['LocalizeSkillId']]['DescriptionJp'], group_id), level['SkillCost'])
             for level
             in sorted(group, key=operator.itemgetter('Level'))
         ]
+
+        try: text_general = data.translated_skills[group_id]['DescriptionEn']
+        except KeyError: 
+            print(f'{group_id} translation is missing')
+            text_general = translate_skill(levels[0][0], group_id)
+
+        description_general = format_description(levels, text_general)
+        #print(description_general)
 
 
         try: data.translated_skills[group[0]['GroupId']]['NameEn']
@@ -203,6 +225,7 @@ class Skill(object):
             skill_name_en,
             group[0]['IconName'].rsplit('/', 1)[-1],
             levels,
+            description_general,
             group[0]['BulletType']
         )
 

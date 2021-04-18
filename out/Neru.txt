@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = Huh? Do you have a fucking death wish?
+| SkillNameJP = あぁ？ぶっ殺されてぇか？
+| SkillIconType = COMMON_SKILLICON_TARGET
+| SkillDamageType = Penetration
+| SkillBaseCost = 2
+| SkillDescriptionGeneral = Attack 1 enemy with {{SkillValue|476~1263%}} Attack power. When angered, damage is multiplied {{SkillValue|1.5~1.7}}x.
+| SkillDescriptionLv1 = Attack 1 enemy with {{SkillValue|476%}} Attack power. When angered, damage is multiplied {{SkillValue|1.5}}x.
+| SkillDescriptionLv2 = Attack 1 enemy with {{SkillValue|548%}} Attack power. When angered, damage is multiplied {{SkillValue|1.5}}x.
+| SkillDescriptionLv3 = Attack 1 enemy with {{SkillValue|619%}} Attack power. When angered, damage is multiplied {{SkillValue|1.6}}x.
+| SkillDescriptionLv4 = Attack 1 enemy with {{SkillValue|691%}} Attack power. When angered, damage is multiplied {{SkillValue|1.6}}x.
+| SkillDescriptionLv5 = Attack 1 enemy with {{SkillValue|762%}} Attack power. When angered, damage is multiplied {{SkillValue|1.7}}x.
+| SkillDescriptionLv6 = Attack 1 enemy with {{SkillValue|834%}} Attack power. When angered, damage is multiplied {{SkillValue|1.7}}x.
+| SkillDescriptionLv7 = Attack 1 enemy with {{SkillValue|977%}} Attack power. When angered, damage is multiplied {{SkillValue|1.7}}x.
+| SkillDescriptionLv8 = Attack 1 enemy with {{SkillValue|1048%}} Attack power. When angered, damage is multiplied {{SkillValue|1.7}}x.
+| SkillDescriptionLv9 = Attack 1 enemy with {{SkillValue|1191%}} Attack power. When angered, damage is multiplied {{SkillValue|1.7}}x.
+| SkillDescriptionLv10 = Attack 1 enemy with {{SkillValue|1263%}} Attack power. When angered, damage is multiplied {{SkillValue|1.7}}x.
+}}
+{{SkillTable
+| SkillName = Huh? Stop bullshitting!
+| SkillNameJP = あぁ？ふざけんな！
+| SkillIconType = COMMON_SKILLICON_FURY
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase evasion by {{SkillValue|17.8~33.9%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv1 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase evasion by {{SkillValue|17.8%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv2 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase evasion by {{SkillValue|18.7%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv3 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase evasion by {{SkillValue|19.6%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv4 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase evasion by {{SkillValue|23.2%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv5 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase evasion by {{SkillValue|24.1%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv6 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase evasion by {{SkillValue|24.9%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv7 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase evasion by {{SkillValue|28.5%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv8 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase evasion by {{SkillValue|29.4%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv9 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase evasion by {{SkillValue|30.3%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv10 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase evasion by {{SkillValue|33.9%}}. ({{SkillValue|20 seconds}} duration)
+}}
+{{SkillTable
+| SkillName = Call sign 00
+| SkillNameJP = コールサインダブルオー
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = Increase critical hit damage by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase critical hit damage by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase critical hit damage by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase critical hit damage by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase critical hit damage by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase critical hit damage by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase critical hit damage by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase critical hit damage by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase critical hit damage by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase critical hit damage by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase critical hit damage by {{SkillValue|26.6%}}.
+}}
+{{SkillTable
+| SkillName = Fury
+| SkillNameJP = 激昂
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = When angered, increase Attack by {{SkillValue|16.8~31.9%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv1 = When angered, increase Attack by {{SkillValue|16.8%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv2 = When angered, increase Attack by {{SkillValue|17.6%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv3 = When angered, increase Attack by {{SkillValue|18.4%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv4 = When angered, increase Attack by {{SkillValue|21.8%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv5 = When angered, increase Attack by {{SkillValue|22.6%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv6 = When angered, increase Attack by {{SkillValue|23.5%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv7 = When angered, increase Attack by {{SkillValue|26.8%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv8 = When angered, increase Attack by {{SkillValue|27.7%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv9 = When angered, increase Attack by {{SkillValue|28.5%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv10 = When angered, increase Attack by {{SkillValue|31.9%}}. ({{SkillValue|30 seconds}} duration)
+}}
+
+[[Category:Characters]]

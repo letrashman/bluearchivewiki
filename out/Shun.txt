@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = Where are the troublesome children?
+| SkillNameJP = 悪い子はどこですか？
+| SkillIconType = COMMON_SKILLICON_FORMCHANGE
+| SkillDamageType = Explosive
+| SkillBaseCost = 3
+| SkillDescriptionGeneral = Increase regular attack damage to {{SkillValue|153%}}, firing range by {{SkillValue|24.4%}}, critical rate by {{SkillValue|26.3~77.7%}}, but decrease attack speed by {{SkillValue|18.8%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv1 = Increase regular attack damage to {{SkillValue|153%}}, firing range by {{SkillValue|24.4%}}, critical rate by {{SkillValue|26.3%}}, but decrease attack speed by {{SkillValue|18.8%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv2 = Increase regular attack damage to {{SkillValue|153%}}, firing range by {{SkillValue|24.4%}}, critical rate by {{SkillValue|30.3%}}, but decrease attack speed by {{SkillValue|18.8%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv3 = Increase regular attack damage to {{SkillValue|153%}}, firing range by {{SkillValue|24.4%}}, critical rate by {{SkillValue|38.2%}}, but decrease attack speed by {{SkillValue|18.8%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv4 = Increase regular attack damage to {{SkillValue|153%}}, firing range by {{SkillValue|24.4%}}, critical rate by {{SkillValue|42.1%}}, but decrease attack speed by {{SkillValue|18.8%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv5 = Increase regular attack damage to {{SkillValue|153%}}, firing range by {{SkillValue|24.4%}}, critical rate by {{SkillValue|50%}}, but decrease attack speed by {{SkillValue|18.8%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv6 = Increase regular attack damage to {{SkillValue|153%}}, firing range by {{SkillValue|24.4%}}, critical rate by {{SkillValue|54%}}, but decrease attack speed by {{SkillValue|18.8%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv7 = Increase regular attack damage to {{SkillValue|153%}}, firing range by {{SkillValue|24.4%}}, critical rate by {{SkillValue|61.9%}}, but decrease attack speed by {{SkillValue|18.8%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv8 = Increase regular attack damage to {{SkillValue|153%}}, firing range by {{SkillValue|24.4%}}, critical rate by {{SkillValue|65.8%}}, but decrease attack speed by {{SkillValue|18.8%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv9 = Increase regular attack damage to {{SkillValue|153%}}, firing range by {{SkillValue|24.4%}}, critical rate by {{SkillValue|73.7%}}, but decrease attack speed by {{SkillValue|18.8%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv10 = Increase regular attack damage to {{SkillValue|153%}}, firing range by {{SkillValue|24.4%}}, critical rate by {{SkillValue|77.7%}}, but decrease attack speed by {{SkillValue|18.8%}}. (Duration: {{SkillValue|30 seconds}})
+}}
+{{SkillTable
+| SkillName = Everyone, pay attention!
+| SkillNameJP = みなさん、集中してください！
+| SkillIconType = COMMON_SKILLICON_REGENCOST
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = Acquire {{SkillValue|2~3.8}} skill cost at the beginning of combat. (Once per battle)
+| SkillDescriptionLv1 = Acquire {{SkillValue|2}} skill cost at the beginning of combat. (Once per battle)
+| SkillDescriptionLv2 = Acquire {{SkillValue|2.1}} skill cost at the beginning of combat. (Once per battle)
+| SkillDescriptionLv3 = Acquire {{SkillValue|2.2}} skill cost at the beginning of combat. (Once per battle)
+| SkillDescriptionLv4 = Acquire {{SkillValue|2.6}} skill cost at the beginning of combat. (Once per battle)
+| SkillDescriptionLv5 = Acquire {{SkillValue|2.7}} skill cost at the beginning of combat. (Once per battle)
+| SkillDescriptionLv6 = Acquire {{SkillValue|2.8}} skill cost at the beginning of combat. (Once per battle)
+| SkillDescriptionLv7 = Acquire {{SkillValue|3.2}} skill cost at the beginning of combat. (Once per battle)
+| SkillDescriptionLv8 = Acquire {{SkillValue|3.3}} skill cost at the beginning of combat. (Once per battle)
+| SkillDescriptionLv9 = Acquire {{SkillValue|3.4}} skill cost at the beginning of combat. (Once per battle)
+| SkillDescriptionLv10 = Acquire {{SkillValue|3.8}} skill cost at the beginning of combat. (Once per battle)
+}}
+{{SkillTable
+| SkillName = An instructor's dignity
+| SkillNameJP = 教官としての品格
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = Increase Attack by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Attack by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Attack by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Attack by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Attack by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Attack by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Attack by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Attack by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Attack by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Attack by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Attack by {{SkillValue|26.6%}}.
+}}
+{{SkillTable
+| SkillName = Meihuanyan Training
+| SkillNameJP = 梅花園の教育
+| SkillIconType = COMMON_SKILLICON_EXTRADAMAGE
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = When attacking medium-sized enemies, increase damage by {{SkillValue|50.7~96.4%}} of Attack.
+| SkillDescriptionLv1 = When attacking medium-sized enemies, increase damage by {{SkillValue|50.7%}} of Attack.
+| SkillDescriptionLv2 = When attacking medium-sized enemies, increase damage by {{SkillValue|53.3%}} of Attack.
+| SkillDescriptionLv3 = When attacking medium-sized enemies, increase damage by {{SkillValue|55.8%}} of Attack.
+| SkillDescriptionLv4 = When attacking medium-sized enemies, increase damage by {{SkillValue|66%}} of Attack.
+| SkillDescriptionLv5 = When attacking medium-sized enemies, increase damage by {{SkillValue|68.5%}} of Attack.
+| SkillDescriptionLv6 = When attacking medium-sized enemies, increase damage by {{SkillValue|71%}} of Attack.
+| SkillDescriptionLv7 = When attacking medium-sized enemies, increase damage by {{SkillValue|81.2%}} of Attack.
+| SkillDescriptionLv8 = When attacking medium-sized enemies, increase damage by {{SkillValue|83.7%}} of Attack.
+| SkillDescriptionLv9 = When attacking medium-sized enemies, increase damage by {{SkillValue|86.3%}} of Attack.
+| SkillDescriptionLv10 = When attacking medium-sized enemies, increase damage by {{SkillValue|96.4%}} of Attack.
+}}
+
+[[Category:Characters]]

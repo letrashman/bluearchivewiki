@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = This is my masterpiece!
+| SkillNameJP = ぼく様の傑作なのだ！
+| SkillIconType = COMMON_SKILLICON_ZONE
+| SkillDamageType = Explosive
+| SkillBaseCost = 6
+| SkillDescriptionGeneral = Apply continuous damage in an area for {{SkillValue|126~372%}} of Saya's Attack. (Duration: {{SkillValue|8 seconds}})
+| SkillDescriptionLv1 = Apply continuous damage in an area for {{SkillValue|126%}} of Saya's Attack. (Duration: {{SkillValue|8 seconds}})
+| SkillDescriptionLv2 = Apply continuous damage in an area for {{SkillValue|145%}} of Saya's Attack. (Duration: {{SkillValue|8 seconds}})
+| SkillDescriptionLv3 = Apply continuous damage in an area for {{SkillValue|182%}} of Saya's Attack. (Duration: {{SkillValue|8 seconds}})
+| SkillDescriptionLv4 = Apply continuous damage in an area for {{SkillValue|201%}} of Saya's Attack. (Duration: {{SkillValue|8 seconds}})
+| SkillDescriptionLv5 = Apply continuous damage in an area for {{SkillValue|239%}} of Saya's Attack. (Duration: {{SkillValue|8 seconds}})
+| SkillDescriptionLv6 = Apply continuous damage in an area for {{SkillValue|258%}} of Saya's Attack. (Duration: {{SkillValue|8 seconds}})
+| SkillDescriptionLv7 = Apply continuous damage in an area for {{SkillValue|296%}} of Saya's Attack. (Duration: {{SkillValue|8 seconds}})
+| SkillDescriptionLv8 = Apply continuous damage in an area for {{SkillValue|315%}} of Saya's Attack. (Duration: {{SkillValue|8 seconds}})
+| SkillDescriptionLv9 = Apply continuous damage in an area for {{SkillValue|353%}} of Saya's Attack. (Duration: {{SkillValue|8 seconds}})
+| SkillDescriptionLv10 = Apply continuous damage in an area for {{SkillValue|372%}} of Saya's Attack. (Duration: {{SkillValue|8 seconds}})
+}}
+{{SkillTable
+| SkillName = Exciting Experiment!
+| SkillNameJP = 新しい実験なのだ！
+| SkillIconType = COMMON_SKILLICON_POISON
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = Every {{SkillValue|20 seconds}}, decrease 1 enemy's Critical Rate by {{SkillValue|12.1%}} (Duration: {{SkillValue|20 seconds}}). Apply continuous poison damage for {{SkillValue|36.5~69.3%}} of Saya's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|20 seconds}}, decrease 1 enemy's Critical Rate by {{SkillValue|12.1%}} (Duration: {{SkillValue|20 seconds}}). Apply continuous poison damage for {{SkillValue|36.5%}} of Saya's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|20 seconds}}, decrease 1 enemy's Critical Rate by {{SkillValue|12.1%}} (Duration: {{SkillValue|20 seconds}}). Apply continuous poison damage for {{SkillValue|38.3%}} of Saya's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|20 seconds}}, decrease 1 enemy's Critical Rate by {{SkillValue|12.1%}} (Duration: {{SkillValue|20 seconds}}). Apply continuous poison damage for {{SkillValue|40.1%}} of Saya's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|20 seconds}}, decrease 1 enemy's Critical Rate by {{SkillValue|12.1%}} (Duration: {{SkillValue|20 seconds}}). Apply continuous poison damage for {{SkillValue|47.4%}} of Saya's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|20 seconds}}, decrease 1 enemy's Critical Rate by {{SkillValue|12.1%}} (Duration: {{SkillValue|20 seconds}}). Apply continuous poison damage for {{SkillValue|49.2%}} of Saya's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|20 seconds}}, decrease 1 enemy's Critical Rate by {{SkillValue|12.1%}} (Duration: {{SkillValue|20 seconds}}). Apply continuous poison damage for {{SkillValue|51.1%}} of Saya's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|20 seconds}}, decrease 1 enemy's Critical Rate by {{SkillValue|12.1%}} (Duration: {{SkillValue|20 seconds}}). Apply continuous poison damage for {{SkillValue|58.4%}} of Saya's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|20 seconds}}, decrease 1 enemy's Critical Rate by {{SkillValue|12.1%}} (Duration: {{SkillValue|20 seconds}}). Apply continuous poison damage for {{SkillValue|60.2%}} of Saya's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|20 seconds}}, decrease 1 enemy's Critical Rate by {{SkillValue|12.1%}} (Duration: {{SkillValue|20 seconds}}). Apply continuous poison damage for {{SkillValue|62%}} of Saya's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|20 seconds}}, decrease 1 enemy's Critical Rate by {{SkillValue|12.1%}} (Duration: {{SkillValue|20 seconds}}). Apply continuous poison damage for {{SkillValue|69.3%}} of Saya's Attack. (Duration: {{SkillValue|20 seconds}})
+}}
+{{SkillTable
+| SkillName = I really am great!
+| SkillNameJP = ぼく様はやっぱり偉大なのだ！
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = Increase Attack by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Attack by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Attack by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Attack by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Attack by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Attack by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Attack by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Attack by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Attack by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Attack by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Attack by {{SkillValue|26.6%}}.
+}}
+{{SkillTable
+| SkillName = Believe only in me!
+| SkillNameJP = ぼく様だけを信じてて！
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = Increase Critical Rate of all allies by {{SkillValue|9.1~17.3%}}.
+| SkillDescriptionLv1 = Increase Critical Rate of all allies by {{SkillValue|9.1%}}.
+| SkillDescriptionLv2 = Increase Critical Rate of all allies by {{SkillValue|9.5%}}.
+| SkillDescriptionLv3 = Increase Critical Rate of all allies by {{SkillValue|10%}}.
+| SkillDescriptionLv4 = Increase Critical Rate of all allies by {{SkillValue|11.8%}}.
+| SkillDescriptionLv5 = Increase Critical Rate of all allies by {{SkillValue|12.3%}}.
+| SkillDescriptionLv6 = Increase Critical Rate of all allies by {{SkillValue|12.7%}}.
+| SkillDescriptionLv7 = Increase Critical Rate of all allies by {{SkillValue|14.5%}}.
+| SkillDescriptionLv8 = Increase Critical Rate of all allies by {{SkillValue|15%}}.
+| SkillDescriptionLv9 = Increase Critical Rate of all allies by {{SkillValue|15.5%}}.
+| SkillDescriptionLv10 = Increase Critical Rate of all allies by {{SkillValue|17.3%}}.
+}}
+
+[[Category:Characters]]

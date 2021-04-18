@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = None
+| SkillNameJP = お仕置きの時間です～♣
+| SkillIconType = COMMON_SKILLICON_FAN
+| SkillDamageType = Penetration
+| SkillBaseCost = 5
+| SkillDescriptionGeneral = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|432%}}分のダメージ
+| SkillDescriptionLv1 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|432%}}分のダメージ
+| SkillDescriptionLv2 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|497%}}分のダメージ
+| SkillDescriptionLv3 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|627%}}分のダメージ
+| SkillDescriptionLv4 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|692%}}分のダメージ
+| SkillDescriptionLv5 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|821%}}分のダメージ
+| SkillDescriptionLv6 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|886%}}分のダメージ
+| SkillDescriptionLv7 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1016%}}分のダメージ
+| SkillDescriptionLv8 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1081%}}分のダメージ
+| SkillDescriptionLv9 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1211%}}分のダメージ
+| SkillDescriptionLv10 = 扇形範囲内の敵に対して、攻撃力の{{SkillValue|1275%}}分のダメージ
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = じゃ～ん☆
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = {{SkillValue|30秒}}毎に、攻撃力を{{SkillValue|21.8%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv1 = {{SkillValue|30秒}}毎に、攻撃力を{{SkillValue|21.8%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv2 = {{SkillValue|30秒}}毎に、攻撃力を{{SkillValue|22.9%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv3 = {{SkillValue|30秒}}毎に、攻撃力を{{SkillValue|24%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv4 = {{SkillValue|30秒}}毎に、攻撃力を{{SkillValue|28.3%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv5 = {{SkillValue|30秒}}毎に、攻撃力を{{SkillValue|29.4%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv6 = {{SkillValue|30秒}}毎に、攻撃力を{{SkillValue|30.5%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv7 = {{SkillValue|30秒}}毎に、攻撃力を{{SkillValue|34.9%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv8 = {{SkillValue|30秒}}毎に、攻撃力を{{SkillValue|36%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv9 = {{SkillValue|30秒}}毎に、攻撃力を{{SkillValue|37.1%}}増加（{{SkillValue|20秒}}間）
+| SkillDescriptionLv10 = {{SkillValue|30秒}}毎に、攻撃力を{{SkillValue|41.4%}}増加（{{SkillValue|20秒}}間）
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = めっ、ですよ！
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = 会心ダメージ率を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 会心ダメージ率を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 会心ダメージ率を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 会心ダメージ率を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 会心ダメージ率を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 会心ダメージ率を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 会心ダメージ率を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 会心ダメージ率を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 会心ダメージ率を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 会心ダメージ率を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 会心ダメージ率を{{SkillValue|26.6%}}増加
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = 綺麗にお掃除します～♧
+| SkillIconType = COMMON_SKILLICON_EXTRADAMAGE
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = 攻撃時、大型の敵に対して攻撃力の{{SkillValue|6.7%}}分の追加ダメージ
+| SkillDescriptionLv1 = 攻撃時、大型の敵に対して攻撃力の{{SkillValue|6.7%}}分の追加ダメージ
+| SkillDescriptionLv2 = 攻撃時、大型の敵に対して攻撃力の{{SkillValue|7.1%}}分の追加ダメージ
+| SkillDescriptionLv3 = 攻撃時、大型の敵に対して攻撃力の{{SkillValue|7.4%}}分の追加ダメージ
+| SkillDescriptionLv4 = 攻撃時、大型の敵に対して攻撃力の{{SkillValue|8.7%}}分の追加ダメージ
+| SkillDescriptionLv5 = 攻撃時、大型の敵に対して攻撃力の{{SkillValue|9.1%}}分の追加ダメージ
+| SkillDescriptionLv6 = 攻撃時、大型の敵に対して攻撃力の{{SkillValue|9.4%}}分の追加ダメージ
+| SkillDescriptionLv7 = 攻撃時、大型の敵に対して攻撃力の{{SkillValue|10.8%}}分の追加ダメージ
+| SkillDescriptionLv8 = 攻撃時、大型の敵に対して攻撃力の{{SkillValue|11.1%}}分の追加ダメージ
+| SkillDescriptionLv9 = 攻撃時、大型の敵に対して攻撃力の{{SkillValue|11.4%}}分の追加ダメージ
+| SkillDescriptionLv10 = 攻撃時、大型の敵に対して攻撃力の{{SkillValue|12.8%}}分の追加ダメージ
+}}
+
+[[Category:Characters]]

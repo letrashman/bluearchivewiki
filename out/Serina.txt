@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = Intensive care set A
+| SkillNameJP = 集中治療セットA
+| SkillIconType = COMMON_SKILLICON_BATTLEITEM
+| SkillDamageType = Mystic
+| SkillBaseCost = 2
+| SkillDescriptionGeneral = Moves the closest ally to the first aid box and recovers their HP by {{SkillValue|120~354%}}
+| SkillDescriptionLv1 = Moves the closest ally to the first aid box and recovers their HP by {{SkillValue|120%}}
+| SkillDescriptionLv2 = Moves the closest ally to the first aid box and recovers their HP by {{SkillValue|138%}}
+| SkillDescriptionLv3 = Moves the closest ally to the first aid box and recovers their HP by {{SkillValue|174%}}
+| SkillDescriptionLv4 = Moves the closest ally to the first aid box and recovers their HP by {{SkillValue|192%}}
+| SkillDescriptionLv5 = Moves the closest ally to the first aid box and recovers their HP by {{SkillValue|228%}}
+| SkillDescriptionLv6 = Moves the closest ally to the first aid box and recovers their HP by {{SkillValue|246%}}
+| SkillDescriptionLv7 = Moves the closest ally to the first aid box and recovers their HP by {{SkillValue|282%}}
+| SkillDescriptionLv8 = Moves the closest ally to the first aid box and recovers their HP by {{SkillValue|300%}}
+| SkillDescriptionLv9 = Moves the closest ally to the first aid box and recovers their HP by {{SkillValue|336%}}
+| SkillDescriptionLv10 = Moves the closest ally to the first aid box and recovers their HP by {{SkillValue|354%}}
+}}
+{{SkillTable
+| SkillName = Emergency care set B
+| SkillNameJP = 緊急治療セットB
+| SkillIconType = COMMON_SKILLICON_HEAL
+| SkillDamageType = Mystic
+| SkillType = Normal
+| SkillDescriptionGeneral = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|94~178%}}
+| SkillDescriptionLv1 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|94%}}
+| SkillDescriptionLv2 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|98.7%}}
+| SkillDescriptionLv3 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|103%}}
+| SkillDescriptionLv4 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|122%}}
+| SkillDescriptionLv5 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|126%}}
+| SkillDescriptionLv6 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|131%}}
+| SkillDescriptionLv7 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|150%}}
+| SkillDescriptionLv8 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|155%}}
+| SkillDescriptionLv9 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|159%}}
+| SkillDescriptionLv10 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|178%}}
+}}
+{{SkillTable
+| SkillName = Angel in white
+| SkillNameJP = 白衣の天使
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Mystic
+| SkillType = Passive
+| SkillDescriptionGeneral = Increases Healing by {{SkillValue|14~26.6%}}
+| SkillDescriptionLv1 = Increases Healing by {{SkillValue|14%}}
+| SkillDescriptionLv2 = Increases Healing by {{SkillValue|14.7%}}
+| SkillDescriptionLv3 = Increases Healing by {{SkillValue|15.4%}}
+| SkillDescriptionLv4 = Increases Healing by {{SkillValue|18.2%}}
+| SkillDescriptionLv5 = Increases Healing by {{SkillValue|18.9%}}
+| SkillDescriptionLv6 = Increases Healing by {{SkillValue|19.6%}}
+| SkillDescriptionLv7 = Increases Healing by {{SkillValue|22.4%}}
+| SkillDescriptionLv8 = Increases Healing by {{SkillValue|23.1%}}
+| SkillDescriptionLv9 = Increases Healing by {{SkillValue|23.8%}}
+| SkillDescriptionLv10 = Increases Healing by {{SkillValue|26.6%}}
+}}
+{{SkillTable
+| SkillName = Angel's smile
+| SkillNameJP = 天使のほほ笑み
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Mystic
+| SkillType = Sub
+| SkillDescriptionGeneral = Increase CC Resistance of all allies by {{SkillValue|9.1~17.3%}}
+| SkillDescriptionLv1 = Increase CC Resistance of all allies by {{SkillValue|9.1%}}
+| SkillDescriptionLv2 = Increase CC Resistance of all allies by {{SkillValue|9.5%}}
+| SkillDescriptionLv3 = Increase CC Resistance of all allies by {{SkillValue|10%}}
+| SkillDescriptionLv4 = Increase CC Resistance of all allies by {{SkillValue|11.8%}}
+| SkillDescriptionLv5 = Increase CC Resistance of all allies by {{SkillValue|12.3%}}
+| SkillDescriptionLv6 = Increase CC Resistance of all allies by {{SkillValue|12.7%}}
+| SkillDescriptionLv7 = Increase CC Resistance of all allies by {{SkillValue|14.5%}}
+| SkillDescriptionLv8 = Increase CC Resistance of all allies by {{SkillValue|15%}}
+| SkillDescriptionLv9 = Increase CC Resistance of all allies by {{SkillValue|15.5%}}
+| SkillDescriptionLv10 = Increase CC Resistance of all allies by {{SkillValue|17.3%}}
+}}
+
+[[Category:Characters]]

@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = Shield Of Knowledge
+| SkillNameJP = 知識の盾
+| SkillIconType = COMMON_SKILLICON_OBSTACLE
+| SkillDamageType = Explosive
+| SkillBaseCost = 3
+| SkillDescriptionGeneral = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|16.3~43.4%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv1 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|16.3%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv2 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|18.8%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv3 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|21.3%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv4 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|23.7%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv5 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|26.2%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv6 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|28.6%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv7 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|33.6%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv8 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|36%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv9 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|40.9%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv10 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|43.4%}}. (Duration: {{SkillValue|30 seconds}})
+}}
+{{SkillTable
+| SkillName = Chicken soup for the Soul
+| SkillNameJP = 心の栄養剤
+| SkillIconType = COMMON_SKILLICON_SHIELD
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|119~226%}} to Healing). (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv1 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|119%}} to Healing). (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv2 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|125%}} to Healing). (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv3 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|131%}} to Healing). (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv4 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|154%}} to Healing). (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv5 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|160%}} to Healing). (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv6 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|166%}} to Healing). (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv7 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|190%}} to Healing). (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv8 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|196%}} to Healing). (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv9 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|202%}} to Healing). (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv10 = For every {{SkillValue|35 seconds}} seconds, grants an ally with the lowest HP a shield (shield HP equal to {{SkillValue|226%}} to Healing). (Duration: {{SkillValue|16 seconds}})
+}}
+{{SkillTable
+| SkillName = Let's accumulate more knowledge!
+| SkillNameJP = 知識を蓄えましょう！
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = Increases Healing by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increases Healing by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increases Healing by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increases Healing by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increases Healing by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increases Healing by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increases Healing by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increases Healing by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increases Healing by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increases Healing by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increases Healing by {{SkillValue|26.6%}}.
+}}
+{{SkillTable
+| SkillName = Let's open a Book Club!
+| SkillNameJP = みんなで読書会を開きましょう！
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = Increase Defense of all allies by {{SkillValue|9.1~17.3%}}.
+| SkillDescriptionLv1 = Increase Defense of all allies by {{SkillValue|9.1%}}.
+| SkillDescriptionLv2 = Increase Defense of all allies by {{SkillValue|9.5%}}.
+| SkillDescriptionLv3 = Increase Defense of all allies by {{SkillValue|10%}}.
+| SkillDescriptionLv4 = Increase Defense of all allies by {{SkillValue|11.8%}}.
+| SkillDescriptionLv5 = Increase Defense of all allies by {{SkillValue|12.3%}}.
+| SkillDescriptionLv6 = Increase Defense of all allies by {{SkillValue|12.7%}}.
+| SkillDescriptionLv7 = Increase Defense of all allies by {{SkillValue|14.5%}}.
+| SkillDescriptionLv8 = Increase Defense of all allies by {{SkillValue|15%}}.
+| SkillDescriptionLv9 = Increase Defense of all allies by {{SkillValue|15.5%}}.
+| SkillDescriptionLv10 = Increase Defense of all allies by {{SkillValue|17.3%}}.
+}}
+
+[[Category:Characters]]

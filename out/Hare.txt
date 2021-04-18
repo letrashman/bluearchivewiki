@@ -1,0 +1,86 @@
+===Skills===
+{{EXSkillTable
+| SkillName = None
+| SkillNameJP = EMPドローン展開
+| SkillIconType = COMMON_SKILLICON_STUNNED
+| SkillDamageType = Explosive
+| SkillBaseCost = 4
+| SkillDescriptionGeneral = 円形範囲内の敵に対して、攻撃力の{{SkillValue|271%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|2.7秒}}間）
+| SkillDescriptionLv1 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|271%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|2.7秒}}間）
+| SkillDescriptionLv2 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|312%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|2.7秒}}間）
+| SkillDescriptionLv3 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|353%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.1秒}}間）
+| SkillDescriptionLv4 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|394%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.1秒}}間）
+| SkillDescriptionLv5 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|435%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
+| SkillDescriptionLv6 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|475%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
+| SkillDescriptionLv7 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|557%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
+| SkillDescriptionLv8 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|598%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
+| SkillDescriptionLv9 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|679%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
+| SkillDescriptionLv10 = 円形範囲内の敵に対して、攻撃力の{{SkillValue|720%}}分のダメージ/
+さらに気絶状態を付与（{{SkillValue|3.5秒}}間）
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = 破壊工作：プランA
+| SkillIconType = COMMON_SKILLICON_STATDEBUFF
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|26.7%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv1 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|26.7%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv2 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|28%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv3 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|29.3%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv4 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|34.7%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv5 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|36%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv6 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|37.3%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv7 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|42.7%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv8 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|44%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv9 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|45.3%}}減少（{{SkillValue|15秒}}間）
+| SkillDescriptionLv10 = {{SkillValue|30秒}}毎に、敵1人の被回復率を{{SkillValue|50.7%}}減少（{{SkillValue|15秒}}間）
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = 武装強化：プランＢ
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = 会心値を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 会心値を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 会心値を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 会心値を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 会心値を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 会心値を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 会心値を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 会心値を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 会心値を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 会心値を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 会心値を{{SkillValue|26.6%}}増加
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = 迎撃システム作動
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = 味方の回避値を{{SkillValue|9.1%}}増加
+| SkillDescriptionLv1 = 味方の回避値を{{SkillValue|9.1%}}増加
+| SkillDescriptionLv2 = 味方の回避値を{{SkillValue|9.5%}}増加
+| SkillDescriptionLv3 = 味方の回避値を{{SkillValue|10%}}増加
+| SkillDescriptionLv4 = 味方の回避値を{{SkillValue|11.8%}}増加
+| SkillDescriptionLv5 = 味方の回避値を{{SkillValue|12.3%}}増加
+| SkillDescriptionLv6 = 味方の回避値を{{SkillValue|12.7%}}増加
+| SkillDescriptionLv7 = 味方の回避値を{{SkillValue|14.5%}}増加
+| SkillDescriptionLv8 = 味方の回避値を{{SkillValue|15%}}増加
+| SkillDescriptionLv9 = 味方の回避値を{{SkillValue|15.5%}}増加
+| SkillDescriptionLv10 = 味方の回避値を{{SkillValue|17.3%}}増加
+}}
+
+[[Category:Characters]]

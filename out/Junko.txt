@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = Hunger's Frustration
+| SkillNameJP = 空腹のイライラ
+| SkillIconType = COMMON_SKILLICON_LINE
+| SkillDamageType = Penetration
+| SkillBaseCost = 5
+| SkillDescriptionGeneral = Junko sacrifices {{SkillValue|746~2200%}} of current HP and deals damage equal to {{SkillValue|25.7%}} to attack to enemies in a straight line.
+| SkillDescriptionLv1 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|746%}} to attack to enemies in a straight line.
+| SkillDescriptionLv2 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|857%}} to attack to enemies in a straight line.
+| SkillDescriptionLv3 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|1081%}} to attack to enemies in a straight line.
+| SkillDescriptionLv4 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|1193%}} to attack to enemies in a straight line.
+| SkillDescriptionLv5 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|1417%}} to attack to enemies in a straight line.
+| SkillDescriptionLv6 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|1529%}} to attack to enemies in a straight line.
+| SkillDescriptionLv7 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|1753%}} to attack to enemies in a straight line.
+| SkillDescriptionLv8 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|1865%}} to attack to enemies in a straight line.
+| SkillDescriptionLv9 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|2088%}} to attack to enemies in a straight line.
+| SkillDescriptionLv10 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|2200%}} to attack to enemies in a straight line.
+}}
+{{SkillTable
+| SkillName = Don't talk to me when I'm hungry!
+| SkillNameJP = お腹空いてる時は話しかけないで！
+| SkillIconType = COMMON_SKILLICON_IMMORTAL
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = Junko gains immortal status for {{SkillValue|20%}} when her HP is under {{SkillValue|12.8~24.3 seconds}}. (1 time per battle)
+| SkillDescriptionLv1 = Junko gains immortal status for {{SkillValue|12.8 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv2 = Junko gains immortal status for {{SkillValue|13.5 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv3 = Junko gains immortal status for {{SkillValue|14.1 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv4 = Junko gains immortal status for {{SkillValue|16.7 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv5 = Junko gains immortal status for {{SkillValue|17.3 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv6 = Junko gains immortal status for {{SkillValue|17.9 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv7 = Junko gains immortal status for {{SkillValue|20.5 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv8 = Junko gains immortal status for {{SkillValue|21.1 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv9 = Junko gains immortal status for {{SkillValue|21.8 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv10 = Junko gains immortal status for {{SkillValue|24.3 seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+}}
+{{SkillTable
+| SkillName = Merit of being a petite
+| SkillNameJP = 小柄のメリット
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = Increase Evasion by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Evasion by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Evasion by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Evasion by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Evasion by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Evasion by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Evasion by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Evasion by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Evasion by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Evasion by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Evasion by {{SkillValue|26.6%}}.
+}}
+{{SkillTable
+| SkillName = Gourmet on an empty stomach
+| SkillNameJP = 空腹の美食家
+| SkillIconType = COMMON_SKILLICON_EXTRADAMAGE
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = When attacking, Junko deals {{SkillValue|0.9~1.7%}}〜{{SkillValue|4.9~9.4%}} more damage in proportion to lost HP.
+| SkillDescriptionLv1 = When attacking, Junko deals {{SkillValue|0.9%}}〜{{SkillValue|4.9%}} more damage in proportion to lost HP.
+| SkillDescriptionLv2 = When attacking, Junko deals {{SkillValue|0.9%}}〜{{SkillValue|5.2%}} more damage in proportion to lost HP.
+| SkillDescriptionLv3 = When attacking, Junko deals {{SkillValue|1%}}〜{{SkillValue|5.4%}} more damage in proportion to lost HP.
+| SkillDescriptionLv4 = When attacking, Junko deals {{SkillValue|1.2%}}〜{{SkillValue|6.4%}} more damage in proportion to lost HP.
+| SkillDescriptionLv5 = When attacking, Junko deals {{SkillValue|1.2%}}〜{{SkillValue|6.6%}} more damage in proportion to lost HP.
+| SkillDescriptionLv6 = When attacking, Junko deals {{SkillValue|1.2%}}〜{{SkillValue|6.9%}} more damage in proportion to lost HP.
+| SkillDescriptionLv7 = When attacking, Junko deals {{SkillValue|1.4%}}〜{{SkillValue|7.9%}} more damage in proportion to lost HP.
+| SkillDescriptionLv8 = When attacking, Junko deals {{SkillValue|1.5%}}〜{{SkillValue|8.1%}} more damage in proportion to lost HP.
+| SkillDescriptionLv9 = When attacking, Junko deals {{SkillValue|1.5%}}〜{{SkillValue|8.4%}} more damage in proportion to lost HP.
+| SkillDescriptionLv10 = When attacking, Junko deals {{SkillValue|1.7%}}〜{{SkillValue|9.4%}} more damage in proportion to lost HP.
+}}
+
+[[Category:Characters]]

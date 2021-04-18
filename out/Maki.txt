@@ -1,0 +1,86 @@
+===Skills===
+{{EXSkillTable
+| SkillName = None
+| SkillNameJP = 世界をもっと色鮮やかに！
+| SkillIconType = COMMON_SKILLICON_TARGET
+| SkillDamageType = Penetration
+| SkillBaseCost = 5
+| SkillDescriptionGeneral = 敵1人に対して、攻撃力の{{SkillValue|676%}}分のダメージ/
+攻撃力を{{SkillValue|41.9%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv1 = 敵1人に対して、攻撃力の{{SkillValue|676%}}分のダメージ/
+攻撃力を{{SkillValue|41.9%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv2 = 敵1人に対して、攻撃力の{{SkillValue|777%}}分のダメージ/
+攻撃力を{{SkillValue|41.9%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv3 = 敵1人に対して、攻撃力の{{SkillValue|879%}}分のダメージ/
+攻撃力を{{SkillValue|48.2%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv4 = 敵1人に対して、攻撃力の{{SkillValue|980%}}分のダメージ/
+攻撃力を{{SkillValue|48.2%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv5 = 敵1人に対して、攻撃力の{{SkillValue|1081%}}分のダメージ/
+攻撃力を{{SkillValue|54.5%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv6 = 敵1人に対して、攻撃力の{{SkillValue|1183%}}分のダメージ/
+攻撃力を{{SkillValue|54.5%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv7 = 敵1人に対して、攻撃力の{{SkillValue|1386%}}分のダメージ/
+攻撃力を{{SkillValue|54.5%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv8 = 敵1人に対して、攻撃力の{{SkillValue|1487%}}分のダメージ/
+攻撃力を{{SkillValue|54.5%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv9 = 敵1人に対して、攻撃力の{{SkillValue|1690%}}分のダメージ/
+攻撃力を{{SkillValue|54.5%}}増加（{{SkillValue|30秒}}間）
+| SkillDescriptionLv10 = 敵1人に対して、攻撃力の{{SkillValue|1791%}}分のダメージ/
+攻撃力を{{SkillValue|54.5%}}増加（{{SkillValue|30秒}}間）
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = くらえ、ペイントボール！
+| SkillIconType = COMMON_SKILLICON_MARK
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = {{SkillValue|25秒}}毎に、敵1人の防御力を{{SkillValue|18.3%}}減少、マーク状態を付与（{{SkillValue|15秒}}間）
+| SkillDescriptionLv1 = {{SkillValue|25秒}}毎に、敵1人の防御力を{{SkillValue|18.3%}}減少、マーク状態を付与（{{SkillValue|15秒}}間）
+| SkillDescriptionLv2 = {{SkillValue|25秒}}毎に、敵1人の防御力を{{SkillValue|19.2%}}減少、マーク状態を付与（{{SkillValue|15秒}}間）
+| SkillDescriptionLv3 = {{SkillValue|25秒}}毎に、敵1人の防御力を{{SkillValue|20.2%}}減少、マーク状態を付与（{{SkillValue|15秒}}間）
+| SkillDescriptionLv4 = {{SkillValue|25秒}}毎に、敵1人の防御力を{{SkillValue|23.8%}}減少、マーク状態を付与（{{SkillValue|15秒}}間）
+| SkillDescriptionLv5 = {{SkillValue|25秒}}毎に、敵1人の防御力を{{SkillValue|24.8%}}減少、マーク状態を付与（{{SkillValue|15秒}}間）
+| SkillDescriptionLv6 = {{SkillValue|25秒}}毎に、敵1人の防御力を{{SkillValue|25.7%}}減少、マーク状態を付与（{{SkillValue|15秒}}間）
+| SkillDescriptionLv7 = {{SkillValue|25秒}}毎に、敵1人の防御力を{{SkillValue|29.3%}}減少、マーク状態を付与（{{SkillValue|15秒}}間）
+| SkillDescriptionLv8 = {{SkillValue|25秒}}毎に、敵1人の防御力を{{SkillValue|30.3%}}減少、マーク状態を付与（{{SkillValue|15秒}}間）
+| SkillDescriptionLv9 = {{SkillValue|25秒}}毎に、敵1人の防御力を{{SkillValue|31.2%}}減少、マーク状態を付与（{{SkillValue|15秒}}間）
+| SkillDescriptionLv10 = {{SkillValue|25秒}}毎に、敵1人の防御力を{{SkillValue|34.8%}}減少、マーク状態を付与（{{SkillValue|15秒}}間）
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = 芸術的な演出
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = 攻撃速度を{{SkillValue|14%}}増加
+| SkillDescriptionLv1 = 攻撃速度を{{SkillValue|14%}}増加
+| SkillDescriptionLv2 = 攻撃速度を{{SkillValue|14.7%}}増加
+| SkillDescriptionLv3 = 攻撃速度を{{SkillValue|15.4%}}増加
+| SkillDescriptionLv4 = 攻撃速度を{{SkillValue|18.2%}}増加
+| SkillDescriptionLv5 = 攻撃速度を{{SkillValue|18.9%}}増加
+| SkillDescriptionLv6 = 攻撃速度を{{SkillValue|19.6%}}増加
+| SkillDescriptionLv7 = 攻撃速度を{{SkillValue|22.4%}}増加
+| SkillDescriptionLv8 = 攻撃速度を{{SkillValue|23.1%}}増加
+| SkillDescriptionLv9 = 攻撃速度を{{SkillValue|23.8%}}増加
+| SkillDescriptionLv10 = 攻撃速度を{{SkillValue|26.6%}}増加
+}}
+{{SkillTable
+| SkillName = None
+| SkillNameJP = 芸術の苦しみ
+| SkillIconType = COMMON_SKILLICON_EXTRADAMAGE
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = マーク状態の敵を攻撃時、攻撃力の{{SkillValue|14.9%}}分の追加ダメージ
+| SkillDescriptionLv1 = マーク状態の敵を攻撃時、攻撃力の{{SkillValue|14.9%}}分の追加ダメージ
+| SkillDescriptionLv2 = マーク状態の敵を攻撃時、攻撃力の{{SkillValue|15.7%}}分の追加ダメージ
+| SkillDescriptionLv3 = マーク状態の敵を攻撃時、攻撃力の{{SkillValue|16.4%}}分の追加ダメージ
+| SkillDescriptionLv4 = マーク状態の敵を攻撃時、攻撃力の{{SkillValue|19.4%}}分の追加ダメージ
+| SkillDescriptionLv5 = マーク状態の敵を攻撃時、攻撃力の{{SkillValue|20.1%}}分の追加ダメージ
+| SkillDescriptionLv6 = マーク状態の敵を攻撃時、攻撃力の{{SkillValue|20.8%}}分の追加ダメージ
+| SkillDescriptionLv7 = マーク状態の敵を攻撃時、攻撃力の{{SkillValue|23.8%}}分の追加ダメージ
+| SkillDescriptionLv8 = マーク状態の敵を攻撃時、攻撃力の{{SkillValue|24.6%}}分の追加ダメージ
+| SkillDescriptionLv9 = マーク状態の敵を攻撃時、攻撃力の{{SkillValue|25.3%}}分の追加ダメージ
+| SkillDescriptionLv10 = マーク状態の敵を攻撃時、攻撃力の{{SkillValue|28.3%}}分の追加ダメージ
+}}
+
+[[Category:Characters]]
