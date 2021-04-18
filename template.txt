@@ -4,7 +4,9 @@
 | SkillNameJP = {{character.ex_skill.name}}
 | SkillIconType = {{character.ex_skill.icon}}
 | SkillDamageType = {{character.ex_skill.damage_type}}
-| SkillBaseCost = {{character.ex_skill.levels[0][1]}}
+| SkillBaseCost = {{character.ex_skill.levels[0][1]}}{% if character.ex_skill.upgraded_cost %}
+| SkillUpgradedCost = {{character.ex_skill.upgraded_cost}} {% endif %}{% if character.ex_skill.upgraded_cost_level %}
+| SkillUpgradedCostLv = {{character.ex_skill.upgraded_cost_level}} {% endif %}
 | SkillDescriptionGeneral = {{character.ex_skill.description_general|colorize}}
 {% for description, cost in character.ex_skill.levels -%}
 | SkillDescriptionLv{{loop.index}} = {{description|colorize}}

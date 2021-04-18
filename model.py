@@ -143,7 +143,7 @@ class Profile(object):
 
 
 class Skill(object):
-    def __init__(self, name, name_translated, icon, levels, description_general, damage_type):
+    def __init__(self, name, name_translated, icon, levels, description_general, damage_type, upgraded_cost = '', upgraded_cost_level = ''):
         self.name = name
         self.icon = icon
         self.levels = levels
@@ -153,6 +153,8 @@ class Skill(object):
         self.name_translated = name_translated
         self.description_general = description_general
         #self.max_level = 10
+        self.upgraded_cost = upgraded_cost
+        self.upgraded_cost_level = upgraded_cost_level
 
     @property
     def damage_type(self):
@@ -172,7 +174,7 @@ class Skill(object):
         def replace_units(text):
             text = re.sub('回', '', text)
             text = re.sub('つ', '', text)
-            text = re.sub('秒', ' seconds', text)
+            text = re.sub('秒', '&nbsp;seconds', text)
             return text
 
 
@@ -213,6 +215,12 @@ class Skill(object):
             in sorted(group, key=operator.itemgetter('Level'))
         ]
         
+        upgraded_cost = ''
+        upgraded_cost_level = ''
+        for i in range(max_level-1):
+            if levels[i][1] != levels[i+1][1]:
+                upgraded_cost = levels[i+1][1]
+                upgraded_cost_level = i+2
 
         text_general = translate_skill(levels[9][0], max_level, group_id)
         description_general = format_description(levels, text_general)
@@ -231,7 +239,9 @@ class Skill(object):
             group[0]['IconName'].rsplit('/', 1)[-1],
             levels,
             description_general,
-            group[0]['BulletType']
+            group[0]['BulletType'],
+            upgraded_cost,
+            upgraded_cost_level
         )
 
         

@@ -490,7 +490,7 @@
         {
             "GroupId": "ZunkoPublic01",
             "NameEn": "Don't talk to me when I'm hungry!",
-            "DescriptionEn": "Junko gains immortal status for $2 when her HP is under $1. (1 time per battle)"
+            "DescriptionEn": "When HP is under $1 Junko gains immortal status for $2. (1 time per battle)"
         },
         {
             "GroupId": "ZunkoPassive01",

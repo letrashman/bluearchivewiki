@@ -5,6 +5,8 @@
 | SkillIconType = COMMON_SKILLICON_LINE
 | SkillDamageType = Mystic
 | SkillBaseCost = 4
+| SkillUpgradedCost = 3 
+| SkillUpgradedCostLv = 5 
 | SkillDescriptionGeneral = Attack a selected enemy with {{SkillValue|506~887%}} of Haruna's Attack, bullet will penetrate target and damage subsequent targets at sequential {{SkillValue|10%}} damage reduction per target. (Damage reduction caps at a low of {{SkillValue|30%}})
 | SkillDescriptionLv1 = Attack a selected enemy with {{SkillValue|506%}} of Haruna's Attack, bullet will penetrate target and damage subsequent targets at sequential {{SkillValue|10%}} damage reduction per target. (Damage reduction caps at a low of {{SkillValue|30%}})
 | SkillDescriptionLv2 = Attack a selected enemy with {{SkillValue|582%}} of Haruna's Attack, bullet will penetrate target and damage subsequent targets at sequential {{SkillValue|10%}} damage reduction per target. (Damage reduction caps at a low of {{SkillValue|30%}})
