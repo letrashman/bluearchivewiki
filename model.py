@@ -84,7 +84,7 @@ class Character(object):
             character_ai['CanUseObstacleOfKneelMotion'] or character_ai['CanUseObstacleOfStandMotion'],
             Profile.from_data(character_id, data),
             Skill.from_data(data.characters_skills[(character_id, False)]['PublicSkillGroupId'][0], data),
-            Skill.from_data(data.characters_skills[(character_id, False)]['ExSkillGroupId'][0], data),
+            Skill.from_data(data.characters_skills[(character_id, False)]['ExSkillGroupId'][0], data, 5),
             Skill.from_data(data.characters_skills[(character_id, False)]['PassiveSkillGroupId'][0], data),
             Skill.from_data(data.characters_skills[(character_id, False)]['ExtraPassiveSkillGroupId'][0], data),
             Stats.from_data(character_id, data)
@@ -152,6 +152,7 @@ class Skill(object):
         # Extra information
         self.name_translated = name_translated
         self.description_general = description_general
+        #self.max_level = 10
 
     @property
     def damage_type(self):
@@ -162,7 +163,7 @@ class Skill(object):
         }[self._damage_type]
 
     @classmethod
-    def from_data(cls, group_id, data):
+    def from_data(cls, group_id, data, max_level = 10):
         group = [skill for skill in data.skills.values() if skill['GroupId'] == group_id]
         if not group:
             raise KeyError(group_id)
@@ -189,7 +190,7 @@ class Skill(object):
 
         def format_description(levels, text_en):
             start_variables = re.findall(r'\{\{SkillValue\|([^\}\[]+)\}\}',  levels[0][0])
-            end_variables = re.findall(r'\{\{SkillValue\|([^\}\[]+)\}\}',  levels[9][0])
+            end_variables = re.findall(r'\{\{SkillValue\|([^\}\[]+)\}\}',  levels[max_level-1][0])
 
             for i in range(len(end_variables)):
                 stripped_start = re.findall(r'([0-9.]+).*', start_variables[i])
