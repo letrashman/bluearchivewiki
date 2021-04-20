@@ -41,17 +41,17 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = Increases Attack Speed by {{SkillValue|14~26.6%}}.
-| SkillDescriptionLv1 = Increases Attack Speed by {{SkillValue|14%}}.
-| SkillDescriptionLv2 = Increases Attack Speed by {{SkillValue|14.7%}}.
-| SkillDescriptionLv3 = Increases Attack Speed by {{SkillValue|15.4%}}.
-| SkillDescriptionLv4 = Increases Attack Speed by {{SkillValue|18.2%}}.
-| SkillDescriptionLv5 = Increases Attack Speed by {{SkillValue|18.9%}}.
-| SkillDescriptionLv6 = Increases Attack Speed by {{SkillValue|19.6%}}.
-| SkillDescriptionLv7 = Increases Attack Speed by {{SkillValue|22.4%}}.
-| SkillDescriptionLv8 = Increases Attack Speed by {{SkillValue|23.1%}}.
-| SkillDescriptionLv9 = Increases Attack Speed by {{SkillValue|23.8%}}.
-| SkillDescriptionLv10 = Increases Attack Speed by {{SkillValue|26.6%}}.
+| SkillDescriptionGeneral = Increase Attack Speed by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Attack Speed by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Attack Speed by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Attack Speed by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Attack Speed by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Attack Speed by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Attack Speed by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Attack Speed by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Attack Speed by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Attack Speed by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Attack Speed by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
 | SkillName = From beginning to end

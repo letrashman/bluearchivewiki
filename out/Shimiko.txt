@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_OBSTACLE
 | SkillDamageType = Explosive
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|16.3~26.2%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionGeneral = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|16.3~26.2%}}. (Duration: {{SkillValue|30&nbsp;seconds}})<br>Cover has additional HP equal to {{SkillValue|0~38%}} of Shimiko's HP.
 | SkillDescriptionLv1 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|16.3%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
 | SkillDescriptionLv2 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|18.8%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv3 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|21.3%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv4 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|23.7%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv5 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|26.2%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv6 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|28.6%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv7 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|33.6%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv8 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|36%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv9 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|40.9%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv10 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|43.4%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionLv3 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|21.3%}}. (Duration: {{SkillValue|30&nbsp;seconds}})<br>Cover has additional HP equal to {{SkillValue|20.1%}} of Shimiko's HP.
+| SkillDescriptionLv4 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|23.7%}}. (Duration: {{SkillValue|30&nbsp;seconds}})<br>Cover has additional HP equal to {{SkillValue|20.1%}} of Shimiko's HP.
+| SkillDescriptionLv5 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|26.2%}}. (Duration: {{SkillValue|30&nbsp;seconds}})<br>Cover has additional HP equal to {{SkillValue|38%}} of Shimiko's HP.
+| SkillDescriptionLv6 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|28.6%}}. (Duration: {{SkillValue|30&nbsp;seconds}})<br>Cover has additional HP equal to {{SkillValue|38%}} of Shimiko's HP.
+| SkillDescriptionLv7 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|33.6%}}. (Duration: {{SkillValue|30&nbsp;seconds}})<br>Cover has additional HP equal to {{SkillValue|38%}} of Shimiko's HP.
+| SkillDescriptionLv8 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|36%}}. (Duration: {{SkillValue|30&nbsp;seconds}})<br>Cover has additional HP equal to {{SkillValue|38%}} of Shimiko's HP.
+| SkillDescriptionLv9 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|40.9%}}. (Duration: {{SkillValue|30&nbsp;seconds}})<br>Cover has additional HP equal to {{SkillValue|38%}} of Shimiko's HP.
+| SkillDescriptionLv10 = Deploy a cover, and increases any allies's Defense in circular area by {{SkillValue|43.4%}}. (Duration: {{SkillValue|30&nbsp;seconds}})<br>Cover has additional HP equal to {{SkillValue|42.4%}} of Shimiko's HP.
 }}
 {{SkillTable
 | SkillName = Chicken soup for the Soul
@@ -41,17 +41,17 @@
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = Increases Healing by {{SkillValue|14~26.6%}}.
-| SkillDescriptionLv1 = Increases Healing by {{SkillValue|14%}}.
-| SkillDescriptionLv2 = Increases Healing by {{SkillValue|14.7%}}.
-| SkillDescriptionLv3 = Increases Healing by {{SkillValue|15.4%}}.
-| SkillDescriptionLv4 = Increases Healing by {{SkillValue|18.2%}}.
-| SkillDescriptionLv5 = Increases Healing by {{SkillValue|18.9%}}.
-| SkillDescriptionLv6 = Increases Healing by {{SkillValue|19.6%}}.
-| SkillDescriptionLv7 = Increases Healing by {{SkillValue|22.4%}}.
-| SkillDescriptionLv8 = Increases Healing by {{SkillValue|23.1%}}.
-| SkillDescriptionLv9 = Increases Healing by {{SkillValue|23.8%}}.
-| SkillDescriptionLv10 = Increases Healing by {{SkillValue|26.6%}}.
+| SkillDescriptionGeneral = Increase Healing by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Healing by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Healing by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Healing by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Healing by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Healing by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Healing by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Healing by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Healing by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Healing by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Healing by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
 | SkillName = Let's open a Book Club!

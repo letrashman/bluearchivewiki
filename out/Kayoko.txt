@@ -41,17 +41,17 @@
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = Increases CC Strength by {{SkillValue|14~26.6%}}.
-| SkillDescriptionLv1 = Increases CC Strength by {{SkillValue|14%}}.
-| SkillDescriptionLv2 = Increases CC Strength by {{SkillValue|14.7%}}.
-| SkillDescriptionLv3 = Increases CC Strength by {{SkillValue|15.4%}}.
-| SkillDescriptionLv4 = Increases CC Strength by {{SkillValue|18.2%}}.
-| SkillDescriptionLv5 = Increases CC Strength by {{SkillValue|18.9%}}.
-| SkillDescriptionLv6 = Increases CC Strength by {{SkillValue|19.6%}}.
-| SkillDescriptionLv7 = Increases CC Strength by {{SkillValue|22.4%}}.
-| SkillDescriptionLv8 = Increases CC Strength by {{SkillValue|23.1%}}.
-| SkillDescriptionLv9 = Increases CC Strength by {{SkillValue|23.8%}}.
-| SkillDescriptionLv10 = Increases CC Strength by {{SkillValue|26.6%}}.
+| SkillDescriptionGeneral = Increase CC Strength by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase CC Strength by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase CC Strength by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase CC Strength by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase CC Strength by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase CC Strength by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase CC Strength by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase CC Strength by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase CC Strength by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase CC Strength by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase CC Strength by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
 | SkillName = It can't be helped

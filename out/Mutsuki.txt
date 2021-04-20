@@ -23,7 +23,7 @@
 | SkillIconType = COMMON_SKILLICON_BATTLEITEM
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|334~635%}}, place 3 landmines that deal {{SkillValue|20&nbsp;seconds}} damage. (Landmines disappear after {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionGeneral = Every {{SkillValue|20&nbsp;seconds}}, place 3 landmines that deal {{SkillValue|334~635%}} damage. (Landmines disappear after {{SkillValue|15&nbsp;seconds}})
 | SkillDescriptionLv1 = Every {{SkillValue|20&nbsp;seconds}}, place 3 landmines that deal {{SkillValue|334%}} damage. (Landmines disappear after {{SkillValue|15&nbsp;seconds}})
 | SkillDescriptionLv2 = Every {{SkillValue|20&nbsp;seconds}}, place 3 landmines that deal {{SkillValue|351%}} damage. (Landmines disappear after {{SkillValue|15&nbsp;seconds}})
 | SkillDescriptionLv3 = Every {{SkillValue|20&nbsp;seconds}}, place 3 landmines that deal {{SkillValue|368%}} damage. (Landmines disappear after {{SkillValue|15&nbsp;seconds}})

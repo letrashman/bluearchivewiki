@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_RELOAD
 | SkillDamageType = Explosive
 | SkillBaseCost = 2
-| SkillDescriptionGeneral = Reload and increase attack power by {{SkillValue|35.6~67.7%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv1 = Reload and increase attack power by {{SkillValue|35.6%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv2 = Reload and increase attack power by {{SkillValue|41%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv3 = Reload and increase attack power by {{SkillValue|51.6%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv4 = Reload and increase attack power by {{SkillValue|57%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv5 = Reload and increase attack power by {{SkillValue|67.7%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv6 = Reload and increase attack power by {{SkillValue|73%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv7 = Reload and increase attack power by {{SkillValue|83.7%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv8 = Reload and increase attack power by {{SkillValue|89.1%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv9 = Reload and increase attack power by {{SkillValue|99.8%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv10 = Reload and increase attack power by {{SkillValue|105%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionGeneral = Reload and increase Attack power by {{SkillValue|35.6~67.7%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv1 = Reload and increase Attack power by {{SkillValue|35.6%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv2 = Reload and increase Attack power by {{SkillValue|41%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv3 = Reload and increase Attack power by {{SkillValue|51.6%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv4 = Reload and increase Attack power by {{SkillValue|57%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv5 = Reload and increase Attack power by {{SkillValue|67.7%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv6 = Reload and increase Attack power by {{SkillValue|73%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv7 = Reload and increase Attack power by {{SkillValue|83.7%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv8 = Reload and increase Attack power by {{SkillValue|89.1%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv9 = Reload and increase Attack power by {{SkillValue|99.8%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionLv10 = Reload and increase Attack power by {{SkillValue|105%}} for {{SkillValue|30&nbsp;seconds}}.
 }}
 {{SkillTable
 | SkillName = Precision Shooting
@@ -23,7 +23,7 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Deal {{SkillValue|25&nbsp;seconds}} damage to one enemy every {{SkillValue|223~425%}}.
+| SkillDescriptionGeneral = Deal {{SkillValue|223~425%}} damage to one enemy every {{SkillValue|25&nbsp;seconds}}.
 | SkillDescriptionLv1 = Deal {{SkillValue|223%}} damage to one enemy every {{SkillValue|25&nbsp;seconds}}.
 | SkillDescriptionLv2 = Deal {{SkillValue|235%}} damage to one enemy every {{SkillValue|25&nbsp;seconds}}.
 | SkillDescriptionLv3 = Deal {{SkillValue|246%}} damage to one enemy every {{SkillValue|25&nbsp;seconds}}.
@@ -41,17 +41,17 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = Increase attack power by {{SkillValue|14~26.6%}}.
-| SkillDescriptionLv1 = Increase attack power by {{SkillValue|14%}}.
-| SkillDescriptionLv2 = Increase attack power by {{SkillValue|14.7%}}.
-| SkillDescriptionLv3 = Increase attack power by {{SkillValue|15.4%}}.
-| SkillDescriptionLv4 = Increase attack power by {{SkillValue|18.2%}}.
-| SkillDescriptionLv5 = Increase attack power by {{SkillValue|18.9%}}.
-| SkillDescriptionLv6 = Increase attack power by {{SkillValue|19.6%}}.
-| SkillDescriptionLv7 = Increase attack power by {{SkillValue|22.4%}}.
-| SkillDescriptionLv8 = Increase attack power by {{SkillValue|23.1%}}.
-| SkillDescriptionLv9 = Increase attack power by {{SkillValue|23.8%}}.
-| SkillDescriptionLv10 = Increase attack power by {{SkillValue|26.6%}}.
+| SkillDescriptionGeneral = Increase Attack by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Attack by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Attack by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Attack by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Attack by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Attack by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Attack by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Attack by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Attack by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Attack by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Attack by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
 | SkillName = Wrath of the Countermeasure Committe

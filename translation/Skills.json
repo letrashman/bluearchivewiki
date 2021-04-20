@@ -3,7 +3,7 @@
         {
             "GroupId": "PinaEx01",
             "NameEn": "Rapid-Fire Mode!",
-            "DescriptionEn": "Reloads and increases attack power by $1 for $3 while ignoring attack delay $2"
+            "DescriptionEn": "Reloads and increases attack power by $1 for $3 while ignoring attack delay $2 times."
         },
         {
             "GroupId": "PinaPublic01",
@@ -13,7 +13,7 @@
         {
             "GroupId": "PinaPassive01",
             "NameEn": "Sharp Intuition",
-            "DescriptionEn": "Increases critical rate by $1."
+            "DescriptionEn": "Increase Critical Rate by $1."
         },
         {
             "GroupId": "PinaExtraPassive01",
@@ -23,22 +23,22 @@
         {
             "GroupId": "SerinaEx01",
             "NameEn": "Intensive care set A",
-            "DescriptionEn": "Moves the closest ally to the first aid box and recovers their HP by $1"
+            "DescriptionEn": "Moves the closest ally to the first aid box and recovers their HP by $1."
         },
         {
             "GroupId": "SerinaPublic01",
             "NameEn": "Emergency care set B",
-            "DescriptionEn": "Every $1, heals one ally by $2"
+            "DescriptionEn": "Every $1, heals one ally by $2."
         },
         {
             "GroupId": "SerinaPassive01",
             "NameEn": "Angel in white",
-            "DescriptionEn": "Increases Healing by $1"
+            "DescriptionEn": "Increase Healing by $1."
         },
         {
             "GroupId": "SerinaExtraPassive01",
             "NameEn": "Angel's smile",
-            "DescriptionEn": "Increase CC Resistance of all allies by $1"
+            "DescriptionEn": "Increase CC Resistance of all allies by $1."
         },
         {
             "GroupId": "UtahaEx01",
@@ -53,7 +53,7 @@
         {
             "GroupId": "UtahaPassive01",
             "NameEn": "Technology's Revolution",
-            "DescriptionEn": "Increases attack by $1."
+            "DescriptionEn": "Increase Attack by $1."
         },
         {
             "GroupId": "UtahaExtraPassive01",
@@ -63,7 +63,8 @@
         {
             "GroupId": "ShimikoEx01",
             "NameEn": "Shield Of Knowledge",
-            "DescriptionEn": "Deploy a cover, and increases any allies's Defense in circular area by $1. (Duration: $2)"
+            "DescriptionEn": "Deploy a cover, and increases any allies's Defense in circular area by $1. (Duration: $2)",
+            "AddOnLevel3": "<br>Cover has additional HP equal to $3 of Shimiko's HP."
         },
         {
             "GroupId": "ShimikoPublic01",
@@ -73,7 +74,7 @@
         {
             "GroupId": "ShimikoPassive01",
             "NameEn": "Let's accumulate more knowledge!",
-            "DescriptionEn": "Increases Healing by $1."
+            "DescriptionEn": "Increase Healing by $1."
         },
         {
             "GroupId": "ShimikoExtraPassive01",
@@ -83,7 +84,7 @@
         {
             "GroupId": "ShunEx01",
             "NameEn": "Where are the troublesome children?",
-            "DescriptionEn": "Increase regular attack damage to $1, firing range by $2, critical rate by $3, but decrease Attack Speed by $4. (Duration: $5)"
+            "DescriptionEn": "Increase regular attack damage to $1, firing range by $2, Critical Rate by $3, but decrease Attack Speed by $4. (Duration: $5)"
         },
         {
             "GroupId": "ShunPublic01",
@@ -103,7 +104,7 @@
         {
             "GroupId": "SerikaEx01",
             "NameEn": "You're such a bother!",
-            "DescriptionEn": "Reload and increase attack power by $1 for $2."
+            "DescriptionEn": "Reload and increase Attack power by $1 for $2."
         },
         {
             "GroupId": "SerikaPublic01",
@@ -113,7 +114,7 @@
         {
             "GroupId": "SerikaPassive01",
             "NameEn": "Part-time Job Spirit",
-            "DescriptionEn": "Increase attack power by $1."
+            "DescriptionEn": "Increase Attack by $1."
         },
         {
             "GroupId": "SerikaExtraPassive01",
@@ -123,7 +124,7 @@
         {
             "GroupId": "TsubakiEx01",
             "NameEn": "Combat shield, engaged",
-            "DescriptionEn": "Increases defense by $1 for $2 and taunts enemies in a circular area for $3."
+            "DescriptionEn": "Increase Defense by $1 for $2 and taunt enemies in a circular area for $3."
         },
         {
             "GroupId": "TsubakiPublic01",
@@ -133,7 +134,7 @@
         {
             "GroupId": "TsubakiPassive01",
             "NameEn": "Grit",
-            "DescriptionEn": "Increase defense by $1."
+            "DescriptionEn": "Increase Defense by $1."
         },
         {
             "GroupId": "TsubakiExtraPassive01",
@@ -148,12 +149,12 @@
         {
             "GroupId": "NeruPublic01",
             "NameEn": "Huh? Stop bullshitting!",
-            "DescriptionEn": "Every $1, apply a status of anger to herself. Increase evasion by $2. ($3 duration)"
+            "DescriptionEn": "Every $1, apply a status of anger to herself. Increase Evasion by $2. ($3 duration)"
         },
         {
             "GroupId": "NeruPassive01",
             "NameEn": "Call sign 00",
-            "DescriptionEn": "Increase critical hit damage by $1."
+            "DescriptionEn": "Increase Critical Damage by $1."
         },
         {
             "GroupId": "NeruExtraPassive01",
@@ -168,17 +169,17 @@
         {
             "GroupId": "HasumiPublic01",
             "NameEn": "A composed mind",
-            "DescriptionEn": "After defeating an enemy immediately reload and increase critical rate by $1 for $2."
+            "DescriptionEn": "After defeating an enemy immediately reload and increase Critical Rate by $1 for $2."
         },
         {
             "GroupId": "HasumiPassive01",
             "NameEn": "Target in sights",
-            "DescriptionEn": "Increase critical rate by $1."
+            "DescriptionEn": "Increase Critical Rate by $1."
         },
         {
             "GroupId": "HasumiExtraPassive01",
             "NameEn": "Searching for target",
-            "DescriptionEn": "After reloading increase critical rate by $1 for one attack."
+            "DescriptionEn": "After reloading increase Critical Rate by $1 for one attack."
         },
         {
             "GroupId": "HarunaEx01",
@@ -213,7 +214,7 @@
         {
             "GroupId": "HinaPassive01",
             "NameEn": "Cool-headed Disciplinary committee",
-            "DescriptionEn": "Increases Attack Speed by $1."
+            "DescriptionEn": "Increase Attack Speed by $1."
         },
         {
             "GroupId": "HinaExtraPassive01",
@@ -253,7 +254,7 @@
         {
             "GroupId": "FuukaPassive01",
             "NameEn": "Let's garther fresh ingredients",
-            "DescriptionEn": "Increases healing by $1."
+            "DescriptionEn": "Increase Healing by $1."
         },
         {
             "GroupId": "FuukaExtraPassive01",
@@ -415,7 +416,7 @@
         {
             "GroupId": "KayokoPassive01",
             "NameEn": "Scary face",
-            "DescriptionEn": "Increases CC Strength by $1."
+            "DescriptionEn": "Increase CC Strength by $1."
         },
         {
             "GroupId": "KayokoExtraPassive01",
@@ -455,7 +456,7 @@
         {
             "GroupId": "KotamaPassive01",
             "NameEn": "Intensive analysis",
-            "DescriptionEn": "Increases Accuracy by $1."
+            "DescriptionEn": "Increase Accuracy by $1."
         },
         {
             "GroupId": "KotamaExtraPassive01",
@@ -984,9 +985,47 @@
             "GroupId": "NonomiExtraPassive01",
             "NameEn": "I'll clean up spick-and-span~♧",
             "DescriptionEn": "When attacking large enemies, deal $1 of Nonomi's Attack stat as additional damage."
+        },
+        {
+            "GroupId": "MidoriEx01",
+            "NameEn": "Drawing Art",
+            "DescriptionEn": "Target up to 5 enemies, dealing damage equal to $1 Attack per shot. If Momoi is in the same team, apply poison damage equal to $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "MidoriPublic01",
+            "NameEn": "Brushup Sense",
+            "DescriptionEn": "Every $1, heal 1 ally with the lowest HP for $2 of Midori's Healing."
+        },
+        {
+            "GroupId": "MidoriPassive01",
+            "NameEn": "Artist Inspiration",
+            "DescriptionEn": "Increase Critical Rate by $1."
+        },
+        {
+            "GroupId": "MidoriExtraPassive01",
+            "NameEn": "Developer Synergy: Momoi",
+            "DescriptionEn": "Increase Attack Speed by $1. If Momoi is in the same team, increase by $2 instead."
+        },
+        {
+            "GroupId": "MomoiEx01",
+            "NameEn": "The anguish of creation",
+            "DescriptionEn": "Attack all enemies in a conical area with damage equal to $1 Attack. If Midori is in the same team, inflict burn damage equal to $2 Attack. (Duration: $3)"
+        },
+        {
+            "GroupId": "MomoiPublic01",
+            "NameEn": "Strict Deadlines",
+            "DescriptionEn": "Every $1, increase Accuracy by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "MomoiPassive01",
+            "NameEn": "Artist Inspiration",
+            "DescriptionEn": "Increase Critical Rate by $1."
+        },
+        {
+            "GroupId": "MomoiExtraPassive01",
+            "NameEn": " Developer Synergy: Momoi",
+            "DescriptionEn": "Increase Attack by $1. If Midori is in the same team, increase by $2 instead."
         }
-
-
 
 
     ]

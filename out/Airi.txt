@@ -5,7 +5,7 @@
 | SkillIconType = SKILLICON_AIRI_EXSKILL
 | SkillDamageType = Explosive
 | SkillBaseCost = 5
-| SkillDescriptionGeneral = Attack all enemies in a circular area for {{SkillValue|265~464%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|0~26.2%}} and reduce attack speed by {{SkillValue|0~20&nbsp;seconds}} for {{SkillValue|0~26.2%}}.
+| SkillDescriptionGeneral = Attack all enemies in a circular area for {{SkillValue|265~464%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|0~20&nbsp;seconds}} and reduce attack speed by {{SkillValue|0~26.2%}} for {{SkillValue|0~20&nbsp;seconds}}.
 | SkillDescriptionLv1 = Attack all enemies in a circular area for {{SkillValue|265%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for $4.
 | SkillDescriptionLv2 = Attack all enemies in a circular area for {{SkillValue|305%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for $4.
 | SkillDescriptionLv3 = Attack all enemies in a circular area for {{SkillValue|345%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|20&nbsp;seconds}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20&nbsp;seconds}}.

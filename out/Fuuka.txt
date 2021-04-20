@@ -41,17 +41,17 @@
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = Increases healing by {{SkillValue|14~26.6%}}.
-| SkillDescriptionLv1 = Increases healing by {{SkillValue|14%}}.
-| SkillDescriptionLv2 = Increases healing by {{SkillValue|14.7%}}.
-| SkillDescriptionLv3 = Increases healing by {{SkillValue|15.4%}}.
-| SkillDescriptionLv4 = Increases healing by {{SkillValue|18.2%}}.
-| SkillDescriptionLv5 = Increases healing by {{SkillValue|18.9%}}.
-| SkillDescriptionLv6 = Increases healing by {{SkillValue|19.6%}}.
-| SkillDescriptionLv7 = Increases healing by {{SkillValue|22.4%}}.
-| SkillDescriptionLv8 = Increases healing by {{SkillValue|23.1%}}.
-| SkillDescriptionLv9 = Increases healing by {{SkillValue|23.8%}}.
-| SkillDescriptionLv10 = Increases healing by {{SkillValue|26.6%}}.
+| SkillDescriptionGeneral = Increase Healing by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Healing by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Healing by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Healing by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Healing by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Healing by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Healing by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Healing by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Healing by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Healing by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Healing by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
 | SkillName = Pride of School Lunch Club

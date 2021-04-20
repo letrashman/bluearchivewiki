@@ -197,6 +197,7 @@ class Skill(object):
         def format_description(levels, text_en):
             start_variables = re.findall(r'\{\{SkillValue\|([^\}\[]+)\}\}',  levels[0][0])
             end_variables = re.findall(r'\{\{SkillValue\|([^\}\[]+)\}\}',  levels[max_level-1][0])
+            range_text = []
 
             for i in range(len(end_variables)):
                 try: stripped_start = re.findall(r'([0-9.]+).*', start_variables[i])
@@ -204,8 +205,11 @@ class Skill(object):
                     start_variables.append(0)
                     stripped_start = [0]
 
-                range_text = start_variables[i] != end_variables[i] and f'{stripped_start[0]}~{end_variables[i]}' or f'{end_variables[i]}'
-                text_en = re.sub(f'\${i+1}', '{{SkillValue|' + range_text + '}}', text_en)
+                range_text.append(start_variables[i] != end_variables[i] and f'{stripped_start[0]}~{end_variables[i]}' or f'{end_variables[i]}')
+
+            for skill_value in range_text:
+                text_en = re.sub(r'\$[0-9]{1}', '{{SkillValue|' + skill_value + '}}', text_en, 1) 
+
             return text_en
 
 
