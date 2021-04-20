@@ -197,8 +197,8 @@ class Skill(object):
                     except KeyError: pass
 
             variables = re.findall(r'\[c]\[[0-9A-Fa-f]{6}]([^\[]*)\[-]\[/c]', replace_units(text_jp))
-            replacement_count = len(re.findall(r'\$[0-9]{1}', skill_desc))
-            if len(variables) > 0 and len(variables) != replacement_count: print(f'Mismatched number of variables ({len(variables)}/{replacement_count}) in {text_jp} / {skill_desc}')
+            #replacement_count = len(re.findall(r'\$[0-9]{1}', skill_desc))
+            #if len(variables) > 0 and len(variables) != replacement_count: print(f'Mismatched number of variables ({len(variables)}/{replacement_count}) in {text_jp} / {skill_desc}')
 
             for i in range(len(variables)):
                 skill_desc = re.sub(f'\${i+1}', '{{SkillValue|' + variables[i] + '}}', skill_desc)

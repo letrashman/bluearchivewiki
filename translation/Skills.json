@@ -8,7 +8,7 @@
         {
             "GroupId": "PinaPublic01",
             "NameEn": "Ignite once more!",
-            "DescriptionEn": "When HP drops to $1, heal self $2 of Healing power $3 per battle."
+            "DescriptionEn": "When HP drops to $1, heal self for $2 of Healing power $3 per battle."
         },
         {
             "GroupId": "PinaPassive01",
@@ -586,7 +586,7 @@
         {
             "GroupId": "TsurugiEx01",
             "NameEn": "Strange and mysterious",
-            "DescriptionEn": "Reload immediately after activating the skill. Normal attack becomes a fan-shaped area attack that deals $1 damage; increase Attack power by $2. (Effective until $3 reload(s) performed)"
+            "DescriptionEn": "Reload immediately after activating the skill. Normal attack becomes a fan-shaped area attack that deals $1 damage; increase Attack power by $2. (Effective until Tsurugi reloads $3)"
         },
         {
             "GroupId": "TsurugiPublic01",

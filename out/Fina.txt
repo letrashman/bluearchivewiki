@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_HEAL
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = When HP drops to {{SkillValue|20%}}, heal self {{SkillValue|355~674%}} of Healing power {{SkillValue|once}} per battle.
-| SkillDescriptionLv1 = When HP drops to {{SkillValue|20%}}, heal self {{SkillValue|355%}} of Healing power {{SkillValue|once}} per battle.
-| SkillDescriptionLv2 = When HP drops to {{SkillValue|20%}}, heal self {{SkillValue|372%}} of Healing power {{SkillValue|once}} per battle.
-| SkillDescriptionLv3 = When HP drops to {{SkillValue|20%}}, heal self {{SkillValue|390%}} of Healing power {{SkillValue|once}} per battle.
-| SkillDescriptionLv4 = When HP drops to {{SkillValue|20%}}, heal self {{SkillValue|461%}} of Healing power {{SkillValue|once}} per battle.
-| SkillDescriptionLv5 = When HP drops to {{SkillValue|20%}}, heal self {{SkillValue|479%}} of Healing power {{SkillValue|once}} per battle.
-| SkillDescriptionLv6 = When HP drops to {{SkillValue|20%}}, heal self {{SkillValue|497%}} of Healing power {{SkillValue|once}} per battle.
-| SkillDescriptionLv7 = When HP drops to {{SkillValue|20%}}, heal self {{SkillValue|568%}} of Healing power {{SkillValue|once}} per battle.
-| SkillDescriptionLv8 = When HP drops to {{SkillValue|20%}}, heal self {{SkillValue|586%}} of Healing power {{SkillValue|once}} per battle.
-| SkillDescriptionLv9 = When HP drops to {{SkillValue|20%}}, heal self {{SkillValue|603%}} of Healing power {{SkillValue|once}} per battle.
-| SkillDescriptionLv10 = When HP drops to {{SkillValue|20%}}, heal self {{SkillValue|674%}} of Healing power {{SkillValue|once}} per battle.
+| SkillDescriptionGeneral = When HP drops to {{SkillValue|20%}}, heal self for {{SkillValue|355~674%}} of Healing power {{SkillValue|once}} per battle.
+| SkillDescriptionLv1 = When HP drops to {{SkillValue|20%}}, heal self for {{SkillValue|355%}} of Healing power {{SkillValue|once}} per battle.
+| SkillDescriptionLv2 = When HP drops to {{SkillValue|20%}}, heal self for {{SkillValue|372%}} of Healing power {{SkillValue|once}} per battle.
+| SkillDescriptionLv3 = When HP drops to {{SkillValue|20%}}, heal self for {{SkillValue|390%}} of Healing power {{SkillValue|once}} per battle.
+| SkillDescriptionLv4 = When HP drops to {{SkillValue|20%}}, heal self for {{SkillValue|461%}} of Healing power {{SkillValue|once}} per battle.
+| SkillDescriptionLv5 = When HP drops to {{SkillValue|20%}}, heal self for {{SkillValue|479%}} of Healing power {{SkillValue|once}} per battle.
+| SkillDescriptionLv6 = When HP drops to {{SkillValue|20%}}, heal self for {{SkillValue|497%}} of Healing power {{SkillValue|once}} per battle.
+| SkillDescriptionLv7 = When HP drops to {{SkillValue|20%}}, heal self for {{SkillValue|568%}} of Healing power {{SkillValue|once}} per battle.
+| SkillDescriptionLv8 = When HP drops to {{SkillValue|20%}}, heal self for {{SkillValue|586%}} of Healing power {{SkillValue|once}} per battle.
+| SkillDescriptionLv9 = When HP drops to {{SkillValue|20%}}, heal self for {{SkillValue|603%}} of Healing power {{SkillValue|once}} per battle.
+| SkillDescriptionLv10 = When HP drops to {{SkillValue|20%}}, heal self for {{SkillValue|674%}} of Healing power {{SkillValue|once}} per battle.
 }}
 {{SkillTable
 | SkillName = Sharp Intuition

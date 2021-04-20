@@ -5,7 +5,7 @@
 | SkillIconType = SKILLICON_AIRI_EXSKILL
 | SkillDamageType = Explosive
 | SkillBaseCost = 5
-| SkillDescriptionGeneral = Deal {{SkillValue|265~464%}} damage to all enemies in a circular area, decrease their movement speed by {{SkillValue|22.8%}} and reduce attack speed by {{SkillValue|20~26.2%}} for {{SkillValue|0~20 seconds}}.
+| SkillDescriptionGeneral = Deal {{SkillValue|265~464%}} damage to all enemies in a circular area, decrease their movement speed by {{SkillValue|22.8%}} and reduce attack speed by {{SkillValue|0~26.2%}} for {{SkillValue|20 seconds}}.
 | SkillDescriptionLv1 = Deal {{SkillValue|265%}} damage to all enemies in a circular area, decrease their movement speed by {{SkillValue|22.8%}} for {{SkillValue|20 seconds}}.
 | SkillDescriptionLv2 = Deal {{SkillValue|305%}} damage to all enemies in a circular area, decrease their movement speed by {{SkillValue|22.8%}} for {{SkillValue|20 seconds}}.
 | SkillDescriptionLv3 = Deal {{SkillValue|345%}} damage to all enemies in a circular area, decrease their movement speed by {{SkillValue|22.8%}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20 seconds}}.
