@@ -8,7 +8,7 @@
         {
             "GroupId": "PinaPublic01",
             "NameEn": "Ignite once more!",
-            "DescriptionEn": "When HP falls to $1, regenerate HP equal to $2 of Healing power once per battle."
+            "DescriptionEn": "When HP drops to $1, heal self $2 of Healing power $3 per battle."
         },
         {
             "GroupId": "PinaPassive01",
@@ -43,12 +43,12 @@
         {
             "GroupId": "UtahaEx01",
             "NameEn": "Rai-chan, Summon",
-            "DescriptionEn": "Summon a turret. The turret's attack equals to $1 of Utaha's attack. (Duration: $2)"
+            "DescriptionEn": "Summon a turret. The turret inherits $1 of Utaha's Attack. (Duration: $2)"
         },
         {
             "GroupId": "UtahaPublic01",
             "NameEn": "Rai-chan MK-II, Active",
-            "DescriptionEn": "For every $1, summons a turret. The turret's attack equals to $2 of Utaha's attack. (Duration: $3)"
+            "DescriptionEn": "Every $1, summon a turret. The turret inherits $2 of Utaha's Attack. (Duration: $3)"
         },
         {
             "GroupId": "UtahaPassive01",
@@ -64,12 +64,12 @@
             "GroupId": "ShimikoEx01",
             "NameEn": "Shield Of Knowledge",
             "DescriptionEn": "Deploy a cover, and increases any allies's Defense in circular area by $1. (Duration: $2)",
-            "AddOnLevel3": "<br>Cover has additional HP equal to $3 of Shimiko's HP."
+            "AddOnLevel3": "<br>Cover additionally inherits $3 of Shimiko's HP."
         },
         {
             "GroupId": "ShimikoPublic01",
             "NameEn": "Chicken soup for the Soul",
-            "DescriptionEn": "For every $1 seconds, grants an ally with the lowest HP a shield (shield HP equal to $2 to Healing). (Duration: $3)"
+            "DescriptionEn": "Every $1, grant a shield to an ally with the lowest HP (shield HP is $2 of Shimiko's Healing). (Duration: $3)"
         },
         {
             "GroupId": "ShimikoPassive01",
@@ -84,12 +84,12 @@
         {
             "GroupId": "ShunEx01",
             "NameEn": "Where are the troublesome children?",
-            "DescriptionEn": "Increase regular attack damage to $1, firing range by $2, Critical Rate by $3, but decrease Attack Speed by $4. (Duration: $5)"
+            "DescriptionEn": "Increase normal attack damage to $1, firing range by $2, Critical Rate by $3, but decrease Attack Speed by $4. (Duration: $5)"
         },
         {
             "GroupId": "ShunPublic01",
             "NameEn": "Everyone, pay attention!",
-            "DescriptionEn": "Acquire $1 skill cost at the beginning of combat. (Once per battle)"
+            "DescriptionEn": "Acquire $1 skill cost at the beginning of combat. (Can only be used $2 per battle)"
         },
         {
             "GroupId": "ShunPassive01",
@@ -104,7 +104,7 @@
         {
             "GroupId": "SerikaEx01",
             "NameEn": "You're such a bother!",
-            "DescriptionEn": "Reload and increase Attack power by $1 for $2."
+            "DescriptionEn": "Reload and increase Attack by $1 for $2."
         },
         {
             "GroupId": "SerikaPublic01",
@@ -129,7 +129,7 @@
         {
             "GroupId": "TsubakiPublic01",
             "NameEn": "If you get tired, you should sleep",
-            "DescriptionEn": "When HP drops to $1, heal self for $2 of Healing power once a battle."
+            "DescriptionEn": "When HP drops to $1, heal self for $2 of Healing power $3 a battle."
         },
         {
             "GroupId": "TsubakiPassive01",
@@ -164,7 +164,7 @@
         {
             "GroupId": "HasumiEx01",
             "NameEn": "Armour-piercing ammo",
-            "DescriptionEn": "Deals $1 damage to one enemy."
+            "DescriptionEn": "Deal $1 damage to one enemy."
         },
         {
             "GroupId": "HasumiPublic01",
@@ -189,7 +189,7 @@
         {
             "GroupId": "HarunaPublic01",
             "NameEn": "Exploding Exotic",
-            "DescriptionEn": "Every $1 seconds, attack one enemy with $2 of Haruna's Attack."
+            "DescriptionEn": "Every $1, attack one enemy with $2 of Haruna's Attack."
         },
         {
             "GroupId": "HarunaPassive01",
@@ -249,7 +249,7 @@
         {
             "GroupId": "FuukaPublic01",
             "NameEn": "Kindnes of School Lunch Club",
-            "DescriptionEn": "Every $1, Fuuka increases the defense of the ally with the highest HP by $2. (Duration: $3)"
+            "DescriptionEn": "Every $1, Fuuka increases Defense of an ally with the highest HP by $2. (Duration: $3)"
         },
         {
             "GroupId": "FuukaPassive01",
@@ -279,7 +279,7 @@
         {
             "GroupId": "MutsukiExtraPassive01",
             "NameEn": "Let's go have fun?",
-            "DescriptionEn": "When carrying out normal attacks, $1 chance of increasing accuracy by $2 for $3. (Cooldown: $4)"
+            "DescriptionEn": "Normal attacks have a $1 chance of increasing accuracy by $2 for $3. (Cooldown: $4)"
         },
         {
             "GroupId": "YoshimiEx01",
@@ -324,7 +324,7 @@
         {
             "GroupId": "MashiroEx01",
             "NameEn": "Shot of Justice",
-            "DescriptionEn": "Inflitct damage equal to $1 of Attack to one enemy, $2 chance of additional $3 damage"
+            "DescriptionEn": "Deal $1 damage to one enemy, $2 chance of additional $3 damage."
         },
         {
             "GroupId": "MashiroPublic01",
@@ -350,7 +350,7 @@
         {
             "GroupId": "ChinatsuPublic01",
             "NameEn": "Reshaping the battle",
-            "DescriptionEn": "Every $1, increase the Evasion of 1 ally with the lowest current HP by $2. (Duration $3)"
+            "DescriptionEn": "Every $1, increase Evasion of 1 ally with the lowest current HP by $2. (Duration $3)"
         },
         {
             "GroupId": "ChinatsuPassive01",
@@ -391,7 +391,7 @@
         {
             "GroupId": "EimiPublic01",
             "NameEn": "A furious fixated attack",
-            "DescriptionEn": "Every $1, deals $2 damage to enemies within a fan shaped area."
+            "DescriptionEn": "Every $1, deal $2 damage to enemies within a fan shaped area."
         },
         {
             "GroupId": "EimiPassive01",
@@ -406,12 +406,12 @@
         {
             "GroupId": "KayokoEx01",
             "NameEn": "Panic Bringer",
-            "DescriptionEn": "Deal $1 damage and inflict fear for $2 to enemies in a circular area."
+            "DescriptionEn": "Deal $1 damage and inflict Fear for $2 to enemies in a circular area."
         },
         {
             "GroupId": "KayokoPublic01",
             "NameEn": "Panic Shot",
-            "DescriptionEn": "Every $1, deal $2 damage to 1 enemy. $3 chance to inflict fear for $4."
+            "DescriptionEn": "Every $1, deal $2 damage to 1 enemy. $3 chance to inflict Fear for $4."
         },
         {
             "GroupId": "KayokoPassive01",
@@ -421,7 +421,7 @@
         {
             "GroupId": "KayokoExtraPassive01",
             "NameEn": "It can't be helped",
-            "DescriptionEn": "When attacking a CC'd enemy, deals $1 of Attack as extra damage."
+            "DescriptionEn": "When attacking a CC'd enemy, deal $1 of Attack as extra damage."
         },
         {
             "GroupId": "HanaeEx01",
@@ -431,7 +431,7 @@
         {
             "GroupId": "HanaePublic01",
             "NameEn": "You mustn't collapse!",
-            "DescriptionEn": "Every $1, increase Defense of ally with the lowest HP by $2. (Duration: $3)"
+            "DescriptionEn": "Every $1, increase Defense of an ally with the lowest HP by $2. (Duration: $3)"
         },
         {
             "GroupId": "HanaePassive01",
@@ -491,7 +491,7 @@
         {
             "GroupId": "ZunkoPublic01",
             "NameEn": "Don't talk to me when I'm hungry!",
-            "DescriptionEn": "Junko gains immortal status for $2 when her HP is under $1. (1 time per battle)"
+            "DescriptionEn": "Junko gains immortal status for $2 when her HP is under $1. (Can only be used $3 per battle)"
         },
         {
             "GroupId": "ZunkoPassive01",
@@ -531,7 +531,7 @@
         {
             "GroupId": "ShizukoPublic01",
             "NameEn": "Don't interfere with Business!",
-            "DescriptionEn": "Every $1, attack 1 enemy for $2 of Shizuko's Attack, decrease enemy's Attack by $3."
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy and lower their Attack by $3 for $4."
         },
         {
             "GroupId": "ShizukoPassive01",
@@ -566,7 +566,7 @@
         {
             "GroupId": "KotoriEx01",
             "NameEn": "Black box",
-            "DescriptionEn": "Moves 4 allies to the specified location and applies a shield equal to $1 of Healing power."
+            "DescriptionEn": "Move 4 allies to the specified location and apply a shield equal to $1 of Healing power."
         },
         {
             "GroupId": "KotoriPublic01",
@@ -586,7 +586,7 @@
         {
             "GroupId": "TsurugiEx01",
             "NameEn": "Strange and mysterious",
-            "DescriptionEn": "Reload immediately after activating the skill. Change normal attack to a fan-shaped range attack that deals $1 damage; increase Attack power by $2. (Effective until one reload is performed)"
+            "DescriptionEn": "Reload immediately after activating the skill. Normal attack becomes a fan-shaped area attack that deals $1 damage; increase Attack power by $2. (Effective until $3 reload(s) performed)"
         },
         {
             "GroupId": "TsurugiPublic01",
@@ -601,7 +601,7 @@
         {
             "GroupId": "TsurugiExtraPassive01",
             "NameEn": "Uncontrollable power",
-            "DescriptionEn": "$1 chance to add 1 ammo when defeating an enemy."
+            "DescriptionEn": "$1 chance to add $2 ammo when defeating an enemy."
         },
         {
             "GroupId": "IoriEx01",
@@ -672,7 +672,7 @@
         {
             "GroupId": "HoshinoPublic01",
             "NameEn": "Emergency Field Aid",
-            "DescriptionEn": "When HP falls to $1, continuously regenerate $2 of Healing power for $3. (Can only be used once per battle)"
+            "DescriptionEn": "When HP falls to $1, continuously regenerate $2 of Healing power for $3. (Can only be used $4 per battle)"
         },
         {
             "GroupId": "HoshinoPassive01",
@@ -748,7 +748,7 @@
             "GroupId": "IzumiEx01",
             "NameEn": "Cheese Chocolate Burger!",
             "DescriptionEn": "Recover HP equal to $1 of Healing.",
-            "AddOnLevel3": "; increase Attack Speed by $2."
+            "AddOnLevel3": "; increase Attack Speed by $2 for $3."
         },
         {
             "GroupId": "IzumiPublic01",
@@ -788,8 +788,8 @@
         {
             "GroupId": "AiriEx01",
             "NameEn": "It's a waste but... umph!",
-            "DescriptionEn": "Attack all enemies in a circular area for $1 of Airi's Attack, decrease enemies' movement speed by $2 for $4.",
-            "AddOnLevel3": " and reduce attack speed by $3 for $4."
+            "DescriptionEn": "Deal $1 damage to all enemies in a circular area, decrease their movement speed by $2 for $3.",
+            "ReplaceOnLevel3" : "Deal $1 damage to all enemies in a circular area, decrease their movement speed by $2 and reduce attack speed by $3 for $4."
         },
         {
             "GroupId": "AiriPublic01",

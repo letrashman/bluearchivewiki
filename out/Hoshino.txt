@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_FAN
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Deal {{SkillValue|435~697%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|0~1.4&nbsp;seconds}}.
+| SkillDescriptionGeneral = Deal {{SkillValue|435~697%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|0~1.4 seconds}}.
 | SkillDescriptionLv1 = Deal {{SkillValue|435%}} of Hoshino's Attack as damage to enemies within a conical area.
 | SkillDescriptionLv2 = Deal {{SkillValue|501%}} of Hoshino's Attack as damage to enemies within a conical area.
-| SkillDescriptionLv3 = Deal {{SkillValue|566%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1&nbsp;seconds}}.
-| SkillDescriptionLv4 = Deal {{SkillValue|632%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1&nbsp;seconds}}.
-| SkillDescriptionLv5 = Deal {{SkillValue|697%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1.4&nbsp;seconds}}.
-| SkillDescriptionLv6 = Deal {{SkillValue|762%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1.4&nbsp;seconds}}.
-| SkillDescriptionLv7 = Deal {{SkillValue|893%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1.4&nbsp;seconds}}.
-| SkillDescriptionLv8 = Deal {{SkillValue|959%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1.4&nbsp;seconds}}.
-| SkillDescriptionLv9 = Deal {{SkillValue|1089%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1.4&nbsp;seconds}}.
-| SkillDescriptionLv10 = Deal {{SkillValue|1155%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1.4&nbsp;seconds}}.
+| SkillDescriptionLv3 = Deal {{SkillValue|566%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1 seconds}}.
+| SkillDescriptionLv4 = Deal {{SkillValue|632%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1 seconds}}.
+| SkillDescriptionLv5 = Deal {{SkillValue|697%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1.4 seconds}}.
+| SkillDescriptionLv6 = Deal {{SkillValue|762%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1.4 seconds}}.
+| SkillDescriptionLv7 = Deal {{SkillValue|893%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1.4 seconds}}.
+| SkillDescriptionLv8 = Deal {{SkillValue|959%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1.4 seconds}}.
+| SkillDescriptionLv9 = Deal {{SkillValue|1089%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1.4 seconds}}.
+| SkillDescriptionLv10 = Deal {{SkillValue|1155%}} of Hoshino's Attack as damage to enemies within a conical area and stun them for {{SkillValue|1.4 seconds}}.
 }}
 {{SkillTable
 | SkillName = Emergency Field Aid
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_DOTHEAL
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|100~191%}} of Healing power for {{SkillValue|20&nbsp;seconds}}. (Can only be used once per battle)
-| SkillDescriptionLv1 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|100%}} of Healing power for {{SkillValue|20&nbsp;seconds}}. (Can only be used once per battle)
-| SkillDescriptionLv2 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|105%}} of Healing power for {{SkillValue|20&nbsp;seconds}}. (Can only be used once per battle)
-| SkillDescriptionLv3 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|110%}} of Healing power for {{SkillValue|20&nbsp;seconds}}. (Can only be used once per battle)
-| SkillDescriptionLv4 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|130%}} of Healing power for {{SkillValue|20&nbsp;seconds}}. (Can only be used once per battle)
-| SkillDescriptionLv5 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|135%}} of Healing power for {{SkillValue|20&nbsp;seconds}}. (Can only be used once per battle)
-| SkillDescriptionLv6 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|140%}} of Healing power for {{SkillValue|20&nbsp;seconds}}. (Can only be used once per battle)
-| SkillDescriptionLv7 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|160%}} of Healing power for {{SkillValue|20&nbsp;seconds}}. (Can only be used once per battle)
-| SkillDescriptionLv8 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|165%}} of Healing power for {{SkillValue|20&nbsp;seconds}}. (Can only be used once per battle)
-| SkillDescriptionLv9 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|171%}} of Healing power for {{SkillValue|20&nbsp;seconds}}. (Can only be used once per battle)
-| SkillDescriptionLv10 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|191%}} of Healing power for {{SkillValue|20&nbsp;seconds}}. (Can only be used once per battle)
+| SkillDescriptionGeneral = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|100~191%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used {{SkillValue|once}} per battle)
+| SkillDescriptionLv1 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|100%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used {{SkillValue|once}} per battle)
+| SkillDescriptionLv2 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|105%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used {{SkillValue|once}} per battle)
+| SkillDescriptionLv3 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|110%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used {{SkillValue|once}} per battle)
+| SkillDescriptionLv4 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|130%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used {{SkillValue|once}} per battle)
+| SkillDescriptionLv5 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|135%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used {{SkillValue|once}} per battle)
+| SkillDescriptionLv6 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|140%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used {{SkillValue|once}} per battle)
+| SkillDescriptionLv7 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|160%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used {{SkillValue|once}} per battle)
+| SkillDescriptionLv8 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|165%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used {{SkillValue|once}} per battle)
+| SkillDescriptionLv9 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|171%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used {{SkillValue|once}} per battle)
+| SkillDescriptionLv10 = When HP falls to {{SkillValue|30%}}, continuously regenerate {{SkillValue|191%}} of Healing power for {{SkillValue|20 seconds}}. (Can only be used {{SkillValue|once}} per battle)
 }}
 {{SkillTable
 | SkillName = Countermeasures Council President

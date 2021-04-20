@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_PROVOKE
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Increase Defense by {{SkillValue|28.1~44.9%}} for {{SkillValue|30&nbsp;seconds}} and taunt enemies in a circular area for {{SkillValue|4.7~6.2&nbsp;seconds}}.
-| SkillDescriptionLv1 = Increase Defense by {{SkillValue|28.1%}} for {{SkillValue|30&nbsp;seconds}} and taunt enemies in a circular area for {{SkillValue|4.7&nbsp;seconds}}.
-| SkillDescriptionLv2 = Increase Defense by {{SkillValue|32.3%}} for {{SkillValue|30&nbsp;seconds}} and taunt enemies in a circular area for {{SkillValue|4.7&nbsp;seconds}}.
-| SkillDescriptionLv3 = Increase Defense by {{SkillValue|36.5%}} for {{SkillValue|30&nbsp;seconds}} and taunt enemies in a circular area for {{SkillValue|5.4&nbsp;seconds}}.
-| SkillDescriptionLv4 = Increase Defense by {{SkillValue|40.7%}} for {{SkillValue|30&nbsp;seconds}} and taunt enemies in a circular area for {{SkillValue|5.4&nbsp;seconds}}.
-| SkillDescriptionLv5 = Increase Defense by {{SkillValue|44.9%}} for {{SkillValue|30&nbsp;seconds}} and taunt enemies in a circular area for {{SkillValue|6.2&nbsp;seconds}}.
-| SkillDescriptionLv6 = Increase Defense by {{SkillValue|49.1%}} for {{SkillValue|30&nbsp;seconds}} and taunt enemies in a circular area for {{SkillValue|6.2&nbsp;seconds}}.
-| SkillDescriptionLv7 = Increase Defense by {{SkillValue|57.6%}} for {{SkillValue|30&nbsp;seconds}} and taunt enemies in a circular area for {{SkillValue|6.2&nbsp;seconds}}.
-| SkillDescriptionLv8 = Increase Defense by {{SkillValue|61.8%}} for {{SkillValue|30&nbsp;seconds}} and taunt enemies in a circular area for {{SkillValue|6.2&nbsp;seconds}}.
-| SkillDescriptionLv9 = Increase Defense by {{SkillValue|70.2%}} for {{SkillValue|30&nbsp;seconds}} and taunt enemies in a circular area for {{SkillValue|6.2&nbsp;seconds}}.
-| SkillDescriptionLv10 = Increase Defense by {{SkillValue|74.4%}} for {{SkillValue|30&nbsp;seconds}} and taunt enemies in a circular area for {{SkillValue|6.2&nbsp;seconds}}.
+| SkillDescriptionGeneral = Increase Defense by {{SkillValue|28.1~44.9%}} for {{SkillValue|30 seconds}} and taunt enemies in a circular area for {{SkillValue|4.7~6.2 seconds}}.
+| SkillDescriptionLv1 = Increase Defense by {{SkillValue|28.1%}} for {{SkillValue|30 seconds}} and taunt enemies in a circular area for {{SkillValue|4.7 seconds}}.
+| SkillDescriptionLv2 = Increase Defense by {{SkillValue|32.3%}} for {{SkillValue|30 seconds}} and taunt enemies in a circular area for {{SkillValue|4.7 seconds}}.
+| SkillDescriptionLv3 = Increase Defense by {{SkillValue|36.5%}} for {{SkillValue|30 seconds}} and taunt enemies in a circular area for {{SkillValue|5.4 seconds}}.
+| SkillDescriptionLv4 = Increase Defense by {{SkillValue|40.7%}} for {{SkillValue|30 seconds}} and taunt enemies in a circular area for {{SkillValue|5.4 seconds}}.
+| SkillDescriptionLv5 = Increase Defense by {{SkillValue|44.9%}} for {{SkillValue|30 seconds}} and taunt enemies in a circular area for {{SkillValue|6.2 seconds}}.
+| SkillDescriptionLv6 = Increase Defense by {{SkillValue|49.1%}} for {{SkillValue|30 seconds}} and taunt enemies in a circular area for {{SkillValue|6.2 seconds}}.
+| SkillDescriptionLv7 = Increase Defense by {{SkillValue|57.6%}} for {{SkillValue|30 seconds}} and taunt enemies in a circular area for {{SkillValue|6.2 seconds}}.
+| SkillDescriptionLv8 = Increase Defense by {{SkillValue|61.8%}} for {{SkillValue|30 seconds}} and taunt enemies in a circular area for {{SkillValue|6.2 seconds}}.
+| SkillDescriptionLv9 = Increase Defense by {{SkillValue|70.2%}} for {{SkillValue|30 seconds}} and taunt enemies in a circular area for {{SkillValue|6.2 seconds}}.
+| SkillDescriptionLv10 = Increase Defense by {{SkillValue|74.4%}} for {{SkillValue|30 seconds}} and taunt enemies in a circular area for {{SkillValue|6.2 seconds}}.
 }}
 {{SkillTable
 | SkillName = If you get tired, you should sleep
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_HEAL
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|349~663%}} of Healing power once a battle.
-| SkillDescriptionLv1 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|349%}} of Healing power once a battle.
-| SkillDescriptionLv2 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|366%}} of Healing power once a battle.
-| SkillDescriptionLv3 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|384%}} of Healing power once a battle.
-| SkillDescriptionLv4 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|454%}} of Healing power once a battle.
-| SkillDescriptionLv5 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|471%}} of Healing power once a battle.
-| SkillDescriptionLv6 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|489%}} of Healing power once a battle.
-| SkillDescriptionLv7 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|558%}} of Healing power once a battle.
-| SkillDescriptionLv8 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|576%}} of Healing power once a battle.
-| SkillDescriptionLv9 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|593%}} of Healing power once a battle.
-| SkillDescriptionLv10 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|663%}} of Healing power once a battle.
+| SkillDescriptionGeneral = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|349~663%}} of Healing power {{SkillValue|once}} a battle.
+| SkillDescriptionLv1 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|349%}} of Healing power {{SkillValue|once}} a battle.
+| SkillDescriptionLv2 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|366%}} of Healing power {{SkillValue|once}} a battle.
+| SkillDescriptionLv3 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|384%}} of Healing power {{SkillValue|once}} a battle.
+| SkillDescriptionLv4 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|454%}} of Healing power {{SkillValue|once}} a battle.
+| SkillDescriptionLv5 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|471%}} of Healing power {{SkillValue|once}} a battle.
+| SkillDescriptionLv6 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|489%}} of Healing power {{SkillValue|once}} a battle.
+| SkillDescriptionLv7 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|558%}} of Healing power {{SkillValue|once}} a battle.
+| SkillDescriptionLv8 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|576%}} of Healing power {{SkillValue|once}} a battle.
+| SkillDescriptionLv9 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|593%}} of Healing power {{SkillValue|once}} a battle.
+| SkillDescriptionLv10 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|663%}} of Healing power {{SkillValue|once}} a battle.
 }}
 {{SkillTable
 | SkillName = Grit

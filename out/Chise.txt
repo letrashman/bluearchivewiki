@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_ZONE
 | SkillDamageType = Mystic
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Deal continuous damage in a circular area equivalent to {{SkillValue|56~106%}} of Chise's Attack. (Duration: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv1 = Deal continuous damage in a circular area equivalent to {{SkillValue|56%}} of Chise's Attack. (Duration: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv2 = Deal continuous damage in a circular area equivalent to {{SkillValue|64.5%}} of Chise's Attack. (Duration: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv3 = Deal continuous damage in a circular area equivalent to {{SkillValue|81.2%}} of Chise's Attack. (Duration: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv4 = Deal continuous damage in a circular area equivalent to {{SkillValue|89.6%}} of Chise's Attack. (Duration: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv5 = Deal continuous damage in a circular area equivalent to {{SkillValue|106%}} of Chise's Attack. (Duration: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv6 = Deal continuous damage in a circular area equivalent to {{SkillValue|114%}} of Chise's Attack. (Duration: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv7 = Deal continuous damage in a circular area equivalent to {{SkillValue|131%}} of Chise's Attack. (Duration: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv8 = Deal continuous damage in a circular area equivalent to {{SkillValue|140%}} of Chise's Attack. (Duration: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv9 = Deal continuous damage in a circular area equivalent to {{SkillValue|156%}} of Chise's Attack. (Duration: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv10 = Deal continuous damage in a circular area equivalent to {{SkillValue|165%}} of Chise's Attack. (Duration: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionGeneral = Deal continuous damage in a circular area equivalent to {{SkillValue|56~106%}} of Chise's Attack. (Duration: {{SkillValue|10 seconds}})
+| SkillDescriptionLv1 = Deal continuous damage in a circular area equivalent to {{SkillValue|56%}} of Chise's Attack. (Duration: {{SkillValue|10 seconds}})
+| SkillDescriptionLv2 = Deal continuous damage in a circular area equivalent to {{SkillValue|64.5%}} of Chise's Attack. (Duration: {{SkillValue|10 seconds}})
+| SkillDescriptionLv3 = Deal continuous damage in a circular area equivalent to {{SkillValue|81.2%}} of Chise's Attack. (Duration: {{SkillValue|10 seconds}})
+| SkillDescriptionLv4 = Deal continuous damage in a circular area equivalent to {{SkillValue|89.6%}} of Chise's Attack. (Duration: {{SkillValue|10 seconds}})
+| SkillDescriptionLv5 = Deal continuous damage in a circular area equivalent to {{SkillValue|106%}} of Chise's Attack. (Duration: {{SkillValue|10 seconds}})
+| SkillDescriptionLv6 = Deal continuous damage in a circular area equivalent to {{SkillValue|114%}} of Chise's Attack. (Duration: {{SkillValue|10 seconds}})
+| SkillDescriptionLv7 = Deal continuous damage in a circular area equivalent to {{SkillValue|131%}} of Chise's Attack. (Duration: {{SkillValue|10 seconds}})
+| SkillDescriptionLv8 = Deal continuous damage in a circular area equivalent to {{SkillValue|140%}} of Chise's Attack. (Duration: {{SkillValue|10 seconds}})
+| SkillDescriptionLv9 = Deal continuous damage in a circular area equivalent to {{SkillValue|156%}} of Chise's Attack. (Duration: {{SkillValue|10 seconds}})
+| SkillDescriptionLv10 = Deal continuous damage in a circular area equivalent to {{SkillValue|165%}} of Chise's Attack. (Duration: {{SkillValue|10 seconds}})
 }}
 {{SkillTable
 | SkillName = I'm going to shoot~
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Mystic
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|219~416%}} of Chise's Attack to enemies in a circular area.
-| SkillDescriptionLv1 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|219%}} of Chise's Attack to enemies in a circular area.
-| SkillDescriptionLv2 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|230%}} of Chise's Attack to enemies in a circular area.
-| SkillDescriptionLv3 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|241%}} of Chise's Attack to enemies in a circular area.
-| SkillDescriptionLv4 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|285%}} of Chise's Attack to enemies in a circular area.
-| SkillDescriptionLv5 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|295%}} of Chise's Attack to enemies in a circular area.
-| SkillDescriptionLv6 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|306%}} of Chise's Attack to enemies in a circular area.
-| SkillDescriptionLv7 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|350%}} of Chise's Attack to enemies in a circular area.
-| SkillDescriptionLv8 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|361%}} of Chise's Attack to enemies in a circular area.
-| SkillDescriptionLv9 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|372%}} of Chise's Attack to enemies in a circular area.
-| SkillDescriptionLv10 = Every {{SkillValue|25&nbsp;seconds}}, deal damage equal to {{SkillValue|416%}} of Chise's Attack to enemies in a circular area.
+| SkillDescriptionGeneral = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|219~416%}} of Chise's Attack to enemies in a circular area.
+| SkillDescriptionLv1 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|219%}} of Chise's Attack to enemies in a circular area.
+| SkillDescriptionLv2 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|230%}} of Chise's Attack to enemies in a circular area.
+| SkillDescriptionLv3 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|241%}} of Chise's Attack to enemies in a circular area.
+| SkillDescriptionLv4 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|285%}} of Chise's Attack to enemies in a circular area.
+| SkillDescriptionLv5 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|295%}} of Chise's Attack to enemies in a circular area.
+| SkillDescriptionLv6 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|306%}} of Chise's Attack to enemies in a circular area.
+| SkillDescriptionLv7 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|350%}} of Chise's Attack to enemies in a circular area.
+| SkillDescriptionLv8 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|361%}} of Chise's Attack to enemies in a circular area.
+| SkillDescriptionLv9 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|372%}} of Chise's Attack to enemies in a circular area.
+| SkillDescriptionLv10 = Every {{SkillValue|25 seconds}}, deal damage equal to {{SkillValue|416%}} of Chise's Attack to enemies in a circular area.
 }}
 {{SkillTable
 | SkillName = Alright, let's do our best~
@@ -59,17 +59,17 @@
 | SkillIconType = COMMON_SKILLICON_BURNNIG
 | SkillDamageType = Mystic
 | SkillType = Sub
-| SkillDescriptionGeneral = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|53.7~102%}} Attack of continuous burn damage for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv1 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|53.7%}} Attack of continuous burn damage for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv2 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|56.4%}} Attack of continuous burn damage for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv3 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|59.1%}} Attack of continuous burn damage for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv4 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|69.8%}} Attack of continuous burn damage for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv5 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|72.5%}} Attack of continuous burn damage for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv6 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|75.2%}} Attack of continuous burn damage for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv7 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|85.9%}} Attack of continuous burn damage for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv8 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|88.6%}} Attack of continuous burn damage for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv9 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|91.3%}} Attack of continuous burn damage for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv10 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|102%}} Attack of continuous burn damage for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionGeneral = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|53.7~102%}} Attack of continuous burn damage for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv1 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|53.7%}} Attack of continuous burn damage for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv2 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|56.4%}} Attack of continuous burn damage for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv3 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|59.1%}} Attack of continuous burn damage for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv4 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|69.8%}} Attack of continuous burn damage for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv5 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|72.5%}} Attack of continuous burn damage for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv6 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|75.2%}} Attack of continuous burn damage for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv7 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|85.9%}} Attack of continuous burn damage for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv8 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|88.6%}} Attack of continuous burn damage for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv9 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|91.3%}} Attack of continuous burn damage for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv10 = Normal attacks have {{SkillValue|10%}} chance to deal {{SkillValue|102%}} Attack of continuous burn damage for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
 }}
 
 [[Category:Characters]]

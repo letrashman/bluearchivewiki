@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_FURY
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|30&nbsp;seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|17.8~33.9%}}. ({{SkillValue|20&nbsp;seconds}} duration)
-| SkillDescriptionLv1 = Every {{SkillValue|30&nbsp;seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|17.8%}}. ({{SkillValue|20&nbsp;seconds}} duration)
-| SkillDescriptionLv2 = Every {{SkillValue|30&nbsp;seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|18.7%}}. ({{SkillValue|20&nbsp;seconds}} duration)
-| SkillDescriptionLv3 = Every {{SkillValue|30&nbsp;seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|19.6%}}. ({{SkillValue|20&nbsp;seconds}} duration)
-| SkillDescriptionLv4 = Every {{SkillValue|30&nbsp;seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|23.2%}}. ({{SkillValue|20&nbsp;seconds}} duration)
-| SkillDescriptionLv5 = Every {{SkillValue|30&nbsp;seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|24.1%}}. ({{SkillValue|20&nbsp;seconds}} duration)
-| SkillDescriptionLv6 = Every {{SkillValue|30&nbsp;seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|24.9%}}. ({{SkillValue|20&nbsp;seconds}} duration)
-| SkillDescriptionLv7 = Every {{SkillValue|30&nbsp;seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|28.5%}}. ({{SkillValue|20&nbsp;seconds}} duration)
-| SkillDescriptionLv8 = Every {{SkillValue|30&nbsp;seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|29.4%}}. ({{SkillValue|20&nbsp;seconds}} duration)
-| SkillDescriptionLv9 = Every {{SkillValue|30&nbsp;seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|30.3%}}. ({{SkillValue|20&nbsp;seconds}} duration)
-| SkillDescriptionLv10 = Every {{SkillValue|30&nbsp;seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|33.9%}}. ({{SkillValue|20&nbsp;seconds}} duration)
+| SkillDescriptionGeneral = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|17.8~33.9%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv1 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|17.8%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv2 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|18.7%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv3 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|19.6%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv4 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|23.2%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv5 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|24.1%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv6 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|24.9%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv7 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|28.5%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv8 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|29.4%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv9 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|30.3%}}. ({{SkillValue|20 seconds}} duration)
+| SkillDescriptionLv10 = Every {{SkillValue|30 seconds}}, apply a status of anger to herself. Increase Evasion by {{SkillValue|33.9%}}. ({{SkillValue|20 seconds}} duration)
 }}
 {{SkillTable
 | SkillName = Call sign 00
@@ -59,17 +59,17 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = When angered, increase Attack by {{SkillValue|16.8~31.9%}}. ({{SkillValue|30&nbsp;seconds}} duration)
-| SkillDescriptionLv1 = When angered, increase Attack by {{SkillValue|16.8%}}. ({{SkillValue|30&nbsp;seconds}} duration)
-| SkillDescriptionLv2 = When angered, increase Attack by {{SkillValue|17.6%}}. ({{SkillValue|30&nbsp;seconds}} duration)
-| SkillDescriptionLv3 = When angered, increase Attack by {{SkillValue|18.4%}}. ({{SkillValue|30&nbsp;seconds}} duration)
-| SkillDescriptionLv4 = When angered, increase Attack by {{SkillValue|21.8%}}. ({{SkillValue|30&nbsp;seconds}} duration)
-| SkillDescriptionLv5 = When angered, increase Attack by {{SkillValue|22.6%}}. ({{SkillValue|30&nbsp;seconds}} duration)
-| SkillDescriptionLv6 = When angered, increase Attack by {{SkillValue|23.5%}}. ({{SkillValue|30&nbsp;seconds}} duration)
-| SkillDescriptionLv7 = When angered, increase Attack by {{SkillValue|26.8%}}. ({{SkillValue|30&nbsp;seconds}} duration)
-| SkillDescriptionLv8 = When angered, increase Attack by {{SkillValue|27.7%}}. ({{SkillValue|30&nbsp;seconds}} duration)
-| SkillDescriptionLv9 = When angered, increase Attack by {{SkillValue|28.5%}}. ({{SkillValue|30&nbsp;seconds}} duration)
-| SkillDescriptionLv10 = When angered, increase Attack by {{SkillValue|31.9%}}. ({{SkillValue|30&nbsp;seconds}} duration)
+| SkillDescriptionGeneral = When angered, increase Attack by {{SkillValue|16.8~31.9%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv1 = When angered, increase Attack by {{SkillValue|16.8%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv2 = When angered, increase Attack by {{SkillValue|17.6%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv3 = When angered, increase Attack by {{SkillValue|18.4%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv4 = When angered, increase Attack by {{SkillValue|21.8%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv5 = When angered, increase Attack by {{SkillValue|22.6%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv6 = When angered, increase Attack by {{SkillValue|23.5%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv7 = When angered, increase Attack by {{SkillValue|26.8%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv8 = When angered, increase Attack by {{SkillValue|27.7%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv9 = When angered, increase Attack by {{SkillValue|28.5%}}. ({{SkillValue|30 seconds}} duration)
+| SkillDescriptionLv10 = When angered, increase Attack by {{SkillValue|31.9%}}. ({{SkillValue|30 seconds}} duration)
 }}
 
 [[Category:Characters]]

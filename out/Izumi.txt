@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_HEAL
 | SkillDamageType = Explosive
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = Recover HP equal to {{SkillValue|145~254%}} of Healing; increase Attack Speed by {{SkillValue|0~38.4%}}.
+| SkillDescriptionGeneral = Recover HP equal to {{SkillValue|145~254%}} of Healing; increase Attack Speed by {{SkillValue|0~38.4%}} for {{SkillValue|0~21 seconds}}.
 | SkillDescriptionLv1 = Recover HP equal to {{SkillValue|145%}} of Healing.
 | SkillDescriptionLv2 = Recover HP equal to {{SkillValue|167%}} of Healing.
-| SkillDescriptionLv3 = Recover HP equal to {{SkillValue|189%}} of Healing; increase Attack Speed by {{SkillValue|38.4%}}.
-| SkillDescriptionLv4 = Recover HP equal to {{SkillValue|211%}} of Healing; increase Attack Speed by {{SkillValue|38.4%}}.
-| SkillDescriptionLv5 = Recover HP equal to {{SkillValue|254%}} of Healing; increase Attack Speed by {{SkillValue|38.4%}}.
-| SkillDescriptionLv6 = Recover HP equal to {{SkillValue|276%}} of Healing; increase Attack Speed by {{SkillValue|38.4%}}.
-| SkillDescriptionLv7 = Recover HP equal to {{SkillValue|320%}} of Healing; increase Attack Speed by {{SkillValue|38.4%}}.
-| SkillDescriptionLv8 = Recover HP equal to {{SkillValue|342%}} of Healing; increase Attack Speed by {{SkillValue|38.4%}}.
-| SkillDescriptionLv9 = Recover HP equal to {{SkillValue|385%}} of Healing; increase Attack Speed by {{SkillValue|38.4%}}.
-| SkillDescriptionLv10 = Recover HP equal to {{SkillValue|407%}} of Healing; increase Attack Speed by {{SkillValue|38.4%}}.
+| SkillDescriptionLv3 = Recover HP equal to {{SkillValue|189%}} of Healing; increase Attack Speed by {{SkillValue|38.4%}} for {{SkillValue|21 seconds}}.
+| SkillDescriptionLv4 = Recover HP equal to {{SkillValue|211%}} of Healing; increase Attack Speed by {{SkillValue|38.4%}} for {{SkillValue|21 seconds}}.
+| SkillDescriptionLv5 = Recover HP equal to {{SkillValue|254%}} of Healing; increase Attack Speed by {{SkillValue|38.4%}} for {{SkillValue|21 seconds}}.
+| SkillDescriptionLv6 = Recover HP equal to {{SkillValue|276%}} of Healing; increase Attack Speed by {{SkillValue|38.4%}} for {{SkillValue|21 seconds}}.
+| SkillDescriptionLv7 = Recover HP equal to {{SkillValue|320%}} of Healing; increase Attack Speed by {{SkillValue|38.4%}} for {{SkillValue|21 seconds}}.
+| SkillDescriptionLv8 = Recover HP equal to {{SkillValue|342%}} of Healing; increase Attack Speed by {{SkillValue|38.4%}} for {{SkillValue|21 seconds}}.
+| SkillDescriptionLv9 = Recover HP equal to {{SkillValue|385%}} of Healing; increase Attack Speed by {{SkillValue|38.4%}} for {{SkillValue|21 seconds}}.
+| SkillDescriptionLv10 = Recover HP equal to {{SkillValue|407%}} of Healing; increase Attack Speed by {{SkillValue|38.4%}} for {{SkillValue|21 seconds}}.
 }}
 {{SkillTable
 | SkillName = Reeeady, Bang!
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|275~523%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv1 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|275%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv2 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|289%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv3 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|302%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv4 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|357%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv5 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|371%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv6 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|385%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv7 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|440%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv8 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|454%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv9 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|468%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv10 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|523%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionGeneral = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|275~523%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv1 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|275%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv2 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|289%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv3 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|302%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv4 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|357%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv5 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|371%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv6 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|385%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv7 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|440%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv8 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|454%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv9 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|468%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv10 = Normal attacks have a {{SkillValue|20%}} chance to deal {{SkillValue|523%}} Attack damage to one enemy. (Cooldown: {{SkillValue|10 seconds}})
 }}
 {{SkillTable
 | SkillName = What should I eat next?

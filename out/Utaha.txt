@@ -5,17 +5,17 @@
 | SkillIconType = SKILLICON_UTAHA_EXSKILL
 | SkillDamageType = Penetration
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Summon a turret. The turret's attack equals to {{SkillValue|81.4~154%}} of Utaha's attack. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv1 = Summon a turret. The turret's attack equals to {{SkillValue|81.4%}} of Utaha's attack. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv2 = Summon a turret. The turret's attack equals to {{SkillValue|93.6%}} of Utaha's attack. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv3 = Summon a turret. The turret's attack equals to {{SkillValue|118%}} of Utaha's attack. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv4 = Summon a turret. The turret's attack equals to {{SkillValue|130%}} of Utaha's attack. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv5 = Summon a turret. The turret's attack equals to {{SkillValue|154%}} of Utaha's attack. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv6 = Summon a turret. The turret's attack equals to {{SkillValue|166%}} of Utaha's attack. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv7 = Summon a turret. The turret's attack equals to {{SkillValue|191%}} of Utaha's attack. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv8 = Summon a turret. The turret's attack equals to {{SkillValue|203%}} of Utaha's attack. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv9 = Summon a turret. The turret's attack equals to {{SkillValue|227%}} of Utaha's attack. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv10 = Summon a turret. The turret's attack equals to {{SkillValue|240%}} of Utaha's attack. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionGeneral = Summon a turret. The turret inherits {{SkillValue|81.4~154%}} of Utaha's Attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv1 = Summon a turret. The turret inherits {{SkillValue|81.4%}} of Utaha's Attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv2 = Summon a turret. The turret inherits {{SkillValue|93.6%}} of Utaha's Attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv3 = Summon a turret. The turret inherits {{SkillValue|118%}} of Utaha's Attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv4 = Summon a turret. The turret inherits {{SkillValue|130%}} of Utaha's Attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv5 = Summon a turret. The turret inherits {{SkillValue|154%}} of Utaha's Attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv6 = Summon a turret. The turret inherits {{SkillValue|166%}} of Utaha's Attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv7 = Summon a turret. The turret inherits {{SkillValue|191%}} of Utaha's Attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv8 = Summon a turret. The turret inherits {{SkillValue|203%}} of Utaha's Attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv9 = Summon a turret. The turret inherits {{SkillValue|227%}} of Utaha's Attack. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv10 = Summon a turret. The turret inherits {{SkillValue|240%}} of Utaha's Attack. (Duration: {{SkillValue|30 seconds}})
 }}
 {{SkillTable
 | SkillName = Rai-chan MK-II, Active
@@ -23,17 +23,17 @@
 | SkillIconType = SKILLICON_UTAHA_EXSKILL
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = For every {{SkillValue|30&nbsp;seconds}}, summons a turret. The turret's attack equals to {{SkillValue|38.2~72.6%}} of Utaha's attack. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv1 = For every {{SkillValue|30&nbsp;seconds}}, summons a turret. The turret's attack equals to {{SkillValue|38.2%}} of Utaha's attack. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv2 = For every {{SkillValue|30&nbsp;seconds}}, summons a turret. The turret's attack equals to {{SkillValue|40.1%}} of Utaha's attack. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv3 = For every {{SkillValue|30&nbsp;seconds}}, summons a turret. The turret's attack equals to {{SkillValue|42%}} of Utaha's attack. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv4 = For every {{SkillValue|30&nbsp;seconds}}, summons a turret. The turret's attack equals to {{SkillValue|49.7%}} of Utaha's attack. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv5 = For every {{SkillValue|30&nbsp;seconds}}, summons a turret. The turret's attack equals to {{SkillValue|51.6%}} of Utaha's attack. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv6 = For every {{SkillValue|30&nbsp;seconds}}, summons a turret. The turret's attack equals to {{SkillValue|53.5%}} of Utaha's attack. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv7 = For every {{SkillValue|30&nbsp;seconds}}, summons a turret. The turret's attack equals to {{SkillValue|61.1%}} of Utaha's attack. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv8 = For every {{SkillValue|30&nbsp;seconds}}, summons a turret. The turret's attack equals to {{SkillValue|63.1%}} of Utaha's attack. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv9 = For every {{SkillValue|30&nbsp;seconds}}, summons a turret. The turret's attack equals to {{SkillValue|65%}} of Utaha's attack. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv10 = For every {{SkillValue|30&nbsp;seconds}}, summons a turret. The turret's attack equals to {{SkillValue|72.6%}} of Utaha's attack. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionGeneral = Every {{SkillValue|30 seconds}}, summon a turret. The turret inherits {{SkillValue|38.2~72.6%}} of Utaha's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|30 seconds}}, summon a turret. The turret inherits {{SkillValue|38.2%}} of Utaha's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|30 seconds}}, summon a turret. The turret inherits {{SkillValue|40.1%}} of Utaha's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|30 seconds}}, summon a turret. The turret inherits {{SkillValue|42%}} of Utaha's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|30 seconds}}, summon a turret. The turret inherits {{SkillValue|49.7%}} of Utaha's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|30 seconds}}, summon a turret. The turret inherits {{SkillValue|51.6%}} of Utaha's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|30 seconds}}, summon a turret. The turret inherits {{SkillValue|53.5%}} of Utaha's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|30 seconds}}, summon a turret. The turret inherits {{SkillValue|61.1%}} of Utaha's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|30 seconds}}, summon a turret. The turret inherits {{SkillValue|63.1%}} of Utaha's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|30 seconds}}, summon a turret. The turret inherits {{SkillValue|65%}} of Utaha's Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|30 seconds}}, summon a turret. The turret inherits {{SkillValue|72.6%}} of Utaha's Attack. (Duration: {{SkillValue|20 seconds}})
 }}
 {{SkillTable
 | SkillName = Technology's Revolution

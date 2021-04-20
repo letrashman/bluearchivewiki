@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_HEAL
 | SkillDamageType = Mystic
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|35&nbsp;seconds}}, heals one ally by {{SkillValue|94~178%}}.
-| SkillDescriptionLv1 = Every {{SkillValue|35&nbsp;seconds}}, heals one ally by {{SkillValue|94%}}.
-| SkillDescriptionLv2 = Every {{SkillValue|35&nbsp;seconds}}, heals one ally by {{SkillValue|98.7%}}.
-| SkillDescriptionLv3 = Every {{SkillValue|35&nbsp;seconds}}, heals one ally by {{SkillValue|103%}}.
-| SkillDescriptionLv4 = Every {{SkillValue|35&nbsp;seconds}}, heals one ally by {{SkillValue|122%}}.
-| SkillDescriptionLv5 = Every {{SkillValue|35&nbsp;seconds}}, heals one ally by {{SkillValue|126%}}.
-| SkillDescriptionLv6 = Every {{SkillValue|35&nbsp;seconds}}, heals one ally by {{SkillValue|131%}}.
-| SkillDescriptionLv7 = Every {{SkillValue|35&nbsp;seconds}}, heals one ally by {{SkillValue|150%}}.
-| SkillDescriptionLv8 = Every {{SkillValue|35&nbsp;seconds}}, heals one ally by {{SkillValue|155%}}.
-| SkillDescriptionLv9 = Every {{SkillValue|35&nbsp;seconds}}, heals one ally by {{SkillValue|159%}}.
-| SkillDescriptionLv10 = Every {{SkillValue|35&nbsp;seconds}}, heals one ally by {{SkillValue|178%}}.
+| SkillDescriptionGeneral = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|94~178%}}.
+| SkillDescriptionLv1 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|94%}}.
+| SkillDescriptionLv2 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|98.7%}}.
+| SkillDescriptionLv3 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|103%}}.
+| SkillDescriptionLv4 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|122%}}.
+| SkillDescriptionLv5 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|126%}}.
+| SkillDescriptionLv6 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|131%}}.
+| SkillDescriptionLv7 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|150%}}.
+| SkillDescriptionLv8 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|155%}}.
+| SkillDescriptionLv9 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|159%}}.
+| SkillDescriptionLv10 = Every {{SkillValue|35 seconds}}, heals one ally by {{SkillValue|178%}}.
 }}
 {{SkillTable
 | SkillName = Angel in white

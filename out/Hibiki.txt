@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|144~275%}} damage to enemies in circular area centered on the enemy with the lowest HP.
-| SkillDescriptionLv1 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|144%}} damage to enemies in circular area centered on the enemy with the lowest HP.
-| SkillDescriptionLv2 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|152%}} damage to enemies in circular area centered on the enemy with the lowest HP.
-| SkillDescriptionLv3 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|159%}} damage to enemies in circular area centered on the enemy with the lowest HP.
-| SkillDescriptionLv4 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|188%}} damage to enemies in circular area centered on the enemy with the lowest HP.
-| SkillDescriptionLv5 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|195%}} damage to enemies in circular area centered on the enemy with the lowest HP.
-| SkillDescriptionLv6 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|202%}} damage to enemies in circular area centered on the enemy with the lowest HP.
-| SkillDescriptionLv7 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|231%}} damage to enemies in circular area centered on the enemy with the lowest HP.
-| SkillDescriptionLv8 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|239%}} damage to enemies in circular area centered on the enemy with the lowest HP.
-| SkillDescriptionLv9 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|246%}} damage to enemies in circular area centered on the enemy with the lowest HP.
-| SkillDescriptionLv10 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|275%}} damage to enemies in circular area centered on the enemy with the lowest HP.
+| SkillDescriptionGeneral = Every {{SkillValue|20 seconds}}, deal {{SkillValue|144~275%}} damage to enemies in circular area centered on the enemy with the lowest HP.
+| SkillDescriptionLv1 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|144%}} damage to enemies in circular area centered on the enemy with the lowest HP.
+| SkillDescriptionLv2 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|152%}} damage to enemies in circular area centered on the enemy with the lowest HP.
+| SkillDescriptionLv3 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|159%}} damage to enemies in circular area centered on the enemy with the lowest HP.
+| SkillDescriptionLv4 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|188%}} damage to enemies in circular area centered on the enemy with the lowest HP.
+| SkillDescriptionLv5 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|195%}} damage to enemies in circular area centered on the enemy with the lowest HP.
+| SkillDescriptionLv6 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|202%}} damage to enemies in circular area centered on the enemy with the lowest HP.
+| SkillDescriptionLv7 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|231%}} damage to enemies in circular area centered on the enemy with the lowest HP.
+| SkillDescriptionLv8 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|239%}} damage to enemies in circular area centered on the enemy with the lowest HP.
+| SkillDescriptionLv9 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|246%}} damage to enemies in circular area centered on the enemy with the lowest HP.
+| SkillDescriptionLv10 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|275%}} damage to enemies in circular area centered on the enemy with the lowest HP.
 }}
 {{SkillTable
 | SkillName = This is dangerous

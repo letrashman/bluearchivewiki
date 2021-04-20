@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_FEAR
 | SkillDamageType = Explosive
 | SkillBaseCost = 6
-| SkillDescriptionGeneral = Deal {{SkillValue|349~558%}} damage and inflict fear for {{SkillValue|3.9~5.1&nbsp;seconds}} to enemies in a circular area.
-| SkillDescriptionLv1 = Deal {{SkillValue|349%}} damage and inflict fear for {{SkillValue|3.9&nbsp;seconds}} to enemies in a circular area.
-| SkillDescriptionLv2 = Deal {{SkillValue|401%}} damage and inflict fear for {{SkillValue|3.9&nbsp;seconds}} to enemies in a circular area.
-| SkillDescriptionLv3 = Deal {{SkillValue|453%}} damage and inflict fear for {{SkillValue|4.5&nbsp;seconds}} to enemies in a circular area.
-| SkillDescriptionLv4 = Deal {{SkillValue|506%}} damage and inflict fear for {{SkillValue|4.5&nbsp;seconds}} to enemies in a circular area.
-| SkillDescriptionLv5 = Deal {{SkillValue|558%}} damage and inflict fear for {{SkillValue|5.1&nbsp;seconds}} to enemies in a circular area.
-| SkillDescriptionLv6 = Deal {{SkillValue|610%}} damage and inflict fear for {{SkillValue|5.1&nbsp;seconds}} to enemies in a circular area.
-| SkillDescriptionLv7 = Deal {{SkillValue|715%}} damage and inflict fear for {{SkillValue|5.1&nbsp;seconds}} to enemies in a circular area.
-| SkillDescriptionLv8 = Deal {{SkillValue|767%}} damage and inflict fear for {{SkillValue|5.1&nbsp;seconds}} to enemies in a circular area.
-| SkillDescriptionLv9 = Deal {{SkillValue|872%}} damage and inflict fear for {{SkillValue|5.1&nbsp;seconds}} to enemies in a circular area.
-| SkillDescriptionLv10 = Deal {{SkillValue|924%}} damage and inflict fear for {{SkillValue|5.1&nbsp;seconds}} to enemies in a circular area.
+| SkillDescriptionGeneral = Deal {{SkillValue|349~558%}} damage and inflict Fear for {{SkillValue|3.9~5.1 seconds}} to enemies in a circular area.
+| SkillDescriptionLv1 = Deal {{SkillValue|349%}} damage and inflict Fear for {{SkillValue|3.9 seconds}} to enemies in a circular area.
+| SkillDescriptionLv2 = Deal {{SkillValue|401%}} damage and inflict Fear for {{SkillValue|3.9 seconds}} to enemies in a circular area.
+| SkillDescriptionLv3 = Deal {{SkillValue|453%}} damage and inflict Fear for {{SkillValue|4.5 seconds}} to enemies in a circular area.
+| SkillDescriptionLv4 = Deal {{SkillValue|506%}} damage and inflict Fear for {{SkillValue|4.5 seconds}} to enemies in a circular area.
+| SkillDescriptionLv5 = Deal {{SkillValue|558%}} damage and inflict Fear for {{SkillValue|5.1 seconds}} to enemies in a circular area.
+| SkillDescriptionLv6 = Deal {{SkillValue|610%}} damage and inflict Fear for {{SkillValue|5.1 seconds}} to enemies in a circular area.
+| SkillDescriptionLv7 = Deal {{SkillValue|715%}} damage and inflict Fear for {{SkillValue|5.1 seconds}} to enemies in a circular area.
+| SkillDescriptionLv8 = Deal {{SkillValue|767%}} damage and inflict Fear for {{SkillValue|5.1 seconds}} to enemies in a circular area.
+| SkillDescriptionLv9 = Deal {{SkillValue|872%}} damage and inflict Fear for {{SkillValue|5.1 seconds}} to enemies in a circular area.
+| SkillDescriptionLv10 = Deal {{SkillValue|924%}} damage and inflict Fear for {{SkillValue|5.1 seconds}} to enemies in a circular area.
 }}
 {{SkillTable
 | SkillName = Panic Shot
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_FEAR
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|132~252%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict fear for {{SkillValue|3.6&nbsp;seconds}}.
-| SkillDescriptionLv1 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|132%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict fear for {{SkillValue|3.6&nbsp;seconds}}.
-| SkillDescriptionLv2 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|139%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict fear for {{SkillValue|3.6&nbsp;seconds}}.
-| SkillDescriptionLv3 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|146%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict fear for {{SkillValue|3.6&nbsp;seconds}}.
-| SkillDescriptionLv4 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|172%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict fear for {{SkillValue|3.6&nbsp;seconds}}.
-| SkillDescriptionLv5 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|179%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict fear for {{SkillValue|3.6&nbsp;seconds}}.
-| SkillDescriptionLv6 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|185%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict fear for {{SkillValue|3.6&nbsp;seconds}}.
-| SkillDescriptionLv7 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|212%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict fear for {{SkillValue|3.6&nbsp;seconds}}.
-| SkillDescriptionLv8 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|219%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict fear for {{SkillValue|3.6&nbsp;seconds}}.
-| SkillDescriptionLv9 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|225%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict fear for {{SkillValue|3.6&nbsp;seconds}}.
-| SkillDescriptionLv10 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|252%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict fear for {{SkillValue|3.6&nbsp;seconds}}.
+| SkillDescriptionGeneral = Every {{SkillValue|20 seconds}}, deal {{SkillValue|132~252%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict Fear for {{SkillValue|3.6 seconds}}.
+| SkillDescriptionLv1 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|132%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict Fear for {{SkillValue|3.6 seconds}}.
+| SkillDescriptionLv2 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|139%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict Fear for {{SkillValue|3.6 seconds}}.
+| SkillDescriptionLv3 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|146%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict Fear for {{SkillValue|3.6 seconds}}.
+| SkillDescriptionLv4 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|172%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict Fear for {{SkillValue|3.6 seconds}}.
+| SkillDescriptionLv5 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|179%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict Fear for {{SkillValue|3.6 seconds}}.
+| SkillDescriptionLv6 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|185%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict Fear for {{SkillValue|3.6 seconds}}.
+| SkillDescriptionLv7 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|212%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict Fear for {{SkillValue|3.6 seconds}}.
+| SkillDescriptionLv8 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|219%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict Fear for {{SkillValue|3.6 seconds}}.
+| SkillDescriptionLv9 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|225%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict Fear for {{SkillValue|3.6 seconds}}.
+| SkillDescriptionLv10 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|252%}} damage to 1 enemy. {{SkillValue|30%}} chance to inflict Fear for {{SkillValue|3.6 seconds}}.
 }}
 {{SkillTable
 | SkillName = Scary face
@@ -59,17 +59,17 @@
 | SkillIconType = COMMON_SKILLICON_EXTRADAMAGE
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = When attacking a CC'd enemy, deals {{SkillValue|74.8~142%}} of Attack as extra damage.
-| SkillDescriptionLv1 = When attacking a CC'd enemy, deals {{SkillValue|74.8%}} of Attack as extra damage.
-| SkillDescriptionLv2 = When attacking a CC'd enemy, deals {{SkillValue|78.5%}} of Attack as extra damage.
-| SkillDescriptionLv3 = When attacking a CC'd enemy, deals {{SkillValue|82.2%}} of Attack as extra damage.
-| SkillDescriptionLv4 = When attacking a CC'd enemy, deals {{SkillValue|97.2%}} of Attack as extra damage.
-| SkillDescriptionLv5 = When attacking a CC'd enemy, deals {{SkillValue|100%}} of Attack as extra damage.
-| SkillDescriptionLv6 = When attacking a CC'd enemy, deals {{SkillValue|104%}} of Attack as extra damage.
-| SkillDescriptionLv7 = When attacking a CC'd enemy, deals {{SkillValue|119%}} of Attack as extra damage.
-| SkillDescriptionLv8 = When attacking a CC'd enemy, deals {{SkillValue|123%}} of Attack as extra damage.
-| SkillDescriptionLv9 = When attacking a CC'd enemy, deals {{SkillValue|127%}} of Attack as extra damage.
-| SkillDescriptionLv10 = When attacking a CC'd enemy, deals {{SkillValue|142%}} of Attack as extra damage.
+| SkillDescriptionGeneral = When attacking a CC'd enemy, deal {{SkillValue|74.8~142%}} of Attack as extra damage.
+| SkillDescriptionLv1 = When attacking a CC'd enemy, deal {{SkillValue|74.8%}} of Attack as extra damage.
+| SkillDescriptionLv2 = When attacking a CC'd enemy, deal {{SkillValue|78.5%}} of Attack as extra damage.
+| SkillDescriptionLv3 = When attacking a CC'd enemy, deal {{SkillValue|82.2%}} of Attack as extra damage.
+| SkillDescriptionLv4 = When attacking a CC'd enemy, deal {{SkillValue|97.2%}} of Attack as extra damage.
+| SkillDescriptionLv5 = When attacking a CC'd enemy, deal {{SkillValue|100%}} of Attack as extra damage.
+| SkillDescriptionLv6 = When attacking a CC'd enemy, deal {{SkillValue|104%}} of Attack as extra damage.
+| SkillDescriptionLv7 = When attacking a CC'd enemy, deal {{SkillValue|119%}} of Attack as extra damage.
+| SkillDescriptionLv8 = When attacking a CC'd enemy, deal {{SkillValue|123%}} of Attack as extra damage.
+| SkillDescriptionLv9 = When attacking a CC'd enemy, deal {{SkillValue|127%}} of Attack as extra damage.
+| SkillDescriptionLv10 = When attacking a CC'd enemy, deal {{SkillValue|142%}} of Attack as extra damage.
 }}
 
 [[Category:Characters]]

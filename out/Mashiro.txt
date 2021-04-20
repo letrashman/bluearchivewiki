@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Explosive
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = Inflitct damage equal to {{SkillValue|415~664%}} of Attack to one enemy, {{SkillValue|50~75%}} chance of additional {{SkillValue|623~716%}} damage
-| SkillDescriptionLv1 = Inflitct damage equal to {{SkillValue|415%}} of Attack to one enemy, {{SkillValue|50%}} chance of additional {{SkillValue|623%}} damage
-| SkillDescriptionLv2 = Inflitct damage equal to {{SkillValue|477%}} of Attack to one enemy, {{SkillValue|50%}} chance of additional {{SkillValue|623%}} damage
-| SkillDescriptionLv3 = Inflitct damage equal to {{SkillValue|540%}} of Attack to one enemy, {{SkillValue|50%}} chance of additional {{SkillValue|716%}} damage
-| SkillDescriptionLv4 = Inflitct damage equal to {{SkillValue|602%}} of Attack to one enemy, {{SkillValue|50%}} chance of additional {{SkillValue|716%}} damage
-| SkillDescriptionLv5 = Inflitct damage equal to {{SkillValue|664%}} of Attack to one enemy, {{SkillValue|75%}} chance of additional {{SkillValue|716%}} damage
-| SkillDescriptionLv6 = Inflitct damage equal to {{SkillValue|727%}} of Attack to one enemy, {{SkillValue|75%}} chance of additional {{SkillValue|716%}} damage
-| SkillDescriptionLv7 = Inflitct damage equal to {{SkillValue|851%}} of Attack to one enemy, {{SkillValue|75%}} chance of additional {{SkillValue|716%}} damage
-| SkillDescriptionLv8 = Inflitct damage equal to {{SkillValue|914%}} of Attack to one enemy, {{SkillValue|75%}} chance of additional {{SkillValue|716%}} damage
-| SkillDescriptionLv9 = Inflitct damage equal to {{SkillValue|1038%}} of Attack to one enemy, {{SkillValue|75%}} chance of additional {{SkillValue|716%}} damage
-| SkillDescriptionLv10 = Inflitct damage equal to {{SkillValue|1101%}} of Attack to one enemy, {{SkillValue|75%}} chance of additional {{SkillValue|716%}} damage
+| SkillDescriptionGeneral = Deal {{SkillValue|415~664%}} damage to one enemy, {{SkillValue|50~75%}} chance of additional {{SkillValue|623~716%}} damage.
+| SkillDescriptionLv1 = Deal {{SkillValue|415%}} damage to one enemy, {{SkillValue|50%}} chance of additional {{SkillValue|623%}} damage.
+| SkillDescriptionLv2 = Deal {{SkillValue|477%}} damage to one enemy, {{SkillValue|50%}} chance of additional {{SkillValue|623%}} damage.
+| SkillDescriptionLv3 = Deal {{SkillValue|540%}} damage to one enemy, {{SkillValue|50%}} chance of additional {{SkillValue|716%}} damage.
+| SkillDescriptionLv4 = Deal {{SkillValue|602%}} damage to one enemy, {{SkillValue|50%}} chance of additional {{SkillValue|716%}} damage.
+| SkillDescriptionLv5 = Deal {{SkillValue|664%}} damage to one enemy, {{SkillValue|75%}} chance of additional {{SkillValue|716%}} damage.
+| SkillDescriptionLv6 = Deal {{SkillValue|727%}} damage to one enemy, {{SkillValue|75%}} chance of additional {{SkillValue|716%}} damage.
+| SkillDescriptionLv7 = Deal {{SkillValue|851%}} damage to one enemy, {{SkillValue|75%}} chance of additional {{SkillValue|716%}} damage.
+| SkillDescriptionLv8 = Deal {{SkillValue|914%}} damage to one enemy, {{SkillValue|75%}} chance of additional {{SkillValue|716%}} damage.
+| SkillDescriptionLv9 = Deal {{SkillValue|1038%}} damage to one enemy, {{SkillValue|75%}} chance of additional {{SkillValue|716%}} damage.
+| SkillDescriptionLv10 = Deal {{SkillValue|1101%}} damage to one enemy, {{SkillValue|75%}} chance of additional {{SkillValue|716%}} damage.
 }}
 {{SkillTable
 | SkillName = Justice's Decision
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_CIRCLE
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|150~286%}} Attack.
-| SkillDescriptionLv1 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|150%}} Attack.
-| SkillDescriptionLv2 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|158%}} Attack.
-| SkillDescriptionLv3 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|166%}} Attack.
-| SkillDescriptionLv4 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|196%}} Attack.
-| SkillDescriptionLv5 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|203%}} Attack.
-| SkillDescriptionLv6 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|211%}} Attack.
-| SkillDescriptionLv7 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|241%}} Attack.
-| SkillDescriptionLv8 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|249%}} Attack.
-| SkillDescriptionLv9 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|256%}} Attack.
-| SkillDescriptionLv10 = Every {{SkillValue|20&nbsp;seconds}}, target a circular area with {{SkillValue|286%}} Attack.
+| SkillDescriptionGeneral = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|150~286%}} Attack.
+| SkillDescriptionLv1 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|150%}} Attack.
+| SkillDescriptionLv2 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|158%}} Attack.
+| SkillDescriptionLv3 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|166%}} Attack.
+| SkillDescriptionLv4 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|196%}} Attack.
+| SkillDescriptionLv5 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|203%}} Attack.
+| SkillDescriptionLv6 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|211%}} Attack.
+| SkillDescriptionLv7 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|241%}} Attack.
+| SkillDescriptionLv8 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|249%}} Attack.
+| SkillDescriptionLv9 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|256%}} Attack.
+| SkillDescriptionLv10 = Every {{SkillValue|20 seconds}}, target a circular area with {{SkillValue|286%}} Attack.
 }}
 {{SkillTable
 | SkillName = Sprit of Justice

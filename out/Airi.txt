@@ -5,17 +5,17 @@
 | SkillIconType = SKILLICON_AIRI_EXSKILL
 | SkillDamageType = Explosive
 | SkillBaseCost = 5
-| SkillDescriptionGeneral = Attack all enemies in a circular area for {{SkillValue|265~464%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|0~20&nbsp;seconds}} and reduce attack speed by {{SkillValue|0~26.2%}} for {{SkillValue|0~20&nbsp;seconds}}.
-| SkillDescriptionLv1 = Attack all enemies in a circular area for {{SkillValue|265%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for $4.
-| SkillDescriptionLv2 = Attack all enemies in a circular area for {{SkillValue|305%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for $4.
-| SkillDescriptionLv3 = Attack all enemies in a circular area for {{SkillValue|345%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|20&nbsp;seconds}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20&nbsp;seconds}}.
-| SkillDescriptionLv4 = Attack all enemies in a circular area for {{SkillValue|384%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|20&nbsp;seconds}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20&nbsp;seconds}}.
-| SkillDescriptionLv5 = Attack all enemies in a circular area for {{SkillValue|464%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|20&nbsp;seconds}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20&nbsp;seconds}}.
-| SkillDescriptionLv6 = Attack all enemies in a circular area for {{SkillValue|504%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|20&nbsp;seconds}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20&nbsp;seconds}}.
-| SkillDescriptionLv7 = Attack all enemies in a circular area for {{SkillValue|583%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|20&nbsp;seconds}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20&nbsp;seconds}}.
-| SkillDescriptionLv8 = Attack all enemies in a circular area for {{SkillValue|623%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|20&nbsp;seconds}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20&nbsp;seconds}}.
-| SkillDescriptionLv9 = Attack all enemies in a circular area for {{SkillValue|703%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|20&nbsp;seconds}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20&nbsp;seconds}}.
-| SkillDescriptionLv10 = Attack all enemies in a circular area for {{SkillValue|743%}} of Airi's Attack, decrease enemies' movement speed by {{SkillValue|22.8%}} for {{SkillValue|20&nbsp;seconds}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20&nbsp;seconds}}.
+| SkillDescriptionGeneral = Deal {{SkillValue|265~464%}} damage to all enemies in a circular area, decrease their movement speed by {{SkillValue|22.8%}} and reduce attack speed by {{SkillValue|20~26.2%}} for {{SkillValue|0~20 seconds}}.
+| SkillDescriptionLv1 = Deal {{SkillValue|265%}} damage to all enemies in a circular area, decrease their movement speed by {{SkillValue|22.8%}} for {{SkillValue|20 seconds}}.
+| SkillDescriptionLv2 = Deal {{SkillValue|305%}} damage to all enemies in a circular area, decrease their movement speed by {{SkillValue|22.8%}} for {{SkillValue|20 seconds}}.
+| SkillDescriptionLv3 = Deal {{SkillValue|345%}} damage to all enemies in a circular area, decrease their movement speed by {{SkillValue|22.8%}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20 seconds}}.
+| SkillDescriptionLv4 = Deal {{SkillValue|384%}} damage to all enemies in a circular area, decrease their movement speed by {{SkillValue|22.8%}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20 seconds}}.
+| SkillDescriptionLv5 = Deal {{SkillValue|464%}} damage to all enemies in a circular area, decrease their movement speed by {{SkillValue|22.8%}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20 seconds}}.
+| SkillDescriptionLv6 = Deal {{SkillValue|504%}} damage to all enemies in a circular area, decrease their movement speed by {{SkillValue|22.8%}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20 seconds}}.
+| SkillDescriptionLv7 = Deal {{SkillValue|583%}} damage to all enemies in a circular area, decrease their movement speed by {{SkillValue|22.8%}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20 seconds}}.
+| SkillDescriptionLv8 = Deal {{SkillValue|623%}} damage to all enemies in a circular area, decrease their movement speed by {{SkillValue|22.8%}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20 seconds}}.
+| SkillDescriptionLv9 = Deal {{SkillValue|703%}} damage to all enemies in a circular area, decrease their movement speed by {{SkillValue|22.8%}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20 seconds}}.
+| SkillDescriptionLv10 = Deal {{SkillValue|743%}} damage to all enemies in a circular area, decrease their movement speed by {{SkillValue|22.8%}} and reduce attack speed by {{SkillValue|26.2%}} for {{SkillValue|20 seconds}}.
 }}
 {{SkillTable
 | SkillName = You might feel a little brain freeze...
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_STATDEBUFF
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|18.4~35.1%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv1 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|18.4%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv2 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|19.4%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv3 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|20.3%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv4 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|24%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv5 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|24.9%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv6 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|25.8%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv7 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|29.5%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv8 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|30.5%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv9 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|31.4%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv10 = Every {{SkillValue|25&nbsp;seconds}}, decrease one enemy's attack speed by {{SkillValue|35.1%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionGeneral = Every {{SkillValue|25 seconds}}, decrease one enemy's attack speed by {{SkillValue|18.4~35.1%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|25 seconds}}, decrease one enemy's attack speed by {{SkillValue|18.4%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|25 seconds}}, decrease one enemy's attack speed by {{SkillValue|19.4%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|25 seconds}}, decrease one enemy's attack speed by {{SkillValue|20.3%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|25 seconds}}, decrease one enemy's attack speed by {{SkillValue|24%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|25 seconds}}, decrease one enemy's attack speed by {{SkillValue|24.9%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|25 seconds}}, decrease one enemy's attack speed by {{SkillValue|25.8%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|25 seconds}}, decrease one enemy's attack speed by {{SkillValue|29.5%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|25 seconds}}, decrease one enemy's attack speed by {{SkillValue|30.5%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|25 seconds}}, decrease one enemy's attack speed by {{SkillValue|31.4%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|25 seconds}}, decrease one enemy's attack speed by {{SkillValue|35.1%}}. (Duration: {{SkillValue|30 seconds}})
 }}
 {{SkillTable
 | SkillName = The power of pudding

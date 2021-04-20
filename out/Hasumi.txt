@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Penetration
 | SkillBaseCost = 5
-| SkillDescriptionGeneral = Deals {{SkillValue|574~1091%}} damage to one enemy.
-| SkillDescriptionLv1 = Deals {{SkillValue|574%}} damage to one enemy.
-| SkillDescriptionLv2 = Deals {{SkillValue|660%}} damage to one enemy.
-| SkillDescriptionLv3 = Deals {{SkillValue|832%}} damage to one enemy.
-| SkillDescriptionLv4 = Deals {{SkillValue|918%}} damage to one enemy.
-| SkillDescriptionLv5 = Deals {{SkillValue|1091%}} damage to one enemy.
-| SkillDescriptionLv6 = Deals {{SkillValue|1177%}} damage to one enemy.
-| SkillDescriptionLv7 = Deals {{SkillValue|1349%}} damage to one enemy.
-| SkillDescriptionLv8 = Deals {{SkillValue|1435%}} damage to one enemy.
-| SkillDescriptionLv9 = Deals {{SkillValue|1608%}} damage to one enemy.
-| SkillDescriptionLv10 = Deals {{SkillValue|1694%}} damage to one enemy.
+| SkillDescriptionGeneral = Deal {{SkillValue|574~1091%}} damage to one enemy.
+| SkillDescriptionLv1 = Deal {{SkillValue|574%}} damage to one enemy.
+| SkillDescriptionLv2 = Deal {{SkillValue|660%}} damage to one enemy.
+| SkillDescriptionLv3 = Deal {{SkillValue|832%}} damage to one enemy.
+| SkillDescriptionLv4 = Deal {{SkillValue|918%}} damage to one enemy.
+| SkillDescriptionLv5 = Deal {{SkillValue|1091%}} damage to one enemy.
+| SkillDescriptionLv6 = Deal {{SkillValue|1177%}} damage to one enemy.
+| SkillDescriptionLv7 = Deal {{SkillValue|1349%}} damage to one enemy.
+| SkillDescriptionLv8 = Deal {{SkillValue|1435%}} damage to one enemy.
+| SkillDescriptionLv9 = Deal {{SkillValue|1608%}} damage to one enemy.
+| SkillDescriptionLv10 = Deal {{SkillValue|1694%}} damage to one enemy.
 }}
 {{SkillTable
 | SkillName = A composed mind
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_RELOAD
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|30~57%}} for {{SkillValue|13&nbsp;seconds}}.
-| SkillDescriptionLv1 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|30%}} for {{SkillValue|13&nbsp;seconds}}.
-| SkillDescriptionLv2 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|31.5%}} for {{SkillValue|13&nbsp;seconds}}.
-| SkillDescriptionLv3 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|33%}} for {{SkillValue|13&nbsp;seconds}}.
-| SkillDescriptionLv4 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|39%}} for {{SkillValue|13&nbsp;seconds}}.
-| SkillDescriptionLv5 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|40.5%}} for {{SkillValue|13&nbsp;seconds}}.
-| SkillDescriptionLv6 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|42%}} for {{SkillValue|13&nbsp;seconds}}.
-| SkillDescriptionLv7 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|48%}} for {{SkillValue|13&nbsp;seconds}}.
-| SkillDescriptionLv8 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|49.5%}} for {{SkillValue|13&nbsp;seconds}}.
-| SkillDescriptionLv9 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|51%}} for {{SkillValue|13&nbsp;seconds}}.
-| SkillDescriptionLv10 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|57%}} for {{SkillValue|13&nbsp;seconds}}.
+| SkillDescriptionGeneral = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|30~57%}} for {{SkillValue|13 seconds}}.
+| SkillDescriptionLv1 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|30%}} for {{SkillValue|13 seconds}}.
+| SkillDescriptionLv2 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|31.5%}} for {{SkillValue|13 seconds}}.
+| SkillDescriptionLv3 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|33%}} for {{SkillValue|13 seconds}}.
+| SkillDescriptionLv4 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|39%}} for {{SkillValue|13 seconds}}.
+| SkillDescriptionLv5 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|40.5%}} for {{SkillValue|13 seconds}}.
+| SkillDescriptionLv6 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|42%}} for {{SkillValue|13 seconds}}.
+| SkillDescriptionLv7 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|48%}} for {{SkillValue|13 seconds}}.
+| SkillDescriptionLv8 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|49.5%}} for {{SkillValue|13 seconds}}.
+| SkillDescriptionLv9 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|51%}} for {{SkillValue|13 seconds}}.
+| SkillDescriptionLv10 = After defeating an enemy immediately reload and increase Critical Rate by {{SkillValue|57%}} for {{SkillValue|13 seconds}}.
 }}
 {{SkillTable
 | SkillName = Target in sights

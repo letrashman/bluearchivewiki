@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_RELOAD
 | SkillDamageType = Explosive
 | SkillBaseCost = 2
-| SkillDescriptionGeneral = Reload and increase Attack power by {{SkillValue|35.6~67.7%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv1 = Reload and increase Attack power by {{SkillValue|35.6%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv2 = Reload and increase Attack power by {{SkillValue|41%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv3 = Reload and increase Attack power by {{SkillValue|51.6%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv4 = Reload and increase Attack power by {{SkillValue|57%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv5 = Reload and increase Attack power by {{SkillValue|67.7%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv6 = Reload and increase Attack power by {{SkillValue|73%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv7 = Reload and increase Attack power by {{SkillValue|83.7%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv8 = Reload and increase Attack power by {{SkillValue|89.1%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv9 = Reload and increase Attack power by {{SkillValue|99.8%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv10 = Reload and increase Attack power by {{SkillValue|105%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionGeneral = Reload and increase Attack by {{SkillValue|35.6~67.7%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv1 = Reload and increase Attack by {{SkillValue|35.6%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv2 = Reload and increase Attack by {{SkillValue|41%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv3 = Reload and increase Attack by {{SkillValue|51.6%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv4 = Reload and increase Attack by {{SkillValue|57%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv5 = Reload and increase Attack by {{SkillValue|67.7%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv6 = Reload and increase Attack by {{SkillValue|73%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv7 = Reload and increase Attack by {{SkillValue|83.7%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv8 = Reload and increase Attack by {{SkillValue|89.1%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv9 = Reload and increase Attack by {{SkillValue|99.8%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv10 = Reload and increase Attack by {{SkillValue|105%}} for {{SkillValue|30 seconds}}.
 }}
 {{SkillTable
 | SkillName = Precision Shooting
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Deal {{SkillValue|223~425%}} damage to one enemy every {{SkillValue|25&nbsp;seconds}}.
-| SkillDescriptionLv1 = Deal {{SkillValue|223%}} damage to one enemy every {{SkillValue|25&nbsp;seconds}}.
-| SkillDescriptionLv2 = Deal {{SkillValue|235%}} damage to one enemy every {{SkillValue|25&nbsp;seconds}}.
-| SkillDescriptionLv3 = Deal {{SkillValue|246%}} damage to one enemy every {{SkillValue|25&nbsp;seconds}}.
-| SkillDescriptionLv4 = Deal {{SkillValue|291%}} damage to one enemy every {{SkillValue|25&nbsp;seconds}}.
-| SkillDescriptionLv5 = Deal {{SkillValue|302%}} damage to one enemy every {{SkillValue|25&nbsp;seconds}}.
-| SkillDescriptionLv6 = Deal {{SkillValue|313%}} damage to one enemy every {{SkillValue|25&nbsp;seconds}}.
-| SkillDescriptionLv7 = Deal {{SkillValue|358%}} damage to one enemy every {{SkillValue|25&nbsp;seconds}}.
-| SkillDescriptionLv8 = Deal {{SkillValue|369%}} damage to one enemy every {{SkillValue|25&nbsp;seconds}}.
-| SkillDescriptionLv9 = Deal {{SkillValue|380%}} damage to one enemy every {{SkillValue|25&nbsp;seconds}}.
-| SkillDescriptionLv10 = Deal {{SkillValue|425%}} damage to one enemy every {{SkillValue|25&nbsp;seconds}}.
+| SkillDescriptionGeneral = Deal {{SkillValue|223~425%}} damage to one enemy every {{SkillValue|25 seconds}}.
+| SkillDescriptionLv1 = Deal {{SkillValue|223%}} damage to one enemy every {{SkillValue|25 seconds}}.
+| SkillDescriptionLv2 = Deal {{SkillValue|235%}} damage to one enemy every {{SkillValue|25 seconds}}.
+| SkillDescriptionLv3 = Deal {{SkillValue|246%}} damage to one enemy every {{SkillValue|25 seconds}}.
+| SkillDescriptionLv4 = Deal {{SkillValue|291%}} damage to one enemy every {{SkillValue|25 seconds}}.
+| SkillDescriptionLv5 = Deal {{SkillValue|302%}} damage to one enemy every {{SkillValue|25 seconds}}.
+| SkillDescriptionLv6 = Deal {{SkillValue|313%}} damage to one enemy every {{SkillValue|25 seconds}}.
+| SkillDescriptionLv7 = Deal {{SkillValue|358%}} damage to one enemy every {{SkillValue|25 seconds}}.
+| SkillDescriptionLv8 = Deal {{SkillValue|369%}} damage to one enemy every {{SkillValue|25 seconds}}.
+| SkillDescriptionLv9 = Deal {{SkillValue|380%}} damage to one enemy every {{SkillValue|25 seconds}}.
+| SkillDescriptionLv10 = Deal {{SkillValue|425%}} damage to one enemy every {{SkillValue|25 seconds}}.
 }}
 {{SkillTable
 | SkillName = Part-time Job Spirit
@@ -59,17 +59,17 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = Increase Attack Speed by {{SkillValue|20.1~38.3%}} for {{SkillValue|30&nbsp;seconds}} after activating her EX skill.
-| SkillDescriptionLv1 = Increase Attack Speed by {{SkillValue|20.1%}} for {{SkillValue|30&nbsp;seconds}} after activating her EX skill.
-| SkillDescriptionLv2 = Increase Attack Speed by {{SkillValue|21.1%}} for {{SkillValue|30&nbsp;seconds}} after activating her EX skill.
-| SkillDescriptionLv3 = Increase Attack Speed by {{SkillValue|22.1%}} for {{SkillValue|30&nbsp;seconds}} after activating her EX skill.
-| SkillDescriptionLv4 = Increase Attack Speed by {{SkillValue|26.2%}} for {{SkillValue|30&nbsp;seconds}} after activating her EX skill.
-| SkillDescriptionLv5 = Increase Attack Speed by {{SkillValue|27.2%}} for {{SkillValue|30&nbsp;seconds}} after activating her EX skill.
-| SkillDescriptionLv6 = Increase Attack Speed by {{SkillValue|28.2%}} for {{SkillValue|30&nbsp;seconds}} after activating her EX skill.
-| SkillDescriptionLv7 = Increase Attack Speed by {{SkillValue|32.2%}} for {{SkillValue|30&nbsp;seconds}} after activating her EX skill.
-| SkillDescriptionLv8 = Increase Attack Speed by {{SkillValue|33.2%}} for {{SkillValue|30&nbsp;seconds}} after activating her EX skill.
-| SkillDescriptionLv9 = Increase Attack Speed by {{SkillValue|34.2%}} for {{SkillValue|30&nbsp;seconds}} after activating her EX skill.
-| SkillDescriptionLv10 = Increase Attack Speed by {{SkillValue|38.3%}} for {{SkillValue|30&nbsp;seconds}} after activating her EX skill.
+| SkillDescriptionGeneral = Increase Attack Speed by {{SkillValue|20.1~38.3%}} for {{SkillValue|30 seconds}} after activating her EX skill.
+| SkillDescriptionLv1 = Increase Attack Speed by {{SkillValue|20.1%}} for {{SkillValue|30 seconds}} after activating her EX skill.
+| SkillDescriptionLv2 = Increase Attack Speed by {{SkillValue|21.1%}} for {{SkillValue|30 seconds}} after activating her EX skill.
+| SkillDescriptionLv3 = Increase Attack Speed by {{SkillValue|22.1%}} for {{SkillValue|30 seconds}} after activating her EX skill.
+| SkillDescriptionLv4 = Increase Attack Speed by {{SkillValue|26.2%}} for {{SkillValue|30 seconds}} after activating her EX skill.
+| SkillDescriptionLv5 = Increase Attack Speed by {{SkillValue|27.2%}} for {{SkillValue|30 seconds}} after activating her EX skill.
+| SkillDescriptionLv6 = Increase Attack Speed by {{SkillValue|28.2%}} for {{SkillValue|30 seconds}} after activating her EX skill.
+| SkillDescriptionLv7 = Increase Attack Speed by {{SkillValue|32.2%}} for {{SkillValue|30 seconds}} after activating her EX skill.
+| SkillDescriptionLv8 = Increase Attack Speed by {{SkillValue|33.2%}} for {{SkillValue|30 seconds}} after activating her EX skill.
+| SkillDescriptionLv9 = Increase Attack Speed by {{SkillValue|34.2%}} for {{SkillValue|30 seconds}} after activating her EX skill.
+| SkillDescriptionLv10 = Increase Attack Speed by {{SkillValue|38.3%}} for {{SkillValue|30 seconds}} after activating her EX skill.
 }}
 
 [[Category:Characters]]

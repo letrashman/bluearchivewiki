@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|38.7~73.6%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv1 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|38.7%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv2 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|40.7%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv3 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|42.6%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv4 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|50.4%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv5 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|52.3%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv6 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|54.2%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv7 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|62%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv8 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|63.9%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv9 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|65.9%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv10 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|73.6%}} for {{SkillValue|20&nbsp;seconds}}. (Cooldown: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionGeneral = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|38.7~73.6%}} for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|15 seconds}})
+| SkillDescriptionLv1 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|38.7%}} for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|15 seconds}})
+| SkillDescriptionLv2 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|40.7%}} for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|15 seconds}})
+| SkillDescriptionLv3 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|42.6%}} for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|15 seconds}})
+| SkillDescriptionLv4 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|50.4%}} for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|15 seconds}})
+| SkillDescriptionLv5 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|52.3%}} for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|15 seconds}})
+| SkillDescriptionLv6 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|54.2%}} for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|15 seconds}})
+| SkillDescriptionLv7 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|62%}} for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|15 seconds}})
+| SkillDescriptionLv8 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|63.9%}} for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|15 seconds}})
+| SkillDescriptionLv9 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|65.9%}} for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|15 seconds}})
+| SkillDescriptionLv10 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|73.6%}} for {{SkillValue|20 seconds}}. (Cooldown: {{SkillValue|15 seconds}})
 }}
 {{SkillTable
 | SkillName = Thanks for the food!
@@ -59,17 +59,17 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|34.4~65.5%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
-| SkillDescriptionLv1 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|34.4%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
-| SkillDescriptionLv2 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|36.2%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
-| SkillDescriptionLv3 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|37.9%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
-| SkillDescriptionLv4 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|44.8%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
-| SkillDescriptionLv5 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|46.5%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
-| SkillDescriptionLv6 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|48.2%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
-| SkillDescriptionLv7 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|55.1%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
-| SkillDescriptionLv8 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|56.8%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
-| SkillDescriptionLv9 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|58.6%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
-| SkillDescriptionLv10 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|65.5%}} for {{SkillValue|26&nbsp;seconds}}. (Cooldown: {{SkillValue|18&nbsp;seconds}})
+| SkillDescriptionGeneral = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|34.4~65.5%}} for {{SkillValue|26 seconds}}. (Cooldown: {{SkillValue|18 seconds}})
+| SkillDescriptionLv1 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|34.4%}} for {{SkillValue|26 seconds}}. (Cooldown: {{SkillValue|18 seconds}})
+| SkillDescriptionLv2 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|36.2%}} for {{SkillValue|26 seconds}}. (Cooldown: {{SkillValue|18 seconds}})
+| SkillDescriptionLv3 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|37.9%}} for {{SkillValue|26 seconds}}. (Cooldown: {{SkillValue|18 seconds}})
+| SkillDescriptionLv4 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|44.8%}} for {{SkillValue|26 seconds}}. (Cooldown: {{SkillValue|18 seconds}})
+| SkillDescriptionLv5 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|46.5%}} for {{SkillValue|26 seconds}}. (Cooldown: {{SkillValue|18 seconds}})
+| SkillDescriptionLv6 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|48.2%}} for {{SkillValue|26 seconds}}. (Cooldown: {{SkillValue|18 seconds}})
+| SkillDescriptionLv7 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|55.1%}} for {{SkillValue|26 seconds}}. (Cooldown: {{SkillValue|18 seconds}})
+| SkillDescriptionLv8 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|56.8%}} for {{SkillValue|26 seconds}}. (Cooldown: {{SkillValue|18 seconds}})
+| SkillDescriptionLv9 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|58.6%}} for {{SkillValue|26 seconds}}. (Cooldown: {{SkillValue|18 seconds}})
+| SkillDescriptionLv10 = Normal attacks have {{SkillValue|10%}} chance to increase Attack by {{SkillValue|65.5%}} for {{SkillValue|26 seconds}}. (Cooldown: {{SkillValue|18 seconds}})
 }}
 
 [[Category:Characters]]

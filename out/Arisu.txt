@@ -23,17 +23,17 @@
 | SkillIconType = SKILLICON_ARIS_PUBLICSKILL
 | SkillDamageType = Mystic
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|25&nbsp;seconds}}, increase Critical Rate by {{SkillValue|17~32.3%}}. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
-| SkillDescriptionLv1 = Every {{SkillValue|25&nbsp;seconds}}, increase Critical Rate by {{SkillValue|17%}}. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
-| SkillDescriptionLv2 = Every {{SkillValue|25&nbsp;seconds}}, increase Critical Rate by {{SkillValue|17.8%}}. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
-| SkillDescriptionLv3 = Every {{SkillValue|25&nbsp;seconds}}, increase Critical Rate by {{SkillValue|18.7%}}. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
-| SkillDescriptionLv4 = Every {{SkillValue|25&nbsp;seconds}}, increase Critical Rate by {{SkillValue|22.1%}}. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
-| SkillDescriptionLv5 = Every {{SkillValue|25&nbsp;seconds}}, increase Critical Rate by {{SkillValue|23%}}. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
-| SkillDescriptionLv6 = Every {{SkillValue|25&nbsp;seconds}}, increase Critical Rate by {{SkillValue|23.8%}}. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
-| SkillDescriptionLv7 = Every {{SkillValue|25&nbsp;seconds}}, increase Critical Rate by {{SkillValue|27.2%}}. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
-| SkillDescriptionLv8 = Every {{SkillValue|25&nbsp;seconds}}, increase Critical Rate by {{SkillValue|28.1%}}. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
-| SkillDescriptionLv9 = Every {{SkillValue|25&nbsp;seconds}}, increase Critical Rate by {{SkillValue|28.9%}}. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
-| SkillDescriptionLv10 = Every {{SkillValue|25&nbsp;seconds}}, increase Critical Rate by {{SkillValue|32.3%}}. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
+| SkillDescriptionGeneral = Every {{SkillValue|25 seconds}}, increase Critical Rate by {{SkillValue|17~32.3%}}. (Cooldown: {{SkillValue|20 seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
+| SkillDescriptionLv1 = Every {{SkillValue|25 seconds}}, increase Critical Rate by {{SkillValue|17%}}. (Cooldown: {{SkillValue|20 seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
+| SkillDescriptionLv2 = Every {{SkillValue|25 seconds}}, increase Critical Rate by {{SkillValue|17.8%}}. (Cooldown: {{SkillValue|20 seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
+| SkillDescriptionLv3 = Every {{SkillValue|25 seconds}}, increase Critical Rate by {{SkillValue|18.7%}}. (Cooldown: {{SkillValue|20 seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
+| SkillDescriptionLv4 = Every {{SkillValue|25 seconds}}, increase Critical Rate by {{SkillValue|22.1%}}. (Cooldown: {{SkillValue|20 seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
+| SkillDescriptionLv5 = Every {{SkillValue|25 seconds}}, increase Critical Rate by {{SkillValue|23%}}. (Cooldown: {{SkillValue|20 seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
+| SkillDescriptionLv6 = Every {{SkillValue|25 seconds}}, increase Critical Rate by {{SkillValue|23.8%}}. (Cooldown: {{SkillValue|20 seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
+| SkillDescriptionLv7 = Every {{SkillValue|25 seconds}}, increase Critical Rate by {{SkillValue|27.2%}}. (Cooldown: {{SkillValue|20 seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
+| SkillDescriptionLv8 = Every {{SkillValue|25 seconds}}, increase Critical Rate by {{SkillValue|28.1%}}. (Cooldown: {{SkillValue|20 seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
+| SkillDescriptionLv9 = Every {{SkillValue|25 seconds}}, increase Critical Rate by {{SkillValue|28.9%}}. (Cooldown: {{SkillValue|20 seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
+| SkillDescriptionLv10 = Every {{SkillValue|25 seconds}}, increase Critical Rate by {{SkillValue|32.3%}}. (Cooldown: {{SkillValue|20 seconds}})<br>Increase energy charge level by 1. (Max 2 charges)
 }}
 {{SkillTable
 | SkillName = This is enhancement magic!
@@ -59,17 +59,17 @@
 | SkillIconType = SKILLICON_ARIS_EXTRAPASSIVESKILL
 | SkillDamageType = Mystic
 | SkillType = Sub
-| SkillDescriptionGeneral = Increase Critical Rate by {{SkillValue|12.1~22.9%}} when using EX skill. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
-| SkillDescriptionLv1 = Increase Critical Rate by {{SkillValue|12.1%}} when using EX skill. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
-| SkillDescriptionLv2 = Increase Critical Rate by {{SkillValue|12.7%}} when using EX skill. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
-| SkillDescriptionLv3 = Increase Critical Rate by {{SkillValue|13.3%}} when using EX skill. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
-| SkillDescriptionLv4 = Increase Critical Rate by {{SkillValue|15.7%}} when using EX skill. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
-| SkillDescriptionLv5 = Increase Critical Rate by {{SkillValue|16.3%}} when using EX skill. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
-| SkillDescriptionLv6 = Increase Critical Rate by {{SkillValue|16.9%}} when using EX skill. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
-| SkillDescriptionLv7 = Increase Critical Rate by {{SkillValue|19.3%}} when using EX skill. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
-| SkillDescriptionLv8 = Increase Critical Rate by {{SkillValue|19.9%}} when using EX skill. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
-| SkillDescriptionLv9 = Increase Critical Rate by {{SkillValue|20.5%}} when using EX skill. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
-| SkillDescriptionLv10 = Increase Critical Rate by {{SkillValue|22.9%}} when using EX skill. (Cooldown: {{SkillValue|20&nbsp;seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
+| SkillDescriptionGeneral = Increase Critical Rate by {{SkillValue|12.1~22.9%}} when using EX skill. (Cooldown: {{SkillValue|20 seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
+| SkillDescriptionLv1 = Increase Critical Rate by {{SkillValue|12.1%}} when using EX skill. (Cooldown: {{SkillValue|20 seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
+| SkillDescriptionLv2 = Increase Critical Rate by {{SkillValue|12.7%}} when using EX skill. (Cooldown: {{SkillValue|20 seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
+| SkillDescriptionLv3 = Increase Critical Rate by {{SkillValue|13.3%}} when using EX skill. (Cooldown: {{SkillValue|20 seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
+| SkillDescriptionLv4 = Increase Critical Rate by {{SkillValue|15.7%}} when using EX skill. (Cooldown: {{SkillValue|20 seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
+| SkillDescriptionLv5 = Increase Critical Rate by {{SkillValue|16.3%}} when using EX skill. (Cooldown: {{SkillValue|20 seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
+| SkillDescriptionLv6 = Increase Critical Rate by {{SkillValue|16.9%}} when using EX skill. (Cooldown: {{SkillValue|20 seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
+| SkillDescriptionLv7 = Increase Critical Rate by {{SkillValue|19.3%}} when using EX skill. (Cooldown: {{SkillValue|20 seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
+| SkillDescriptionLv8 = Increase Critical Rate by {{SkillValue|19.9%}} when using EX skill. (Cooldown: {{SkillValue|20 seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
+| SkillDescriptionLv9 = Increase Critical Rate by {{SkillValue|20.5%}} when using EX skill. (Cooldown: {{SkillValue|20 seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
+| SkillDescriptionLv10 = Increase Critical Rate by {{SkillValue|22.9%}} when using EX skill. (Cooldown: {{SkillValue|20 seconds}})<br>Increase effect by {{SkillValue|1.5}} or {{SkillValue|2}} based on energy charge level.
 }}
 
 [[Category:Characters]]

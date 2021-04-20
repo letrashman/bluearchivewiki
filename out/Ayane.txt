@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|15.5~29.4%}}.
-| SkillDescriptionLv1 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|15.5%}}.
-| SkillDescriptionLv2 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|16.2%}}.
-| SkillDescriptionLv3 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|17%}}.
-| SkillDescriptionLv4 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|20.1%}}.
-| SkillDescriptionLv5 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|20.9%}}.
-| SkillDescriptionLv6 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|21.7%}}.
-| SkillDescriptionLv7 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|24.8%}}.
-| SkillDescriptionLv8 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|25.5%}}.
-| SkillDescriptionLv9 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|26.3%}}.
-| SkillDescriptionLv10 = Every {{SkillValue|30&nbsp;seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|29.4%}}.
+| SkillDescriptionGeneral = Every {{SkillValue|30 seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|15.5~29.4%}}.
+| SkillDescriptionLv1 = Every {{SkillValue|30 seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|15.5%}}.
+| SkillDescriptionLv2 = Every {{SkillValue|30 seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|16.2%}}.
+| SkillDescriptionLv3 = Every {{SkillValue|30 seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|17%}}.
+| SkillDescriptionLv4 = Every {{SkillValue|30 seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|20.1%}}.
+| SkillDescriptionLv5 = Every {{SkillValue|30 seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|20.9%}}.
+| SkillDescriptionLv6 = Every {{SkillValue|30 seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|21.7%}}.
+| SkillDescriptionLv7 = Every {{SkillValue|30 seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|24.8%}}.
+| SkillDescriptionLv8 = Every {{SkillValue|30 seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|25.5%}}.
+| SkillDescriptionLv9 = Every {{SkillValue|30 seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|26.3%}}.
+| SkillDescriptionLv10 = Every {{SkillValue|30 seconds}}, increase the critical hit resistance of all allies in a circular area by {{SkillValue|29.4%}}.
 }}
 {{SkillTable
 | SkillName = Passion for Learning

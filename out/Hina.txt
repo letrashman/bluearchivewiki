@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_RELOAD
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|21~39.9%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
-| SkillDescriptionLv1 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|21%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
-| SkillDescriptionLv2 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|22.1%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
-| SkillDescriptionLv3 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|23.1%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
-| SkillDescriptionLv4 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|27.3%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
-| SkillDescriptionLv5 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|28.4%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
-| SkillDescriptionLv6 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|29.4%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
-| SkillDescriptionLv7 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|33.6%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
-| SkillDescriptionLv8 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|34.7%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
-| SkillDescriptionLv9 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|35.7%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
-| SkillDescriptionLv10 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|39.9%}}. (Duration: {{SkillValue|16&nbsp;seconds}})
+| SkillDescriptionGeneral = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|21~39.9%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv1 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|21%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv2 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|22.1%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv3 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|23.1%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv4 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|27.3%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv5 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|28.4%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv6 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|29.4%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv7 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|33.6%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv8 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|34.7%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv9 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|35.7%}}. (Duration: {{SkillValue|16 seconds}})
+| SkillDescriptionLv10 = When out of bullets, Hina immediately reloads and increases Attack by {{SkillValue|39.9%}}. (Duration: {{SkillValue|16 seconds}})
 }}
 {{SkillTable
 | SkillName = Cool-headed Disciplinary committee

@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_STATDEBUFF
 | SkillDamageType = Penetration
 | SkillBaseCost = 2
-| SkillDescriptionGeneral = Deal {{SkillValue|547~876%}} damage to one enemy and lower their defense by {{SkillValue|29~37.7%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv1 = Deal {{SkillValue|547%}} damage to one enemy and lower their defense by {{SkillValue|29%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv2 = Deal {{SkillValue|630%}} damage to one enemy and lower their defense by {{SkillValue|29%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv3 = Deal {{SkillValue|712%}} damage to one enemy and lower their defense by {{SkillValue|33.3%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv4 = Deal {{SkillValue|794%}} damage to one enemy and lower their defense by {{SkillValue|33.3%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv5 = Deal {{SkillValue|876%}} damage to one enemy and lower their defense by {{SkillValue|37.7%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv6 = Deal {{SkillValue|958%}} damage to one enemy and lower their defense by {{SkillValue|37.7%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv7 = Deal {{SkillValue|1123%}} damage to one enemy and lower their defense by {{SkillValue|37.7%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv8 = Deal {{SkillValue|1205%}} damage to one enemy and lower their defense by {{SkillValue|37.7%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv9 = Deal {{SkillValue|1369%}} damage to one enemy and lower their defense by {{SkillValue|37.7%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv10 = Deal {{SkillValue|1452%}} damage to one enemy and lower their defense by {{SkillValue|37.7%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionGeneral = Deal {{SkillValue|547~876%}} damage to one enemy and lower their defense by {{SkillValue|29~37.7%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv1 = Deal {{SkillValue|547%}} damage to one enemy and lower their defense by {{SkillValue|29%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv2 = Deal {{SkillValue|630%}} damage to one enemy and lower their defense by {{SkillValue|29%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv3 = Deal {{SkillValue|712%}} damage to one enemy and lower their defense by {{SkillValue|33.3%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv4 = Deal {{SkillValue|794%}} damage to one enemy and lower their defense by {{SkillValue|33.3%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv5 = Deal {{SkillValue|876%}} damage to one enemy and lower their defense by {{SkillValue|37.7%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv6 = Deal {{SkillValue|958%}} damage to one enemy and lower their defense by {{SkillValue|37.7%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv7 = Deal {{SkillValue|1123%}} damage to one enemy and lower their defense by {{SkillValue|37.7%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv8 = Deal {{SkillValue|1205%}} damage to one enemy and lower their defense by {{SkillValue|37.7%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv9 = Deal {{SkillValue|1369%}} damage to one enemy and lower their defense by {{SkillValue|37.7%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv10 = Deal {{SkillValue|1452%}} damage to one enemy and lower their defense by {{SkillValue|37.7%}} for {{SkillValue|30 seconds}}.
 }}
 {{SkillTable
 | SkillName = High-Quality Penetration
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|396~753%}} damage to one enemy.
-| SkillDescriptionLv1 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|396%}} damage to one enemy.
-| SkillDescriptionLv2 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|416%}} damage to one enemy.
-| SkillDescriptionLv3 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|436%}} damage to one enemy.
-| SkillDescriptionLv4 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|515%}} damage to one enemy.
-| SkillDescriptionLv5 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|535%}} damage to one enemy.
-| SkillDescriptionLv6 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|555%}} damage to one enemy.
-| SkillDescriptionLv7 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|634%}} damage to one enemy.
-| SkillDescriptionLv8 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|654%}} damage to one enemy.
-| SkillDescriptionLv9 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|674%}} damage to one enemy.
-| SkillDescriptionLv10 = Every {{SkillValue|40&nbsp;seconds}}, deal {{SkillValue|753%}} damage to one enemy.
+| SkillDescriptionGeneral = Every {{SkillValue|40 seconds}}, deal {{SkillValue|396~753%}} damage to one enemy.
+| SkillDescriptionLv1 = Every {{SkillValue|40 seconds}}, deal {{SkillValue|396%}} damage to one enemy.
+| SkillDescriptionLv2 = Every {{SkillValue|40 seconds}}, deal {{SkillValue|416%}} damage to one enemy.
+| SkillDescriptionLv3 = Every {{SkillValue|40 seconds}}, deal {{SkillValue|436%}} damage to one enemy.
+| SkillDescriptionLv4 = Every {{SkillValue|40 seconds}}, deal {{SkillValue|515%}} damage to one enemy.
+| SkillDescriptionLv5 = Every {{SkillValue|40 seconds}}, deal {{SkillValue|535%}} damage to one enemy.
+| SkillDescriptionLv6 = Every {{SkillValue|40 seconds}}, deal {{SkillValue|555%}} damage to one enemy.
+| SkillDescriptionLv7 = Every {{SkillValue|40 seconds}}, deal {{SkillValue|634%}} damage to one enemy.
+| SkillDescriptionLv8 = Every {{SkillValue|40 seconds}}, deal {{SkillValue|654%}} damage to one enemy.
+| SkillDescriptionLv9 = Every {{SkillValue|40 seconds}}, deal {{SkillValue|674%}} damage to one enemy.
+| SkillDescriptionLv10 = Every {{SkillValue|40 seconds}}, deal {{SkillValue|753%}} damage to one enemy.
 }}
 {{SkillTable
 | SkillName = Swift Advance
@@ -59,17 +59,17 @@
 | SkillIconType = COMMON_SKILLICON_STATDEBUFF
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|6.7~12.7%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv1 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|6.7%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv2 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|7%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv3 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|7.4%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv4 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|8.7%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv5 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|9%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv6 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|9.4%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv7 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|10.7%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv8 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|11%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv9 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|11.4%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
-| SkillDescriptionLv10 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|12.7%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|5&nbsp;seconds}})
+| SkillDescriptionGeneral = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|6.7~12.7%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv1 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|6.7%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv2 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|7%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv3 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|7.4%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv4 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|8.7%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv5 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|9%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv6 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|9.4%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv7 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|10.7%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv8 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|11%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv9 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|11.4%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
+| SkillDescriptionLv10 = When attacking, there is a {{SkillValue|10%}} chance to reduce enemy evasion by {{SkillValue|12.7%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|5 seconds}})
 }}
 
 [[Category:Characters]]

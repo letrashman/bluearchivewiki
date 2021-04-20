@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_STUNNED
 | SkillDamageType = Explosive
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Deal {{SkillValue|271~435%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|2.7~3.5&nbsp;seconds}}.
-| SkillDescriptionLv1 = Deal {{SkillValue|271%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|2.7&nbsp;seconds}}.
-| SkillDescriptionLv2 = Deal {{SkillValue|312%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|2.7&nbsp;seconds}}.
-| SkillDescriptionLv3 = Deal {{SkillValue|353%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.1&nbsp;seconds}}.
-| SkillDescriptionLv4 = Deal {{SkillValue|394%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.1&nbsp;seconds}}.
-| SkillDescriptionLv5 = Deal {{SkillValue|435%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.5&nbsp;seconds}}.
-| SkillDescriptionLv6 = Deal {{SkillValue|475%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.5&nbsp;seconds}}.
-| SkillDescriptionLv7 = Deal {{SkillValue|557%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.5&nbsp;seconds}}.
-| SkillDescriptionLv8 = Deal {{SkillValue|598%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.5&nbsp;seconds}}.
-| SkillDescriptionLv9 = Deal {{SkillValue|679%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.5&nbsp;seconds}}.
-| SkillDescriptionLv10 = Deal {{SkillValue|720%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.5&nbsp;seconds}}.
+| SkillDescriptionGeneral = Deal {{SkillValue|271~435%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|2.7~3.5 seconds}}.
+| SkillDescriptionLv1 = Deal {{SkillValue|271%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|2.7 seconds}}.
+| SkillDescriptionLv2 = Deal {{SkillValue|312%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|2.7 seconds}}.
+| SkillDescriptionLv3 = Deal {{SkillValue|353%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.1 seconds}}.
+| SkillDescriptionLv4 = Deal {{SkillValue|394%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.1 seconds}}.
+| SkillDescriptionLv5 = Deal {{SkillValue|435%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.5 seconds}}.
+| SkillDescriptionLv6 = Deal {{SkillValue|475%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.5 seconds}}.
+| SkillDescriptionLv7 = Deal {{SkillValue|557%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.5 seconds}}.
+| SkillDescriptionLv8 = Deal {{SkillValue|598%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.5 seconds}}.
+| SkillDescriptionLv9 = Deal {{SkillValue|679%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.5 seconds}}.
+| SkillDescriptionLv10 = Deal {{SkillValue|720%}} damage to enemies in a circular area and inflict Faint for {{SkillValue|3.5 seconds}}.
 }}
 {{SkillTable
 | SkillName = Subversion: Plan A
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_STATDEBUFF
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|26.7~50.7%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv1 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|26.7%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv2 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|28%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv3 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|29.3%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv4 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|34.7%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv5 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|36%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv6 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|37.3%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv7 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|42.7%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv8 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|44%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv9 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|45.3%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv10 = Every {{SkillValue|30&nbsp;seconds}}, decrease one enemy's recovery rate by {{SkillValue|50.7%}}. (Duration: {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionGeneral = Every {{SkillValue|30 seconds}}, decrease one enemy's recovery rate by {{SkillValue|26.7~50.7%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|30 seconds}}, decrease one enemy's recovery rate by {{SkillValue|26.7%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|30 seconds}}, decrease one enemy's recovery rate by {{SkillValue|28%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|30 seconds}}, decrease one enemy's recovery rate by {{SkillValue|29.3%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|30 seconds}}, decrease one enemy's recovery rate by {{SkillValue|34.7%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|30 seconds}}, decrease one enemy's recovery rate by {{SkillValue|36%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|30 seconds}}, decrease one enemy's recovery rate by {{SkillValue|37.3%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|30 seconds}}, decrease one enemy's recovery rate by {{SkillValue|42.7%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|30 seconds}}, decrease one enemy's recovery rate by {{SkillValue|44%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|30 seconds}}, decrease one enemy's recovery rate by {{SkillValue|45.3%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|30 seconds}}, decrease one enemy's recovery rate by {{SkillValue|50.7%}}. (Duration: {{SkillValue|15 seconds}})
 }}
 {{SkillTable
 | SkillName = Armament Strengthening: Plan B

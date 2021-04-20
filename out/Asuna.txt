@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_EVASION
 | SkillDamageType = Mystic
 | SkillBaseCost = 2
-| SkillDescriptionGeneral = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|30.2~57.3%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv1 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|30.2%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv2 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|34.7%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv3 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|43.7%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv4 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|48.3%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv5 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|57.3%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv6 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|61.9%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv7 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|70.9%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv8 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|75.4%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv9 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|84.5%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv10 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|89%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionGeneral = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|30.2~57.3%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv1 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|30.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv2 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|34.7%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv3 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|43.7%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv4 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|48.3%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv5 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|57.3%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv6 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|61.9%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv7 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|70.9%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv8 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|75.4%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv9 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|84.5%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv10 = After activating the skill increase Evasion by {{SkillValue|43.4%}} and Attack Speed by {{SkillValue|89%}} for {{SkillValue|30 seconds}}.
 }}
 {{SkillTable
 | SkillName = I'm gonna fire!
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Mystic
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|219~416%}} damage to one enemy.
-| SkillDescriptionLv1 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|219%}} damage to one enemy.
-| SkillDescriptionLv2 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|230%}} damage to one enemy.
-| SkillDescriptionLv3 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|241%}} damage to one enemy.
-| SkillDescriptionLv4 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|284%}} damage to one enemy.
-| SkillDescriptionLv5 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|295%}} damage to one enemy.
-| SkillDescriptionLv6 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|306%}} damage to one enemy.
-| SkillDescriptionLv7 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|350%}} damage to one enemy.
-| SkillDescriptionLv8 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|361%}} damage to one enemy.
-| SkillDescriptionLv9 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|372%}} damage to one enemy.
-| SkillDescriptionLv10 = Every {{SkillValue|20&nbsp;seconds}}, deal {{SkillValue|416%}} damage to one enemy.
+| SkillDescriptionGeneral = Every {{SkillValue|20 seconds}}, deal {{SkillValue|219~416%}} damage to one enemy.
+| SkillDescriptionLv1 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|219%}} damage to one enemy.
+| SkillDescriptionLv2 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|230%}} damage to one enemy.
+| SkillDescriptionLv3 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|241%}} damage to one enemy.
+| SkillDescriptionLv4 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|284%}} damage to one enemy.
+| SkillDescriptionLv5 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|295%}} damage to one enemy.
+| SkillDescriptionLv6 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|306%}} damage to one enemy.
+| SkillDescriptionLv7 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|350%}} damage to one enemy.
+| SkillDescriptionLv8 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|361%}} damage to one enemy.
+| SkillDescriptionLv9 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|372%}} damage to one enemy.
+| SkillDescriptionLv10 = Every {{SkillValue|20 seconds}}, deal {{SkillValue|416%}} damage to one enemy.
 }}
 {{SkillTable
 | SkillName = Does that hurt?
@@ -59,17 +59,17 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Mystic
 | SkillType = Sub
-| SkillDescriptionGeneral = When EX skill is activated increase Attack Speed by {{SkillValue|20.1~38.3%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv1 = When EX skill is activated increase Attack Speed by {{SkillValue|20.1%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv2 = When EX skill is activated increase Attack Speed by {{SkillValue|21.1%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv3 = When EX skill is activated increase Attack Speed by {{SkillValue|22.1%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv4 = When EX skill is activated increase Attack Speed by {{SkillValue|26.2%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv5 = When EX skill is activated increase Attack Speed by {{SkillValue|27.2%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv6 = When EX skill is activated increase Attack Speed by {{SkillValue|28.2%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv7 = When EX skill is activated increase Attack Speed by {{SkillValue|32.2%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv8 = When EX skill is activated increase Attack Speed by {{SkillValue|33.2%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv9 = When EX skill is activated increase Attack Speed by {{SkillValue|34.2%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv10 = When EX skill is activated increase Attack Speed by {{SkillValue|38.3%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionGeneral = When EX skill is activated increase Attack Speed by {{SkillValue|20.1~38.3%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv1 = When EX skill is activated increase Attack Speed by {{SkillValue|20.1%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv2 = When EX skill is activated increase Attack Speed by {{SkillValue|21.1%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv3 = When EX skill is activated increase Attack Speed by {{SkillValue|22.1%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv4 = When EX skill is activated increase Attack Speed by {{SkillValue|26.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv5 = When EX skill is activated increase Attack Speed by {{SkillValue|27.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv6 = When EX skill is activated increase Attack Speed by {{SkillValue|28.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv7 = When EX skill is activated increase Attack Speed by {{SkillValue|32.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv8 = When EX skill is activated increase Attack Speed by {{SkillValue|33.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv9 = When EX skill is activated increase Attack Speed by {{SkillValue|34.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv10 = When EX skill is activated increase Attack Speed by {{SkillValue|38.3%}} for {{SkillValue|30 seconds}}.
 }}
 
 [[Category:Characters]]

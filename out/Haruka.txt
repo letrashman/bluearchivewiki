@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|20&nbsp;seconds}}, Haruka's Defense is increased by {{SkillValue|18.9~36%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv1 = Every {{SkillValue|20&nbsp;seconds}}, Haruka's Defense is increased by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv2 = Every {{SkillValue|20&nbsp;seconds}}, Haruka's Defense is increased by {{SkillValue|19.9%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv3 = Every {{SkillValue|20&nbsp;seconds}}, Haruka's Defense is increased by {{SkillValue|20.8%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv4 = Every {{SkillValue|20&nbsp;seconds}}, Haruka's Defense is increased by {{SkillValue|24.6%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv5 = Every {{SkillValue|20&nbsp;seconds}}, Haruka's Defense is increased by {{SkillValue|25.6%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv6 = Every {{SkillValue|20&nbsp;seconds}}, Haruka's Defense is increased by {{SkillValue|26.5%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv7 = Every {{SkillValue|20&nbsp;seconds}}, Haruka's Defense is increased by {{SkillValue|30.3%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv8 = Every {{SkillValue|20&nbsp;seconds}}, Haruka's Defense is increased by {{SkillValue|31.3%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv9 = Every {{SkillValue|20&nbsp;seconds}}, Haruka's Defense is increased by {{SkillValue|32.2%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv10 = Every {{SkillValue|20&nbsp;seconds}}, Haruka's Defense is increased by {{SkillValue|36%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionGeneral = Every {{SkillValue|20 seconds}}, Haruka's Defense is increased by {{SkillValue|18.9~36%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|20 seconds}}, Haruka's Defense is increased by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|20 seconds}}, Haruka's Defense is increased by {{SkillValue|19.9%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|20 seconds}}, Haruka's Defense is increased by {{SkillValue|20.8%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|20 seconds}}, Haruka's Defense is increased by {{SkillValue|24.6%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|20 seconds}}, Haruka's Defense is increased by {{SkillValue|25.6%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|20 seconds}}, Haruka's Defense is increased by {{SkillValue|26.5%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|20 seconds}}, Haruka's Defense is increased by {{SkillValue|30.3%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|20 seconds}}, Haruka's Defense is increased by {{SkillValue|31.3%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|20 seconds}}, Haruka's Defense is increased by {{SkillValue|32.2%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|20 seconds}}, Haruka's Defense is increased by {{SkillValue|36%}}. (Duration: {{SkillValue|20 seconds}})
 }}
 {{SkillTable
 | SkillName = I-I'll do my best!
@@ -59,17 +59,17 @@
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|18.1~34.4%}} for {{SkillValue|15&nbsp;seconds}}. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv1 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|18.1%}} for {{SkillValue|15&nbsp;seconds}}. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv2 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|19%}} for {{SkillValue|15&nbsp;seconds}}. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv3 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|19.9%}} for {{SkillValue|15&nbsp;seconds}}. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv4 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|23.5%}} for {{SkillValue|15&nbsp;seconds}}. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv5 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|24.5%}} for {{SkillValue|15&nbsp;seconds}}. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv6 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|25.4%}} for {{SkillValue|15&nbsp;seconds}}. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv7 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|29%}} for {{SkillValue|15&nbsp;seconds}}. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv8 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|29.9%}} for {{SkillValue|15&nbsp;seconds}}. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv9 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|30.8%}} for {{SkillValue|15&nbsp;seconds}}. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv10 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|34.4%}} for {{SkillValue|15&nbsp;seconds}}. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionGeneral = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|18.1~34.4%}} for {{SkillValue|15 seconds}}. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv1 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|18.1%}} for {{SkillValue|15 seconds}}. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv2 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|19%}} for {{SkillValue|15 seconds}}. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv3 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|19.9%}} for {{SkillValue|15 seconds}}. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv4 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|23.5%}} for {{SkillValue|15 seconds}}. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv5 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|24.5%}} for {{SkillValue|15 seconds}}. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv6 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|25.4%}} for {{SkillValue|15 seconds}}. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv7 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|29%}} for {{SkillValue|15 seconds}}. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv8 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|29.9%}} for {{SkillValue|15 seconds}}. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv9 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|30.8%}} for {{SkillValue|15 seconds}}. (Cooldown: {{SkillValue|10 seconds}})
+| SkillDescriptionLv10 = When Haruka takes damage, {{SkillValue|5%}} chance of increasing defense by {{SkillValue|34.4%}} for {{SkillValue|15 seconds}}. (Cooldown: {{SkillValue|10 seconds}})
 }}
 
 [[Category:Characters]]

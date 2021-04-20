@@ -172,9 +172,13 @@ class Skill(object):
 
 
         def replace_units(text):
+            
+            text = re.sub('1回', 'once', text)
+            text = re.sub('2回', 'twice', text)
+            #text = re.sub('3回', 'three times', text)
             text = re.sub('回', '', text)
             text = re.sub('つ', '', text)
-            text = re.sub('秒', '&nbsp;seconds', text)
+            text = re.sub('秒', ' seconds', text)
             return text
 
 
@@ -184,11 +188,18 @@ class Skill(object):
                 skill_desc = text_jp
                 #print(f'{group_id} translation is missing')
             else:
+
                 for i in range(skill_level+1):
+                    try: skill_desc = data.translated_skills[group_id][f'ReplaceOnLevel{i}']
+                    except KeyError: pass
+                    
                     try: skill_desc = skill_desc.removesuffix('.') + data.translated_skills[group_id][f'AddOnLevel{i}']
-                    except KeyError: False
+                    except KeyError: pass
 
             variables = re.findall(r'\[c]\[[0-9A-Fa-f]{6}]([^\[]*)\[-]\[/c]', replace_units(text_jp))
+            replacement_count = len(re.findall(r'\$[0-9]{1}', skill_desc))
+            if len(variables) > 0 and len(variables) != replacement_count: print(f'Mismatched number of variables ({len(variables)}/{replacement_count}) in {text_jp} / {skill_desc}')
+
             for i in range(len(variables)):
                 skill_desc = re.sub(f'\${i+1}', '{{SkillValue|' + variables[i] + '}}', skill_desc)
             return skill_desc
@@ -200,7 +211,7 @@ class Skill(object):
             range_text = []
 
             for i in range(len(end_variables)):
-                try: stripped_start = re.findall(r'([0-9.]+).*', start_variables[i])
+                try: stripped_start = re.findall(r'([0-9a-zA-z.]+).*', start_variables[i])
                 except IndexError: 
                     start_variables.append(0)
                     stripped_start = [0]

@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_BATTLEITEM
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|20&nbsp;seconds}}, place 3 landmines that deal {{SkillValue|334~635%}} damage. (Landmines disappear after {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv1 = Every {{SkillValue|20&nbsp;seconds}}, place 3 landmines that deal {{SkillValue|334%}} damage. (Landmines disappear after {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv2 = Every {{SkillValue|20&nbsp;seconds}}, place 3 landmines that deal {{SkillValue|351%}} damage. (Landmines disappear after {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv3 = Every {{SkillValue|20&nbsp;seconds}}, place 3 landmines that deal {{SkillValue|368%}} damage. (Landmines disappear after {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv4 = Every {{SkillValue|20&nbsp;seconds}}, place 3 landmines that deal {{SkillValue|434%}} damage. (Landmines disappear after {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv5 = Every {{SkillValue|20&nbsp;seconds}}, place 3 landmines that deal {{SkillValue|451%}} damage. (Landmines disappear after {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv6 = Every {{SkillValue|20&nbsp;seconds}}, place 3 landmines that deal {{SkillValue|468%}} damage. (Landmines disappear after {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv7 = Every {{SkillValue|20&nbsp;seconds}}, place 3 landmines that deal {{SkillValue|535%}} damage. (Landmines disappear after {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv8 = Every {{SkillValue|20&nbsp;seconds}}, place 3 landmines that deal {{SkillValue|552%}} damage. (Landmines disappear after {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv9 = Every {{SkillValue|20&nbsp;seconds}}, place 3 landmines that deal {{SkillValue|568%}} damage. (Landmines disappear after {{SkillValue|15&nbsp;seconds}})
-| SkillDescriptionLv10 = Every {{SkillValue|20&nbsp;seconds}}, place 3 landmines that deal {{SkillValue|635%}} damage. (Landmines disappear after {{SkillValue|15&nbsp;seconds}})
+| SkillDescriptionGeneral = Every {{SkillValue|20 seconds}}, place 3 landmines that deal {{SkillValue|334~635%}} damage. (Landmines disappear after {{SkillValue|15 seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|20 seconds}}, place 3 landmines that deal {{SkillValue|334%}} damage. (Landmines disappear after {{SkillValue|15 seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|20 seconds}}, place 3 landmines that deal {{SkillValue|351%}} damage. (Landmines disappear after {{SkillValue|15 seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|20 seconds}}, place 3 landmines that deal {{SkillValue|368%}} damage. (Landmines disappear after {{SkillValue|15 seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|20 seconds}}, place 3 landmines that deal {{SkillValue|434%}} damage. (Landmines disappear after {{SkillValue|15 seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|20 seconds}}, place 3 landmines that deal {{SkillValue|451%}} damage. (Landmines disappear after {{SkillValue|15 seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|20 seconds}}, place 3 landmines that deal {{SkillValue|468%}} damage. (Landmines disappear after {{SkillValue|15 seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|20 seconds}}, place 3 landmines that deal {{SkillValue|535%}} damage. (Landmines disappear after {{SkillValue|15 seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|20 seconds}}, place 3 landmines that deal {{SkillValue|552%}} damage. (Landmines disappear after {{SkillValue|15 seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|20 seconds}}, place 3 landmines that deal {{SkillValue|568%}} damage. (Landmines disappear after {{SkillValue|15 seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|20 seconds}}, place 3 landmines that deal {{SkillValue|635%}} damage. (Landmines disappear after {{SkillValue|15 seconds}})
 }}
 {{SkillTable
 | SkillName = Let's play!
@@ -59,17 +59,17 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = When carrying out normal attacks, {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|30.2~57.4%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
-| SkillDescriptionLv1 = When carrying out normal attacks, {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|30.2%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
-| SkillDescriptionLv2 = When carrying out normal attacks, {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|31.7%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
-| SkillDescriptionLv3 = When carrying out normal attacks, {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|33.2%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
-| SkillDescriptionLv4 = When carrying out normal attacks, {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|39.3%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
-| SkillDescriptionLv5 = When carrying out normal attacks, {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|40.8%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
-| SkillDescriptionLv6 = When carrying out normal attacks, {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|42.3%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
-| SkillDescriptionLv7 = When carrying out normal attacks, {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|48.3%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
-| SkillDescriptionLv8 = When carrying out normal attacks, {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|49.9%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
-| SkillDescriptionLv9 = When carrying out normal attacks, {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|51.4%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
-| SkillDescriptionLv10 = When carrying out normal attacks, {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|57.4%}} for {{SkillValue|30&nbsp;seconds}}. (Cooldown: {{SkillValue|25&nbsp;seconds}})
+| SkillDescriptionGeneral = Normal attacks have a {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|30.2~57.4%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|25 seconds}})
+| SkillDescriptionLv1 = Normal attacks have a {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|30.2%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|25 seconds}})
+| SkillDescriptionLv2 = Normal attacks have a {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|31.7%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|25 seconds}})
+| SkillDescriptionLv3 = Normal attacks have a {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|33.2%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|25 seconds}})
+| SkillDescriptionLv4 = Normal attacks have a {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|39.3%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|25 seconds}})
+| SkillDescriptionLv5 = Normal attacks have a {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|40.8%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|25 seconds}})
+| SkillDescriptionLv6 = Normal attacks have a {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|42.3%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|25 seconds}})
+| SkillDescriptionLv7 = Normal attacks have a {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|48.3%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|25 seconds}})
+| SkillDescriptionLv8 = Normal attacks have a {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|49.9%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|25 seconds}})
+| SkillDescriptionLv9 = Normal attacks have a {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|51.4%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|25 seconds}})
+| SkillDescriptionLv10 = Normal attacks have a {{SkillValue|25%}} chance of increasing accuracy by {{SkillValue|57.4%}} for {{SkillValue|30 seconds}}. (Cooldown: {{SkillValue|25 seconds}})
 }}
 
 [[Category:Characters]]

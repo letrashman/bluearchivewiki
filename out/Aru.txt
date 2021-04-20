@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|152~290%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|251~476%}} damage to enemies in a circular area around the targeted enemy.
-| SkillDescriptionLv1 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|152%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|251%}} damage to enemies in a circular area around the targeted enemy.
-| SkillDescriptionLv2 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|160%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|263%}} damage to enemies in a circular area around the targeted enemy.
-| SkillDescriptionLv3 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|168%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|276%}} damage to enemies in a circular area around the targeted enemy.
-| SkillDescriptionLv4 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|198%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|326%}} damage to enemies in a circular area around the targeted enemy.
-| SkillDescriptionLv5 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|206%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|338%}} damage to enemies in a circular area around the targeted enemy.
-| SkillDescriptionLv6 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|213%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|351%}} damage to enemies in a circular area around the targeted enemy.
-| SkillDescriptionLv7 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|244%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|401%}} damage to enemies in a circular area around the targeted enemy.
-| SkillDescriptionLv8 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|251%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|414%}} damage to enemies in a circular area around the targeted enemy.
-| SkillDescriptionLv9 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|259%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|426%}} damage to enemies in a circular area around the targeted enemy.
-| SkillDescriptionLv10 = Every {{SkillValue|25&nbsp;seconds}}, deals {{SkillValue|290%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|476%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionGeneral = Every {{SkillValue|25 seconds}}, deals {{SkillValue|152~290%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|251~476%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv1 = Every {{SkillValue|25 seconds}}, deals {{SkillValue|152%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|251%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv2 = Every {{SkillValue|25 seconds}}, deals {{SkillValue|160%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|263%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv3 = Every {{SkillValue|25 seconds}}, deals {{SkillValue|168%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|276%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv4 = Every {{SkillValue|25 seconds}}, deals {{SkillValue|198%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|326%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv5 = Every {{SkillValue|25 seconds}}, deals {{SkillValue|206%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|338%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv6 = Every {{SkillValue|25 seconds}}, deals {{SkillValue|213%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|351%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv7 = Every {{SkillValue|25 seconds}}, deals {{SkillValue|244%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|401%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv8 = Every {{SkillValue|25 seconds}}, deals {{SkillValue|251%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|414%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv9 = Every {{SkillValue|25 seconds}}, deals {{SkillValue|259%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|426%}} damage to enemies in a circular area around the targeted enemy.
+| SkillDescriptionLv10 = Every {{SkillValue|25 seconds}}, deals {{SkillValue|290%}} damage to one enemy. {{SkillValue|50%}} chance to deal an additional {{SkillValue|476%}} damage to enemies in a circular area around the targeted enemy.
 }}
 {{SkillTable
 | SkillName = President's Dignity

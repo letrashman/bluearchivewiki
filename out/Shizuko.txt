@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_OBSTACLE
 | SkillDamageType = Mystic
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|16.3~21.3%}} increased accuracy for {{SkillValue|30&nbsp;seconds}}. Cover's durability is a set amount plus {{SkillValue|29.2~46.8%}} of Shizuko's HP.
-| SkillDescriptionLv1 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|16.3%}} increased accuracy for {{SkillValue|30&nbsp;seconds}}. Cover's durability is a set amount plus {{SkillValue|29.2%}} of Shizuko's HP.
-| SkillDescriptionLv2 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|16.3%}} increased accuracy for {{SkillValue|30&nbsp;seconds}}. Cover's durability is a set amount plus {{SkillValue|33.6%}} of Shizuko's HP.
-| SkillDescriptionLv3 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|18.8%}} increased accuracy for {{SkillValue|30&nbsp;seconds}}. Cover's durability is a set amount plus {{SkillValue|38%}} of Shizuko's HP.
-| SkillDescriptionLv4 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|18.8%}} increased accuracy for {{SkillValue|30&nbsp;seconds}}. Cover's durability is a set amount plus {{SkillValue|42.4%}} of Shizuko's HP.
-| SkillDescriptionLv5 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|21.3%}} increased accuracy for {{SkillValue|30&nbsp;seconds}}. Cover's durability is a set amount plus {{SkillValue|46.8%}} of Shizuko's HP.
-| SkillDescriptionLv6 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|21.3%}} increased accuracy for {{SkillValue|30&nbsp;seconds}}. Cover's durability is a set amount plus {{SkillValue|51.2%}} of Shizuko's HP.
-| SkillDescriptionLv7 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|21.3%}} increased accuracy for {{SkillValue|30&nbsp;seconds}}. Cover's durability is a set amount plus {{SkillValue|59.9%}} of Shizuko's HP.
-| SkillDescriptionLv8 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|21.3%}} increased accuracy for {{SkillValue|30&nbsp;seconds}}. Cover's durability is a set amount plus {{SkillValue|64.3%}} of Shizuko's HP.
-| SkillDescriptionLv9 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|21.3%}} increased accuracy for {{SkillValue|30&nbsp;seconds}}. Cover's durability is a set amount plus {{SkillValue|73.1%}} of Shizuko's HP.
-| SkillDescriptionLv10 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|21.3%}} increased accuracy for {{SkillValue|30&nbsp;seconds}}. Cover's durability is a set amount plus {{SkillValue|77.5%}} of Shizuko's HP.
+| SkillDescriptionGeneral = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|16.3~21.3%}} increased accuracy for {{SkillValue|30 seconds}}. Cover's durability is a set amount plus {{SkillValue|29.2~46.8%}} of Shizuko's HP.
+| SkillDescriptionLv1 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|16.3%}} increased accuracy for {{SkillValue|30 seconds}}. Cover's durability is a set amount plus {{SkillValue|29.2%}} of Shizuko's HP.
+| SkillDescriptionLv2 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|16.3%}} increased accuracy for {{SkillValue|30 seconds}}. Cover's durability is a set amount plus {{SkillValue|33.6%}} of Shizuko's HP.
+| SkillDescriptionLv3 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|18.8%}} increased accuracy for {{SkillValue|30 seconds}}. Cover's durability is a set amount plus {{SkillValue|38%}} of Shizuko's HP.
+| SkillDescriptionLv4 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|18.8%}} increased accuracy for {{SkillValue|30 seconds}}. Cover's durability is a set amount plus {{SkillValue|42.4%}} of Shizuko's HP.
+| SkillDescriptionLv5 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|21.3%}} increased accuracy for {{SkillValue|30 seconds}}. Cover's durability is a set amount plus {{SkillValue|46.8%}} of Shizuko's HP.
+| SkillDescriptionLv6 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|21.3%}} increased accuracy for {{SkillValue|30 seconds}}. Cover's durability is a set amount plus {{SkillValue|51.2%}} of Shizuko's HP.
+| SkillDescriptionLv7 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|21.3%}} increased accuracy for {{SkillValue|30 seconds}}. Cover's durability is a set amount plus {{SkillValue|59.9%}} of Shizuko's HP.
+| SkillDescriptionLv8 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|21.3%}} increased accuracy for {{SkillValue|30 seconds}}. Cover's durability is a set amount plus {{SkillValue|64.3%}} of Shizuko's HP.
+| SkillDescriptionLv9 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|21.3%}} increased accuracy for {{SkillValue|30 seconds}}. Cover's durability is a set amount plus {{SkillValue|73.1%}} of Shizuko's HP.
+| SkillDescriptionLv10 = Deploy a piece of cover at designated location. Allies within radius of location receive {{SkillValue|21.3%}} increased accuracy for {{SkillValue|30 seconds}}. Cover's durability is a set amount plus {{SkillValue|77.5%}} of Shizuko's HP.
 }}
 {{SkillTable
 | SkillName = Don't interfere with Business!
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONDEBUFF
 | SkillDamageType = Mystic
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|184~341%}} of Shizuko's Attack, decrease enemy's Attack by {{SkillValue|17.4~18.3%}}.
-| SkillDescriptionLv1 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|184%}} of Shizuko's Attack, decrease enemy's Attack by {{SkillValue|17.4%}}.
-| SkillDescriptionLv2 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|194%}} of Shizuko's Attack, decrease enemy's Attack by {{SkillValue|17.4%}}.
-| SkillDescriptionLv3 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|198%}} of Shizuko's Attack, decrease enemy's Attack by {{SkillValue|17.8%}}.
-| SkillDescriptionLv4 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|235%}} of Shizuko's Attack, decrease enemy's Attack by {{SkillValue|17.8%}}.
-| SkillDescriptionLv5 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|240%}} of Shizuko's Attack, decrease enemy's Attack by {{SkillValue|18.3%}}.
-| SkillDescriptionLv6 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|249%}} of Shizuko's Attack, decrease enemy's Attack by {{SkillValue|18.3%}}.
-| SkillDescriptionLv7 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|286%}} of Shizuko's Attack, decrease enemy's Attack by {{SkillValue|18.3%}}.
-| SkillDescriptionLv8 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|295%}} of Shizuko's Attack, decrease enemy's Attack by {{SkillValue|18.3%}}.
-| SkillDescriptionLv9 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|304%}} of Shizuko's Attack, decrease enemy's Attack by {{SkillValue|18.3%}}.
-| SkillDescriptionLv10 = Every {{SkillValue|25&nbsp;seconds}}, attack 1 enemy for {{SkillValue|341%}} of Shizuko's Attack, decrease enemy's Attack by {{SkillValue|18.3%}}.
+| SkillDescriptionGeneral = Every {{SkillValue|25 seconds}}, deal {{SkillValue|184~341%}} damage to one enemy and lower their Attack by {{SkillValue|17.4~18.3%}} for {{SkillValue|21 seconds}}.
+| SkillDescriptionLv1 = Every {{SkillValue|25 seconds}}, deal {{SkillValue|184%}} damage to one enemy and lower their Attack by {{SkillValue|17.4%}} for {{SkillValue|21 seconds}}.
+| SkillDescriptionLv2 = Every {{SkillValue|25 seconds}}, deal {{SkillValue|194%}} damage to one enemy and lower their Attack by {{SkillValue|17.4%}} for {{SkillValue|21 seconds}}.
+| SkillDescriptionLv3 = Every {{SkillValue|25 seconds}}, deal {{SkillValue|198%}} damage to one enemy and lower their Attack by {{SkillValue|17.8%}} for {{SkillValue|21 seconds}}.
+| SkillDescriptionLv4 = Every {{SkillValue|25 seconds}}, deal {{SkillValue|235%}} damage to one enemy and lower their Attack by {{SkillValue|17.8%}} for {{SkillValue|21 seconds}}.
+| SkillDescriptionLv5 = Every {{SkillValue|25 seconds}}, deal {{SkillValue|240%}} damage to one enemy and lower their Attack by {{SkillValue|18.3%}} for {{SkillValue|21 seconds}}.
+| SkillDescriptionLv6 = Every {{SkillValue|25 seconds}}, deal {{SkillValue|249%}} damage to one enemy and lower their Attack by {{SkillValue|18.3%}} for {{SkillValue|21 seconds}}.
+| SkillDescriptionLv7 = Every {{SkillValue|25 seconds}}, deal {{SkillValue|286%}} damage to one enemy and lower their Attack by {{SkillValue|18.3%}} for {{SkillValue|21 seconds}}.
+| SkillDescriptionLv8 = Every {{SkillValue|25 seconds}}, deal {{SkillValue|295%}} damage to one enemy and lower their Attack by {{SkillValue|18.3%}} for {{SkillValue|21 seconds}}.
+| SkillDescriptionLv9 = Every {{SkillValue|25 seconds}}, deal {{SkillValue|304%}} damage to one enemy and lower their Attack by {{SkillValue|18.3%}} for {{SkillValue|21 seconds}}.
+| SkillDescriptionLv10 = Every {{SkillValue|25 seconds}}, deal {{SkillValue|341%}} damage to one enemy and lower their Attack by {{SkillValue|18.3%}} for {{SkillValue|21 seconds}}.
 }}
 {{SkillTable
 | SkillName = Te, Tehepero?

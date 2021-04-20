@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Explosive
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = Increase the Attack of all allies in a circular area by {{SkillValue|24.9~47.4%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv1 = Increase the Attack of all allies in a circular area by {{SkillValue|24.9%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv2 = Increase the Attack of all allies in a circular area by {{SkillValue|28.7%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv3 = Increase the Attack of all allies in a circular area by {{SkillValue|36.2%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv4 = Increase the Attack of all allies in a circular area by {{SkillValue|39.9%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv5 = Increase the Attack of all allies in a circular area by {{SkillValue|47.4%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv6 = Increase the Attack of all allies in a circular area by {{SkillValue|51.1%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv7 = Increase the Attack of all allies in a circular area by {{SkillValue|58.6%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv8 = Increase the Attack of all allies in a circular area by {{SkillValue|62.4%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv9 = Increase the Attack of all allies in a circular area by {{SkillValue|69.9%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
-| SkillDescriptionLv10 = Increase the Attack of all allies in a circular area by {{SkillValue|73.6%}}. (Duration: {{SkillValue|30&nbsp;seconds}})
+| SkillDescriptionGeneral = Increase the Attack of all allies in a circular area by {{SkillValue|24.9~47.4%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv1 = Increase the Attack of all allies in a circular area by {{SkillValue|24.9%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv2 = Increase the Attack of all allies in a circular area by {{SkillValue|28.7%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv3 = Increase the Attack of all allies in a circular area by {{SkillValue|36.2%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv4 = Increase the Attack of all allies in a circular area by {{SkillValue|39.9%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv5 = Increase the Attack of all allies in a circular area by {{SkillValue|47.4%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv6 = Increase the Attack of all allies in a circular area by {{SkillValue|51.1%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv7 = Increase the Attack of all allies in a circular area by {{SkillValue|58.6%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv8 = Increase the Attack of all allies in a circular area by {{SkillValue|62.4%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv9 = Increase the Attack of all allies in a circular area by {{SkillValue|69.9%}}. (Duration: {{SkillValue|30 seconds}})
+| SkillDescriptionLv10 = Increase the Attack of all allies in a circular area by {{SkillValue|73.6%}}. (Duration: {{SkillValue|30 seconds}})
 }}
 {{SkillTable
 | SkillName = Scanning for vulnerabilities
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONDEBUFF
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|30&nbsp;seconds}}, target 1 enemy for {{SkillValue|237~450%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv1 = Every {{SkillValue|30&nbsp;seconds}}, target 1 enemy for {{SkillValue|237%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv2 = Every {{SkillValue|30&nbsp;seconds}}, target 1 enemy for {{SkillValue|249%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv3 = Every {{SkillValue|30&nbsp;seconds}}, target 1 enemy for {{SkillValue|261%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv4 = Every {{SkillValue|30&nbsp;seconds}}, target 1 enemy for {{SkillValue|308%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv5 = Every {{SkillValue|30&nbsp;seconds}}, target 1 enemy for {{SkillValue|320%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv6 = Every {{SkillValue|30&nbsp;seconds}}, target 1 enemy for {{SkillValue|332%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv7 = Every {{SkillValue|30&nbsp;seconds}}, target 1 enemy for {{SkillValue|379%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv8 = Every {{SkillValue|30&nbsp;seconds}}, target 1 enemy for {{SkillValue|391%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv9 = Every {{SkillValue|30&nbsp;seconds}}, target 1 enemy for {{SkillValue|403%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv10 = Every {{SkillValue|30&nbsp;seconds}}, target 1 enemy for {{SkillValue|450%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionGeneral = Every {{SkillValue|30 seconds}}, target 1 enemy for {{SkillValue|237~450%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|30 seconds}}, target 1 enemy for {{SkillValue|237%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|30 seconds}}, target 1 enemy for {{SkillValue|249%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|30 seconds}}, target 1 enemy for {{SkillValue|261%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|30 seconds}}, target 1 enemy for {{SkillValue|308%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|30 seconds}}, target 1 enemy for {{SkillValue|320%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|30 seconds}}, target 1 enemy for {{SkillValue|332%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|30 seconds}}, target 1 enemy for {{SkillValue|379%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|30 seconds}}, target 1 enemy for {{SkillValue|391%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|30 seconds}}, target 1 enemy for {{SkillValue|403%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|30 seconds}}, target 1 enemy for {{SkillValue|450%}} of Attack. Reduce enemy's Attack stat by {{SkillValue|18.9%}}. (Duration: {{SkillValue|20 seconds}})
 }}
 {{SkillTable
 | SkillName = Intensive analysis

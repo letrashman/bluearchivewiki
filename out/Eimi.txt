@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_DOTHEAL
 | SkillDamageType = Explosive
 | SkillBaseCost = 4
-| SkillDescriptionGeneral = Regenerate HP equal to {{SkillValue|8.6~16.4%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv1 = Regenerate HP equal to {{SkillValue|8.6%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv2 = Regenerate HP equal to {{SkillValue|9.9%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv3 = Regenerate HP equal to {{SkillValue|12.5%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv4 = Regenerate HP equal to {{SkillValue|13.8%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv5 = Regenerate HP equal to {{SkillValue|16.4%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv6 = Regenerate HP equal to {{SkillValue|17.7%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv7 = Regenerate HP equal to {{SkillValue|20.3%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv8 = Regenerate HP equal to {{SkillValue|21.6%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv9 = Regenerate HP equal to {{SkillValue|24.2%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20&nbsp;seconds}})
-| SkillDescriptionLv10 = Regenerate HP equal to {{SkillValue|25.4%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20&nbsp;seconds}})
+| SkillDescriptionGeneral = Regenerate HP equal to {{SkillValue|8.6~16.4%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv1 = Regenerate HP equal to {{SkillValue|8.6%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv2 = Regenerate HP equal to {{SkillValue|9.9%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv3 = Regenerate HP equal to {{SkillValue|12.5%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv4 = Regenerate HP equal to {{SkillValue|13.8%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv5 = Regenerate HP equal to {{SkillValue|16.4%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv6 = Regenerate HP equal to {{SkillValue|17.7%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv7 = Regenerate HP equal to {{SkillValue|20.3%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv8 = Regenerate HP equal to {{SkillValue|21.6%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv9 = Regenerate HP equal to {{SkillValue|24.2%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv10 = Regenerate HP equal to {{SkillValue|25.4%}} Healing + {{SkillValue|3.4%}} lost HP. (Duration: {{SkillValue|20 seconds}})
 }}
 {{SkillTable
 | SkillName = A furious fixated attack
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_FAN
 | SkillDamageType = Explosive
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|15&nbsp;seconds}}, deals {{SkillValue|297~564%}} damage to enemies within a fan shaped area.
-| SkillDescriptionLv1 = Every {{SkillValue|15&nbsp;seconds}}, deals {{SkillValue|297%}} damage to enemies within a fan shaped area.
-| SkillDescriptionLv2 = Every {{SkillValue|15&nbsp;seconds}}, deals {{SkillValue|312%}} damage to enemies within a fan shaped area.
-| SkillDescriptionLv3 = Every {{SkillValue|15&nbsp;seconds}}, deals {{SkillValue|327%}} damage to enemies within a fan shaped area.
-| SkillDescriptionLv4 = Every {{SkillValue|15&nbsp;seconds}}, deals {{SkillValue|386%}} damage to enemies within a fan shaped area.
-| SkillDescriptionLv5 = Every {{SkillValue|15&nbsp;seconds}}, deals {{SkillValue|401%}} damage to enemies within a fan shaped area.
-| SkillDescriptionLv6 = Every {{SkillValue|15&nbsp;seconds}}, deals {{SkillValue|416%}} damage to enemies within a fan shaped area.
-| SkillDescriptionLv7 = Every {{SkillValue|15&nbsp;seconds}}, deals {{SkillValue|475%}} damage to enemies within a fan shaped area.
-| SkillDescriptionLv8 = Every {{SkillValue|15&nbsp;seconds}}, deals {{SkillValue|490%}} damage to enemies within a fan shaped area.
-| SkillDescriptionLv9 = Every {{SkillValue|15&nbsp;seconds}}, deals {{SkillValue|505%}} damage to enemies within a fan shaped area.
-| SkillDescriptionLv10 = Every {{SkillValue|15&nbsp;seconds}}, deals {{SkillValue|564%}} damage to enemies within a fan shaped area.
+| SkillDescriptionGeneral = Every {{SkillValue|15 seconds}}, deal {{SkillValue|297~564%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv1 = Every {{SkillValue|15 seconds}}, deal {{SkillValue|297%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv2 = Every {{SkillValue|15 seconds}}, deal {{SkillValue|312%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv3 = Every {{SkillValue|15 seconds}}, deal {{SkillValue|327%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv4 = Every {{SkillValue|15 seconds}}, deal {{SkillValue|386%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv5 = Every {{SkillValue|15 seconds}}, deal {{SkillValue|401%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv6 = Every {{SkillValue|15 seconds}}, deal {{SkillValue|416%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv7 = Every {{SkillValue|15 seconds}}, deal {{SkillValue|475%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv8 = Every {{SkillValue|15 seconds}}, deal {{SkillValue|490%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv9 = Every {{SkillValue|15 seconds}}, deal {{SkillValue|505%}} damage to enemies within a fan shaped area.
+| SkillDescriptionLv10 = Every {{SkillValue|15 seconds}}, deal {{SkillValue|564%}} damage to enemies within a fan shaped area.
 }}
 {{SkillTable
 | SkillName = Specialist's rest

@@ -25,17 +25,17 @@
 | SkillIconType = COMMON_SKILLICON_TARGET
 | SkillDamageType = Mystic
 | SkillType = Normal
-| SkillDescriptionGeneral = Every {{SkillValue|30&nbsp;seconds}} seconds, attack one enemy with {{SkillValue|200~380%}} of Haruna's Attack.
-| SkillDescriptionLv1 = Every {{SkillValue|30&nbsp;seconds}} seconds, attack one enemy with {{SkillValue|200%}} of Haruna's Attack.
-| SkillDescriptionLv2 = Every {{SkillValue|30&nbsp;seconds}} seconds, attack one enemy with {{SkillValue|210%}} of Haruna's Attack.
-| SkillDescriptionLv3 = Every {{SkillValue|30&nbsp;seconds}} seconds, attack one enemy with {{SkillValue|220%}} of Haruna's Attack.
-| SkillDescriptionLv4 = Every {{SkillValue|30&nbsp;seconds}} seconds, attack one enemy with {{SkillValue|260%}} of Haruna's Attack.
-| SkillDescriptionLv5 = Every {{SkillValue|30&nbsp;seconds}} seconds, attack one enemy with {{SkillValue|270%}} of Haruna's Attack.
-| SkillDescriptionLv6 = Every {{SkillValue|30&nbsp;seconds}} seconds, attack one enemy with {{SkillValue|280%}} of Haruna's Attack.
-| SkillDescriptionLv7 = Every {{SkillValue|30&nbsp;seconds}} seconds, attack one enemy with {{SkillValue|320%}} of Haruna's Attack.
-| SkillDescriptionLv8 = Every {{SkillValue|30&nbsp;seconds}} seconds, attack one enemy with {{SkillValue|330%}} of Haruna's Attack.
-| SkillDescriptionLv9 = Every {{SkillValue|30&nbsp;seconds}} seconds, attack one enemy with {{SkillValue|340%}} of Haruna's Attack.
-| SkillDescriptionLv10 = Every {{SkillValue|30&nbsp;seconds}} seconds, attack one enemy with {{SkillValue|380%}} of Haruna's Attack.
+| SkillDescriptionGeneral = Every {{SkillValue|30 seconds}}, attack one enemy with {{SkillValue|200~380%}} of Haruna's Attack.
+| SkillDescriptionLv1 = Every {{SkillValue|30 seconds}}, attack one enemy with {{SkillValue|200%}} of Haruna's Attack.
+| SkillDescriptionLv2 = Every {{SkillValue|30 seconds}}, attack one enemy with {{SkillValue|210%}} of Haruna's Attack.
+| SkillDescriptionLv3 = Every {{SkillValue|30 seconds}}, attack one enemy with {{SkillValue|220%}} of Haruna's Attack.
+| SkillDescriptionLv4 = Every {{SkillValue|30 seconds}}, attack one enemy with {{SkillValue|260%}} of Haruna's Attack.
+| SkillDescriptionLv5 = Every {{SkillValue|30 seconds}}, attack one enemy with {{SkillValue|270%}} of Haruna's Attack.
+| SkillDescriptionLv6 = Every {{SkillValue|30 seconds}}, attack one enemy with {{SkillValue|280%}} of Haruna's Attack.
+| SkillDescriptionLv7 = Every {{SkillValue|30 seconds}}, attack one enemy with {{SkillValue|320%}} of Haruna's Attack.
+| SkillDescriptionLv8 = Every {{SkillValue|30 seconds}}, attack one enemy with {{SkillValue|330%}} of Haruna's Attack.
+| SkillDescriptionLv9 = Every {{SkillValue|30 seconds}}, attack one enemy with {{SkillValue|340%}} of Haruna's Attack.
+| SkillDescriptionLv10 = Every {{SkillValue|30 seconds}}, attack one enemy with {{SkillValue|380%}} of Haruna's Attack.
 }}
 {{SkillTable
 | SkillName = The Dignity of the Gourmet

@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_EVASION
 | SkillDamageType = Mystic
 | SkillBaseCost = 3
-| SkillDescriptionGeneral = Jump to the selected location, and increase Attack Speed by {{SkillValue|27.4~52.1%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv1 = Jump to the selected location, and increase Attack Speed by {{SkillValue|27.4%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv2 = Jump to the selected location, and increase Attack Speed by {{SkillValue|31.5%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv3 = Jump to the selected location, and increase Attack Speed by {{SkillValue|39.7%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv4 = Jump to the selected location, and increase Attack Speed by {{SkillValue|43.9%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv5 = Jump to the selected location, and increase Attack Speed by {{SkillValue|52.1%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv6 = Jump to the selected location, and increase Attack Speed by {{SkillValue|56.2%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv7 = Jump to the selected location, and increase Attack Speed by {{SkillValue|64.4%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv8 = Jump to the selected location, and increase Attack Speed by {{SkillValue|68.5%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv9 = Jump to the selected location, and increase Attack Speed by {{SkillValue|76.8%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv10 = Jump to the selected location, and increase Attack Speed by {{SkillValue|80.9%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionGeneral = Jump to the selected location, and increase Attack Speed by {{SkillValue|27.4~52.1%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv1 = Jump to the selected location, and increase Attack Speed by {{SkillValue|27.4%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv2 = Jump to the selected location, and increase Attack Speed by {{SkillValue|31.5%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv3 = Jump to the selected location, and increase Attack Speed by {{SkillValue|39.7%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv4 = Jump to the selected location, and increase Attack Speed by {{SkillValue|43.9%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv5 = Jump to the selected location, and increase Attack Speed by {{SkillValue|52.1%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv6 = Jump to the selected location, and increase Attack Speed by {{SkillValue|56.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv7 = Jump to the selected location, and increase Attack Speed by {{SkillValue|64.4%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv8 = Jump to the selected location, and increase Attack Speed by {{SkillValue|68.5%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv9 = Jump to the selected location, and increase Attack Speed by {{SkillValue|76.8%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv10 = Jump to the selected location, and increase Attack Speed by {{SkillValue|80.9%}} for {{SkillValue|30 seconds}}.
 }}
 {{SkillTable
 | SkillName = Secret technique! Explosive Shuriken!
@@ -59,17 +59,17 @@
 | SkillIconType = COMMON_SKILLICON_WEAPONBUFF
 | SkillDamageType = Mystic
 | SkillType = Sub
-| SkillDescriptionGeneral = On EX skill use, increase Attack by {{SkillValue|20.1~38.3%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv1 = On EX skill use, increase Attack by {{SkillValue|20.1%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv2 = On EX skill use, increase Attack by {{SkillValue|21.1%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv3 = On EX skill use, increase Attack by {{SkillValue|22.1%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv4 = On EX skill use, increase Attack by {{SkillValue|26.2%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv5 = On EX skill use, increase Attack by {{SkillValue|27.2%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv6 = On EX skill use, increase Attack by {{SkillValue|28.2%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv7 = On EX skill use, increase Attack by {{SkillValue|32.2%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv8 = On EX skill use, increase Attack by {{SkillValue|33.2%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv9 = On EX skill use, increase Attack by {{SkillValue|34.2%}} for {{SkillValue|30&nbsp;seconds}}.
-| SkillDescriptionLv10 = On EX skill use, increase Attack by {{SkillValue|38.3%}} for {{SkillValue|30&nbsp;seconds}}.
+| SkillDescriptionGeneral = On EX skill use, increase Attack by {{SkillValue|20.1~38.3%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv1 = On EX skill use, increase Attack by {{SkillValue|20.1%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv2 = On EX skill use, increase Attack by {{SkillValue|21.1%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv3 = On EX skill use, increase Attack by {{SkillValue|22.1%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv4 = On EX skill use, increase Attack by {{SkillValue|26.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv5 = On EX skill use, increase Attack by {{SkillValue|27.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv6 = On EX skill use, increase Attack by {{SkillValue|28.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv7 = On EX skill use, increase Attack by {{SkillValue|32.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv8 = On EX skill use, increase Attack by {{SkillValue|33.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv9 = On EX skill use, increase Attack by {{SkillValue|34.2%}} for {{SkillValue|30 seconds}}.
+| SkillDescriptionLv10 = On EX skill use, increase Attack by {{SkillValue|38.3%}} for {{SkillValue|30 seconds}}.
 }}
 
 [[Category:Characters]]
