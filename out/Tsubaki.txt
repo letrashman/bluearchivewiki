@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_HEAL
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|349~663%}} of healing power once a battle.
-| SkillDescriptionLv1 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|349%}} of healing power once a battle.
-| SkillDescriptionLv2 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|366%}} of healing power once a battle.
-| SkillDescriptionLv3 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|384%}} of healing power once a battle.
-| SkillDescriptionLv4 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|454%}} of healing power once a battle.
-| SkillDescriptionLv5 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|471%}} of healing power once a battle.
-| SkillDescriptionLv6 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|489%}} of healing power once a battle.
-| SkillDescriptionLv7 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|558%}} of healing power once a battle.
-| SkillDescriptionLv8 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|576%}} of healing power once a battle.
-| SkillDescriptionLv9 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|593%}} of healing power once a battle.
-| SkillDescriptionLv10 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|663%}} of healing power once a battle.
+| SkillDescriptionGeneral = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|349~663%}} of Healing power once a battle.
+| SkillDescriptionLv1 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|349%}} of Healing power once a battle.
+| SkillDescriptionLv2 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|366%}} of Healing power once a battle.
+| SkillDescriptionLv3 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|384%}} of Healing power once a battle.
+| SkillDescriptionLv4 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|454%}} of Healing power once a battle.
+| SkillDescriptionLv5 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|471%}} of Healing power once a battle.
+| SkillDescriptionLv6 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|489%}} of Healing power once a battle.
+| SkillDescriptionLv7 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|558%}} of Healing power once a battle.
+| SkillDescriptionLv8 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|576%}} of Healing power once a battle.
+| SkillDescriptionLv9 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|593%}} of Healing power once a battle.
+| SkillDescriptionLv10 = When HP drops to {{SkillValue|30%}}, heal self for {{SkillValue|663%}} of Healing power once a battle.
 }}
 {{SkillTable
 | SkillName = Grit

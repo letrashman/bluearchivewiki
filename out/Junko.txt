@@ -5,17 +5,17 @@
 | SkillIconType = COMMON_SKILLICON_LINE
 | SkillDamageType = Penetration
 | SkillBaseCost = 5
-| SkillDescriptionGeneral = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|746~1417%}} to attack to enemies in a straight line.
-| SkillDescriptionLv1 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|746%}} to attack to enemies in a straight line.
-| SkillDescriptionLv2 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|857%}} to attack to enemies in a straight line.
-| SkillDescriptionLv3 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|1081%}} to attack to enemies in a straight line.
-| SkillDescriptionLv4 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|1193%}} to attack to enemies in a straight line.
-| SkillDescriptionLv5 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|1417%}} to attack to enemies in a straight line.
-| SkillDescriptionLv6 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|1529%}} to attack to enemies in a straight line.
-| SkillDescriptionLv7 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|1753%}} to attack to enemies in a straight line.
-| SkillDescriptionLv8 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|1865%}} to attack to enemies in a straight line.
-| SkillDescriptionLv9 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|2088%}} to attack to enemies in a straight line.
-| SkillDescriptionLv10 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals damage equal to {{SkillValue|2200%}} to attack to enemies in a straight line.
+| SkillDescriptionGeneral = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals {{SkillValue|746~1417%}} damage to enemies in a straight line.
+| SkillDescriptionLv1 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals {{SkillValue|746%}} damage to enemies in a straight line.
+| SkillDescriptionLv2 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals {{SkillValue|857%}} damage to enemies in a straight line.
+| SkillDescriptionLv3 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals {{SkillValue|1081%}} damage to enemies in a straight line.
+| SkillDescriptionLv4 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals {{SkillValue|1193%}} damage to enemies in a straight line.
+| SkillDescriptionLv5 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals {{SkillValue|1417%}} damage to enemies in a straight line.
+| SkillDescriptionLv6 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals {{SkillValue|1529%}} damage to enemies in a straight line.
+| SkillDescriptionLv7 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals {{SkillValue|1753%}} damage to enemies in a straight line.
+| SkillDescriptionLv8 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals {{SkillValue|1865%}} damage to enemies in a straight line.
+| SkillDescriptionLv9 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals {{SkillValue|2088%}} damage to enemies in a straight line.
+| SkillDescriptionLv10 = Junko sacrifices {{SkillValue|25.7%}} of current HP and deals {{SkillValue|2200%}} damage to enemies in a straight line.
 }}
 {{SkillTable
 | SkillName = Don't talk to me when I'm hungry!
@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_IMMORTAL
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = When HP is under {{SkillValue|20%}} Junko gains immortal status for {{SkillValue|12.8~24.3&nbsp;seconds}}. (1 time per battle)
-| SkillDescriptionLv1 = When HP is under {{SkillValue|20%}} Junko gains immortal status for {{SkillValue|12.8&nbsp;seconds}}. (1 time per battle)
-| SkillDescriptionLv2 = When HP is under {{SkillValue|20%}} Junko gains immortal status for {{SkillValue|13.5&nbsp;seconds}}. (1 time per battle)
-| SkillDescriptionLv3 = When HP is under {{SkillValue|20%}} Junko gains immortal status for {{SkillValue|14.1&nbsp;seconds}}. (1 time per battle)
-| SkillDescriptionLv4 = When HP is under {{SkillValue|20%}} Junko gains immortal status for {{SkillValue|16.7&nbsp;seconds}}. (1 time per battle)
-| SkillDescriptionLv5 = When HP is under {{SkillValue|20%}} Junko gains immortal status for {{SkillValue|17.3&nbsp;seconds}}. (1 time per battle)
-| SkillDescriptionLv6 = When HP is under {{SkillValue|20%}} Junko gains immortal status for {{SkillValue|17.9&nbsp;seconds}}. (1 time per battle)
-| SkillDescriptionLv7 = When HP is under {{SkillValue|20%}} Junko gains immortal status for {{SkillValue|20.5&nbsp;seconds}}. (1 time per battle)
-| SkillDescriptionLv8 = When HP is under {{SkillValue|20%}} Junko gains immortal status for {{SkillValue|21.1&nbsp;seconds}}. (1 time per battle)
-| SkillDescriptionLv9 = When HP is under {{SkillValue|20%}} Junko gains immortal status for {{SkillValue|21.8&nbsp;seconds}}. (1 time per battle)
-| SkillDescriptionLv10 = When HP is under {{SkillValue|20%}} Junko gains immortal status for {{SkillValue|24.3&nbsp;seconds}}. (1 time per battle)
+| SkillDescriptionGeneral = Junko gains immortal status for {{SkillValue|12.8~24.3&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv1 = Junko gains immortal status for {{SkillValue|12.8&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv2 = Junko gains immortal status for {{SkillValue|13.5&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv3 = Junko gains immortal status for {{SkillValue|14.1&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv4 = Junko gains immortal status for {{SkillValue|16.7&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv5 = Junko gains immortal status for {{SkillValue|17.3&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv6 = Junko gains immortal status for {{SkillValue|17.9&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv7 = Junko gains immortal status for {{SkillValue|20.5&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv8 = Junko gains immortal status for {{SkillValue|21.1&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv9 = Junko gains immortal status for {{SkillValue|21.8&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
+| SkillDescriptionLv10 = Junko gains immortal status for {{SkillValue|24.3&nbsp;seconds}} when her HP is under {{SkillValue|20%}}. (1 time per battle)
 }}
 {{SkillTable
 | SkillName = Merit of being a petite
@@ -59,17 +59,17 @@
 | SkillIconType = COMMON_SKILLICON_EXTRADAMAGE
 | SkillDamageType = Penetration
 | SkillType = Sub
-| SkillDescriptionGeneral = When attacking, Junko deals {{SkillValue|0.9~1.7%}}〜{{SkillValue|4.9~9.4%}} more damage in proportion to lost HP.
-| SkillDescriptionLv1 = When attacking, Junko deals {{SkillValue|0.9%}}〜{{SkillValue|4.9%}} more damage in proportion to lost HP.
-| SkillDescriptionLv2 = When attacking, Junko deals {{SkillValue|0.9%}}〜{{SkillValue|5.2%}} more damage in proportion to lost HP.
-| SkillDescriptionLv3 = When attacking, Junko deals {{SkillValue|1%}}〜{{SkillValue|5.4%}} more damage in proportion to lost HP.
-| SkillDescriptionLv4 = When attacking, Junko deals {{SkillValue|1.2%}}〜{{SkillValue|6.4%}} more damage in proportion to lost HP.
-| SkillDescriptionLv5 = When attacking, Junko deals {{SkillValue|1.2%}}〜{{SkillValue|6.6%}} more damage in proportion to lost HP.
-| SkillDescriptionLv6 = When attacking, Junko deals {{SkillValue|1.2%}}〜{{SkillValue|6.9%}} more damage in proportion to lost HP.
-| SkillDescriptionLv7 = When attacking, Junko deals {{SkillValue|1.4%}}〜{{SkillValue|7.9%}} more damage in proportion to lost HP.
-| SkillDescriptionLv8 = When attacking, Junko deals {{SkillValue|1.5%}}〜{{SkillValue|8.1%}} more damage in proportion to lost HP.
-| SkillDescriptionLv9 = When attacking, Junko deals {{SkillValue|1.5%}}〜{{SkillValue|8.4%}} more damage in proportion to lost HP.
-| SkillDescriptionLv10 = When attacking, Junko deals {{SkillValue|1.7%}}〜{{SkillValue|9.4%}} more damage in proportion to lost HP.
+| SkillDescriptionGeneral = When attacking, Junko deals {{SkillValue|0.9~1.7%}}〜{{SkillValue|4.9~9.4%}} of her Attack as additional damage in proportion to lost HP.
+| SkillDescriptionLv1 = When attacking, Junko deals {{SkillValue|0.9%}}〜{{SkillValue|4.9%}} of her Attack as additional damage in proportion to lost HP.
+| SkillDescriptionLv2 = When attacking, Junko deals {{SkillValue|0.9%}}〜{{SkillValue|5.2%}} of her Attack as additional damage in proportion to lost HP.
+| SkillDescriptionLv3 = When attacking, Junko deals {{SkillValue|1%}}〜{{SkillValue|5.4%}} of her Attack as additional damage in proportion to lost HP.
+| SkillDescriptionLv4 = When attacking, Junko deals {{SkillValue|1.2%}}〜{{SkillValue|6.4%}} of her Attack as additional damage in proportion to lost HP.
+| SkillDescriptionLv5 = When attacking, Junko deals {{SkillValue|1.2%}}〜{{SkillValue|6.6%}} of her Attack as additional damage in proportion to lost HP.
+| SkillDescriptionLv6 = When attacking, Junko deals {{SkillValue|1.2%}}〜{{SkillValue|6.9%}} of her Attack as additional damage in proportion to lost HP.
+| SkillDescriptionLv7 = When attacking, Junko deals {{SkillValue|1.4%}}〜{{SkillValue|7.9%}} of her Attack as additional damage in proportion to lost HP.
+| SkillDescriptionLv8 = When attacking, Junko deals {{SkillValue|1.5%}}〜{{SkillValue|8.1%}} of her Attack as additional damage in proportion to lost HP.
+| SkillDescriptionLv9 = When attacking, Junko deals {{SkillValue|1.5%}}〜{{SkillValue|8.4%}} of her Attack as additional damage in proportion to lost HP.
+| SkillDescriptionLv10 = When attacking, Junko deals {{SkillValue|1.7%}}〜{{SkillValue|9.4%}} of her Attack as additional damage in proportion to lost HP.
 }}
 
 [[Category:Characters]]

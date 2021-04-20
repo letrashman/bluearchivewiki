@@ -59,17 +59,17 @@
 | SkillIconType = COMMON_SKILLICON_EXTRADAMAGE
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = When attacking a CC'd enemy, deals an extra {{SkillValue|74.8~142%}} damage.
-| SkillDescriptionLv1 = When attacking a CC'd enemy, deals an extra {{SkillValue|74.8%}} damage.
-| SkillDescriptionLv2 = When attacking a CC'd enemy, deals an extra {{SkillValue|78.5%}} damage.
-| SkillDescriptionLv3 = When attacking a CC'd enemy, deals an extra {{SkillValue|82.2%}} damage.
-| SkillDescriptionLv4 = When attacking a CC'd enemy, deals an extra {{SkillValue|97.2%}} damage.
-| SkillDescriptionLv5 = When attacking a CC'd enemy, deals an extra {{SkillValue|100%}} damage.
-| SkillDescriptionLv6 = When attacking a CC'd enemy, deals an extra {{SkillValue|104%}} damage.
-| SkillDescriptionLv7 = When attacking a CC'd enemy, deals an extra {{SkillValue|119%}} damage.
-| SkillDescriptionLv8 = When attacking a CC'd enemy, deals an extra {{SkillValue|123%}} damage.
-| SkillDescriptionLv9 = When attacking a CC'd enemy, deals an extra {{SkillValue|127%}} damage.
-| SkillDescriptionLv10 = When attacking a CC'd enemy, deals an extra {{SkillValue|142%}} damage.
+| SkillDescriptionGeneral = When attacking a CC'd enemy, deals {{SkillValue|74.8~142%}} of Attack as extra damage.
+| SkillDescriptionLv1 = When attacking a CC'd enemy, deals {{SkillValue|74.8%}} of Attack as extra damage.
+| SkillDescriptionLv2 = When attacking a CC'd enemy, deals {{SkillValue|78.5%}} of Attack as extra damage.
+| SkillDescriptionLv3 = When attacking a CC'd enemy, deals {{SkillValue|82.2%}} of Attack as extra damage.
+| SkillDescriptionLv4 = When attacking a CC'd enemy, deals {{SkillValue|97.2%}} of Attack as extra damage.
+| SkillDescriptionLv5 = When attacking a CC'd enemy, deals {{SkillValue|100%}} of Attack as extra damage.
+| SkillDescriptionLv6 = When attacking a CC'd enemy, deals {{SkillValue|104%}} of Attack as extra damage.
+| SkillDescriptionLv7 = When attacking a CC'd enemy, deals {{SkillValue|119%}} of Attack as extra damage.
+| SkillDescriptionLv8 = When attacking a CC'd enemy, deals {{SkillValue|123%}} of Attack as extra damage.
+| SkillDescriptionLv9 = When attacking a CC'd enemy, deals {{SkillValue|127%}} of Attack as extra damage.
+| SkillDescriptionLv10 = When attacking a CC'd enemy, deals {{SkillValue|142%}} of Attack as extra damage.
 }}
 
 [[Category:Characters]]

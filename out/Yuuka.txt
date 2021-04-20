@@ -59,17 +59,17 @@
 | SkillIconType = COMMON_SKILLICON_HEAL
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = When Yuuka takes cover, she recovers her HP by {{SkillValue|75~142%}} of her healing stat. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv1 = When Yuuka takes cover, she recovers her HP by {{SkillValue|75%}} of her healing stat. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv2 = When Yuuka takes cover, she recovers her HP by {{SkillValue|78.7%}} of her healing stat. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv3 = When Yuuka takes cover, she recovers her HP by {{SkillValue|82.5%}} of her healing stat. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv4 = When Yuuka takes cover, she recovers her HP by {{SkillValue|97.5%}} of her healing stat. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv5 = When Yuuka takes cover, she recovers her HP by {{SkillValue|101%}} of her healing stat. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv6 = When Yuuka takes cover, she recovers her HP by {{SkillValue|105%}} of her healing stat. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv7 = When Yuuka takes cover, she recovers her HP by {{SkillValue|120%}} of her healing stat. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv8 = When Yuuka takes cover, she recovers her HP by {{SkillValue|123%}} of her healing stat. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv9 = When Yuuka takes cover, she recovers her HP by {{SkillValue|127%}} of her healing stat. (Cooldown: {{SkillValue|10&nbsp;seconds}})
-| SkillDescriptionLv10 = When Yuuka takes cover, she recovers her HP by {{SkillValue|142%}} of her healing stat. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionGeneral = When Yuuka takes cover, she recovers her HP by {{SkillValue|75~142%}} of her Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv1 = When Yuuka takes cover, she recovers her HP by {{SkillValue|75%}} of her Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv2 = When Yuuka takes cover, she recovers her HP by {{SkillValue|78.7%}} of her Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv3 = When Yuuka takes cover, she recovers her HP by {{SkillValue|82.5%}} of her Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv4 = When Yuuka takes cover, she recovers her HP by {{SkillValue|97.5%}} of her Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv5 = When Yuuka takes cover, she recovers her HP by {{SkillValue|101%}} of her Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv6 = When Yuuka takes cover, she recovers her HP by {{SkillValue|105%}} of her Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv7 = When Yuuka takes cover, she recovers her HP by {{SkillValue|120%}} of her Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv8 = When Yuuka takes cover, she recovers her HP by {{SkillValue|123%}} of her Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv9 = When Yuuka takes cover, she recovers her HP by {{SkillValue|127%}} of her Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
+| SkillDescriptionLv10 = When Yuuka takes cover, she recovers her HP by {{SkillValue|142%}} of her Healing power. (Cooldown: {{SkillValue|10&nbsp;seconds}})
 }}
 
 [[Category:Characters]]

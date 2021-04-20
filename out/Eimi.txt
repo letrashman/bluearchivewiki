@@ -41,17 +41,17 @@
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Passive
-| SkillDescriptionGeneral = Increase receieved healing by {{SkillValue|14~26.6%}}.
-| SkillDescriptionLv1 = Increase receieved healing by {{SkillValue|14%}}.
-| SkillDescriptionLv2 = Increase receieved healing by {{SkillValue|14.7%}}.
-| SkillDescriptionLv3 = Increase receieved healing by {{SkillValue|15.4%}}.
-| SkillDescriptionLv4 = Increase receieved healing by {{SkillValue|18.2%}}.
-| SkillDescriptionLv5 = Increase receieved healing by {{SkillValue|18.9%}}.
-| SkillDescriptionLv6 = Increase receieved healing by {{SkillValue|19.6%}}.
-| SkillDescriptionLv7 = Increase receieved healing by {{SkillValue|22.4%}}.
-| SkillDescriptionLv8 = Increase receieved healing by {{SkillValue|23.1%}}.
-| SkillDescriptionLv9 = Increase receieved healing by {{SkillValue|23.8%}}.
-| SkillDescriptionLv10 = Increase receieved healing by {{SkillValue|26.6%}}.
+| SkillDescriptionGeneral = Increase healing received by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase healing received by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase healing received by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase healing received by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase healing received by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase healing received by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase healing received by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase healing received by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase healing received by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase healing received by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase healing received by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
 | SkillName = Tenacious force of will
@@ -59,17 +59,17 @@
 | SkillIconType = COMMON_SKILLICON_STATBUFF
 | SkillDamageType = Explosive
 | SkillType = Sub
-| SkillDescriptionGeneral = When HP is under {{SkillValue|50%}} increase CC resistance by {{SkillValue|20.1~38.3%}}.
-| SkillDescriptionLv1 = When HP is under {{SkillValue|50%}} increase CC resistance by {{SkillValue|20.1%}}.
-| SkillDescriptionLv2 = When HP is under {{SkillValue|50%}} increase CC resistance by {{SkillValue|21.1%}}.
-| SkillDescriptionLv3 = When HP is under {{SkillValue|50%}} increase CC resistance by {{SkillValue|22.1%}}.
-| SkillDescriptionLv4 = When HP is under {{SkillValue|50%}} increase CC resistance by {{SkillValue|26.2%}}.
-| SkillDescriptionLv5 = When HP is under {{SkillValue|50%}} increase CC resistance by {{SkillValue|27.2%}}.
-| SkillDescriptionLv6 = When HP is under {{SkillValue|50%}} increase CC resistance by {{SkillValue|28.2%}}.
-| SkillDescriptionLv7 = When HP is under {{SkillValue|50%}} increase CC resistance by {{SkillValue|32.2%}}.
-| SkillDescriptionLv8 = When HP is under {{SkillValue|50%}} increase CC resistance by {{SkillValue|33.2%}}.
-| SkillDescriptionLv9 = When HP is under {{SkillValue|50%}} increase CC resistance by {{SkillValue|34.2%}}.
-| SkillDescriptionLv10 = When HP is under {{SkillValue|50%}} increase CC resistance by {{SkillValue|38.3%}}.
+| SkillDescriptionGeneral = When HP is under {{SkillValue|50%}} increase CC Resistance by {{SkillValue|20.1~38.3%}}.
+| SkillDescriptionLv1 = When HP is under {{SkillValue|50%}} increase CC Resistance by {{SkillValue|20.1%}}.
+| SkillDescriptionLv2 = When HP is under {{SkillValue|50%}} increase CC Resistance by {{SkillValue|21.1%}}.
+| SkillDescriptionLv3 = When HP is under {{SkillValue|50%}} increase CC Resistance by {{SkillValue|22.1%}}.
+| SkillDescriptionLv4 = When HP is under {{SkillValue|50%}} increase CC Resistance by {{SkillValue|26.2%}}.
+| SkillDescriptionLv5 = When HP is under {{SkillValue|50%}} increase CC Resistance by {{SkillValue|27.2%}}.
+| SkillDescriptionLv6 = When HP is under {{SkillValue|50%}} increase CC Resistance by {{SkillValue|28.2%}}.
+| SkillDescriptionLv7 = When HP is under {{SkillValue|50%}} increase CC Resistance by {{SkillValue|32.2%}}.
+| SkillDescriptionLv8 = When HP is under {{SkillValue|50%}} increase CC Resistance by {{SkillValue|33.2%}}.
+| SkillDescriptionLv9 = When HP is under {{SkillValue|50%}} increase CC Resistance by {{SkillValue|34.2%}}.
+| SkillDescriptionLv10 = When HP is under {{SkillValue|50%}} increase CC Resistance by {{SkillValue|38.3%}}.
 }}
 
 [[Category:Characters]]

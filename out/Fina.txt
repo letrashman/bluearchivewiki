@@ -23,17 +23,17 @@
 | SkillIconType = COMMON_SKILLICON_HEAL
 | SkillDamageType = Penetration
 | SkillType = Normal
-| SkillDescriptionGeneral = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|355~674%}} of healing power once per battle.
-| SkillDescriptionLv1 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|355%}} of healing power once per battle.
-| SkillDescriptionLv2 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|372%}} of healing power once per battle.
-| SkillDescriptionLv3 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|390%}} of healing power once per battle.
-| SkillDescriptionLv4 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|461%}} of healing power once per battle.
-| SkillDescriptionLv5 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|479%}} of healing power once per battle.
-| SkillDescriptionLv6 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|497%}} of healing power once per battle.
-| SkillDescriptionLv7 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|568%}} of healing power once per battle.
-| SkillDescriptionLv8 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|586%}} of healing power once per battle.
-| SkillDescriptionLv9 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|603%}} of healing power once per battle.
-| SkillDescriptionLv10 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|674%}} of healing power once per battle.
+| SkillDescriptionGeneral = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|355~674%}} of Healing power once per battle.
+| SkillDescriptionLv1 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|355%}} of Healing power once per battle.
+| SkillDescriptionLv2 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|372%}} of Healing power once per battle.
+| SkillDescriptionLv3 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|390%}} of Healing power once per battle.
+| SkillDescriptionLv4 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|461%}} of Healing power once per battle.
+| SkillDescriptionLv5 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|479%}} of Healing power once per battle.
+| SkillDescriptionLv6 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|497%}} of Healing power once per battle.
+| SkillDescriptionLv7 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|568%}} of Healing power once per battle.
+| SkillDescriptionLv8 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|586%}} of Healing power once per battle.
+| SkillDescriptionLv9 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|603%}} of Healing power once per battle.
+| SkillDescriptionLv10 = When HP falls to {{SkillValue|20%}}, regenerate HP equal to {{SkillValue|674%}} of Healing power once per battle.
 }}
 {{SkillTable
 | SkillName = Sharp Intuition

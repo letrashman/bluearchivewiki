@@ -8,7 +8,7 @@
         {
             "GroupId": "PinaPublic01",
             "NameEn": "Ignite once more!",
-            "DescriptionEn": "When HP falls to $1, regenerate HP equal to $2 of healing power once per battle."
+            "DescriptionEn": "When HP falls to $1, regenerate HP equal to $2 of Healing power once per battle."
         },
         {
             "GroupId": "PinaPassive01",
@@ -129,7 +129,7 @@
         {
             "GroupId": "TsubakiPublic01",
             "NameEn": "If you get tired, you should sleep",
-            "DescriptionEn": "When HP drops to $1, heal self for $2 of healing power once a battle."
+            "DescriptionEn": "When HP drops to $1, heal self for $2 of Healing power once a battle."
         },
         {
             "GroupId": "TsubakiPassive01",
@@ -319,7 +319,7 @@
         {
             "GroupId": "YuukaExtraPassive01",
             "NameEn": "High speed Mental arithmetic",
-            "DescriptionEn": "When Yuuka takes cover, she recovers her HP by $1 of her healing stat. (Cooldown: $2)"
+            "DescriptionEn": "When Yuuka takes cover, she recovers her HP by $1 of her Healing power. (Cooldown: $2)"
         },
         {
             "GroupId": "MashiroEx01",
@@ -396,12 +396,12 @@
         {
             "GroupId": "EimiPassive01",
             "NameEn": "Specialist's rest",
-            "DescriptionEn": "Increase receieved healing by $1."
+            "DescriptionEn": "Increase healing received by $1."
         },
         {
             "GroupId": "EimiExtraPassive01",
             "NameEn": "Tenacious force of will",
-            "DescriptionEn": "When HP is under $1 increase CC resistance by $2."
+            "DescriptionEn": "When HP is under $1 increase CC Resistance by $2."
         },
         {
             "GroupId": "KayokoEx01",
@@ -421,7 +421,7 @@
         {
             "GroupId": "KayokoExtraPassive01",
             "NameEn": "It can't be helped",
-            "DescriptionEn": "When attacking a CC'd enemy, deals an extra $1 damage."
+            "DescriptionEn": "When attacking a CC'd enemy, deals $1 of Attack as extra damage."
         },
         {
             "GroupId": "HanaeEx01",
@@ -486,12 +486,12 @@
         {
             "GroupId": "ZunkoEx01",
             "NameEn": "Hunger's Frustration",
-            "DescriptionEn": "Junko sacrifices $2 of current HP and deals damage equal to $1 to attack to enemies in a straight line."
+            "DescriptionEn": "Junko sacrifices $2 of current HP and deals $1 damage to enemies in a straight line."
         },
         {
             "GroupId": "ZunkoPublic01",
             "NameEn": "Don't talk to me when I'm hungry!",
-            "DescriptionEn": "When HP is under $1 Junko gains immortal status for $2. (1 time per battle)"
+            "DescriptionEn": "Junko gains immortal status for $2 when her HP is under $1. (1 time per battle)"
         },
         {
             "GroupId": "ZunkoPassive01",
@@ -501,7 +501,7 @@
         {
             "GroupId": "ZunkoExtraPassive01",
             "NameEn": "Gourmet on an empty stomach",
-            "DescriptionEn": "When attacking, Junko deals $1〜$2 more damage in proportion to lost HP."
+            "DescriptionEn": "When attacking, Junko deals $1〜$2 of her Attack as additional damage in proportion to lost HP."
         },
         {
             "GroupId": "IzunaEx01",
@@ -551,7 +551,7 @@
         {
             "GroupId": "SayaPublic01",
             "NameEn": "Exciting Experiment!",
-            "DescriptionEn": "Every $1, decrease 1 enemy's Critical Rate by $2 (Duration: $3). Apply continuous poison damage for $4 of Saya's Attack. (Duration: $5)"
+            "DescriptionEn": "Every $1, decrease 1 enemy's Critical Rate by $2. (Duration: $3)<br>Apply continuous poison damage for $4 of Saya's Attack. (Duration: $5)"
         },
         {
             "GroupId": "SayaPassive01",
