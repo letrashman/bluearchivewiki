@@ -1,6 +1,6 @@
 ===Skills===
 {{EXSkillTable
-| SkillName = I'm breaking the world's rule
+| SkillName = I'm breaking the world's rules!
 | SkillNameJP = 世界の 法則が 崩壊します！
 | SkillIconType = COMMON_SKILLICON_BEAM
 | SkillDamageType = Mystic

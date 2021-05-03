@@ -254,6 +254,47 @@
       "CharacterId": 23006,
        "FamilyNameEn": "Kawawa",
        "PersonalNameEn": "Shizuko"
+     },
+     {
+      "CharacterId": 13011,
+      "FamilyNameEn": "Saiba",
+      "PersonalNameEn": "Momoi"
+    },
+    {
+      "CharacterId": 10016,
+       "FamilyNameEn": "Saiba",
+       "PersonalNameEn": "Midori"
+     },
+     {
+      "CharacterId": 19002,
+       "FamilyNameEn": "null",
+       "PersonalNameEn": "19002"
+     },
+     {
+      "CharacterId": 19003,
+       "FamilyNameEn": "null",
+       "PersonalNameEn": "19003"
+     },
+     {
+      "CharacterId": 19004,
+       "FamilyNameEn": "null",
+       "PersonalNameEn": "19004"
+     },
+     {
+      "CharacterId": 19005,
+       "FamilyNameEn": "null",
+       "PersonalNameEn": "19005"
+     },
+     {
+      "CharacterId": 19006,
+       "FamilyNameEn": "null",
+       "PersonalNameEn": "19006"
+     },
+     {
+      "CharacterId": 29003,
+       "FamilyNameEn": "null",
+       "PersonalNameEn": "29003"
      }
+
    ]
 }

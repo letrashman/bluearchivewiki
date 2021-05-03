@@ -1,4 +1,4 @@
-{
+{   
     "DataList": [
         {
             "GroupId": "PinaEx01",
@@ -169,12 +169,12 @@
         {
             "GroupId": "HasumiPublic01",
             "NameEn": "A composed mind",
-            "DescriptionEn": "After defeating an enemy immediately reload and increase Critical Rate by $1 for $2."
+            "DescriptionEn": "After defeating an enemy immediately reload and increase Critical Damage by $1 for $2."
         },
         {
             "GroupId": "HasumiPassive01",
             "NameEn": "Target in sights",
-            "DescriptionEn": "Increase Critical Rate by $1."
+            "DescriptionEn": "Increase Critical Damage  by $1."
         },
         {
             "GroupId": "HasumiExtraPassive01",
@@ -234,7 +234,7 @@
         {
             "GroupId": "HibikiPassive01",
             "NameEn": "This is dangerous",
-            "DescriptionEn": "Increase Critical Rate by $1."
+            "DescriptionEn": "Increase Critical Damage by $1."
         },
         {
             "GroupId": "HibikiExtraPassive01",
@@ -576,12 +576,12 @@
         {
             "GroupId": "KotoriPassive01",
             "NameEn": "Comprehending the issue",
-            "DescriptionEn": "Increase Critical Rate by $1."
+            "DescriptionEn": "Increase Critical Damage by $1."
         },
         {
             "GroupId": "KotoriExtraPassive01",
             "NameEn": "Understood!",
-            "DescriptionEn": "After defeating an enemy, increase Critical Rate by $1 for $2."
+            "DescriptionEn": "After defeating an enemy, increase Critical Damage by $1 for $2."
         },
         {
             "GroupId": "TsurugiEx01",
@@ -928,7 +928,7 @@
         },
         {
             "GroupId": "ArisEx01",
-            "NameEn": "I'm breaking the world's rule",
+            "NameEn": "I'm breaking the world's rules!",
             "DescriptionEn": "Deal $1 damage to enemies in a straight line. Increase damage by $2 or $3 times based on energy charge level. Reset energy charge level after shooting."
         },
         {

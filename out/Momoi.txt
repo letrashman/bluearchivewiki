@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = The anguish of creation
+| SkillNameJP = 生みの苦しみ
+| SkillIconType = COMMON_SKILLICON_FAN
+| SkillDamageType = Penetration
+| SkillBaseCost = 3
+| SkillDescriptionGeneral = Attack all enemies in a conical area with damage equal to {{SkillValue|338~541%}} Attack. If Midori is in the same team, inflict burn damage equal to {{SkillValue|72~93.6%}} Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv1 = Attack all enemies in a conical area with damage equal to {{SkillValue|338%}} Attack. If Midori is in the same team, inflict burn damage equal to {{SkillValue|72%}} Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv2 = Attack all enemies in a conical area with damage equal to {{SkillValue|389%}} Attack. If Midori is in the same team, inflict burn damage equal to {{SkillValue|72%}} Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv3 = Attack all enemies in a conical area with damage equal to {{SkillValue|439%}} Attack. If Midori is in the same team, inflict burn damage equal to {{SkillValue|82.8%}} Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv4 = Attack all enemies in a conical area with damage equal to {{SkillValue|490%}} Attack. If Midori is in the same team, inflict burn damage equal to {{SkillValue|82.8%}} Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv5 = Attack all enemies in a conical area with damage equal to {{SkillValue|541%}} Attack. If Midori is in the same team, inflict burn damage equal to {{SkillValue|93.6%}} Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv6 = Attack all enemies in a conical area with damage equal to {{SkillValue|592%}} Attack. If Midori is in the same team, inflict burn damage equal to {{SkillValue|93.6%}} Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv7 = Attack all enemies in a conical area with damage equal to {{SkillValue|693%}} Attack. If Midori is in the same team, inflict burn damage equal to {{SkillValue|93.6%}} Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv8 = Attack all enemies in a conical area with damage equal to {{SkillValue|744%}} Attack. If Midori is in the same team, inflict burn damage equal to {{SkillValue|93.6%}} Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv9 = Attack all enemies in a conical area with damage equal to {{SkillValue|846%}} Attack. If Midori is in the same team, inflict burn damage equal to {{SkillValue|93.6%}} Attack. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv10 = Attack all enemies in a conical area with damage equal to {{SkillValue|896%}} Attack. If Midori is in the same team, inflict burn damage equal to {{SkillValue|93.6%}} Attack. (Duration: {{SkillValue|20 seconds}})
+}}
+{{SkillTable
+| SkillName = Strict Deadlines
+| SkillNameJP = 締切厳守
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = Every {{SkillValue|30 seconds}}, increase Accuracy by {{SkillValue|22.3~42.3%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|30 seconds}}, increase Accuracy by {{SkillValue|22.3%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|30 seconds}}, increase Accuracy by {{SkillValue|23.4%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|30 seconds}}, increase Accuracy by {{SkillValue|24.5%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|30 seconds}}, increase Accuracy by {{SkillValue|29%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|30 seconds}}, increase Accuracy by {{SkillValue|30.1%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|30 seconds}}, increase Accuracy by {{SkillValue|31.2%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|30 seconds}}, increase Accuracy by {{SkillValue|35.7%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|30 seconds}}, increase Accuracy by {{SkillValue|36.8%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|30 seconds}}, increase Accuracy by {{SkillValue|37.9%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|30 seconds}}, increase Accuracy by {{SkillValue|42.3%}}. (Duration: {{SkillValue|20 seconds}})
+}}
+{{SkillTable
+| SkillName = Artist Inspiration
+| SkillNameJP = クリエイティブセンス
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = Increase Critical Rate by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Critical Rate by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Critical Rate by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Critical Rate by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Critical Rate by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Critical Rate by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Critical Rate by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Critical Rate by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Critical Rate by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Critical Rate by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Critical Rate by {{SkillValue|26.6%}}.
+}}
+{{SkillTable
+| SkillName =  Developer Synergy: Momoi
+| SkillNameJP = 開発者シナジー：ミドリ
+| SkillIconType = SKILLICON_MOMOI_EXTRAPASSIVESKILL
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = Increase Attack by {{SkillValue|15.1~28.7%}}. If Midori is in the same team, increase by {{SkillValue|18.1~34.4%}} instead.
+| SkillDescriptionLv1 = Increase Attack by {{SkillValue|15.1%}}. If Midori is in the same team, increase by {{SkillValue|18.1%}} instead.
+| SkillDescriptionLv2 = Increase Attack by {{SkillValue|15.8%}}. If Midori is in the same team, increase by {{SkillValue|19%}} instead.
+| SkillDescriptionLv3 = Increase Attack by {{SkillValue|16.6%}}. If Midori is in the same team, increase by {{SkillValue|19.9%}} instead.
+| SkillDescriptionLv4 = Increase Attack by {{SkillValue|19.6%}}. If Midori is in the same team, increase by {{SkillValue|23.5%}} instead.
+| SkillDescriptionLv5 = Increase Attack by {{SkillValue|20.4%}}. If Midori is in the same team, increase by {{SkillValue|24.5%}} instead.
+| SkillDescriptionLv6 = Increase Attack by {{SkillValue|21.1%}}. If Midori is in the same team, increase by {{SkillValue|25.4%}} instead.
+| SkillDescriptionLv7 = Increase Attack by {{SkillValue|24.2%}}. If Midori is in the same team, increase by {{SkillValue|29%}} instead.
+| SkillDescriptionLv8 = Increase Attack by {{SkillValue|24.9%}}. If Midori is in the same team, increase by {{SkillValue|29.9%}} instead.
+| SkillDescriptionLv9 = Increase Attack by {{SkillValue|25.7%}}. If Midori is in the same team, increase by {{SkillValue|30.8%}} instead.
+| SkillDescriptionLv10 = Increase Attack by {{SkillValue|28.7%}}. If Midori is in the same team, increase by {{SkillValue|34.4%}} instead.
+}}
+
+[[Category:Characters]]
