@@ -1,4 +1,4 @@
-{
+{ 
   "DataList": [
     {
       "CharacterId": 16004,
@@ -264,6 +264,21 @@
       "CharacterId": 10016,
        "FamilyNameEn": "Saiba",
        "PersonalNameEn": "Midori"
+     },
+     {
+      "CharacterId": 10017,
+       "FamilyNameEn": "Renkawa",
+       "PersonalNameEn": "Cherino"
+     },
+     {
+      "CharacterId": 10018,
+       "FamilyNameEn": "Hanaoka",
+       "PersonalNameEn": "Yuzu"
+     },
+     {
+      "CharacterId": 26006,
+       "FamilyNameEn": "Amami",
+       "PersonalNameEn": "Nodoka"
      },
      {
       "CharacterId": 19002,

@@ -1023,8 +1023,68 @@
         },
         {
             "GroupId": "MomoiExtraPassive01",
-            "NameEn": " Developer Synergy: Momoi",
+            "NameEn": "Developer Synergy: Momoi",
             "DescriptionEn": "Increase Attack by $1. If Midori is in the same team, increase by $2 instead."
+        },
+        {
+            "GroupId": "YuzuEx01",
+            "NameEn": "Game Start!",
+            "DescriptionEn": "Deal $1 damage to enemies within a circular area centered on the specified opponent."
+        },
+        {
+            "GroupId": "YuzuPublic01",
+            "NameEn": "Continuous combo!",
+            "DescriptionEn": "Every $1, deal $2 damage to enemies a circular area centered on the highest attack power opponent."
+        },
+        {
+            "GroupId": "YuzuPassive01",
+            "NameEn": "Debugging...",
+            "DescriptionEn": "Increase Critical Damage by $1."
+        },
+        {
+            "GroupId": "YuzuExtraPassive01",
+            "NameEn": "Pluck up the courage",
+            "DescriptionEn": "When EX or Normal skill are activated, increase Critical Damage by $1 for $2."
+        },
+        {
+            "GroupId": "CherinoEx01",
+            "NameEn": "Elite Guard, gather!",
+            "DescriptionEn": "Deal $1 damage to all enemies in a circular area."
+        },
+        {
+            "GroupId": "CherinoPublic01",
+            "NameEn": "Regulate the enemy!",
+            "DescriptionEn": "Every $1, apply a Focused Fire status to the enemy with the highest Attack, and lower their resistance to critical hits by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "CherinoPassive01",
+            "NameEn": "This is the power of the moustache!",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "CherinoExtraPassive01",
+            "NameEn": "Kneel before the moustache!",
+            "DescriptionEn": "Increase cost recovery by $1. If other Red Winter students are in the same team, increase the effect by $3 per student. (Cherino not included, up to a maximum of 3)"
+        },
+        {
+            "GroupId": "NodokaEx01",
+            "NameEn": "Observatory Support",
+            "DescriptionEn": "Increase Accuracy of all allies in a circular area by $1. (Duration: $2)"
+        },
+        {
+            "GroupId": "NodokaPublic01",
+            "NameEn": "Stubborn sightlines",
+            "DescriptionEn": "Every $1, deal $2 datamage to 1 enemy, decrease their Evasion by $3. (Duration: $4)"
+        },
+        {
+            "GroupId": "NodokaPassive01",
+            "NameEn": "Aesthetics-based Observation",
+            "DescriptionEn": "Increase Accuracy by $1."
+        },
+        {
+            "GroupId": "NodokaExtraPassive01",
+            "NameEn": "The Bond of the Special Class",
+            "DescriptionEn": "Increase Accuracy of all allies by $1."
         }
 
 
