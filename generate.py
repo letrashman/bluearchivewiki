@@ -19,7 +19,7 @@ def colorize(value):
 
 def generate(datadir, translationdir, outdir):
     data = load_data(datadir)
-    translations = load_translations(translationdir)
+    tls = load_translations(translationdir)
 
     env = Environment(loader=FileSystemLoader(os.path.dirname(__file__)))
     env.filters['colorize'] = colorize
@@ -30,7 +30,7 @@ def generate(datadir, translationdir, outdir):
             continue
 
         try:
-            character = Character.from_data(character['Id'], data)
+            character = Character.from_data(character['Id'], data, tls)
         except Exception as err:
             print(f'Failed to parse for DevName {character["DevName"]}: {err}')
             traceback.print_exc()

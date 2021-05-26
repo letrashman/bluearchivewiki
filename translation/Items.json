@@ -2,163 +2,163 @@
     "DataList": [
         {
             "Id": 100,
-            "NameEn": "ネブラディスクの欠片"
+            "NameEn": "Nebra Disc Fragment"
         },
         {
             "Id": 101,
-            "NameEn": "壊れたネブラディスク"
+            "NameEn": "Broken Nebra Disc"
         },
         {
             "Id": 102,
-            "NameEn": "摩耗したネブラディスク"
+            "NameEn": "Worn Nebra Disc"
         },
         {
             "Id": 103,
-            "NameEn": "完全なネブラディスク"
+            "NameEn": "Perfect Nebra Disc"
         },
         {
             "Id": 110,
-            "NameEn": "ファイストス円盤の欠片"
+            "NameEn": "Phaistos Disc Fragment"
         },
         {
             "Id": 111,
-            "NameEn": "壊れたファイストス円盤"
+            "NameEn": "Broken Phaistos Disc"
         },
         {
             "Id": 112,
-            "NameEn": "摩耗したファイストス円盤"
+            "NameEn": "Worn Phaistos Disc"
         },
         {
             "Id": 113,
-            "NameEn": "完全なファイストス円盤"
+            "NameEn": "Perfect Phaistos Disc"
         },
         {
             "Id": 120,
-            "NameEn": "ヴォルフスエックの鉄鉱石"
+            "NameEn": "Wolfsegg Ore"
         },
         {
             "Id": 121,
-            "NameEn": "ヴォルフスエック鋼鉄の欠片"
+            "NameEn": "Wolfsegg Iron Fragment"
         },
         {
             "Id": 122,
-            "NameEn": "低純度のヴォルフスエック鋼鉄"
+            "NameEn": "Impure Wolfsegg Iron"
         },
         {
             "Id": 123,
-            "NameEn": "高純度のヴォルフスエック鋼鉄"
+            "NameEn": "Pure Wolfsegg Iron"
         },
         {
             "Id": 130,
-            "NameEn": "ニムルドレンズの欠片"
+            "NameEn": "Nimrud Lens Fragment"
         },
         {
             "Id": 131,
-            "NameEn": "壊れたニムルドレンズ"
+            "NameEn": "Broken Nimrud Lens"
         },
         {
             "Id": 132,
-            "NameEn": "摩耗したニムルドレンズ"
+            "NameEn": "Worn Nimrud Lens"
         },
         {
             "Id": 133,
-            "NameEn": "完全なニムルドレンズ"
+            "NameEn": "Perfect Nimrud Lens"
         },
         {
             "Id": 140,
-            "NameEn": "マンドレイクの種"
+            "NameEn": "Mandrake Seed"
         },
         {
             "Id": 141,
-            "NameEn": "マンドレイクの芽"
+            "NameEn": "Mandrake Bud"
         },
         {
             "Id": 142,
-            "NameEn": "マンドレイクジュース"
+            "NameEn": "Mandrake Juice"
         },
         {
             "Id": 143,
-            "NameEn": "マンドレイク濃縮液"
+            "NameEn": "Mandrake Concentrate"
         },
         {
             "Id": 150,
-            "NameEn": "レヒニッツ写本のページ"
+            "NameEn": "Rohonc Codex Page"
         },
         {
             "Id": 151,
-            "NameEn": "傷んだレヒニッツ写本"
+            "NameEn": "Battered Rohonc Codex"
         },
         {
             "Id": 152,
-            "NameEn": "編集済みのレヒニッツ写本"
+            "NameEn": "Complete Rohonc Codex"
         },
         {
             "Id": 153,
-            "NameEn": "完全なレヒニッツ写本"
+            "NameEn": "Perfect Rohonc Codex"
         },
         {
             "Id": 160,
-            "NameEn": "エーテルの粉"
+            "NameEn": "Ether Dust"
         },
         {
             "Id": 161,
-            "NameEn": "エーテルの欠片"
+            "NameEn": "Ether Fragment"
         },
         {
             "Id": 162,
-            "NameEn": "エーテルの結晶"
+            "NameEn": "Ether Crystal"
         },
         {
             "Id": 163,
-            "NameEn": "エーテルのエッセンス"
+            "NameEn": "Ether Essence"
         },
         {
             "Id": 170,
-            "NameEn": "アンティキティラ装置の欠片"
+            "NameEn": "Antikythera Device Fragment"
         },
         {
             "Id": 171,
-            "NameEn": "壊れたアンティキティラ装置"
+            "NameEn": "Broken Antikythera Device"
         },
         {
             "Id": 172,
-            "NameEn": "摩耗したアンティキティラ装置"
+            "NameEn": "Worn Antikythera Device"
         },
         {
             "Id": 173,
-            "NameEn": "完全なアンティキティラ装置"
+            "NameEn": "Perfect Antikythera Device"
         },
         {
             "Id": 180,
-            "NameEn": "断片的なヴォイニッチ手稿のコピー"
+            "NameEn": "Fragmented Voynich Manuscript"
         },
         {
             "Id": 181,
-            "NameEn": "傷んだヴォイニッチ手稿のコピー"
+            "NameEn": "Battered Voynich Manuscript"
         },
         {
             "Id": 182,
-            "NameEn": "編集済みのヴォイニッチ手稿のコピー"
+            "NameEn": "Complete Voynich Manuscript"
         },
         {
             "Id": 183,
-            "NameEn": "完全なヴォイニッチ手稿のコピー"
+            "NameEn": "Perfect Voynich Manuscript"
         },
         {
             "Id": 190,
-            "NameEn": "水晶埴輪の破片"
+            "NameEn": "Crystal Haniwa Fragment"
         },
         {
             "Id": 191,
-            "NameEn": "壊れた水晶埴輪"
+            "NameEn": "Broken Crystal Haniwa"
         },
         {
             "Id": 192,
-            "NameEn": "修復済みの水晶埴輪"
+            "NameEn": "Repaired Crystal Haniwa"
         },
         {
             "Id": 193,
-            "NameEn": "完全な水晶埴輪"
+            "NameEn": "Perfect Crystal Haniwa"
         },
         {
             "Id": 3000,
@@ -242,151 +242,151 @@
         },
         {
             "Id": 3050,
-            "NameEn": "初級戦術教育BD\n（ミレニアム）"
+            "NameEn": "Millennium BD (Silver)"
         },
         {
             "Id": 3051,
-            "NameEn": "中級戦術教育BD\n（ミレニアム）"
+            "NameEn": "Millennium BD (Blue)"
         },
         {
             "Id": 3052,
-            "NameEn": "上級戦術教育BD\n（ミレニアム）"
+            "NameEn": "Millennium BD (Gold)"
         },
         {
             "Id": 3053,
-            "NameEn": "最上級戦術教育BD\n（ミレニアム）"
+            "NameEn": "Millennium BD (Purple)"
         },
         {
             "Id": 3070,
-            "NameEn": "初級戦術教育BD\n（山海経）"
+            "NameEn": "Shanhaijing BD (Silver)"
         },
         {
             "Id": 3071,
-            "NameEn": "中級戦術教育BD\n（山海経）"
+            "NameEn": "Shanhaijing BD (Blue)"
         },
         {
             "Id": 3072,
-            "NameEn": "上級戦術教育BD\n（山海経）"
+            "NameEn": "Shanhaijing BD (Gold)"
         },
         {
             "Id": 3073,
-            "NameEn": "最上級戦術教育BD\n（山海経）"
+            "NameEn": "Shanhaijing BD (Purple)"
         },
         {
             "Id": 4000,
-            "NameEn": "初級技術ノート\n（百鬼夜行）"
+            "NameEn": "Hyakkiyako Notebook (Silver)"
         },
         {
             "Id": 4001,
-            "NameEn": "中級技術ノート\n（百鬼夜行）"
+            "NameEn": "Hyakkiyako Notebook (Blue)"
         },
         {
             "Id": 4002,
-            "NameEn": "上級技術ノート\n（百鬼夜行）"
+            "NameEn": "Hyakkiyako Notebook (Gold)"
         },
         {
             "Id": 4003,
-            "NameEn": "最上級技術ノート\n（百鬼夜行）"
+            "NameEn": "Hyakkiyako Notebook (Purple)"
         },
         {
             "Id": 4010,
-            "NameEn": "初級技術ノート\n（レッドウィンター）"
+            "NameEn": "Red Winter Notebook (Silver)"
         },
         {
             "Id": 4011,
-            "NameEn": "中級技術ノート\n（レッドウィンター）"
+            "NameEn": "Red Winter Notebook (Blue)"
         },
         {
             "Id": 4012,
-            "NameEn": "上級技術ノート\n（レッドウィンター）"
+            "NameEn": "Red Winter Notebook (Gold)"
         },
         {
             "Id": 4013,
-            "NameEn": "最上級技術ノート\n（レッドウィンター）"
+            "NameEn": "Red Winter Notebook (Purple)"
         },
         {
             "Id": 4020,
-            "NameEn": "初級技術ノート\n（トリニティ）"
+            "NameEn": "Trinity Notebook (Silver)"
         },
         {
             "Id": 4021,
-            "NameEn": "中級技術ノート\n（トリニティ）"
+            "NameEn": "Trinity Notebook (Blue)"
         },
         {
             "Id": 4022,
-            "NameEn": "上級技術ノート\n（トリニティ）"
+            "NameEn": "Trinity Notebook (Gold)"
         },
         {
             "Id": 4023,
-            "NameEn": "最上級技術ノート\n（トリニティ）"
+            "NameEn": "Trinity Notebook (Purple)"
         },
         {
             "Id": 4030,
-            "NameEn": "初級技術ノート\n（ゲヘナ）"
+            "NameEn": "Gehenna Notebook (Silver)"
         },
         {
             "Id": 4031,
-            "NameEn": "中級技術ノート\n（ゲヘナ）"
+            "NameEn": "Gehenna Notebook (Blue)"
         },
         {
             "Id": 4032,
-            "NameEn": "上級技術ノート\n（ゲヘナ）"
+            "NameEn": "Gehenna Notebook (Gold)"
         },
         {
             "Id": 4033,
-            "NameEn": "最上級技術ノート\n（ゲヘナ）"
+            "NameEn": "Gehenna Notebook (Purple)"
         },
         {
             "Id": 4040,
-            "NameEn": "初級技術ノート\n（アビドス）"
+            "NameEn": "Abydos Notebook (Silver)"
         },
         {
             "Id": 4041,
-            "NameEn": "中級技術ノート\n（アビドス）"
+            "NameEn": "Abydos Notebook (Blue)"
         },
         {
             "Id": 4042,
-            "NameEn": "上級技術ノート\n（アビドス）"
+            "NameEn": "Abydos Notebook (Gold)"
         },
         {
             "Id": 4043,
-            "NameEn": "最上級技術ノート\n（アビドス）"
+            "NameEn": "Abydos Notebook (Purple)"
         },
         {
             "Id": 4050,
-            "NameEn": "初級技術ノート\n（ミレニアム）"
+            "NameEn": "Millennium Notebook (Silver)"
         },
         {
             "Id": 4051,
-            "NameEn": "中級技術ノート\n（ミレニアム）"
+            "NameEn": "Millennium Notebook (Blue)"
         },
         {
             "Id": 4052,
-            "NameEn": "上級技術ノート\n（ミレニアム）"
+            "NameEn": "Millennium Notebook (Gold)"
         },
         {
             "Id": 4053,
-            "NameEn": "最上級技術ノート\n（ミレニアム）"
+            "NameEn": "Millennium Notebook (Purple)"
         },
         {
             "Id": 4070,
-            "NameEn": "初級技術ノート\n（山海経）"
+            "NameEn": "Shanhaijing Notebook (Silver)"
         },
         {
             "Id": 4071,
-            "NameEn": "中級技術ノート\n（山海経）"
+            "NameEn": "Shanhaijing Notebook (Blue)"
         },
         {
             "Id": 4072,
-            "NameEn": "上級技術ノート\n（山海経）"
+            "NameEn": "Shanhaijing Notebook (Gold)"
         },
         {
             "Id": 4073,
-            "NameEn": "最上級技術ノート\n（山海経）"
+            "NameEn": "Shanhaijing Notebook (Purple)"
         },
         {
             "Id": 9999,
-            "NameEn": "秘伝ノート"
+            "NameEn": "Ultimate Notebook"
         }
     ]
 }
