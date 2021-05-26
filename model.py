@@ -1,3 +1,4 @@
+import itertools
 import operator
 
 
@@ -20,10 +21,6 @@ class Character(object):
         self.passive_skill = passive_skill
         self.sub_skill = sub_skill
         self.stats = stats
-
-        # Extra information
-        self.filename = None
-        self.how_to_obtain = None
 
     @property
     def role(self):
@@ -136,15 +133,42 @@ class Profile(object):
         )
 
 
+def _get_skill_upgrade_materials(level, data):
+    recipe = data.recipes[level['RequireLevelUpMaterial']]
+    if recipe['RecipeType'] != 'SkillLevelUp':
+        return
+
+    ingredients = data.recipes_ingredients[recipe['RecipeIngredientId']]
+    ingredients = itertools.chain(
+        zip(ingredients['IngredientParcelType'], ingredients['IngredientId'], ingredients['IngredientAmount']),
+        zip(ingredients['CostParcelType'], ingredients['CostId'], ingredients['CostAmount'])
+    )
+    for type_, id, amount in ingredients:
+        if type_ == 'Item':
+            yield data.items[id]
+
+
+class SkillLevel(object):
+    def __init__(self, description, cost, materials):
+        self.description = description
+        self.cost = cost
+        self.materials = materials
+
+    @classmethod
+    def from_data(cls, level, data):
+        return cls(
+            data.skills_localization[level['LocalizeSkillId']]['DescriptionJp'],
+            level['SkillCost'],
+            list(_get_skill_upgrade_materials(level, data))
+        )
+
+
 class Skill(object):
     def __init__(self, name, icon, levels, damage_type):
         self.name = name
         self.icon = icon
         self.levels = levels
         self._damage_type = damage_type
-
-        # Extra information
-        self.name_translated = None
 
     @property
     def damage_type(self):
@@ -160,15 +184,10 @@ class Skill(object):
         if not group:
             raise KeyError(group_id)
 
-        levels = [
-            (data.skills_localization[level['LocalizeSkillId']]['DescriptionJp'], level['SkillCost'])
-            for level
-            in sorted(group, key=operator.itemgetter('Level'))
-        ]
         return cls(
             data.skills_localization[group[0]['LocalizeSkillId']]['NameJp'],
             group[0]['IconName'].rsplit('/', 1)[-1],
-            levels,
+            [SkillLevel.from_data(level, data) for level in sorted(group, key=operator.itemgetter('Level'))],
             group[0]['BulletType']
         )
 
