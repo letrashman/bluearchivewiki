@@ -5,7 +5,7 @@ import traceback
 
 from jinja2 import Environment, FileSystemLoader
 
-from data import load_data
+from data import load_data, load_translations
 from model import Character
 
 
@@ -17,8 +17,9 @@ def colorize(value):
     )
 
 
-def generate(datadir, outdir):
+def generate(datadir, translationdir, outdir):
     data = load_data(datadir)
+    tls = load_translations(translationdir)
 
     env = Environment(loader=FileSystemLoader(os.path.dirname(__file__)))
     env.filters['colorize'] = colorize
@@ -29,7 +30,7 @@ def generate(datadir, outdir):
             continue
 
         try:
-            character = Character.from_data(character['Id'], data)
+            character = Character.from_data(character['Id'], data, tls)
         except Exception as err:
             print(f'Failed to parse for DevName {character["DevName"]}: {err}')
             traceback.print_exc()
@@ -41,9 +42,9 @@ def generate(datadir, outdir):
 
 def main():
     try:
-        generate(sys.argv[1], sys.argv[2])
+        generate(sys.argv[1], sys.argv[2], sys.argv[3])
     except IndexError:
-        print('usage: generate.py <datadir> <outdir>')
+        print('usage: generate.py <datadir> <translationdir> <outdir>')
 
 
 if __name__ == '__main__':

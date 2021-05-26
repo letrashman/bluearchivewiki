@@ -1,0 +1,1090 @@
+{
+    "DataList": [
+        {
+            "GroupId": "PinaEx01",
+            "NameEn": "Rapid-Fire Mode!",
+            "DescriptionEn": "Reloads and increases attack power by $1 for $3 while ignoring attack delay $2 times."
+        },
+        {
+            "GroupId": "PinaPublic01",
+            "NameEn": "Ignite once more!",
+            "DescriptionEn": "When HP drops to $1, heal self for $2 of Healing power $3 per battle."
+        },
+        {
+            "GroupId": "PinaPassive01",
+            "NameEn": "Sharp Intuition",
+            "DescriptionEn": "Increase Critical Rate by $1."
+        },
+        {
+            "GroupId": "PinaExtraPassive01",
+            "NameEn": "Firing Preparations, OK!",
+            "DescriptionEn": "Increase Attack Speed by $2 when standing still for $1."
+        },
+        {
+            "GroupId": "SerinaEx01",
+            "NameEn": "Intensive care set A",
+            "DescriptionEn": "Moves the closest ally to the first aid box and recovers their HP by $1."
+        },
+        {
+            "GroupId": "SerinaPublic01",
+            "NameEn": "Emergency care set B",
+            "DescriptionEn": "Every $1, heals one ally by $2."
+        },
+        {
+            "GroupId": "SerinaPassive01",
+            "NameEn": "Angel in white",
+            "DescriptionEn": "Increase Healing by $1."
+        },
+        {
+            "GroupId": "SerinaExtraPassive01",
+            "NameEn": "Angel's smile",
+            "DescriptionEn": "Increase CC Resistance of all allies by $1."
+        },
+        {
+            "GroupId": "UtahaEx01",
+            "NameEn": "Rai-chan, Summon",
+            "DescriptionEn": "Summon a turret. The turret inherits $1 of Utaha's Attack. (Duration: $2)"
+        },
+        {
+            "GroupId": "UtahaPublic01",
+            "NameEn": "Rai-chan MK-II, Active",
+            "DescriptionEn": "Every $1, summon a turret. The turret inherits $2 of Utaha's Attack. (Duration: $3)"
+        },
+        {
+            "GroupId": "UtahaPassive01",
+            "NameEn": "Technology's Revolution",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "UtahaExtraPassive01",
+            "NameEn": "Oath of My star",
+            "DescriptionEn": "Increase HP of all allies by $1."
+        },
+        {
+            "GroupId": "ShimikoEx01",
+            "NameEn": "Shield Of Knowledge",
+            "DescriptionEn": "Deploy a cover, and increases any allies's Defense in circular area by $1. (Duration: $2)",
+            "AddOnLevel3": "<br>Cover additionally inherits $3 of Shimiko's HP."
+        },
+        {
+            "GroupId": "ShimikoPublic01",
+            "NameEn": "Chicken soup for the Soul",
+            "DescriptionEn": "Every $1, grant a shield to an ally with the lowest HP (shield HP is $2 of Shimiko's Healing). (Duration: $3)"
+        },
+        {
+            "GroupId": "ShimikoPassive01",
+            "NameEn": "Let's accumulate more knowledge!",
+            "DescriptionEn": "Increase Healing by $1."
+        },
+        {
+            "GroupId": "ShimikoExtraPassive01",
+            "NameEn": "Let's open a Book Club!",
+            "DescriptionEn": "Increase Defense of all allies by $1."
+        },
+        {
+            "GroupId": "ShunEx01",
+            "NameEn": "Where are the troublesome children?",
+            "DescriptionEn": "Increase normal attack damage to $1, firing range by $2, Critical Rate by $3, but decrease Attack Speed by $4. (Duration: $5)"
+        },
+        {
+            "GroupId": "ShunPublic01",
+            "NameEn": "Everyone, pay attention!",
+            "DescriptionEn": "Acquire $1 skill cost at the beginning of combat. (Can only be used $2 per battle)"
+        },
+        {
+            "GroupId": "ShunPassive01",
+            "NameEn": "An instructor's dignity",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "ShunExtraPassive01",
+            "NameEn": "Meihuanyan Training",
+            "DescriptionEn": "When attacking medium-sized enemies, increase damage by $1 of Attack."
+        },
+        {
+            "GroupId": "SerikaEx01",
+            "NameEn": "You're such a bother!",
+            "DescriptionEn": "Reload and increase Attack by $1 for $2."
+        },
+        {
+            "GroupId": "SerikaPublic01",
+            "NameEn": "Precision Shooting",
+            "DescriptionEn": "Deal $2 damage to one enemy every $1."
+        },
+        {
+            "GroupId": "SerikaPassive01",
+            "NameEn": "Part-time Job Spirit",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "SerikaExtraPassive01",
+            "NameEn": "Wrath of the Countermeasure Committe",
+            "DescriptionEn": "Increase Attack Speed by $1 for $2 after activating her EX skill."
+        },
+        {
+            "GroupId": "TsubakiEx01",
+            "NameEn": "Combat shield, engaged",
+            "DescriptionEn": "Increase Defense by $1 for $2 and taunt enemies in a circular area for $3."
+        },
+        {
+            "GroupId": "TsubakiPublic01",
+            "NameEn": "If you get tired, you should sleep",
+            "DescriptionEn": "When HP drops to $1, heal self for $2 of Healing power $3 a battle."
+        },
+        {
+            "GroupId": "TsubakiPassive01",
+            "NameEn": "Grit",
+            "DescriptionEn": "Increase Defense by $1."
+        },
+        {
+            "GroupId": "TsubakiExtraPassive01",
+            "NameEn": "Dexterous reload",
+            "DescriptionEn": "While reloading reduce damage taken by $1."
+        },
+        {
+            "GroupId": "NeruEx01",
+            "NameEn": "Huh? Do you have a fucking death wish?",
+            "DescriptionEn": "Attack 1 enemy with $1 Attack power. When angered, damage is multiplied $2x."
+        },
+        {
+            "GroupId": "NeruPublic01",
+            "NameEn": "Huh? Stop bullshitting!",
+            "DescriptionEn": "Every $1, apply a status of anger to herself. Increase Evasion by $2. ($3 duration)"
+        },
+        {
+            "GroupId": "NeruPassive01",
+            "NameEn": "Call sign 00",
+            "DescriptionEn": "Increase Critical Damage by $1."
+        },
+        {
+            "GroupId": "NeruExtraPassive01",
+            "NameEn": "Fury",
+            "DescriptionEn": "When angered, increase Attack by $1. ($2 duration)"
+        },
+        {
+            "GroupId": "HasumiEx01",
+            "NameEn": "Armour-piercing ammo",
+            "DescriptionEn": "Deal $1 damage to one enemy."
+        },
+        {
+            "GroupId": "HasumiPublic01",
+            "NameEn": "A composed mind",
+            "DescriptionEn": "After defeating an enemy immediately reload and increase Critical Damage by $1 for $2."
+        },
+        {
+            "GroupId": "HasumiPassive01",
+            "NameEn": "Target in sights",
+            "DescriptionEn": "Increase Critical Damage  by $1."
+        },
+        {
+            "GroupId": "HasumiExtraPassive01",
+            "NameEn": "Searching for target",
+            "DescriptionEn": "After reloading increase Critical Rate by $1 for one attack."
+        },
+        {
+            "GroupId": "HarunaEx01",
+            "NameEn": "Piercing Elegance",
+            "DescriptionEn": "Attack a selected enemy with $1 of Haruna's Attack, bullet will penetrate target and damage subsequent targets at sequential $2 damage reduction per target. (Damage reduction caps at a low of $3)"
+        },
+        {
+            "GroupId": "HarunaPublic01",
+            "NameEn": "Exploding Exotic",
+            "DescriptionEn": "Every $1, attack one enemy with $2 of Haruna's Attack."
+        },
+        {
+            "GroupId": "HarunaPassive01",
+            "NameEn": "The Dignity of the Gourmet",
+            "DescriptionEn": "Increase HP by $1."
+        },
+        {
+            "GroupId": "HarunaExtraPassive01",
+            "NameEn": "The Serenity of the Gourmet",
+            "DescriptionEn": "When not moving, increase Attack by $1."
+        },
+        {
+            "GroupId": "HinaEx01",
+            "NameEn": "Ending scene: Ishbóshet",
+            "DescriptionEn": "Deal $1 damage to enemies in fan-shaped area."
+        },
+        {
+            "GroupId": "HinaPublic01",
+            "NameEn": "Reload and Destroy",
+            "DescriptionEn": "When out of bullets, Hina immediately reloads and increases Attack by $1. (Duration: $2)"
+        },
+        {
+            "GroupId": "HinaPassive01",
+            "NameEn": "Cool-headed Disciplinary committee",
+            "DescriptionEn": "Increase Attack Speed by $1."
+        },
+        {
+            "GroupId": "HinaExtraPassive01",
+            "NameEn": "From beginning to end",
+            "DescriptionEn": "When Hina attacks enemies that aren't taking cover, deal bonus damage of $1 Attack."
+        },
+        {
+            "GroupId": "HibikiEx01",
+            "NameEn": "There's a high probability this will hurt",
+            "DescriptionEn": "Deal $1 damage to enemies in 5 circular areas."
+        },
+        {
+            "GroupId": "HibikiPublic01",
+            "NameEn": "Plenty of firepower",
+            "DescriptionEn": "Every $1, deal $2 damage to enemies in circular area centered on the enemy with the lowest HP."
+        },
+        {
+            "GroupId": "HibikiPassive01",
+            "NameEn": "This is dangerous",
+            "DescriptionEn": "Increase Critical Damage by $1."
+        },
+        {
+            "GroupId": "HibikiExtraPassive01",
+            "NameEn": "I hope this helps",
+            "DescriptionEn": "Increase Critical Damage of all allies by $1."
+        },
+        {
+            "GroupId": "FuukaEx01",
+            "NameEn": "Lunch Time!",
+            "DescriptionEn": "Fuuka moves allies (max 4) in circular area to a specified position and recovers their HP by $1 of her Healing."
+        },
+        {
+            "GroupId": "FuukaPublic01",
+            "NameEn": "Kindnes of School Lunch Club",
+            "DescriptionEn": "Every $1, Fuuka increases Defense of an ally with the highest HP by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "FuukaPassive01",
+            "NameEn": "Let's garther fresh ingredients",
+            "DescriptionEn": "Increase Healing by $1."
+        },
+        {
+            "GroupId": "FuukaExtraPassive01",
+            "NameEn": "Pride of School Lunch Club",
+            "DescriptionEn": "Increase CC Resistance of all allies by $1."
+        },
+        {
+            "GroupId": "MutsukiEx01",
+            "NameEn": "Scorching Serenade",
+            "DescriptionEn": "Deal damage equal to $1 of Attack to enemies in 3 circular areas."
+        },
+        {
+            "GroupId": "MutsukiPublic01",
+            "NameEn": "Exploding Aria",
+            "DescriptionEn": "Every $2, place 3 landmines that deal $1 damage. (Landmines disappear after $3)"
+        },
+        {
+            "GroupId": "MutsukiPassive01",
+            "NameEn": "Let's play!",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "MutsukiExtraPassive01",
+            "NameEn": "Let's go have fun?",
+            "DescriptionEn": "Normal attacks have a $1 chance of increasing accuracy by $2 for $3. (Cooldown: $4)"
+        },
+        {
+            "GroupId": "YoshimiEx01",
+            "NameEn": "W-Who's panicking!?",
+            "DescriptionEn": "Attack all enemies within a circular area for $1 of Attack, inflict Stun status for $2."
+        },
+        {
+            "GroupId": "YoshimiPublic01",
+            "NameEn": "Do you want to get hurt?!",
+            "DescriptionEn": "Every $1, attack all enemies within a circular area for $2 of Attack."
+        },
+        {
+            "GroupId": "YoshimiPassive01",
+            "NameEn": "D-Don't make fun of me!",
+            "DescriptionEn": "Increase Critical Rate by $1."
+        },
+        {
+            "GroupId": "YoshimiExtraPassive01",
+            "NameEn": "Listen to what I have to say!",
+            "DescriptionEn": "Increase CC Resistance of all allies by $1."
+        },
+        {
+            "GroupId": "YuukaEx01",
+            "NameEn": "Q.E.D",
+            "DescriptionEn": "Generates a shield around Yuuka with HP equal to $1 of her Healing. (Duration: $2)"
+        },
+        {
+            "GroupId": "YuukaPublic01",
+            "NameEn": "I.F.F",
+            "DescriptionEn": "Every $1, Yuuka deals damage equal to $2 Attack to one enemy."
+        },
+        {
+            "GroupId": "YuukaPassive01",
+            "NameEn": "Derivation of Optimal solution",
+            "DescriptionEn": "Increase Defense by $1."
+        },
+        {
+            "GroupId": "YuukaExtraPassive01",
+            "NameEn": "High speed Mental arithmetic",
+            "DescriptionEn": "When Yuuka takes cover, she recovers her HP by $1 of her Healing power. (Cooldown: $2)"
+        },
+        {
+            "GroupId": "MashiroEx01",
+            "NameEn": "Shot of Justice",
+            "DescriptionEn": "Deal $1 damage to one enemy, $2 chance of additional $3 damage."
+        },
+        {
+            "GroupId": "MashiroPublic01",
+            "NameEn": "Justice's Decision",
+            "DescriptionEn": "Every $1, target a circular area with $2 Attack."
+        },
+        {
+            "GroupId": "MashiroPassive01",
+            "NameEn": "Sprit of Justice",
+            "DescriptionEn": "Increase Critical Rate by $1."
+        },
+        {
+            "GroupId": "MashiroExtraPassive01",
+            "NameEn": "Justice Solidarity",
+            "DescriptionEn": "Increase Accuracy of all allies by $1."
+        },
+        {
+            "GroupId": "ChinatsuEx01",
+            "NameEn": "Combat casualty aid",
+            "DescriptionEn": "Heal 1 ally for $1 of Chinatsu's Healing.",
+            "AddOnLevel3": ", remove $2 debuff from the target."
+        },
+        {
+            "GroupId": "ChinatsuPublic01",
+            "NameEn": "Reshaping the battle",
+            "DescriptionEn": "Every $1, increase Evasion of 1 ally with the lowest current HP by $2. (Duration $3)"
+        },
+        {
+            "GroupId": "ChinatsuPassive01",
+            "NameEn": "Strengthened medical support",
+            "DescriptionEn": "Increase Healing by $1."
+        },
+        {
+            "GroupId": "ChinatsuExtraPassive01",
+            "NameEn": "Strengthened defensive support",
+            "DescriptionEn": "Increase Defense of all allies by $1."
+        },
+        {
+            "GroupId": "SuzumiEx01",
+            "NameEn": "Order-made Flashbang",
+            "DescriptionEn": "Attack all enemies within a circular area for $1 Attack.",
+            "AddOnLevel3": ", inflict Stun status for $2."
+        },
+        {
+            "GroupId": "SuzumiPublic01",
+            "NameEn": "Hidden Strength of the Vigilante Corps",
+            "DescriptionEn": "Every $1, attack 1 enemy for $2 Attack."
+        },
+        {
+            "GroupId": "SuzumiPassive01",
+            "NameEn": "Emergency Evasion",
+            "DescriptionEn": "Increase Evasion by $1."
+        },
+        {
+            "GroupId": "SuzumiExtraPassive01",
+            "NameEn": "Vigilante Corps Fierce Assault",
+            "DescriptionEn": "Increase damage by $1 of Attack on enemies under CC effects."
+        },
+        {
+            "GroupId": "EimiEx01",
+            "NameEn": "Unflinching will",
+            "DescriptionEn": "Regenerate HP equal to $1 Healing + $2 lost HP. (Duration: $3)"
+        },
+        {
+            "GroupId": "EimiPublic01",
+            "NameEn": "A furious fixated attack",
+            "DescriptionEn": "Every $1, deal $2 damage to enemies within a fan shaped area."
+        },
+        {
+            "GroupId": "EimiPassive01",
+            "NameEn": "Specialist's rest",
+            "DescriptionEn": "Increase healing received by $1."
+        },
+        {
+            "GroupId": "EimiExtraPassive01",
+            "NameEn": "Tenacious force of will",
+            "DescriptionEn": "When HP is under $1 increase CC Resistance by $2."
+        },
+        {
+            "GroupId": "KayokoEx01",
+            "NameEn": "Panic Bringer",
+            "DescriptionEn": "Deal $1 damage and inflict Fear for $2 to enemies in a circular area."
+        },
+        {
+            "GroupId": "KayokoPublic01",
+            "NameEn": "Panic Shot",
+            "DescriptionEn": "Every $1, deal $2 damage to 1 enemy. $3 chance to inflict Fear for $4."
+        },
+        {
+            "GroupId": "KayokoPassive01",
+            "NameEn": "Scary face",
+            "DescriptionEn": "Increase CC Strength by $1."
+        },
+        {
+            "GroupId": "KayokoExtraPassive01",
+            "NameEn": "It can't be helped",
+            "DescriptionEn": "When attacking a CC'd enemy, deal $1 of Attack as extra damage."
+        },
+        {
+            "GroupId": "HanaeEx01",
+            "NameEn": "It's treatment time～!",
+            "DescriptionEn": "Continuously recover one ally HP by $1 of Healing. (Duration: $2)"
+        },
+        {
+            "GroupId": "HanaePublic01",
+            "NameEn": "You mustn't collapse!",
+            "DescriptionEn": "Every $1, increase Defense of an ally with the lowest HP by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "HanaePassive01",
+            "NameEn": "Ability improvement",
+            "DescriptionEn": "Increase Healing by $1."
+        },
+        {
+            "GroupId": "HanaeExtraPassive01",
+            "NameEn": "Do your very best, everyone～!",
+            "DescriptionEn": "Increase Critical Damage of all allies by $1."
+        },
+        {
+            "GroupId": "KotamaEx01",
+            "NameEn": "Begin surveillance",
+            "DescriptionEn": "Increase the Attack of all allies in a circular area by $1. (Duration: $2)"
+        },
+        {
+            "GroupId": "KotamaPublic01",
+            "NameEn": "Scanning for vulnerabilities",
+            "DescriptionEn": "Every $1, target 1 enemy for $2 of Attack. Reduce enemy's Attack stat by $3. (Duration: $4)"
+        },
+        {
+            "GroupId": "KotamaPassive01",
+            "NameEn": "Intensive analysis",
+            "DescriptionEn": "Increase Accuracy by $1."
+        },
+        {
+            "GroupId": "KotamaExtraPassive01",
+            "NameEn": "Spread spectrum",
+            "DescriptionEn": "Increase Attack of all allies by $1."
+        },
+        {
+            "GroupId": "JuriEx01",
+            "NameEn": "Juri's Cooking Time!",
+            "DescriptionEn": "Reposition 4 enemies within a circular area, inflict a poisoning effect for $1 of Juri's Attack. (Duration: $2)"
+        },
+        {
+            "GroupId": "JuriPublic01",
+            "NameEn": "The Finest Cooking",
+            "DescriptionEn": "Every $1, decrease the Attack Speed of 1 enemy with the highest attack by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "JuriPassive01",
+            "NameEn": "Plenty of Motivation!",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "JuriExtraPassive01",
+            "NameEn": "Bon Appétit!",
+            "DescriptionEn": "Increase HP of all allies by $1."
+        },
+        {
+            "GroupId": "ZunkoEx01",
+            "NameEn": "Hunger's Frustration",
+            "DescriptionEn": "Junko sacrifices $2 of current HP and deals $1 damage to enemies in a straight line."
+        },
+        {
+            "GroupId": "ZunkoPublic01",
+            "NameEn": "Don't talk to me when I'm hungry!",
+            "DescriptionEn": "Junko gains immortal status for $2 when her HP is under $1. (Can only be used $3 per battle)"
+        },
+        {
+            "GroupId": "ZunkoPassive01",
+            "NameEn": "Merit of being a petite",
+            "DescriptionEn": "Increase Evasion by $1."
+        },
+        {
+            "GroupId": "ZunkoExtraPassive01",
+            "NameEn": "Gourmet on an empty stomach",
+            "DescriptionEn": "When attacking, Junko deals $1〜$2 of her Attack as additional damage in proportion to lost HP."
+        },
+        {
+            "GroupId": "IzunaEx01",
+            "NameEn": "This is The Izuna-Style Ninjutsu!",
+            "DescriptionEn": "Jump to the selected location, and increase Attack Speed by $1 for $2."
+        },
+        {
+            "GroupId": "IzunaPublic01",
+            "NameEn": "Secret technique! Explosive Shuriken!",
+            "DescriptionEn": "Every $1 normal attacks, deal $2 damage to enemies in circular area."
+        },
+        {
+            "GroupId": "IzunaPassive01",
+            "NameEn": "Izuna-Style, Surprise Attack Jutsu",
+            "DescriptionEn": "Increase Critical Damage by $1."
+        },
+        {
+            "GroupId": "IzunaExtraPassive01",
+            "NameEn": "Izuna-Ryuu, Funki no Jutsu",
+            "DescriptionEn": "On EX skill use, increase Attack by $1 for $2."
+        },
+        {
+            "GroupId": "ShizukoEx01",
+            "NameEn": "Momoyo Hall Take-out!",
+            "DescriptionEn": "Deploy a piece of cover at designated location. Allies within radius of location receive $1 increased accuracy for $2. Cover's durability is a set amount plus $3 of Shizuko's HP."
+        },
+        {
+            "GroupId": "ShizukoPublic01",
+            "NameEn": "Don't interfere with Business!",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy and lower their Attack by $3 for $4."
+        },
+        {
+            "GroupId": "ShizukoPassive01",
+            "NameEn": "Te, Tehepero?",
+            "DescriptionEn": "Increase Accuracy by $1."
+        },
+        {
+            "GroupId": "ShizukoExtraPassive01",
+            "NameEn": "Nyan Nyan!",
+            "DescriptionEn": "Increase Critical Rate of all allies by $1."
+        },
+        {
+            "GroupId": "SayaEx01",
+            "NameEn": "This is my masterpiece!",
+            "DescriptionEn": "Apply continuous damage in an area for $1 of Saya's Attack. (Duration: $2)"
+        },
+        {
+            "GroupId": "SayaPublic01",
+            "NameEn": "Exciting Experiment!",
+            "DescriptionEn": "Every $1, decrease 1 enemy's Critical Rate by $2. (Duration: $3)<br>Apply continuous poison damage for $4 of Saya's Attack. (Duration: $5)"
+        },
+        {
+            "GroupId": "SayaPassive01",
+            "NameEn": "I really am great!",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "SayaExtraPassive01",
+            "NameEn": "Believe only in me!",
+            "DescriptionEn": "Increase Critical Rate of all allies by $1."
+        },
+        {
+            "GroupId": "KotoriEx01",
+            "NameEn": "Black box",
+            "DescriptionEn": "Move 4 allies to the specified location and apply a shield equal to $1 of Healing power."
+        },
+        {
+            "GroupId": "KotoriPublic01",
+            "NameEn": "Sorry!",
+            "DescriptionEn": "Every $1, deal $2 damage to enemies within a fan shaped area."
+        },
+        {
+            "GroupId": "KotoriPassive01",
+            "NameEn": "Comprehending the issue",
+            "DescriptionEn": "Increase Critical Damage by $1."
+        },
+        {
+            "GroupId": "KotoriExtraPassive01",
+            "NameEn": "Understood!",
+            "DescriptionEn": "After defeating an enemy, increase Critical Damage by $1 for $2."
+        },
+        {
+            "GroupId": "TsurugiEx01",
+            "NameEn": "Strange and mysterious",
+            "DescriptionEn": "Reload immediately after activating the skill. Normal attack becomes a fan-shaped area attack that deals $1 damage; increase Attack power by $2. (Effective until Tsurugi reloads $3)"
+        },
+        {
+            "GroupId": "TsurugiPublic01",
+            "NameEn": "Passion",
+            "DescriptionEn": "When defeating an enemy, recover $1 of Healing power. (Cooldown: $2)"
+        },
+        {
+            "GroupId": "TsurugiPassive01",
+            "NameEn": "Agility",
+            "DescriptionEn": "Increase movement speed by $1."
+        },
+        {
+            "GroupId": "TsurugiExtraPassive01",
+            "NameEn": "Uncontrollable power",
+            "DescriptionEn": "$1 chance to add $2 ammo when defeating an enemy."
+        },
+        {
+            "GroupId": "IoriEx01",
+            "NameEn": "Total Arrest",
+            "DescriptionEn": "Fires 3 shots at an enemy. Each shot has $1 Attack power and deals damage in a conical shape behind the enemy."
+        },
+        {
+            "GroupId": "IoriPublic01",
+            "NameEn": "Wanted List",
+            "DescriptionEn": "Every $1, deal damage equal to $2 of Attack power against one enemy."
+        },
+        {
+            "GroupId": "IoriPassive01",
+            "NameEn": "Hitting the mark in one shot",
+            "DescriptionEn": "Increase Accuracy by $1."
+        },
+        {
+            "GroupId": "IoriExtraPassive01",
+            "NameEn": "Bravery of the Disciplinary Committee",
+            "DescriptionEn": "When Iori is not taking cover, attacks deal $1 Attack power additional damage."
+        },
+        {
+            "GroupId": "HihumiEx01",
+            "NameEn": "Help me, Peroro-sama!",
+            "DescriptionEn": "Summon a Peroro Doll, dealing $1 damage to enemies in a circular area and taunting them for $2. The Peroro Doll has $3 of Hifumi's Max HP."
+        },
+        {
+            "GroupId": "HihumiPublic01",
+            "NameEn": "Peroro-sama's Support",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy and reduce their accuracy by $3 for $4."
+        },
+        {
+            "GroupId": "HihumiPassive01",
+            "NameEn": "Collector's Spirit",
+            "DescriptionEn": "Increase HP by $1."
+        },
+        {
+            "GroupId": "HihumiExtraPassive01",
+            "NameEn": "Nimble Collector",
+            "DescriptionEn": "When using EX skill, increase skill cost recovery speed by $1. (Duration: $2)"
+        },
+        {
+            "GroupId": "SumireEx01",
+            "NameEn": "Spurt Forward!",
+            "DescriptionEn": "Attack all enemies in a conical area for $1 of Sumire's Attack."
+        },
+        {
+            "GroupId": "SumirePublic01",
+            "NameEn": "Warming Up",
+            "DescriptionEn": "Every $1, increase Attack by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "SumirePassive01",
+            "NameEn": "Pinpoint Attack",
+            "DescriptionEn": "Increase HP by $1."
+        },
+        {
+            "GroupId": "SumireExtraPassive01",
+            "NameEn": "Tension Up",
+            "DescriptionEn": "When not under the effect of Crowd Control, increase Defense by $1."
+        },
+        {
+            "GroupId": "HoshinoEx01",
+            "NameEn": "Tactical Suppression",
+            "DescriptionEn": "Deal $1 of Hoshino's Attack as damage to enemies within a conical area.",
+            "AddOnLevel3": " and stun them for $2."
+        },
+        {
+            "GroupId": "HoshinoPublic01",
+            "NameEn": "Emergency Field Aid",
+            "DescriptionEn": "When HP falls to $1, continuously regenerate $2 of Healing power for $3. (Can only be used $4 per battle)"
+        },
+        {
+            "GroupId": "HoshinoPassive01",
+            "NameEn": "Countermeasures Council President",
+            "DescriptionEn": "Increase Defense by $1."
+        },
+        {
+            "GroupId": "HoshinoExtraPassive01",
+            "NameEn": "Supression Veteran",
+            "DescriptionEn": "When EX skill is in use, activate a shield that has $1 Healing power in health."
+        },
+        {
+            "GroupId": "ShirokoEx01",
+            "NameEn": "Summon Drone: Fire Support",
+            "DescriptionEn": "Deal $1 of Shiroko's Attack as damage to one enemy."
+        },
+        {
+            "GroupId": "ShirokoPublic01",
+            "NameEn": "Grenade Toss",
+            "DescriptionEn": "Every $1, deal $2 of Shiroko's Attack as damage to a circular area."
+        },
+        {
+            "GroupId": "ShirokoPassive01",
+            "NameEn": "Pinpoint",
+            "DescriptionEn": "Increase Critical Rate by $1."
+        },
+        {
+            "GroupId": "ShirokoExtraPassive01",
+            "NameEn": "High-speed Rapid Fire",
+            "DescriptionEn": "Normal attacks have a $1 chance to increase Attack Speed by $2 for $3. (Cooldown: $4)"
+        },
+        {
+            "GroupId": "ChiseEx01",
+            "NameEn": "This may hurt~",
+            "DescriptionEn": "Deal continuous damage in a circular area equivalent to $1 of Chise's Attack. (Duration: $2)"
+        },
+        {
+            "GroupId": "ChisePublic01",
+            "NameEn": "I'm going to shoot~",
+            "DescriptionEn": "Every $1, deal damage equal to $2 of Chise's Attack to enemies in a circular area."
+        },
+        {
+            "GroupId": "ChisePassive01",
+            "NameEn": "Alright, let's do our best~",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "ChiseExtraPassive01",
+            "NameEn": "This will hurt a little~",
+            "DescriptionEn": "Normal attacks have $1 chance to deal $2 Attack of continuous burn damage for $3. (Cooldown: $4)"
+        },
+        {
+            "GroupId": "MakiEx01",
+            "NameEn": "To make a more vivid world!",
+            "DescriptionEn": "Target 1 enemy with $1 Attack, and increase Attack by $2 for $3."
+        },
+        {
+            "GroupId": "MakiPublic01",
+            "NameEn": "Take this, paintball!",
+            "DescriptionEn": "Every $1, reduce 1 enemy's Defense by $2 and mark them for $3."
+        },
+        {
+            "GroupId": "MakiPassive01",
+            "NameEn": "Artistic Performance",
+            "DescriptionEn": "Increase Attack Speed by $1."
+        },
+        {
+            "GroupId": "MakiExtraPassive01",
+            "NameEn": "The Hardships of Art",
+            "DescriptionEn": "Marked enemies receive additional damage equal to $1 of Maki's Attack."
+        },
+        {
+            "GroupId": "IzumiEx01",
+            "NameEn": "Cheese Chocolate Burger!",
+            "DescriptionEn": "Recover HP equal to $1 of Healing.",
+            "AddOnLevel3": "; increase Attack Speed by $2 for $3."
+        },
+        {
+            "GroupId": "IzumiPublic01",
+            "NameEn": "Reeeady, Bang!",
+            "DescriptionEn": "Normal attacks have a $1 chance to deal $2 Attack damage to one enemy. (Cooldown: $3)"
+        },
+        {
+            "GroupId": "IzumiPassive01",
+            "NameEn": "What should I eat next?",
+            "DescriptionEn": "Increase healing received by $1."
+        },
+        {
+            "GroupId": "IzumiExtraPassive01",
+            "NameEn": "Tastiness really is the most important thing",
+            "DescriptionEn": "While attacking, deal additional damage of $1 to $2 Attack, proportional to current HP."
+        },
+        {
+            "GroupId": "KarinEx01",
+            "NameEn": "Eliminating Target",
+            "DescriptionEn": "Deal $1 Attack damage to one enemy. If enemy is colossal-sized, deal an additional $2 damage."
+        },
+        {
+            "GroupId": "KarinPublic01",
+            "NameEn": "Initiate Fire Support",
+            "DescriptionEn": "Every $1, deal $2 Attack damage to one enemy, with a $3 chance to stun. (Duration: $4)"
+        },
+        {
+            "GroupId": "KarinPassive01",
+            "NameEn": "Weapon Upgrade, Complete",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "KarinExtraPassive01",
+            "NameEn": "Initiating Support Actions",
+            "DescriptionEn": "Increase Attack of all allies by $1."
+        },
+        {
+            "GroupId": "AiriEx01",
+            "NameEn": "It's a waste but... umph!",
+            "DescriptionEn": "Deal $1 damage to all enemies in a circular area, decrease their movement speed by $2 for $3.",
+            "ReplaceOnLevel3": "Deal $1 damage to all enemies in a circular area, decrease their movement speed by $2 and reduce attack speed by $3 for $4."
+        },
+        {
+            "GroupId": "AiriPublic01",
+            "NameEn": "You might feel a little brain freeze...",
+            "DescriptionEn": "Every $1, decrease one enemy's attack speed by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "AiriPassive01",
+            "NameEn": "The power of pudding",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "AiriExtraPassive01",
+            "NameEn": "Airi's encouragement",
+            "DescriptionEn": "Increase Attack Speed of all allies by $1."
+        },
+        {
+            "GroupId": "AruEx01",
+            "NameEn": "Hard boiled shot",
+            "DescriptionEn": "Deal $1 damage to one enemy. Deal an additional $2 damage to enemies in circular area around the targeted enemy."
+        },
+        {
+            "GroupId": "AruPublic01",
+            "NameEn": "Noir shoot",
+            "DescriptionEn": "Every $1, deals $2 damage to one enemy. $3 chance to deal an additional $4 damage to enemies in a circular area around the targeted enemy."
+        },
+        {
+            "GroupId": "AruPassive01",
+            "NameEn": "President's Dignity",
+            "DescriptionEn": "Increase Critical Damage by $1."
+        },
+        {
+            "GroupId": "AruExtraPassive01",
+            "NameEn": "Outlaw Style",
+            "DescriptionEn": "Increase Critical Rate of EX skill by $1."
+        },
+        {
+            "GroupId": "AyaneEx01",
+            "NameEn": "Care Package",
+            "DescriptionEn": "Heal all allies within a circular area for $1 of Ayane's Healing."
+        },
+        {
+            "GroupId": "AyanePublic01",
+            "NameEn": "Learning Support",
+            "DescriptionEn": "Every $1, increase the critical hit resistance of all allies in a circular area by $2."
+        },
+        {
+            "GroupId": "AyanePassive01",
+            "NameEn": "Passion for Learning",
+            "DescriptionEn": "Increase Healing by $1."
+        },
+        {
+            "GroupId": "AyaneExtraPassive01",
+            "NameEn": "Increasing Morale",
+            "DescriptionEn": "Increase HP of all allies by $1."
+        },
+        {
+            "GroupId": "AkaneEx01",
+            "NameEn": "Elegant Removal",
+            "DescriptionEn": "Deal $1 damage to one enemy and lower their defense by $2 for $3."
+        },
+        {
+            "GroupId": "AkanePublic01",
+            "NameEn": "High-Quality Penetration",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy."
+        },
+        {
+            "GroupId": "AkanePassive01",
+            "NameEn": "Swift Advance",
+            "DescriptionEn": "Increase movement speed by $1."
+        },
+        {
+            "GroupId": "AkaneExtraPassive01",
+            "NameEn": "Precise Suppression",
+            "DescriptionEn": "When attacking, there is a $1 chance to reduce enemy evasion by $2 for $3. (Cooldown: $4)"
+        },
+        {
+            "GroupId": "AsunaEx01",
+            "NameEn": "Here I go!",
+            "DescriptionEn": "After activating the skill increase Evasion by $1 and Attack Speed by $2 for $3."
+        },
+        {
+            "GroupId": "AsunaPublic01",
+            "NameEn": "I'm gonna fire!",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy."
+        },
+        {
+            "GroupId": "AsunaPassive01",
+            "NameEn": "Does that hurt?",
+            "DescriptionEn": "Increase Critical Damage by $1."
+        },
+        {
+            "GroupId": "AsunaExtraPassive01",
+            "NameEn": "We're gonna speed things up, okay?",
+            "DescriptionEn": "When EX skill is activated increase Attack Speed by $1 for $2."
+        },
+        {
+            "GroupId": "AkariEx01",
+            "NameEn": "One large serving of grenades!",
+            "DescriptionEn": "Deal $1 Attack damage to enemies in circular area."
+        },
+        {
+            "GroupId": "AkariPublic01",
+            "NameEn": "One spicy second serving!",
+            "DescriptionEn": "Normal attacks have $1 chance to increase Attack by $2 for $3. (Cooldown: $4)"
+        },
+        {
+            "GroupId": "AkariPassive01",
+            "NameEn": "Thanks for the food!",
+            "DescriptionEn": "Increase HP by $1."
+        },
+        {
+            "GroupId": "AkariExtraPassive01",
+            "NameEn": "I can still eat more and more!",
+            "DescriptionEn": "Normal attacks have $1 chance to increase Attack by $2 for $3. (Cooldown: $4)"
+        },
+        {
+            "GroupId": "HarukaEx01",
+            "NameEn": "Erratic Shooting",
+            "DescriptionEn": "Deal $1 damage to enemies in a fan-shaped area."
+        },
+        {
+            "GroupId": "HarukaPublic01",
+            "NameEn": "Trigger Over",
+            "DescriptionEn": "Every $1, Haruka's Defense is increased by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "HarukaPassive01",
+            "NameEn": "I-I'll do my best!",
+            "DescriptionEn": "Increase HP by $1."
+        },
+        {
+            "GroupId": "HarukaExtraPassive01",
+            "NameEn": "Uwaaaaah!?",
+            "DescriptionEn": "When Haruka takes damage, $1 chance of increasing defense by $2 for $3. (Cooldown: $4)"
+        },
+        {
+            "GroupId": "ArisEx01",
+            "NameEn": "I'm breaking the world's rules!",
+            "DescriptionEn": "Deal $1 damage to enemies in a straight line. Increase damage by $2 or $3 times based on energy charge level. Reset energy charge level after shooting."
+        },
+        {
+            "GroupId": "ArisPublic01",
+            "NameEn": "The Light!",
+            "DescriptionEn": "Every $1, increase Critical Rate by $2. (Cooldown: $3)<br>Increase energy charge level by 1. (Max 2 charges)"
+        },
+        {
+            "GroupId": "ArisPassive01",
+            "NameEn": "This is enhancement magic!",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "ArisExtraPassive01",
+            "NameEn": "Awaken, Super Nova!",
+            "DescriptionEn": "Increase Critical Rate by $1 when using EX skill. (Cooldown: $2)<br>Increase effect by $3 or $4 based on energy charge level."
+        },
+        {
+            "GroupId": "HareEx01",
+            "NameEn": "Deploy EMP Drone",
+            "DescriptionEn": "Deal $1 damage to enemies in a circular area and inflict Faint for $2."
+        },
+        {
+            "GroupId": "HarePublic01",
+            "NameEn": "Subversion: Plan A",
+            "DescriptionEn": "Every $1, decrease one enemy's recovery rate by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "HarePassive01",
+            "NameEn": "Armament Strengthening: Plan B",
+            "DescriptionEn": "Increase Critical Rate by $1."
+        },
+        {
+            "GroupId": "HareExtraPassive01",
+            "NameEn": "Operate Interception System",
+            "DescriptionEn": "Increase Evasion of all allies by $1."
+        },
+        {
+            "GroupId": "NonomiEx01",
+            "NameEn": "It's punishment time~♣",
+            "DescriptionEn": "Attack all enemies within a conical area for $1 of Nonomi's Attack."
+        },
+        {
+            "GroupId": "NonomiPublic01",
+            "NameEn": "Ta-da☆",
+            "DescriptionEn": "Every $1, increase Nonomi's Attack by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "NonomiPassive01",
+            "NameEn": "That's not okay!",
+            "DescriptionEn": "Increase Critical Damage by $1."
+        },
+        {
+            "GroupId": "NonomiExtraPassive01",
+            "NameEn": "I'll clean up spick-and-span~♧",
+            "DescriptionEn": "When attacking large enemies, deal $1 of Nonomi's Attack stat as additional damage."
+        },
+        {
+            "GroupId": "MidoriEx01",
+            "NameEn": "Drawing Art",
+            "DescriptionEn": "Target up to 5 enemies, dealing damage equal to $1 Attack per shot. If Momoi is in the same team, apply poison damage equal to $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "MidoriPublic01",
+            "NameEn": "Brushup Sense",
+            "DescriptionEn": "Every $1, heal 1 ally with the lowest HP for $2 of Midori's Healing."
+        },
+        {
+            "GroupId": "MidoriPassive01",
+            "NameEn": "Artist Inspiration",
+            "DescriptionEn": "Increase Critical Rate by $1."
+        },
+        {
+            "GroupId": "MidoriExtraPassive01",
+            "NameEn": "Developer Synergy: Momoi",
+            "DescriptionEn": "Increase Attack Speed by $1. If Momoi is in the same team, increase by $2 instead."
+        },
+        {
+            "GroupId": "MomoiEx01",
+            "NameEn": "The anguish of creation",
+            "DescriptionEn": "Attack all enemies in a conical area with damage equal to $1 Attack. If Midori is in the same team, inflict burn damage equal to $2 Attack. (Duration: $3)"
+        },
+        {
+            "GroupId": "MomoiPublic01",
+            "NameEn": "Strict Deadlines",
+            "DescriptionEn": "Every $1, increase Accuracy by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "MomoiPassive01",
+            "NameEn": "Artist Inspiration",
+            "DescriptionEn": "Increase Critical Rate by $1."
+        },
+        {
+            "GroupId": "MomoiExtraPassive01",
+            "NameEn": "Developer Synergy: Momoi",
+            "DescriptionEn": "Increase Attack by $1. If Midori is in the same team, increase by $2 instead."
+        },
+        {
+            "GroupId": "YuzuEx01",
+            "NameEn": "Game Start!",
+            "DescriptionEn": "Deal $1 damage to enemies within a circular area centered on the specified opponent."
+        },
+        {
+            "GroupId": "YuzuPublic01",
+            "NameEn": "Continuous combo!",
+            "DescriptionEn": "Every $1, deal $2 damage to enemies a circular area centered on the highest attack power opponent."
+        },
+        {
+            "GroupId": "YuzuPassive01",
+            "NameEn": "Debugging...",
+            "DescriptionEn": "Increase Critical Damage by $1."
+        },
+        {
+            "GroupId": "YuzuExtraPassive01",
+            "NameEn": "Pluck up the courage",
+            "DescriptionEn": "When EX or Normal skill are activated, increase Critical Damage by $1 for $2."
+        },
+        {
+            "GroupId": "CherinoEx01",
+            "NameEn": "Elite Guard, gather!",
+            "DescriptionEn": "Deal $1 damage to all enemies in a circular area."
+        },
+        {
+            "GroupId": "CherinoPublic01",
+            "NameEn": "Regulate the enemy!",
+            "DescriptionEn": "Every $1, apply a Focused Fire status to the enemy with the highest Attack, and lower their resistance to critical hits by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "CherinoPassive01",
+            "NameEn": "This is the power of the moustache!",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "CherinoExtraPassive01",
+            "NameEn": "Kneel before the moustache!",
+            "DescriptionEn": "Increase cost recovery by $1. If other Red Winter students are in the same team, increase the effect by $3 per student. (Cherino not included, up to a maximum of 3)"
+        },
+        {
+            "GroupId": "NodokaEx01",
+            "NameEn": "Observatory Support",
+            "DescriptionEn": "Increase Accuracy of all allies in a circular area by $1. (Duration: $2)"
+        },
+        {
+            "GroupId": "NodokaPublic01",
+            "NameEn": "Stubborn sightlines",
+            "DescriptionEn": "Every $1, deal $2 datamage to 1 enemy, decrease their Evasion by $3. (Duration: $4)"
+        },
+        {
+            "GroupId": "NodokaPassive01",
+            "NameEn": "Aesthetics-based Observation",
+            "DescriptionEn": "Increase Accuracy by $1."
+        },
+        {
+            "GroupId": "NodokaExtraPassive01",
+            "NameEn": "The Bond of the Special Class",
+            "DescriptionEn": "Increase Accuracy of all allies by $1."
+        }
+    ]
+}

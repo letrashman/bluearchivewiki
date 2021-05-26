@@ -1,0 +1,392 @@
+{
+    "DataList": [
+        {
+            "Id": 100,
+            "NameEn": "Nebra Disc Fragment"
+        },
+        {
+            "Id": 101,
+            "NameEn": "Broken Nebra Disc"
+        },
+        {
+            "Id": 102,
+            "NameEn": "Worn Nebra Disc"
+        },
+        {
+            "Id": 103,
+            "NameEn": "Perfect Nebra Disc"
+        },
+        {
+            "Id": 110,
+            "NameEn": "Phaistos Disc Fragment"
+        },
+        {
+            "Id": 111,
+            "NameEn": "Broken Phaistos Disc"
+        },
+        {
+            "Id": 112,
+            "NameEn": "Worn Phaistos Disc"
+        },
+        {
+            "Id": 113,
+            "NameEn": "Perfect Phaistos Disc"
+        },
+        {
+            "Id": 120,
+            "NameEn": "Wolfsegg Ore"
+        },
+        {
+            "Id": 121,
+            "NameEn": "Wolfsegg Iron Fragment"
+        },
+        {
+            "Id": 122,
+            "NameEn": "Impure Wolfsegg Iron"
+        },
+        {
+            "Id": 123,
+            "NameEn": "Pure Wolfsegg Iron"
+        },
+        {
+            "Id": 130,
+            "NameEn": "Nimrud Lens Fragment"
+        },
+        {
+            "Id": 131,
+            "NameEn": "Broken Nimrud Lens"
+        },
+        {
+            "Id": 132,
+            "NameEn": "Worn Nimrud Lens"
+        },
+        {
+            "Id": 133,
+            "NameEn": "Perfect Nimrud Lens"
+        },
+        {
+            "Id": 140,
+            "NameEn": "Mandrake Seed"
+        },
+        {
+            "Id": 141,
+            "NameEn": "Mandrake Bud"
+        },
+        {
+            "Id": 142,
+            "NameEn": "Mandrake Juice"
+        },
+        {
+            "Id": 143,
+            "NameEn": "Mandrake Concentrate"
+        },
+        {
+            "Id": 150,
+            "NameEn": "Rohonc Codex Page"
+        },
+        {
+            "Id": 151,
+            "NameEn": "Battered Rohonc Codex"
+        },
+        {
+            "Id": 152,
+            "NameEn": "Complete Rohonc Codex"
+        },
+        {
+            "Id": 153,
+            "NameEn": "Perfect Rohonc Codex"
+        },
+        {
+            "Id": 160,
+            "NameEn": "Ether Dust"
+        },
+        {
+            "Id": 161,
+            "NameEn": "Ether Fragment"
+        },
+        {
+            "Id": 162,
+            "NameEn": "Ether Crystal"
+        },
+        {
+            "Id": 163,
+            "NameEn": "Ether Essence"
+        },
+        {
+            "Id": 170,
+            "NameEn": "Antikythera Device Fragment"
+        },
+        {
+            "Id": 171,
+            "NameEn": "Broken Antikythera Device"
+        },
+        {
+            "Id": 172,
+            "NameEn": "Worn Antikythera Device"
+        },
+        {
+            "Id": 173,
+            "NameEn": "Perfect Antikythera Device"
+        },
+        {
+            "Id": 180,
+            "NameEn": "Fragmented Voynich Manuscript"
+        },
+        {
+            "Id": 181,
+            "NameEn": "Battered Voynich Manuscript"
+        },
+        {
+            "Id": 182,
+            "NameEn": "Complete Voynich Manuscript"
+        },
+        {
+            "Id": 183,
+            "NameEn": "Perfect Voynich Manuscript"
+        },
+        {
+            "Id": 190,
+            "NameEn": "Crystal Haniwa Fragment"
+        },
+        {
+            "Id": 191,
+            "NameEn": "Broken Crystal Haniwa"
+        },
+        {
+            "Id": 192,
+            "NameEn": "Repaired Crystal Haniwa"
+        },
+        {
+            "Id": 193,
+            "NameEn": "Perfect Crystal Haniwa"
+        },
+        {
+            "Id": 3000,
+            "NameEn": "Hyakkiyako BD (Silver)"
+        },
+        {
+            "Id": 3001,
+            "NameEn": "Hyakkiyako BD (Blue)"
+        },
+        {
+            "Id": 3002,
+            "NameEn": "Hyakkiyako BD (Gold)"
+        },
+        {
+            "Id": 3003,
+            "NameEn": "Hyakkiyako BD (Purple)"
+        },
+        {
+            "Id": 3010,
+            "NameEn": "Red Winter BD (Silver)"
+        },
+        {
+            "Id": 3011,
+            "NameEn": "Red Winter BD (Blue)"
+        },
+        {
+            "Id": 3012,
+            "NameEn": "Red Winter BD (Gold)"
+        },
+        {
+            "Id": 3013,
+            "NameEn": "Red Winter BD (Purple)"
+        },
+        {
+            "Id": 3020,
+            "NameEn": "Trinity BD (Silver)"
+        },
+        {
+            "Id": 3021,
+            "NameEn": "Trinity BD (Blue)"
+        },
+        {
+            "Id": 3022,
+            "NameEn": "Trinity BD (Gold)"
+        },
+        {
+            "Id": 3023,
+            "NameEn": "Trinity BD (Purple)"
+        },
+        {
+            "Id": 3030,
+            "NameEn": "Gehenna BD (Silver)"
+        },
+        {
+            "Id": 3031,
+            "NameEn": "Gehenna BD (Blue)"
+        },
+        {
+            "Id": 3032,
+            "NameEn": "Gehenna BD (Gold)"
+        },
+        {
+            "Id": 3033,
+            "NameEn": "Gehenna BD (Purple)"
+        },
+        {
+            "Id": 3040,
+            "NameEn": "Abydos BD (Silver)"
+        },
+        {
+            "Id": 3041,
+            "NameEn": "Abydos BD (Blue)"
+        },
+        {
+            "Id": 3042,
+            "NameEn": "Abydos BD (Gold)"
+        },
+        {
+            "Id": 3043,
+            "NameEn": "Abydos BD (Purple)"
+        },
+        {
+            "Id": 3050,
+            "NameEn": "Millennium BD (Silver)"
+        },
+        {
+            "Id": 3051,
+            "NameEn": "Millennium BD (Blue)"
+        },
+        {
+            "Id": 3052,
+            "NameEn": "Millennium BD (Gold)"
+        },
+        {
+            "Id": 3053,
+            "NameEn": "Millennium BD (Purple)"
+        },
+        {
+            "Id": 3070,
+            "NameEn": "Shanhaijing BD (Silver)"
+        },
+        {
+            "Id": 3071,
+            "NameEn": "Shanhaijing BD (Blue)"
+        },
+        {
+            "Id": 3072,
+            "NameEn": "Shanhaijing BD (Gold)"
+        },
+        {
+            "Id": 3073,
+            "NameEn": "Shanhaijing BD (Purple)"
+        },
+        {
+            "Id": 4000,
+            "NameEn": "Hyakkiyako Notebook (Silver)"
+        },
+        {
+            "Id": 4001,
+            "NameEn": "Hyakkiyako Notebook (Blue)"
+        },
+        {
+            "Id": 4002,
+            "NameEn": "Hyakkiyako Notebook (Gold)"
+        },
+        {
+            "Id": 4003,
+            "NameEn": "Hyakkiyako Notebook (Purple)"
+        },
+        {
+            "Id": 4010,
+            "NameEn": "Red Winter Notebook (Silver)"
+        },
+        {
+            "Id": 4011,
+            "NameEn": "Red Winter Notebook (Blue)"
+        },
+        {
+            "Id": 4012,
+            "NameEn": "Red Winter Notebook (Gold)"
+        },
+        {
+            "Id": 4013,
+            "NameEn": "Red Winter Notebook (Purple)"
+        },
+        {
+            "Id": 4020,
+            "NameEn": "Trinity Notebook (Silver)"
+        },
+        {
+            "Id": 4021,
+            "NameEn": "Trinity Notebook (Blue)"
+        },
+        {
+            "Id": 4022,
+            "NameEn": "Trinity Notebook (Gold)"
+        },
+        {
+            "Id": 4023,
+            "NameEn": "Trinity Notebook (Purple)"
+        },
+        {
+            "Id": 4030,
+            "NameEn": "Gehenna Notebook (Silver)"
+        },
+        {
+            "Id": 4031,
+            "NameEn": "Gehenna Notebook (Blue)"
+        },
+        {
+            "Id": 4032,
+            "NameEn": "Gehenna Notebook (Gold)"
+        },
+        {
+            "Id": 4033,
+            "NameEn": "Gehenna Notebook (Purple)"
+        },
+        {
+            "Id": 4040,
+            "NameEn": "Abydos Notebook (Silver)"
+        },
+        {
+            "Id": 4041,
+            "NameEn": "Abydos Notebook (Blue)"
+        },
+        {
+            "Id": 4042,
+            "NameEn": "Abydos Notebook (Gold)"
+        },
+        {
+            "Id": 4043,
+            "NameEn": "Abydos Notebook (Purple)"
+        },
+        {
+            "Id": 4050,
+            "NameEn": "Millennium Notebook (Silver)"
+        },
+        {
+            "Id": 4051,
+            "NameEn": "Millennium Notebook (Blue)"
+        },
+        {
+            "Id": 4052,
+            "NameEn": "Millennium Notebook (Gold)"
+        },
+        {
+            "Id": 4053,
+            "NameEn": "Millennium Notebook (Purple)"
+        },
+        {
+            "Id": 4070,
+            "NameEn": "Shanhaijing Notebook (Silver)"
+        },
+        {
+            "Id": 4071,
+            "NameEn": "Shanhaijing Notebook (Blue)"
+        },
+        {
+            "Id": 4072,
+            "NameEn": "Shanhaijing Notebook (Gold)"
+        },
+        {
+            "Id": 4073,
+            "NameEn": "Shanhaijing Notebook (Purple)"
+        },
+        {
+            "Id": 9999,
+            "NameEn": "Ultimate Notebook"
+        }
+    ]
+}

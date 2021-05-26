@@ -1,3 +1,4 @@
+import itertools
 import operator
 
 
@@ -20,10 +21,6 @@ class Character(object):
         self.passive_skill = passive_skill
         self.sub_skill = sub_skill
         self.stats = stats
-
-        # Extra information
-        self.filename = None
-        self.how_to_obtain = None
 
     @property
     def role(self):
@@ -62,7 +59,7 @@ class Character(object):
         return 'Yes' if self._uses_cover else 'No'
 
     @classmethod
-    def from_data(cls, character_id, data):
+    def from_data(cls, character_id, data, tls):
         character = data.characters[character_id]
         character_ai = data.characters_ai[character['CharacterAIId']]
         return cls(
@@ -77,10 +74,10 @@ class Character(object):
             character['WeaponType'],
             character_ai['CanUseObstacleOfKneelMotion'] or character_ai['CanUseObstacleOfStandMotion'],
             Profile.from_data(character_id, data),
-            Skill.from_data(data.characters_skills[(character_id, False)]['PublicSkillGroupId'][0], data),
-            Skill.from_data(data.characters_skills[(character_id, False)]['ExSkillGroupId'][0], data),
-            Skill.from_data(data.characters_skills[(character_id, False)]['PassiveSkillGroupId'][0], data),
-            Skill.from_data(data.characters_skills[(character_id, False)]['ExtraPassiveSkillGroupId'][0], data),
+            Skill.from_data(data.characters_skills[(character_id, False)]['PublicSkillGroupId'][0], data, tls),
+            Skill.from_data(data.characters_skills[(character_id, False)]['ExSkillGroupId'][0], data, tls),
+            Skill.from_data(data.characters_skills[(character_id, False)]['PassiveSkillGroupId'][0], data, tls),
+            Skill.from_data(data.characters_skills[(character_id, False)]['ExtraPassiveSkillGroupId'][0], data, tls),
             Stats.from_data(character_id, data)
         )
 
@@ -136,15 +133,45 @@ class Profile(object):
         )
 
 
+def _get_skill_upgrade_materials(level, data, tls):
+    recipe = data.recipes[level['RequireLevelUpMaterial']]
+    if recipe['RecipeType'] != 'SkillLevelUp':
+        return
+
+    ingredients = data.recipes_ingredients[recipe['RecipeIngredientId']]
+    ingredients = itertools.chain(
+        zip(ingredients['IngredientParcelType'], ingredients['IngredientId'], ingredients['IngredientAmount']),
+        zip(ingredients['CostParcelType'], ingredients['CostId'], ingredients['CostAmount'])
+    )
+    for type_, id, amount in ingredients:
+        if type_ == 'Item':
+            yield tls.items[id]['NameEn'], data.items[id]['Icon'].rsplit('/', 1)[-1], amount
+        elif type_ == 'Currency':
+            yield tls.currencies[id]['NameEn'], data.currencies[id]['Icon'].rsplit('/', 1)[-1], amount
+
+
+class SkillLevel(object):
+    def __init__(self, description, cost, materials):
+        self.description = description
+        self.cost = cost
+        self.materials = materials
+
+    @classmethod
+    def from_data(cls, level, data, tls):
+        return cls(
+            data.skills_localization[level['LocalizeSkillId']]['DescriptionJp'],
+            level['SkillCost'],
+            list(_get_skill_upgrade_materials(level, data, tls))
+        )
+
+
 class Skill(object):
-    def __init__(self, name, icon, levels, damage_type):
+    def __init__(self, name, name_tl, icon, levels, damage_type):
         self.name = name
+        self.name_tl = name_tl
         self.icon = icon
         self.levels = levels
         self._damage_type = damage_type
-
-        # Extra information
-        self.name_translated = None
 
     @property
     def damage_type(self):
@@ -155,20 +182,16 @@ class Skill(object):
         }[self._damage_type]
 
     @classmethod
-    def from_data(cls, group_id, data):
+    def from_data(cls, group_id, data, tls):
         group = [skill for skill in data.skills.values() if skill['GroupId'] == group_id]
         if not group:
             raise KeyError(group_id)
 
-        levels = [
-            (data.skills_localization[level['LocalizeSkillId']]['DescriptionJp'], level['SkillCost'])
-            for level
-            in sorted(group, key=operator.itemgetter('Level'))
-        ]
         return cls(
             data.skills_localization[group[0]['LocalizeSkillId']]['NameJp'],
+            tls.skills[group[0]['GroupId']]['NameEn'],
             group[0]['IconName'].rsplit('/', 1)[-1],
-            levels,
+            [SkillLevel.from_data(level, data, tls) for level in sorted(group, key=operator.itemgetter('Level'))],
             group[0]['BulletType']
         )
 

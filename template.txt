@@ -1,6 +1,6 @@
 {% raw %}{{{% endraw %}Character
 | Name = {{character.name}}
-| Image = {{character.filename}}
+| Image =
 | JPName = {{character.profile.full_name}}
 | JPReading = {{character.profile.reading}}
 | School = {{character.school}}
@@ -27,7 +27,6 @@
 {{character.profile.introduction}}
 
 =How to Obtain=
-{{character.how_to_obtain}}
 
 =Character Details=
 {% raw %}{{{% endraw %}CharacterStatTable
@@ -51,43 +50,106 @@
 
 ===Skills===
 {% raw %}{{{% endraw %}EXSkillTable
-| SkillName = {{character.ex_skill.name}}{% if character.ex_skill.name_translated %} / {{character.ex_skill.name_translated}}{% endif %}
+| SkillName = {{character.ex_skill.name_tl}}
+| SkillNameJP = {{character.ex_skill.name}}
 | SkillIconType = {{character.ex_skill.icon}}
 | SkillDamageType = {{character.ex_skill.damage_type}}
-| SkillBaseCost = {{character.ex_skill.levels[0][1]}}
-| SkillDescriptionGeneral = {{character.ex_skill.levels[0][0]|colorize}}
-{% for description, cost in character.ex_skill.levels -%}
-| SkillDescriptionLv{{loop.index}} = {{description|colorize}}
+| SkillBaseCost = {{character.ex_skill.levels[0].cost}}
+| SkillDescriptionGeneral = {{character.ex_skill.levels[0].description|colorize}}
+{% for level in character.ex_skill.levels -%}
+| SkillDescriptionLv{{loop.index}} = {{level.description|colorize}}
 {% endfor -%}
 {% raw %}}}{% endraw %}
 {% raw %}{{{% endraw %}SkillTable
-| SkillName = {{character.normal_skill.name}}{% if character.normal_skill.name_translated %} / {{character.normal_skill.name_translated}}{% endif %}
+| SkillName = {{character.normal_skill.name_tl}}
+| SkillNameJP = {{character.normal_skill.name}}
 | SkillIconType = {{character.normal_skill.icon}}
 | SkillDamageType = {{character.normal_skill.damage_type}}
 | SkillType = Normal
-| SkillDescriptionGeneral = {{character.normal_skill.levels[0][0]|colorize}}
-{% for description, cost in character.normal_skill.levels -%}
-| SkillDescriptionLv{{loop.index}} = {{description|colorize}}
+| SkillDescriptionGeneral = {{character.normal_skill.levels[0].description|colorize}}
+{% for level in character.normal_skill.levels -%}
+| SkillDescriptionLv{{loop.index}} = {{level.description|colorize}}
 {% endfor -%}
 {% raw %}}}{% endraw %}
 {% raw %}{{{% endraw %}SkillTable
-| SkillName = {{character.passive_skill.name}}{% if character.passive_skill.name_translated %} / {{character.passive_skill.name_translated}}{% endif %}
+| SkillName = {{character.passive_skill.name_tl}}
+| SkillNameJP = {{character.passive_skill.name}}
 | SkillIconType = {{character.passive_skill.icon}}
 | SkillDamageType = {{character.passive_skill.damage_type}}
 | SkillType = Passive
-| SkillDescriptionGeneral = {{character.passive_skill.levels[0][0]|colorize}}
-{% for description, cost in character.passive_skill.levels -%}
-| SkillDescriptionLv{{loop.index}} = {{description|colorize}}
+| SkillDescriptionGeneral = {{character.passive_skill.levels[0].description|colorize}}
+{% for level in character.passive_skill.levels -%}
+| SkillDescriptionLv{{loop.index}} = {{level.description|colorize}}
 {% endfor -%}
 {% raw %}}}{% endraw %}
 {% raw %}{{{% endraw %}SkillTable
-| SkillName = {{character.sub_skill.name}}{% if character.sub_skill.name_translated %} / {{character.sub_skill.name_translated}}{% endif %}
+| SkillName = {{character.sub_skill.name_tl}}
+| SkillNameJP = {{character.sub_skill.name}}
 | SkillIconType = {{character.sub_skill.icon}}
 | SkillDamageType = {{character.sub_skill.damage_type}}
 | SkillType = Sub
-| SkillDescriptionGeneral = {{character.sub_skill.levels[0][0]|colorize}}
-{% for description, cost in character.sub_skill.levels -%}
-| SkillDescriptionLv{{loop.index}} = {{description|colorize}}
+| SkillDescriptionGeneral = {{character.sub_skill.levels[0].description|colorize}}
+{% for level in character.sub_skill.levels -%}
+| SkillDescriptionLv{{loop.index}} = {{level.description|colorize}}
 {% endfor -%}
 {% raw %}}}{% endraw %}
+
+===Skill Upgrade Materials===
+{% raw %}{{{% endraw %}SkillUpgradeTable
+| SkillType = EX Skill
+| SkillNameJP = {{character.ex_skill.name}}
+| SkillNameEN = {{character.ex_skill.name_tl if character.ex_skill.name_tl}}
+{% for level in character.ex_skill.levels -%}
+{%- set outer_loop = loop -%}
+{% for name, icon, amount in level.materials -%}
+| Level{{outer_loop.index}}_{{loop.index}}_Name = {{name}}
+| Level{{outer_loop.index}}_{{loop.index}}_Link = Items/{{name|replace(' ', '_')}}
+| Level{{outer_loop.index}}_{{loop.index}}_Icon = {{icon}}.png
+| Level{{outer_loop.index}}_{{loop.index}}_Amount = {{amount}}
+{% endfor -%}
+{% endfor -%}
+{% raw %}}}{% endraw %}
+{% raw %}{{{% endraw %}SkillUpgradeTable
+| SkillType = Normal Skill
+| SkillNameJP = {{character.normal_skill.name}}
+| SkillNameEN = {{character.normal_skill.name_tl if character.normal_skill.name_tl}}
+{% for level in character.normal_skill.levels -%}
+{%- set outer_loop = loop -%}
+{% for name, icon, amount in level.materials -%}
+| Level{{outer_loop.index}}_{{loop.index}}_Name = {{name}}
+| Level{{outer_loop.index}}_{{loop.index}}_Link = Items/{{name|replace(' ', '_')}}
+| Level{{outer_loop.index}}_{{loop.index}}_Icon = {{icon}}.png
+| Level{{outer_loop.index}}_{{loop.index}}_Amount = {{amount}}
+{% endfor -%}
+{% endfor -%}
+{% raw %}}}{% endraw %}
+{% raw %}{{{% endraw %}SkillUpgradeTable
+| SkillType = Passive Skill
+| SkillNameJP = {{character.passive_skill.name}}
+| SkillNameEN = {{character.passive_skill.name_tl if character.passive_skill.name_tl}}
+{% for level in character.passive_skill.levels -%}
+{%- set outer_loop = loop -%}
+{% for name, icon, amount in level.materials -%}
+| Level{{outer_loop.index}}_{{loop.index}}_Name = {{name}}
+| Level{{outer_loop.index}}_{{loop.index}}_Link = Items/{{name|replace(' ', '_')}}
+| Level{{outer_loop.index}}_{{loop.index}}_Icon = {{icon}}.png
+| Level{{outer_loop.index}}_{{loop.index}}_Amount = {{amount}}
+{% endfor -%}
+{% endfor -%}
+{% raw %}}}{% endraw %}
+{% raw %}{{{% endraw %}SkillUpgradeTable
+| SkillType = Sub Skill
+| SkillNameJP = {{character.sub_skill.name}}
+| SkillNameEN = {{character.sub_skill.name_tl if character.sub_skill.name_tl}}
+{% for level in character.sub_skill.levels -%}
+{%- set outer_loop = loop -%}
+{% for name, icon, amount in level.materials -%}
+| Level{{outer_loop.index}}_{{loop.index}}_Name = {{name}}
+| Level{{outer_loop.index}}_{{loop.index}}_Link = Items/{{name|replace(' ', '_')}}
+| Level{{outer_loop.index}}_{{loop.index}}_Icon = {{icon}}.png
+| Level{{outer_loop.index}}_{{loop.index}}_Amount = {{amount}}
+{% endfor -%}
+{% endfor -%}
+{% raw %}}}{% endraw %}
+
 [[Category:Characters]]
