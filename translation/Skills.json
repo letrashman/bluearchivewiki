@@ -1085,6 +1085,66 @@
             "GroupId": "NodokaExtraPassive01",
             "NameEn": "The Bond of the Special Class",
             "DescriptionEn": "Increase Accuracy of all allies by $1."
+        },
+        {
+            "GroupId": "CH0056Ex01",
+            "NameEn": "Bring Death",
+            "DescriptionEn": ""
+        },
+        {
+            "GroupId": "CH0056Public01",
+            "NameEn": "Arrow of Annihilation",
+            "DescriptionEn": ""
+        },
+        {
+            "GroupId": "CH0056Passive01",
+            "NameEn": "Rigorous training",
+            "DescriptionEn": ""
+        },
+        {
+            "GroupId": "CH0056ExtraPassive01",
+            "NameEn": "Aim for the weak point",
+            "DescriptionEn": ""
+        },
+        {
+            "GroupId": "CH0055Ex01",
+            "NameEn": "Let's begin the forbidden games",
+            "DescriptionEn": ""
+        },
+        {
+            "GroupId": "CH0055Public01",
+            "NameEn": "Beco~me tougher♪",
+            "DescriptionEn": ""
+        },
+        {
+            "GroupId": "CH0055Passive01",
+            "NameEn": "I'm feeling pumped up!",
+            "DescriptionEn": ""
+        },
+        {
+            "GroupId": "CH0055ExtraPassive01",
+            "NameEn": "It's not embarrassing if we're together!",
+            "DescriptionEn": ""
+        },
+        {
+            "GroupId": "CH0057Ex01",
+            "NameEn": "Holy Hand Grenade",
+            "DescriptionEn": ""
+        },
+        {
+            "GroupId": "CH0057Public01",
+            "NameEn": "I-I'll heal you!",
+            "DescriptionEn": ""
+        },
+        {
+            "GroupId": "CH0057Passive01",
+            "NameEn": "I'm giving it my all!",
+            "DescriptionEn": ""
+        },
+        {
+            "GroupId": "CH0057ExtraPassive01",
+            "NameEn": "Because I'm elite!",
+            "DescriptionEn": ""
         }
     ]
 }
