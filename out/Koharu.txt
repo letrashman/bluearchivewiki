@@ -1,0 +1,75 @@
+===Skills===
+{{EXSkillTable
+| SkillName = Holy Hand Grenade
+| SkillNameJP = セイなる手榴弾
+| SkillIconType = SKILLICON_KOHARU_EXSKILL
+| SkillDamageType = Explosive
+| SkillBaseCost = 3
+| SkillDescriptionGeneral = Heal allies in an area for {{SkillValue|101~192%}} of Healing. For enemies, deal {{SkillValue|227~431%}} damage.
+| SkillDescriptionLv1 = Heal allies in an area for {{SkillValue|101%}} of Healing. For enemies, deal {{SkillValue|227%}} damage.
+| SkillDescriptionLv2 = Heal allies in an area for {{SkillValue|116%}} of Healing. For enemies, deal {{SkillValue|261%}} damage.
+| SkillDescriptionLv3 = Heal allies in an area for {{SkillValue|147%}} of Healing. For enemies, deal {{SkillValue|329%}} damage.
+| SkillDescriptionLv4 = Heal allies in an area for {{SkillValue|162%}} of Healing. For enemies, deal {{SkillValue|363%}} damage.
+| SkillDescriptionLv5 = Heal allies in an area for {{SkillValue|192%}} of Healing. For enemies, deal {{SkillValue|431%}} damage.
+| SkillDescriptionLv6 = Heal allies in an area for {{SkillValue|207%}} of Healing. For enemies, deal {{SkillValue|465%}} damage.
+| SkillDescriptionLv7 = Heal allies in an area for {{SkillValue|238%}} of Healing. For enemies, deal {{SkillValue|534%}} damage.
+| SkillDescriptionLv8 = Heal allies in an area for {{SkillValue|253%}} of Healing. For enemies, deal {{SkillValue|568%}} damage.
+| SkillDescriptionLv9 = Heal allies in an area for {{SkillValue|284%}} of Healing. For enemies, deal {{SkillValue|636%}} damage.
+| SkillDescriptionLv10 = Heal allies in an area for {{SkillValue|299%}} of Healing. For enemies, deal {{SkillValue|670%}} damage.
+}}
+{{SkillTable
+| SkillName = I-I'll heal you!
+| SkillNameJP = わ、私が治療するっ！
+| SkillIconType = COMMON_SKILLICON_HEAL
+| SkillDamageType = Explosive
+| SkillType = Normal
+| SkillDescriptionGeneral = For allies that are at less than {{SkillValue|50%}}, heal for {{SkillValue|80.8~153%}} of Healing. (Cooldown: {{SkillValue|20 seconds}})
+| SkillDescriptionLv1 = For allies that are at less than {{SkillValue|50%}}, heal for {{SkillValue|80.8%}} of Healing. (Cooldown: {{SkillValue|20 seconds}})
+| SkillDescriptionLv2 = For allies that are at less than {{SkillValue|50%}}, heal for {{SkillValue|84.9%}} of Healing. (Cooldown: {{SkillValue|20 seconds}})
+| SkillDescriptionLv3 = For allies that are at less than {{SkillValue|50%}}, heal for {{SkillValue|88.9%}} of Healing. (Cooldown: {{SkillValue|20 seconds}})
+| SkillDescriptionLv4 = For allies that are at less than {{SkillValue|50%}}, heal for {{SkillValue|105%}} of Healing. (Cooldown: {{SkillValue|20 seconds}})
+| SkillDescriptionLv5 = For allies that are at less than {{SkillValue|50%}}, heal for {{SkillValue|109%}} of Healing. (Cooldown: {{SkillValue|20 seconds}})
+| SkillDescriptionLv6 = For allies that are at less than {{SkillValue|50%}}, heal for {{SkillValue|113%}} of Healing. (Cooldown: {{SkillValue|20 seconds}})
+| SkillDescriptionLv7 = For allies that are at less than {{SkillValue|50%}}, heal for {{SkillValue|129%}} of Healing. (Cooldown: {{SkillValue|20 seconds}})
+| SkillDescriptionLv8 = For allies that are at less than {{SkillValue|50%}}, heal for {{SkillValue|133%}} of Healing. (Cooldown: {{SkillValue|20 seconds}})
+| SkillDescriptionLv9 = For allies that are at less than {{SkillValue|50%}}, heal for {{SkillValue|137%}} of Healing. (Cooldown: {{SkillValue|20 seconds}})
+| SkillDescriptionLv10 = For allies that are at less than {{SkillValue|50%}}, heal for {{SkillValue|153%}} of Healing. (Cooldown: {{SkillValue|20 seconds}})
+}}
+{{SkillTable
+| SkillName = I'm giving it my all!
+| SkillNameJP = これでも頑張ってるの！
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Explosive
+| SkillType = Passive
+| SkillDescriptionGeneral = Increase Attack by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Attack by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Attack by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Attack by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Attack by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Attack by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Attack by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Attack by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Attack by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Attack by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Attack by {{SkillValue|26.6%}}.
+}}
+{{SkillTable
+| SkillName = Because I'm elite!
+| SkillNameJP = エリートだから！
+| SkillIconType = COMMON_SKILLICON_STATBUFF
+| SkillDamageType = Explosive
+| SkillType = Sub
+| SkillDescriptionGeneral = Every {{SkillValue|30 seconds}}, increase Healing by {{SkillValue|21.5~41%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|30 seconds}}, increase Healing by {{SkillValue|21.5%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|30 seconds}}, increase Healing by {{SkillValue|22.6%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|30 seconds}}, increase Healing by {{SkillValue|23.7%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|30 seconds}}, increase Healing by {{SkillValue|28%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|30 seconds}}, increase Healing by {{SkillValue|29.1%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|30 seconds}}, increase Healing by {{SkillValue|30.2%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|30 seconds}}, increase Healing by {{SkillValue|34.5%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|30 seconds}}, increase Healing by {{SkillValue|35.6%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|30 seconds}}, increase Healing by {{SkillValue|36.6%}}. (Duration: {{SkillValue|20 seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|30 seconds}}, increase Healing by {{SkillValue|41%}}. (Duration: {{SkillValue|20 seconds}})
+}}
+
+[[Category:Characters]]

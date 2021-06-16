@@ -1,0 +1,77 @@
+===Skills===
+{{EXSkillTable
+| SkillName = Elite Guard, gather!
+| SkillNameJP = 親衛隊、集合！
+| SkillIconType = SKILLICON_CHERINO_EXSKILL
+| SkillDamageType = Penetration
+| SkillBaseCost = 7
+| SkillUpgradedCost = 5 
+| SkillUpgradedCostLv = 5 
+| SkillDescriptionGeneral = Deal {{SkillValue|515~605%}} damage to all enemies in a circular area.
+| SkillDescriptionLv1 = Deal {{SkillValue|515%}} damage to all enemies in a circular area.
+| SkillDescriptionLv2 = Deal {{SkillValue|541%}} damage to all enemies in a circular area.
+| SkillDescriptionLv3 = Deal {{SkillValue|563%}} damage to all enemies in a circular area.
+| SkillDescriptionLv4 = Deal {{SkillValue|588%}} damage to all enemies in a circular area.
+| SkillDescriptionLv5 = Deal {{SkillValue|605%}} damage to all enemies in a circular area.
+| SkillDescriptionLv6 = Deal {{SkillValue|662%}} damage to all enemies in a circular area.
+| SkillDescriptionLv7 = Deal {{SkillValue|775%}} damage to all enemies in a circular area.
+| SkillDescriptionLv8 = Deal {{SkillValue|832%}} damage to all enemies in a circular area.
+| SkillDescriptionLv9 = Deal {{SkillValue|945%}} damage to all enemies in a circular area.
+| SkillDescriptionLv10 = Deal {{SkillValue|1002%}} damage to all enemies in a circular area.
+}}
+{{SkillTable
+| SkillName = Regulate the enemy!
+| SkillNameJP = あいつを粛清しろ！
+| SkillIconType = COMMON_SKILLICON_MARK
+| SkillDamageType = Penetration
+| SkillType = Normal
+| SkillDescriptionGeneral = Every {{SkillValue|40 seconds}}, apply a Focused Fire status to the enemy with the highest Attack, and lower their resistance to critical hits by {{SkillValue|18.7~35.6%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv1 = Every {{SkillValue|40 seconds}}, apply a Focused Fire status to the enemy with the highest Attack, and lower their resistance to critical hits by {{SkillValue|18.7%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv2 = Every {{SkillValue|40 seconds}}, apply a Focused Fire status to the enemy with the highest Attack, and lower their resistance to critical hits by {{SkillValue|19.6%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv3 = Every {{SkillValue|40 seconds}}, apply a Focused Fire status to the enemy with the highest Attack, and lower their resistance to critical hits by {{SkillValue|20.6%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv4 = Every {{SkillValue|40 seconds}}, apply a Focused Fire status to the enemy with the highest Attack, and lower their resistance to critical hits by {{SkillValue|24.3%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv5 = Every {{SkillValue|40 seconds}}, apply a Focused Fire status to the enemy with the highest Attack, and lower their resistance to critical hits by {{SkillValue|25.3%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv6 = Every {{SkillValue|40 seconds}}, apply a Focused Fire status to the enemy with the highest Attack, and lower their resistance to critical hits by {{SkillValue|26.2%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv7 = Every {{SkillValue|40 seconds}}, apply a Focused Fire status to the enemy with the highest Attack, and lower their resistance to critical hits by {{SkillValue|29.9%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv8 = Every {{SkillValue|40 seconds}}, apply a Focused Fire status to the enemy with the highest Attack, and lower their resistance to critical hits by {{SkillValue|30.9%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv9 = Every {{SkillValue|40 seconds}}, apply a Focused Fire status to the enemy with the highest Attack, and lower their resistance to critical hits by {{SkillValue|31.8%}}. (Duration: {{SkillValue|15 seconds}})
+| SkillDescriptionLv10 = Every {{SkillValue|40 seconds}}, apply a Focused Fire status to the enemy with the highest Attack, and lower their resistance to critical hits by {{SkillValue|35.6%}}. (Duration: {{SkillValue|15 seconds}})
+}}
+{{SkillTable
+| SkillName = This is the power of the moustache!
+| SkillNameJP = これが髭の力だ！
+| SkillIconType = COMMON_SKILLICON_WEAPONBUFF
+| SkillDamageType = Penetration
+| SkillType = Passive
+| SkillDescriptionGeneral = Increase Attack by {{SkillValue|14~26.6%}}.
+| SkillDescriptionLv1 = Increase Attack by {{SkillValue|14%}}.
+| SkillDescriptionLv2 = Increase Attack by {{SkillValue|14.7%}}.
+| SkillDescriptionLv3 = Increase Attack by {{SkillValue|15.4%}}.
+| SkillDescriptionLv4 = Increase Attack by {{SkillValue|18.2%}}.
+| SkillDescriptionLv5 = Increase Attack by {{SkillValue|18.9%}}.
+| SkillDescriptionLv6 = Increase Attack by {{SkillValue|19.6%}}.
+| SkillDescriptionLv7 = Increase Attack by {{SkillValue|22.4%}}.
+| SkillDescriptionLv8 = Increase Attack by {{SkillValue|23.1%}}.
+| SkillDescriptionLv9 = Increase Attack by {{SkillValue|23.8%}}.
+| SkillDescriptionLv10 = Increase Attack by {{SkillValue|26.6%}}.
+}}
+{{SkillTable
+| SkillName = Kneel before the moustache!
+| SkillNameJP = 髭の権威にひれ伏せ！
+| SkillIconType = SKILLICON_CHERINO_EXTRAPASSIVESKILL
+| SkillDamageType = Penetration
+| SkillType = Sub
+| SkillDescriptionGeneral = Increase cost recovery by {{SkillValue|269~511}}. If other Red Winter students are in the same team, increase the effect by {{SkillValue|77~146}} per student. (Cherino not included, up to a maximum of 3)
+| SkillDescriptionLv1 = Increase cost recovery by {{SkillValue|269}}. If other Red Winter students are in the same team, increase the effect by {{SkillValue|77}} per student. (Cherino not included, up to a maximum of 3)
+| SkillDescriptionLv2 = Increase cost recovery by {{SkillValue|283}}. If other Red Winter students are in the same team, increase the effect by {{SkillValue|80}} per student. (Cherino not included, up to a maximum of 3)
+| SkillDescriptionLv3 = Increase cost recovery by {{SkillValue|296}}. If other Red Winter students are in the same team, increase the effect by {{SkillValue|85}} per student. (Cherino not included, up to a maximum of 3)
+| SkillDescriptionLv4 = Increase cost recovery by {{SkillValue|350}}. If other Red Winter students are in the same team, increase the effect by {{SkillValue|100}} per student. (Cherino not included, up to a maximum of 3)
+| SkillDescriptionLv5 = Increase cost recovery by {{SkillValue|363}}. If other Red Winter students are in the same team, increase the effect by {{SkillValue|104}} per student. (Cherino not included, up to a maximum of 3)
+| SkillDescriptionLv6 = Increase cost recovery by {{SkillValue|377}}. If other Red Winter students are in the same team, increase the effect by {{SkillValue|107}} per student. (Cherino not included, up to a maximum of 3)
+| SkillDescriptionLv7 = Increase cost recovery by {{SkillValue|431}}. If other Red Winter students are in the same team, increase the effect by {{SkillValue|122}} per student. (Cherino not included, up to a maximum of 3)
+| SkillDescriptionLv8 = Increase cost recovery by {{SkillValue|444}}. If other Red Winter students are in the same team, increase the effect by {{SkillValue|127}} per student. (Cherino not included, up to a maximum of 3)
+| SkillDescriptionLv9 = Increase cost recovery by {{SkillValue|457}}. If other Red Winter students are in the same team, increase the effect by {{SkillValue|131}} per student. (Cherino not included, up to a maximum of 3)
+| SkillDescriptionLv10 = Increase cost recovery by {{SkillValue|511}}. If other Red Winter students are in the same team, increase the effect by {{SkillValue|146}} per student. (Cherino not included, up to a maximum of 3)
+}}
+
+[[Category:Characters]]

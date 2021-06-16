@@ -54,7 +54,7 @@
 | SkillDescriptionLv10 = Increase Critical Rate by {{SkillValue|26.6%}}.
 }}
 {{SkillTable
-| SkillName =  Developer Synergy: Momoi
+| SkillName = Developer Synergy: Momoi
 | SkillNameJP = 開発者シナジー：ミドリ
 | SkillIconType = SKILLICON_MOMOI_EXTRAPASSIVESKILL
 | SkillDamageType = Penetration

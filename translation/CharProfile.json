@@ -281,6 +281,24 @@
        "PersonalNameEn": "Nodoka"
      },
      {
+      "CharacterId": 10019,
+       "FamilyNameEn": "Shirasu",
+       "PersonalNameEn": "Azusa",
+       "CharacterSkillGroup": "CH0056"
+     },
+     {
+      "CharacterId": 10020,
+       "FamilyNameEn": "Shimoe",
+       "PersonalNameEn": "Koharu",
+       "CharacterSkillGroup": "CH0057"
+     },
+     {
+      "CharacterId": 23007,
+       "FamilyNameEn": "Urawa",
+       "PersonalNameEn": "Hanako",
+       "CharacterSkillGroup": "CH0055"
+     },
+     {
       "CharacterId": 19002,
        "FamilyNameEn": "null",
        "PersonalNameEn": "19002"

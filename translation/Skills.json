@@ -1074,7 +1074,7 @@
         {
             "GroupId": "NodokaPublic01",
             "NameEn": "Stubborn sightlines",
-            "DescriptionEn": "Every $1, deal $2 datamage to 1 enemy, decrease their Evasion by $3. (Duration: $4)"
+            "DescriptionEn": "Every $1, deal $2 damage to 1 enemy, decrease their Evasion by $3. (Duration: $4)"
         },
         {
             "GroupId": "NodokaPassive01",
@@ -1085,6 +1085,66 @@
             "GroupId": "NodokaExtraPassive01",
             "NameEn": "The Bond of the Special Class",
             "DescriptionEn": "Increase Accuracy of all allies by $1."
+        },
+        {
+            "GroupId": "CH0056Ex01",
+            "NameEn": "Bring Death",
+            "DescriptionEn": "Deal $1 damage to a single enemy."
+        },
+        {
+            "GroupId": "CH0056Public01",
+            "NameEn": "Arrow of Annihilation",
+            "DescriptionEn": "Every $1, deal $2 damage to a single enemy, and reduce their Defense by $3. (Duration: $4)"
+        },
+        {
+            "GroupId": "CH0056Passive01",
+            "NameEn": "Rigorous training",
+            "DescriptionEn": "Increase Critical Rate by $1."
+        },
+        {
+            "GroupId": "CH0056ExtraPassive01",
+            "NameEn": "Aim for the weak point",
+            "DescriptionEn": "Deal an additional $1 damage to weakened enemies."
+        },
+        {
+            "GroupId": "CH0057Ex01",
+            "NameEn": "Holy Hand Grenade",
+            "DescriptionEn": "Heal allies in an area for $1 of Healing. For enemies, deal $2 damage."
+        },
+        {
+            "GroupId": "CH0057Public01",
+            "NameEn": "I-I'll heal you!",
+            "DescriptionEn": "For allies that are at less than $1, heal for $2 of Healing. (Cooldown: $3)"
+        },
+        {
+            "GroupId": "CH0057Passive01",
+            "NameEn": "I'm giving it my all!",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "CH0057ExtraPassive01",
+            "NameEn": "Because I'm elite!",
+            "DescriptionEn": "Every $1, increase Healing by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "CH0055Ex01",
+            "NameEn": "Let's begin the forbidden games",
+            "DescriptionEn": "Apply continuous healing equivalent to $1 of Hanako's Healing to allies in a certain area. (Duration: $2)"
+        },
+        {
+            "GroupId": "CH0055Public01",
+            "NameEn": "Beco~me tougher♪",
+            "DescriptionEn": "Every $1, increase Defense of an ally with the lowest HP by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "CH0055Passive01",
+            "NameEn": "I'm feeling pumped up!",
+            "DescriptionEn": "Increase Hanako's Healing by $1."
+        },
+        {
+            "GroupId": "CH0055ExtraPassive01",
+            "NameEn": "It's not embarrassing if we're together!",
+            "DescriptionEn": "Increase Healing of all allies by $1."
         }
 
 
