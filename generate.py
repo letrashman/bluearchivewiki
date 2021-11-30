@@ -2,11 +2,13 @@ import os
 import re
 import sys
 import traceback
+#import json
 
 from jinja2 import Environment, FileSystemLoader
 
 from data import load_data
 from model import Character
+
 
 
 def colorize(value):
@@ -26,8 +28,17 @@ def generate(datadir, localedir, outdir):
     env.filters['colorize'] = colorize
     template = env.get_template('template.txt')
 
+    #weapon_data = {}
+    #weapon_data['DataList'] = []
+    #
+    #def save_weapons_translation(weapon_data):
+    #    f = open('Weapons.json', "w", encoding='utf8' )
+    #    f.write(json.dumps(weapon_data, sort_keys=False, indent=4, ensure_ascii=False))
+    #    f.close()
+    #    return True
+
     for character in data.characters.values():
-        if not character['CollectionVisible']:
+        if not character['IsPlayableCharacter'] or character['ProductionStep'] != 'Release':
             continue
 
         try:
@@ -39,6 +50,13 @@ def generate(datadir, localedir, outdir):
         
         with open(os.path.join(outdir, f'{character.name_translated}.txt'), 'w', encoding="utf8") as f:
             f.write(template.render(character=character))
+
+        
+        #weapon_data['DataList'].append({'Id':character.id, 'NameJP': character.profile.weapon_name, 'NameEN': character.profile.weapon_name_translated, 'DescriptionJP': character.profile.weapon_desc, 'DescriptionEN': character.profile.weapon_desc_translated})
+
+    #save_weapons_translation(weapon_data)
+
+
 
 
 def main():

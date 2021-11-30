@@ -1,10 +1,12 @@
 import operator
 import re
+#from googletrans import Translator
 
 
 class Character(object):
-    def __init__(self, name, dev_name, name_en, rarity, school, role, position, damage_type, armor_type, combat_class, weapon_type,
-                 uses_cover, profile, normal_skill, ex_skill, passive_skill, sub_skill, stats):
+    def __init__(self, id, name, dev_name, name_en, rarity, school, role, position, damage_type, armor_type, combat_class, weapon_type,
+                 uses_cover, profile, normal_skill, ex_skill, passive_skill, passive_weapon_skill, sub_skill, stats, weapon):
+        self.id = id
         self.name = name
         self.rarity = rarity
         self.school = school
@@ -19,8 +21,10 @@ class Character(object):
         self.normal_skill = normal_skill
         self.ex_skill = ex_skill
         self.passive_skill = passive_skill
+        self.passive_weapon_skill = passive_weapon_skill
         self.sub_skill = sub_skill
         self.stats = stats
+        self.weapon = weapon
 
         self.dev_name = dev_name
         self.name_translated = name_en
@@ -35,7 +39,8 @@ class Character(object):
             'DamageDealer': 'Attacker',
             'Tanker': 'Tank',
             'Supporter': 'Support',
-            'Healer': 'Healer'
+            'Healer': 'Healer',
+            'Vehicle': 'Tactical Support'
         }[self._role]
 
     @property
@@ -70,6 +75,7 @@ class Character(object):
         character = data.characters[character_id]
         character_ai = data.characters_ai[character['CharacterAIId']]
         return cls(
+            character['Id'],
             data.characters_localization[character_id]['PersonalNameJp'],
             character['DevName'],
             data.translated_characters[character_id]['PersonalNameEn'],
@@ -83,16 +89,18 @@ class Character(object):
             character['WeaponType'],
             character_ai['CanUseObstacleOfKneelMotion'] or character_ai['CanUseObstacleOfStandMotion'],
             Profile.from_data(character_id, data),
-            Skill.from_data(data.characters_skills[(character_id, False)]['PublicSkillGroupId'][0], data),
-            Skill.from_data(data.characters_skills[(character_id, False)]['ExSkillGroupId'][0], data, 5),
-            Skill.from_data(data.characters_skills[(character_id, False)]['PassiveSkillGroupId'][0], data),
-            Skill.from_data(data.characters_skills[(character_id, False)]['ExtraPassiveSkillGroupId'][0], data),
-            Stats.from_data(character_id, data)
+            Skill.from_data(data.characters_skills[(character_id, 0, False)]['PublicSkillGroupId'][0], data),
+            Skill.from_data(data.characters_skills[(character_id, 0, False)]['ExSkillGroupId'][0], data, 5),
+            Skill.from_data(data.characters_skills[(character_id, 0, False)]['PassiveSkillGroupId'][0], data),
+            Skill.from_data(data.characters_skills[(character_id, 2, False)]['PassiveSkillGroupId'][0], data),
+            Skill.from_data(data.characters_skills[(character_id, 0, False)]['ExtraPassiveSkillGroupId'][0], data),
+            Stats.from_data(character_id, data),
+            Weapon.from_data(character_id, data)
         )
 
 
 class Profile(object):
-    def __init__(self, full_name, age, birthday, height, hobbies, illustrator, voice, introduction, reading):
+    def __init__(self, full_name, age, birthday, height, hobbies, illustrator, voice, introduction, reading, weapon_name, weapon_desc, weapon_name_translated, weapon_desc_translated):
         self.full_name = full_name
         self._age = age
         self._birthday = birthday
@@ -102,6 +110,10 @@ class Profile(object):
         self.voice = voice
         self.introduction = introduction
         self.reading = reading
+        self.weapon_name = weapon_name
+        self.weapon_desc = weapon_desc
+        self.weapon_name_translated = weapon_name_translated
+        self.weapon_desc_translated = weapon_desc_translated
 
     @property
     def age(self):
@@ -129,6 +141,16 @@ class Profile(object):
     @classmethod
     def from_data(cls, character_id, data):
         profile = data.characters_localization[character_id]
+        weapon = data.translated_weapons[character_id]
+
+        #translator = Translator()
+        #
+        #weapon_name_translated = translator.translate(profile['WeaponNameJp'], dest='en', src='ja').text
+        #weapon_desc_translated = translator.translate(profile['WeaponDescJp'], dest='en', src='ja').text
+        #print(weapon_name_translated)
+        #weapon_name_translated = None
+        #weapon_desc_translated = None
+
         return cls(
             f'{profile["FamilyNameJp"]} {profile["PersonalNameJp"]}',
             profile['CharacterAgeJp'],
@@ -138,7 +160,11 @@ class Profile(object):
             profile['ArtistNameJp'],
             profile['CharacterVoiceJp'],
             profile['ProfileIntroductionJp'],
-            f'{profile["FamilyNameRubyJp"]} {profile["PersonalNameJp"]}'
+            f'{profile["FamilyNameRubyJp"]} {profile["PersonalNameJp"]}',
+            profile['WeaponNameJp'],
+            profile['WeaponDescJp'].replace("\n\n",'<br>'),
+            weapon['NameEN'],
+            weapon['DescriptionEN'].replace("\n\n",'<br>')
         )
 
 
@@ -247,6 +273,8 @@ class Skill(object):
         else:  
             skill_name_en = data.translated_skills[group[0]['GroupId']]['NameEn']
 
+        if skill_name_en == None:
+            print (f"No translation found for skill {data.skills_localization[group[0]['LocalizeSkillId']]['NameJp']}, group_id {group_id}")
 
         return cls(
             data.skills_localization[group[0]['LocalizeSkillId']]['NameJp'],
@@ -305,4 +333,76 @@ class Stats(object):
             stats['StreetBattleAdaptation'],
             stats['OutdoorBattleAdaptation'],
             stats['IndoorBattleAdaptation']
+        )
+
+
+class Weapon(object):
+    def __init__(self, id, image_path, attack_power, attack_power_100, max_hp, max_hp_100, heal_power, heal_power_100, stat_type, stat_value, rank2_desc, rank3_desc):
+        self.id = id
+        self.image_path = image_path
+        self.attack_power = attack_power
+        self.attack_power_100 = attack_power_100
+        self.max_hp = max_hp
+        self.max_hp_100 = max_hp_100
+        self.heal_power = heal_power
+        self.heal_power_100 = heal_power_100
+        self.stat_type = stat_type
+        self.stat_value = stat_value
+        self.rank2_desc = rank2_desc
+        self.rank3_desc = rank3_desc
+
+
+
+    @classmethod
+    def from_data(cls, character_id, data):
+        weapon = data.weapons[character_id]
+        stats = data.characters_stats[character_id]
+
+
+
+        weapon_passive_skill = Skill.from_data(data.characters_skills[(character_id, 2, False)]['PassiveSkillGroupId'][0], data)
+
+        #print (passive_skill.name_translated)
+        #try: data.translated_skills[group[0]['GroupId']]['NameEn']
+        #except KeyError: 
+        #    skill_name_en = None
+        #else:  
+        #    skill_name_en = data.characters_skills[(character_id, False)]['PassiveSkillGroupId'][0] #data.translated_skills[group[0]['GroupId']]['NameEn']
+
+        rank2_desc = f'Passive Skill changes to "{weapon_passive_skill.name_translated}"'
+
+                
+        def affinity_type(affinity_change_type):
+            return {
+                'Street': 'Urban',
+                'Outdoor': 'Outdoor',
+                'Indoor': 'Indoor'
+            }[affinity_change_type]
+
+        def offset_affinity(start_letter, offset_int):
+            affinity_values = ['D','C','B','A','S','SS']
+            index = affinity_values.index(start_letter)
+
+            return affinity_values[index+offset_int]
+
+        affinity_change_type =  weapon['StatType'][2].replace("BattleAdaptation_Base", "")
+        old_affinity_letter =  stats[affinity_change_type+'BattleAdaptation']
+
+        rank3_desc = f"{{{{Icon|{affinity_type(affinity_change_type)}|size=20}}}} {affinity_type(affinity_change_type)} area affinity {{{{Affinity|{offset_affinity(old_affinity_letter,weapon['StatValue'][2])}}}}} {offset_affinity(old_affinity_letter,weapon['StatValue'][2])}"
+        #{{Icon|Urban|size=20}} Urban area affinity {{Affinity|SS}} SS
+
+
+        return cls(
+            weapon['Id'],
+            weapon['ImagePath'],
+            weapon['AttackPower'],
+            weapon['AttackPower100'],
+            weapon['MaxHP'],
+            weapon['MaxHP100'],
+            weapon['HealPower'],
+            weapon['HealPower100'],
+            weapon['StatType'],
+            weapon['StatValue'],
+            rank2_desc,
+            rank3_desc
         )

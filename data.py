@@ -5,7 +5,7 @@ import os
 BlueArchiveData = collections.namedtuple(
     'BlueArchiveData',
     ['characters', 'characters_ai', 'characters_localization', 'characters_skills', 'characters_stats', 'skills',
-     'skills_localization','translated_characters','translated_skills']
+     'skills_localization','translated_characters','translated_skills','weapons', 'translated_weapons']
 )
 
 
@@ -26,7 +26,7 @@ def load_characters_skills(path):
         data = json.load(f)
 
     return {
-        (character_skill['CharacterId'], character_skill['IsFormConversion']): character_skill
+        (character_skill['CharacterId'], character_skill['MinimumGradeCharacterWeapon'], character_skill['IsFormConversion']): character_skill
         for character_skill
         in data['DataList']
     }
@@ -46,7 +46,9 @@ def load_data(path, locale_path):
         skills=load_skills(path),
         skills_localization=load_skills_localization(path),
         translated_characters = load_characters_translation(locale_path),
-        translated_skills =  load_skills_translation(locale_path)
+        translated_skills =  load_skills_translation(locale_path),
+        weapons = load_weapons(path),
+        translated_weapons = load_weapons_translation(locale_path)
     )
 
 
@@ -71,4 +73,8 @@ def load_characters_translation(path):
 def load_skills_translation(path):
     return load_file(os.path.join(path, 'Skills.json'), key='GroupId')
 
+def load_weapons(path):
+    return load_file(os.path.join(path, 'Excel', 'CharacterWeaponExcelTable.json'), key='Id')
 
+def load_weapons_translation(path):
+    return load_file(os.path.join(path, 'Weapons.json'), key='Id')
