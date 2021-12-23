@@ -1,3 +1,4 @@
+import itertools
 import operator
 import re
 #from googletrans import Translator
@@ -28,10 +29,6 @@ class Character(object):
 
         self.dev_name = dev_name
         self.name_translated = name_en
-
-        # Extra information
-        self.filename = None
-        self.how_to_obtain = None
 
     @property
     def role(self):
@@ -168,6 +165,39 @@ class Profile(object):
         )
 
 
+def _get_skill_upgrade_materials(level, data):
+    recipe = data.recipes[level['RequireLevelUpMaterial']]
+    if recipe['RecipeType'] != 'SkillLevelUp':
+        return
+
+    ingredients = data.recipes_ingredients[recipe['RecipeIngredientId']]
+    ingredients = itertools.chain(
+        zip(ingredients['IngredientParcelType'], ingredients['IngredientId'], ingredients['IngredientAmount']),
+        zip(ingredients['CostParcelType'], ingredients['CostId'], ingredients['CostAmount'])
+    )
+    for type_, id, amount in ingredients:
+        if type_ == 'Item':
+            yield data.translated_items[id]['NameEn'], data.items[id]['Icon'].rsplit('/', 1)[-1], amount
+        elif type_ == 'Currency':
+            yield data.translated_currencies[id]['NameEn'], data.currencies[id]['Icon'].rsplit('/', 1)[-1], amount
+
+
+class SkillLevel(object):
+    def __init__(self, description, cost, materials):
+        self.description = description
+        self.cost = cost
+        self.materials = materials
+
+    @classmethod
+    def from_data(cls, level, group_id, data):
+        return cls(
+            translate_skill(data.skills_localization[level['LocalizeSkillId']]['DescriptionJp'], level['Level'], group_id, data),
+            #data.skills_localization[level['LocalizeSkillId']]['DescriptionJp'],
+            level['SkillCost'],
+            list(_get_skill_upgrade_materials(level, data))
+        )
+
+
 class Skill(object):
     def __init__(self, name, name_translated, icon, levels, description_general, damage_type, upgraded_cost = '', upgraded_cost_level = ''):
         self.name = name
@@ -197,43 +227,15 @@ class Skill(object):
             raise KeyError(group_id)
 
 
-        def replace_units(text):
-            
-            text = re.sub('1回', 'once', text)
-            text = re.sub('2回', 'twice', text)
-            #text = re.sub('3回', 'three times', text)
-            text = re.sub('回', '', text)
-            text = re.sub('つ', '', text)
-            text = re.sub('秒', ' seconds', text)
-            return text
 
 
-        def translate_skill(text_jp, skill_level, group_id):
-            try: skill_desc = data.translated_skills[group_id]['DescriptionEn']
-            except KeyError: 
-                skill_desc = text_jp
-                #print(f'{group_id} translation is missing')
-            else:
 
-                for i in range(skill_level+1):
-                    try: skill_desc = data.translated_skills[group_id][f'ReplaceOnLevel{i}']
-                    except KeyError: pass
-                    
-                    try: skill_desc = skill_desc.removesuffix('.') + data.translated_skills[group_id][f'AddOnLevel{i}']
-                    except KeyError: pass
 
-            variables = re.findall(r'\[c]\[[0-9A-Fa-f]{6}]([^\[]*)\[-]\[/c]', replace_units(text_jp))
-            #replacement_count = len(re.findall(r'\$[0-9]{1}', skill_desc))
-            #if len(variables) > 0 and len(variables) != replacement_count: print(f'Mismatched number of variables ({len(variables)}/{replacement_count}) in {text_jp} / {skill_desc}')
-
-            for i in range(len(variables)):
-                skill_desc = re.sub(f'\${i+1}', '{{SkillValue|' + variables[i] + '}}', skill_desc)
-            return skill_desc
 
 
         def format_description(levels, text_en):
-            start_variables = re.findall(r'\{\{SkillValue\|([^\}\[]+)\}\}',  levels[0][0])
-            end_variables = re.findall(r'\{\{SkillValue\|([^\}\[]+)\}\}',  levels[max_level-1][0])
+            start_variables = re.findall(r'\{\{SkillValue\|([^\}\[]+)\}\}',  levels[0].description)
+            end_variables = re.findall(r'\{\{SkillValue\|([^\}\[]+)\}\}',  levels[max_level-1].description)
             range_text = []
 
             for i in range(len(end_variables)):
@@ -249,21 +251,20 @@ class Skill(object):
 
             return text_en
 
-
-        levels = [
-            (translate_skill(data.skills_localization[level['LocalizeSkillId']]['DescriptionJp'], level['Level'], group_id), level['SkillCost'])
-            for level
-            in sorted(group, key=operator.itemgetter('Level'))
-        ]
-        
+        levels = [SkillLevel.from_data(level, group_id, data) for level in sorted(group, key=operator.itemgetter('Level'))]
+        #levels = [
+        #    (translate_skill(data.skills_localization[level['LocalizeSkillId']]['DescriptionJp'], level['Level'], group_id), level['SkillCost'])
+        #    for level
+        #    in sorted(group, key=operator.itemgetter('Level'))
+        #]
         upgraded_cost = ''
         upgraded_cost_level = ''
         for i in range(max_level-1):
-            if levels[i][1] != levels[i+1][1]:
-                upgraded_cost = levels[i+1][1]
+            if levels[i].cost != levels[i+1].cost:
+                upgraded_cost = levels[i+1].cost
                 upgraded_cost_level = i+2
 
-        text_general = translate_skill(levels[9][0], max_level, group_id)
+        text_general = translate_skill(levels[9].description, max_level, group_id, data)
         description_general = format_description(levels, text_general)
 
 
@@ -287,7 +288,38 @@ class Skill(object):
             upgraded_cost_level
         )
 
-        
+
+def replace_units(text):
+    
+    text = re.sub('1回', 'once', text)
+    text = re.sub('2回', 'twice', text)
+    #text = re.sub('3回', 'three times', text)
+    text = re.sub('回', '', text)
+    text = re.sub('つ', '', text)
+    text = re.sub('秒', ' seconds', text)
+    return text
+
+def translate_skill(text_jp, skill_level, group_id, data):
+    try: skill_desc = data.translated_skills[group_id]['DescriptionEn']
+    except KeyError: 
+        skill_desc = text_jp
+        #print(f'{group_id} translation is missing')
+    else:
+
+        for i in range(skill_level+1):
+            try: skill_desc = data.translated_skills[group_id][f'ReplaceOnLevel{i}']
+            except KeyError: pass
+            
+            try: skill_desc = skill_desc.removesuffix('.') + data.translated_skills[group_id][f'AddOnLevel{i}']
+            except KeyError: pass
+
+    variables = re.findall(r'\[c]\[[0-9A-Fa-f]{6}]([^\[]*)\[-]\[/c]', replace_units(text_jp))
+    #replacement_count = len(re.findall(r'\$[0-9]{1}', skill_desc))
+    #if len(variables) > 0 and len(variables) != replacement_count: print(f'Mismatched number of variables ({len(variables)}/{replacement_count}) in {text_jp} / {skill_desc}')
+
+    for i in range(len(variables)):
+        skill_desc = re.sub(f'\${i+1}', '{{SkillValue|' + variables[i] + '}}', skill_desc)
+    return skill_desc
 
 
 
