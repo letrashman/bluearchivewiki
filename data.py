@@ -107,10 +107,3 @@ def load_items_translation(path):
 
 def load_skills_translation(path):
     return load_file(os.path.join(path, 'Skills.json'), key='GroupId')
-
-#def load_translations(path):
-#    return BlueArchiveTranslations(
-#        currencies=load_currencies_translation(path),
-#        items=load_items_translation(path),
-#        skills=load_skills_translation(path)
-#    )

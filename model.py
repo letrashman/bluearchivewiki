@@ -192,7 +192,6 @@ class SkillLevel(object):
     def from_data(cls, level, group_id, data):
         return cls(
             translate_skill(data.skills_localization[level['LocalizeSkillId']]['DescriptionJp'], level['Level'], group_id, data),
-            #data.skills_localization[level['LocalizeSkillId']]['DescriptionJp'],
             level['SkillCost'],
             list(_get_skill_upgrade_materials(level, data))
         )
@@ -230,9 +229,6 @@ class Skill(object):
 
 
 
-
-
-
         def format_description(levels, text_en):
             start_variables = re.findall(r'\{\{SkillValue\|([^\}\[]+)\}\}',  levels[0].description)
             end_variables = re.findall(r'\{\{SkillValue\|([^\}\[]+)\}\}',  levels[max_level-1].description)
@@ -252,11 +248,7 @@ class Skill(object):
             return text_en
 
         levels = [SkillLevel.from_data(level, group_id, data) for level in sorted(group, key=operator.itemgetter('Level'))]
-        #levels = [
-        #    (translate_skill(data.skills_localization[level['LocalizeSkillId']]['DescriptionJp'], level['Level'], group_id), level['SkillCost'])
-        #    for level
-        #    in sorted(group, key=operator.itemgetter('Level'))
-        #]
+        
         upgraded_cost = ''
         upgraded_cost_level = ''
         for i in range(max_level-1):
