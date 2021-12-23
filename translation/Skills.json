@@ -1569,12 +1569,12 @@
         {
             "GroupId": "CH0164ExtraPassive01",
             "NameEn": "This is the authority of the moustache!",
-            "DescriptionEn": "Increase Critical Rate of all allies by $1."
+            "DescriptionEn": "Increase Critical Damage of all allies by $1."
         },
         {
             "GroupId": "TomoeEx01",
             "NameEn": "Everyone, please listen to me!",
-            "DescriptionEn": "Increase Critical Rate by $1, Critical Damage by $2, and the Movement Speed by $3 for all allies within a circular area; reduce their normal attack range by $4. (Duration: $5)"
+            "DescriptionEn": "Increase Critical Rate by $1, Critical Damage by $2, and the Movement Speed by $3 for all allies around Tomoe; reduce their normal attack range by $4. (Duration: $5)"
         },
         {
             "GroupId": "TomoePublic01",
@@ -1595,6 +1595,31 @@
             "GroupId": "TomoeExtraPassive01",
             "NameEn": "Irrefutable claims",
             "DescriptionEn": "When attacking shielded enemies, deal $1 additional damage."
+        },
+        {
+            "GroupId": "CH0165Ex01",
+            "NameEn": "No. 227 Hot Spring Resort, Open for Business!",
+            "DescriptionEn": "Nodoka (Hot Spring) enters the battlefield. Every $1, a random snack is thrown to one ally with the lowest HP in the circular area around Nodoka. (Duration: $2)<br>Hot Spring Manju: $3 of Healing<br>Corn Stick: $4 of Healing<br>Milk: $5 of Healing"
+        },
+        {
+            "GroupId": "CH0165Public01",
+            "NameEn": "Landlady's Hospitality",
+            "DescriptionEn": "Every $1, increase incoming healing of the ally with the lowest HP by $2 for 20 seconds."
+        },
+        {
+            "GroupId": "CH0165Passive01",
+            "NameEn": "Spring Water's Cure",
+            "DescriptionEn": "Increase Healing by $1."
+        },
+        {
+            "GroupId": "CH0165WeaponPassive01",
+            "NameEn": "Spring Water's Cure +",
+            "DescriptionEn": "Increase Healing by $1. Further increase Healing by $2."
+        },
+        {
+            "GroupId": "CH0165ExtraPassive01",
+            "NameEn": "Hot Spring's Feeling",
+            "DescriptionEn": "Increase Attack of all allies by $1."
         }
 
 

@@ -622,6 +622,14 @@
             "NameEN": "Chistka",
             "DescriptionJP": "チェリノが誰かを粛清する時などに使用する拳銃。<br>温泉郷のように高温多湿な環境でも錆びないよう、トモエが改造を施してくれた模様。",
             "DescriptionEN": "The handgun Cherino uses whenever she purges someone. <br>Apparently is was modified by Tomoe so that it will not rust even in a hot and humid environment like a hot spring village."
+        },
+
+        {
+            "Id": 20010,
+            "NameJP": "サジタリウスナイト",
+            "NameEN": "Sagittarius Night",
+            "DescriptionJP": "ノドカが天体観測に出かける時にも携帯しているサブマシンガン。<br>ライトが付属しており、暗い夜道も明るく照らしてくれる。",
+            "DescriptionEN": "A submachine gun that Nodoka carries. It is mostly used to illuminate dark night roads around the hot spring village, but also comes handy for dealing with annoying customers."
         }
     ]
 }

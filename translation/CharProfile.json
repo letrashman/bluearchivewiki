@@ -311,7 +311,7 @@
      {
       "CharacterId": 19004,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "19004"
+       "PersonalNameEn": "Erika_default"
      },
      {
       "CharacterId": 19005,
@@ -425,12 +425,22 @@
      {
       "CharacterId": 10030,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Chinatsu (Hot Spring) CH0164"
+       "PersonalNameEn": "Chinatsu (Hot Spring) CH0163"
      },
      {
       "CharacterId": 20009,
        "FamilyNameEn": "null",
        "PersonalNameEn": "Cherino (Hot Spring) CH0164"
+     },
+     {
+      "CharacterId": 20010,
+       "FamilyNameEn": "null",
+       "PersonalNameEn": "Nodoka (Hot Spring) CH0165"
+     },
+     {
+      "CharacterId": 19004,
+       "FamilyNameEn": "null",
+       "PersonalNameEn": "Mimori_default"
      }
 
    ]
