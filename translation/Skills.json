@@ -1477,11 +1477,6 @@
             "DescriptionEn": "Increase Attack Speed by $1. Further increase Attack Speed by $2."
         },
         {
-            "GroupId": "CH0098WeaponPassive01",
-            "NameEn": "Let's have even more fun! +",
-            "DescriptionEn": "Increase HP by $1. Further increase HP by $2."
-        },
-        {
             "GroupId": "CH0100WeaponPassive01",
             "NameEn": "Firepower upgrade, complete +",
             "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
@@ -1620,9 +1615,32 @@
             "GroupId": "CH0165ExtraPassive01",
             "NameEn": "Hot Spring's Feeling",
             "DescriptionEn": "Increase Attack of all allies by $1."
+        },
+        {
+            "GroupId": "CH0098Ex01",
+            "NameEn": "Hey, hey, look at this!",
+            "DescriptionEn": "Decrease Defense of all enemies in a circular area by $1 for $2, then deal $3 damage to them."
+        },
+        {
+            "GroupId": "CH0098Public01",
+            "NameEn": "Let's have some fun!",
+            "DescriptionEn": "Every $1, increase Attack by $2 for $3."
+        },
+        {
+            "GroupId": "CH0098Passive01",
+            "NameEn": "Let's have even more fun!",
+            "DescriptionEn": "Increase HP by $1."
+        },
+        {
+            "GroupId": "CH0098WeaponPassive01",
+            "NameEn": "Let's have even more fun! +",
+            "DescriptionEn": "Increase HP by $1. Further increase HP by $2."
+        },
+        {
+            "GroupId": "CH0098ExtraPassive01",
+            "NameEn": "That's a bonus!",
+            "DescriptionEn": "When EX skill is activated increase Attack Speed by $1 for $2."
         }
-
-
 
     ]
 }
