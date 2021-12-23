@@ -23,6 +23,7 @@ def colorize(value):
 
 def generate(datadir, localedir, outdir):
     data = load_data(datadir, localedir)
+    #tls = load_translations(localedir)
 
     env = Environment(loader=FileSystemLoader(os.path.dirname(__file__)))
     env.filters['colorize'] = colorize
