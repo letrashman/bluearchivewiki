@@ -104,7 +104,6 @@
 | SkillDescriptionLv{{loop.index}} = {{level.description|colorize}}
 {% endfor -%}
 {% raw %}}}{% endraw %}
-
 ===Skill Upgrade Materials===
 {% raw %}{{{% endraw %}SkillUpgradeTable
 | SkillType = EX Skill

@@ -1432,16 +1432,6 @@
             "DescriptionEn": "Increase Healing of all allies by $1."
         },
         {
-            "GroupId": "CH0083WeaponPassive01",
-            "NameEn": "Providing support +",
-            "DescriptionEn": "Increase Healing by $1. Further increase Healing by $2."
-        },
-        {
-            "GroupId": "CH9999WeaponPassive01",
-            "NameEn": "The Cheering of Hatsune Miku +",
-            "DescriptionEn": "Increase Healing by $1. Further increase Healing by $2."
-        },
-        {
             "GroupId": "CH0060WeaponPassive01",
             "NameEn": "Light feelings +",
             "DescriptionEn": "Increase HP by $1. Increase Attack Speed by $2."
@@ -1510,11 +1500,6 @@
             "GroupId": "CH0133WeaponPassive01",
             "NameEn": "Elixir of concentration +",
             "DescriptionEn": "Increase Stability by $1. Further increase Critical Damage by $2."
-        },
-        {
-            "GroupId": "CH0072WeaponPassive01",
-            "NameEn": "Resolute mind +",
-            "DescriptionEn": "Increase Critical Rate by $1. Further increase Critical Rate by $2."
         },
         {
             "GroupId": "CH0163Ex01",
@@ -1640,6 +1625,81 @@
             "GroupId": "CH0098ExtraPassive01",
             "NameEn": "That's a bonus!",
             "DescriptionEn": "When EX skill is activated increase Attack Speed by $1 for $2."
+        },
+        {
+            "GroupId": "CH0072Ex01",
+            "NameEn": "Holy blessing",
+            "DescriptionEn": "Grant a shield to an ally (shield HP is $1 of Healing) and clear all debuffs. (Duration: $2)"
+        },
+        {
+            "GroupId": "CH0072Public01",
+            "NameEn": "Purifying baptism",
+            "DescriptionEn": "Every $1, deal $2 damage to enemies within a circular area."
+        },
+        {
+            "GroupId": "CH0072Passive01",
+            "NameEn": "Resolute mind",
+            "DescriptionEn": "Increase Critical Rate by $1."
+        },
+        {
+            "GroupId": "CH0072WeaponPassive01",
+            "NameEn": "Resolute mind +",
+            "DescriptionEn": "Increase Critical Rate by $1. Further increase Critical Rate by $2."
+        },
+        {
+            "GroupId": "CH0072ExtraPassive01",
+            "NameEn": "Compassionate heart",
+            "DescriptionEn": "Increase HP of all allies by $1."
+        },
+        {
+            "GroupId": "CH0083Ex01",
+            "NameEn": "Providing reconnaissance data",
+            "DescriptionEn": "Increase the Critical Rate of one ally by $1, and additionally increase Critical Damage by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "CH0083Public01",
+            "NameEn": "Supply plan B",
+            "DescriptionEn": "Every $1, heal one ally for $2 of Healing."
+        },
+        {
+            "GroupId": "CH0083Passive01",
+            "NameEn": "Providing support",
+            "DescriptionEn": "Increase Healing by $1."
+        },
+        {
+            "GroupId": "CH0083WeaponPassive01",
+            "NameEn": "Providing support +",
+            "DescriptionEn": "Increase Healing by $1. Further increase Healing by $2."
+        },
+        {
+            "GroupId": "CH0083ExtraPassive01",
+            "NameEn": "Leave the support to me",
+            "DescriptionEn": "Increase Critical Damage of all allies by $1."
+        },
+        {
+            "GroupId": "CH9999Ex01",
+            "NameEn": "Putting my heart into it at every moment!",
+            "DescriptionEn": "Heal allies within a circular area for $1 of Miku's Healing. While Miku is dancing on the field (duration: $2), additionally increase their Attack by $3."
+        },
+        {
+            "GroupId": "CH9999Public01",
+            "NameEn": "The Passion of Hatsune Miku",
+            "DescriptionEn": "Every $1, increase Critical Rate of allies within a circular area by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "CH9999Passive01",
+            "NameEn": "The Cheering of Hatsune Miku",
+            "DescriptionEn": "Increase Healing by $1."
+        },
+        {
+            "GroupId": "CH9999WeaponPassive01",
+            "NameEn": "The Cheering of Hatsune Miku +",
+            "DescriptionEn": "Increase Healing by $1. Further increase Healing by $2."
+        },
+        {
+            "GroupId": "CH9999ExtraPassive01",
+            "NameEn": "The Blessing of Hatsune Miku",
+            "DescriptionEn": "Increase all allies' incoming healing by $1."
         }
 
     ]
