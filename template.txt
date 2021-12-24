@@ -22,9 +22,9 @@
 | CityTownAffinity = {{character.stats.city_affinity}}
 | OutdoorAffinity = {{character.stats.outdoor_affinity}}
 | IndoorAffinity = {{character.stats.indoor_affinity}}
-| EquipmentSlot1 = 
-| EquipmentSlot2 = 
-| EquipmentSlot3 = 
+| EquipmentSlot1 = {{character.equipment[0]}}
+| EquipmentSlot2 = {{character.equipment[1]}}
+| EquipmentSlot3 = {{character.equipment[2]}}
 | ReleaseDate = 
 {% raw %}}}{% endraw %}
 
@@ -63,9 +63,10 @@
 | SkillNameJP = {{character.ex_skill.name}}
 | SkillIconType = {{character.ex_skill.icon}}
 | SkillDamageType = {{character.ex_skill.damage_type}}
-| SkillBaseCost = {{character.ex_skill.levels[0].cost}}{% if character.ex_skill.upgraded_cost %}
-| SkillUpgradedCost = {{character.ex_skill.upgraded_cost}} {% endif %}{% if character.ex_skill.upgraded_cost_level %}
-| SkillUpgradedCostLv = {{character.ex_skill.upgraded_cost_level}} {% endif %}
+| SkillBaseCost = {{character.ex_skill.levels[0].cost}}
+{% for skill in character.ex_skill.skill_cost -%}
+| SkillCostLv{{skill.level}} = {{skill.cost}}
+{% endfor -%}
 | SkillDescriptionGeneral = {{character.ex_skill.description_general|colorize}}
 {% for level in character.ex_skill.levels -%}
 | SkillDescriptionLv{{loop.index}} = {{level.description|colorize}}

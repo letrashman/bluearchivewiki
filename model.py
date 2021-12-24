@@ -5,7 +5,7 @@ import re
 
 
 class Character(object):
-    def __init__(self, id, name, dev_name, name_en, rarity, school, role, position, damage_type, armor_type, combat_class, weapon_type,
+    def __init__(self, id, name, dev_name, name_en, rarity, school, role, position, damage_type, armor_type, combat_class, equipment, weapon_type,
                  uses_cover, profile, normal_skill, ex_skill, passive_skill, passive_weapon_skill, sub_skill, stats, weapon):
         self.id = id
         self.name = name
@@ -16,6 +16,7 @@ class Character(object):
         self._damage_type = damage_type
         self._armor_type = armor_type
         self._combat_class = combat_class
+        self.equipment = equipment
         self.weapon_type = weapon_type
         self._uses_cover = uses_cover
         self.profile = profile
@@ -83,6 +84,7 @@ class Character(object):
             character['BulletType'],
             character['ArmorType'],
             character['SquadType'],
+            character['EquipmentSlot'],
             character['WeaponType'],
             character_ai['CanUseObstacleOfKneelMotion'] or character_ai['CanUseObstacleOfStandMotion'],
             Profile.from_data(character_id, data),
@@ -198,7 +200,7 @@ class SkillLevel(object):
 
 
 class Skill(object):
-    def __init__(self, name, name_translated, icon, levels, description_general, damage_type, upgraded_cost = '', upgraded_cost_level = ''):
+    def __init__(self, name, name_translated, icon, levels, description_general, damage_type, skill_cost):
         self.name = name
         self.icon = icon
         self.levels = levels
@@ -208,8 +210,7 @@ class Skill(object):
         self.name_translated = name_translated
         self.description_general = description_general
         #self.max_level = 10
-        self.upgraded_cost = upgraded_cost
-        self.upgraded_cost_level = upgraded_cost_level
+        self.skill_cost = skill_cost
 
     @property
     def damage_type(self):
@@ -248,13 +249,12 @@ class Skill(object):
             return text_en
 
         levels = [SkillLevel.from_data(level, group_id, data) for level in sorted(group, key=operator.itemgetter('Level'))]
-        
-        upgraded_cost = ''
-        upgraded_cost_level = ''
-        for i in range(max_level-1):
-            if levels[i].cost != levels[i+1].cost:
-                upgraded_cost = levels[i+1].cost
-                upgraded_cost_level = i+2
+
+        skill_cost = []
+        for i in range(1, max_level):
+            if levels[i].cost != levels[i-1].cost:
+                #print (f'Skill level {i+1} cost change from {levels[i-1].cost} to {levels[i].cost}')
+                skill_cost.append({'level':i+1, 'cost':levels[i].cost})
 
         text_general = translate_skill(levels[9].description, max_level, group_id, data)
         description_general = format_description(levels, text_general)
@@ -276,8 +276,7 @@ class Skill(object):
             levels,
             description_general,
             group[0]['BulletType'],
-            upgraded_cost,
-            upgraded_cost_level
+            skill_cost
         )
 
 
