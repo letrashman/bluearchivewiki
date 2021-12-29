@@ -1700,6 +1700,56 @@
             "GroupId": "CH9999ExtraPassive01",
             "NameEn": "The Blessing of Hatsune Miku",
             "DescriptionEn": "Increase all allies' incoming healing by $1."
+        },
+        {
+            "GroupId": "CH0084Ex01",
+            "NameEn": "Hard boiled Hanetsuki shot",
+            "DescriptionEn": "Restore $1 Skill Cost for each \"Bad deed\" that Aru currently holds, and reset the number of \"Bad deeds\" to zero.<br>Deal $2 damage against one enemy. For surrounding enemies that have not been hit,  deal a further $3 damage (up to 11 times)."
+        },
+        {
+            "GroupId": "CH0084Public01",
+            "NameEn": "Noir Hanetsuki shot",
+            "DescriptionEn": "Every $1, deal $2 damage to enemies in a circular area."
+        },
+        {
+            "GroupId": "CH0084Passive01",
+            "NameEn": "President's Elegance",
+            "DescriptionEn": "Increase HP by $1."
+        },
+        {
+            "GroupId": "CH0084WeaponPassive01",
+            "NameEn": "President's Elegance +",
+            "DescriptionEn": "Increase Attack Speed by $1. Increase HP by $2."
+        },
+        {
+            "GroupId": "CH0084ExtraPassive01",
+            "NameEn": "Perfect President's Style",
+            "DescriptionEn": "For every 6 enemies defeated by allies, Aru obtains one \"Bad deed\". Can hold up to $1 \"Bad deeds\", Defense is decreased by $2 for every \"Bad deed\" currently held."
+        },
+        {
+            "GroupId": "CH0085Ex01",
+            "NameEn": "Symphony of New Year",
+            "DescriptionEn": "Deal $1 damage to enemies in an arch-shaped area."
+        },
+        {
+            "GroupId": "CH0085Public01",
+            "NameEn": "Little devil chorus ",
+            "DescriptionEn": "Every $1, deal $2 damage to enemies in a straight line. <br>If Mutsuki currently holds 6 \"Little devils\", deal an additional $3 damage."
+        },
+        {
+            "GroupId": "CH0085Passive01",
+            "NameEn": "More fun ways to play!",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "CH0085WeaponPassive01",
+            "NameEn": "More fun ways to play! +",
+            "DescriptionEn": "Increase Defense Penetration by $1. Increase Attack by $2."
+        },
+        {
+            "GroupId": "CH0085ExtraPassive01",
+            "NameEn": "Little devil's cute plot",
+            "DescriptionEn": "Each time Mutsuki's EX Skill hits 3 enemies, she gains one \"Little devil\" for $1. Can hold up to $2 \"Little devils\", Critical Rate is increased by $3 for every \"Little devil\" that Mutsuki holds (this effect stacks)."
         }
 
     ]

@@ -630,6 +630,22 @@
             "NameEN": "Sagittarius Night",
             "DescriptionJP": "ノドカが天体観測に出かける時にも携帯しているサブマシンガン。<br>ライトが付属しており、暗い夜道も明るく照らしてくれる。",
             "DescriptionEN": "A submachine gun that Nodoka carries. It is mostly used to illuminate dark night roads around the hot spring village, but also comes handy for dealing with annoying customers."
+        },
+
+        {
+            "Id": 10031,
+            "NameJP": "ワインレッド・アドマイアー",
+            "NameEN": "Wine-red Admire",
+            "DescriptionJP": "アルが普段から大事にしている、古風なデザインのスナイパーライフル。\n\n彼女曰く新たな年を迎えてさらに年季が入り、この銃もまるで自分のようによりハードボイルドさが増してきた……らしい。",
+            "DescriptionEN": "Aru's antique-style sniper rifle that she always takes care of.<br>Aru says that as the year changes, this gun has become even more hard-boiled, just like herself... "
+        },
+
+        {
+            "Id": 10032,
+            "NameJP": "トリックオアトリック",
+            "NameEN": "Trick or Treat",
+            "DescriptionJP": "ムツキがいつも持ち歩いているマシンガン。\n\nお正月を迎えて着飾った彼女だが、きちんとその鞄の中には銃が仕舞われている。ムツキ曰くいざとなれば即座に取り出せるようになっており、悪戯には何の支障も無いとのこと。",
+            "DescriptionEN": "A machine gun that Mutsuki always carries with her.<br>She is all dressed up for the New Year, but still has the gun in her bag. According to Mutsuki, the gun is ready to be taken out at a moment's notice, so pranks can go on."
         }
     ]
 }

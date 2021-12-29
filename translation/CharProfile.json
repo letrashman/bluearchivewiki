@@ -441,7 +441,24 @@
       "CharacterId": 19004,
        "FamilyNameEn": "null",
        "PersonalNameEn": "Mimori_default"
+     },
+     {
+      "CharacterId": 10031,
+       "FamilyNameEn": "null",
+       "PersonalNameEn": "Aru_Newyear"
+     },
+     {
+      "CharacterId": 10032,
+       "FamilyNameEn": "null",
+       "PersonalNameEn": "Mutsuki_Newyear"
+     },
+     {
+      "CharacterId": 20011,
+       "FamilyNameEn": "null",
+       "PersonalNameEn": "Serika_Newyear"
      }
+
+
 
    ]
 }
