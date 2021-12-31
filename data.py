@@ -9,7 +9,9 @@ BlueArchiveData = collections.namedtuple(
     'weapons', 'translated_weapons',
     'currencies','translated_currencies',
     'items', 'translated_items',
-    'recipes', 'recipes_ingredients']
+    'recipes', 'recipes_ingredients', 
+    'favor_levels', 'favor_rewards', 
+    'memory_lobby']
 )
 
 
@@ -64,6 +66,9 @@ def load_data(path, locale_path):
         translated_items=load_items_translation(locale_path),
         recipes=load_recipes(path),
         recipes_ingredients=load_recipes_ingredients(path),
+        favor_levels=load_favor_levels(path),
+        favor_rewards=load_favor_rewards(path),
+        memory_lobby=load_memory_lobby(path)
     )
 
 
@@ -98,6 +103,29 @@ def load_weapons(path):
 def load_weapons_translation(path):
     return load_file(os.path.join(path, 'Weapons.json'), key='Id')
 
+def load_favor_levels(path):
+    with open(os.path.join(path, 'Excel', 'FavorLevelRewardExcelTable.json')) as f:
+        data = json.load(f)
+
+    return {
+        (favor_level['CharacterId'], favor_level['FavorLevel']): favor_level
+        for favor_level
+        in data['DataList']
+    }
+
+def load_favor_rewards(path):
+    with open(os.path.join(path, 'Excel', 'AcademyFavorScheduleExcelTable.json')) as f:
+        data = json.load(f)
+
+    return {
+        (favor_rewards['CharacterId'], favor_rewards['FavorRank']): favor_rewards
+        for favor_rewards
+        in data['DataList']
+    }
+  
+
+def load_memory_lobby(path):
+    return load_file(os.path.join(path, 'Excel', 'MemoryLobbyExcelTable.json'), key='CharacterId')
 
 def load_currencies_translation(path):
     return load_file(os.path.join(path, 'Currencies.json'))

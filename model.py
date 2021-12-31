@@ -6,7 +6,7 @@ import re
 
 class Character(object):
     def __init__(self, id, name, dev_name, name_en, rarity, school, role, position, damage_type, armor_type, combat_class, equipment, weapon_type,
-                 uses_cover, profile, normal_skill, ex_skill, passive_skill, passive_weapon_skill, sub_skill, stats, weapon):
+                 uses_cover, profile, normal_skill, ex_skill, passive_skill, passive_weapon_skill, sub_skill, stats, weapon, favor, memory_lobby):
         self.id = id
         self.name = name
         self.rarity = rarity
@@ -27,6 +27,8 @@ class Character(object):
         self.sub_skill = sub_skill
         self.stats = stats
         self.weapon = weapon
+        self.favor = favor
+        self.memory_lobby = memory_lobby
 
         self.dev_name = dev_name
         self.name_translated = name_en
@@ -68,6 +70,10 @@ class Character(object):
     def uses_cover(self):
         return 'Yes' if self._uses_cover else 'No'
 
+    @property
+    def name_normalized(self):
+        return re.split("[ _(]", self.name_translated)[0]
+
     @classmethod
     def from_data(cls, character_id, data):
         character = data.characters[character_id]
@@ -94,7 +100,9 @@ class Character(object):
             Skill.from_data(data.characters_skills[(character_id, 2, False)]['PassiveSkillGroupId'][0], data),
             Skill.from_data(data.characters_skills[(character_id, 0, False)]['ExtraPassiveSkillGroupId'][0], data),
             Stats.from_data(character_id, data),
-            Weapon.from_data(character_id, data)
+            Weapon.from_data(character_id, data),
+            Favor.from_data(character_id, data),
+            MemoryLobby.from_data(character_id, data)
         )
 
 
@@ -266,8 +274,8 @@ class Skill(object):
         else:  
             skill_name_en = data.translated_skills[group[0]['GroupId']]['NameEn']
 
-        if skill_name_en == None:
-            print (f"No translation found for skill {data.skills_localization[group[0]['LocalizeSkillId']]['NameJp']}, group_id {group_id}")
+        #if skill_name_en == None:
+            #print (f"No translation found for skill {data.skills_localization[group[0]['LocalizeSkillId']]['NameJp']}, group_id {group_id}")
 
         return cls(
             data.skills_localization[group[0]['LocalizeSkillId']]['NameJp'],
@@ -429,4 +437,58 @@ class Weapon(object):
             weapon['StatValue'],
             rank2_desc,
             rank3_desc
+        )
+        
+
+class Favor(object):
+    def __init__(self, levels):
+        self.levels = levels
+
+    @classmethod
+    def from_data(cls, character_id, data):
+        levels = {}
+
+        def replace_statnames(stat_list):
+            list_out = []
+            
+            for item in stat_list:
+                item = re.sub('_Base', '', item)
+                item = re.sub('Power', '', item)
+                item = re.sub('Max', '', item)
+                item = re.sub('Heal', 'Healing', item)
+
+                list_out.append(item)     
+            #return([re.sub('_Base', '', item) for item in stat_list])
+            return (list_out)
+
+
+        for favor_level in data.favor_levels:
+            if favor_level[0] == character_id:
+                #print(replace_statnames(data.favor_levels[(character_id , favor_level[1])]['StatType']))
+                levels[favor_level[1]] = {'stat_type':replace_statnames(data.favor_levels[(character_id , favor_level[1])]['StatType']), 'stat_value':data.favor_levels[(character_id , favor_level[1])]['StatValue']}  
+
+        return cls(
+            levels
+        )
+
+
+class MemoryLobby(object):
+    def __init__(self, image, unlock_level):
+        self.image = image
+        self.unlock_level = unlock_level
+
+
+    @classmethod
+    def from_data(cls, character_id, data):
+        try: lobby_data = data.memory_lobby[character_id]
+        except KeyError: return cls( None, None )
+
+        unlock_level = None
+        for favor_reward in data.favor_rewards:
+            if favor_reward[0] == character_id:
+                if 'MemoryLobby' in data.favor_rewards[(character_id , favor_reward[1])]['RewardParcelType']: unlock_level = data.favor_rewards[(character_id , favor_reward[1])]['FavorRank']
+        
+        return cls(
+            lobby_data['RewardTextureName'][lobby_data['RewardTextureName'].rfind('/')+1:],
+            unlock_level
         )

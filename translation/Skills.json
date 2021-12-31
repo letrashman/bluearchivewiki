@@ -1713,12 +1713,12 @@
         },
         {
             "GroupId": "CH0084Passive01",
-            "NameEn": "President's Elegance",
+            "NameEn": "Gorgeous President's Elegance",
             "DescriptionEn": "Increase HP by $1."
         },
         {
             "GroupId": "CH0084WeaponPassive01",
-            "NameEn": "President's Elegance +",
+            "NameEn": "Gorgeous President's Elegance +",
             "DescriptionEn": "Increase Attack Speed by $1. Increase HP by $2."
         },
         {
@@ -1749,7 +1749,7 @@
         {
             "GroupId": "CH0085ExtraPassive01",
             "NameEn": "Little devil's cute plot",
-            "DescriptionEn": "Each time Mutsuki's EX Skill hits 3 enemies, she gains one \"Little devil\" for $1. Can hold up to $2 \"Little devils\", Critical Rate is increased by $3 for every \"Little devil\" that Mutsuki holds (this effect stacks)."
+            "DescriptionEn": "Each time Mutsuki's EX Skill hits 3 enemies, she gains one \"Little devil\" for $1. Can hold up to $2 \"Little devils\", Critical Damage is increased by $3 for every \"Little devil\" that Mutsuki holds."
         }
 
     ]

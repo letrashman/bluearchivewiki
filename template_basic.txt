@@ -1,5 +1,5 @@
 {% raw %}{{{% endraw %}Character
-| Id = 
+| Id = {{character.id}}
 | Name = {{character.name}}
 | Image =
 | JPName = {{character.profile.full_name}}
@@ -12,8 +12,6 @@
 | Illust = {{character.profile.illustrator}}
 | Voice = {{character.profile.voice}}
 | WeaponType = {{character.weapon_type}}
-| CityTownAffinity = {{character.stats.city_affinity}}
-| OutdoorAffinity = {{character.stats.outdoor_affinity}}
 | UsesCover = {{character.uses_cover}}
 | Rarity = {{character.rarity}}
 | CombatClass = {{character.combat_class}}
@@ -21,15 +19,20 @@
 | AttackType = {{character.damage_type}}
 | Position = {{character.position}}
 | Role = {{character.role}}
+| CityTownAffinity = {{character.stats.city_affinity}}
+| OutdoorAffinity = {{character.stats.outdoor_affinity}}
 | IndoorAffinity = {{character.stats.indoor_affinity}}
-| EquipmentSlot1 = 
-| EquipmentSlot2 = 
-| EquipmentSlot3 = 
+| EquipmentSlot1 = {{character.equipment[0]}}
+| EquipmentSlot2 = {{character.equipment[1]}}
+| EquipmentSlot3 = {{character.equipment[2]}}
 | ReleaseDate = 
 {% raw %}}}{% endraw %}
 
 =Background=
-{{character.profile.introduction}}
+{% raw %}{{{% endraw %}CharacterBackground
+| ENText = 
+| JPText = {{character.profile.introduction}}
+{% raw %}}}{% endraw %}
 
 =How to Obtain=
 
@@ -51,59 +54,62 @@
 | minRange = {{character.stats.firing_range}}
 | minCCStr = {{character.stats.cc_strength}}
 | minCCRes = {{character.stats.cc_resistance}}
+| dataSource = raw
 {% raw %}}}{% endraw %}
 
 ===Skills===
 {% raw %}{{{% endraw %}EXSkillTable
-| SkillName = {{character.ex_skill.name_tl}}
+| SkillName = {{character.ex_skill.name_translated}}
 | SkillNameJP = {{character.ex_skill.name}}
 | SkillIconType = {{character.ex_skill.icon}}
 | SkillDamageType = {{character.ex_skill.damage_type}}
 | SkillBaseCost = {{character.ex_skill.levels[0].cost}}
-| SkillDescriptionGeneral = {{character.ex_skill.levels[0].description|colorize}}
+{% for skill in character.ex_skill.skill_cost -%}
+| SkillCostLv{{skill.level}} = {{skill.cost}}
+{% endfor -%}
+| SkillDescriptionGeneral = {{character.ex_skill.description_general|colorize}}
 {% for level in character.ex_skill.levels -%}
 | SkillDescriptionLv{{loop.index}} = {{level.description|colorize}}
 {% endfor -%}
 {% raw %}}}{% endraw %}
 {% raw %}{{{% endraw %}SkillTable
-| SkillName = {{character.normal_skill.name_tl}}
+| SkillName = {{character.normal_skill.name_translated}}
 | SkillNameJP = {{character.normal_skill.name}}
 | SkillIconType = {{character.normal_skill.icon}}
 | SkillDamageType = {{character.normal_skill.damage_type}}
 | SkillType = Normal
-| SkillDescriptionGeneral = {{character.normal_skill.levels[0].description|colorize}}
+| SkillDescriptionGeneral = {{character.normal_skill.description_general|colorize}}
 {% for level in character.normal_skill.levels -%}
 | SkillDescriptionLv{{loop.index}} = {{level.description|colorize}}
 {% endfor -%}
 {% raw %}}}{% endraw %}
 {% raw %}{{{% endraw %}SkillTable
-| SkillName = {{character.passive_skill.name_tl}}
+| SkillName = {{character.passive_skill.name_translated}}
 | SkillNameJP = {{character.passive_skill.name}}
 | SkillIconType = {{character.passive_skill.icon}}
 | SkillDamageType = {{character.passive_skill.damage_type}}
 | SkillType = Passive
-| SkillDescriptionGeneral = {{character.passive_skill.levels[0].description|colorize}}
+| SkillDescriptionGeneral = {{character.passive_skill.description_general|colorize}}
 {% for level in character.passive_skill.levels -%}
 | SkillDescriptionLv{{loop.index}} = {{level.description|colorize}}
 {% endfor -%}
 {% raw %}}}{% endraw %}
 {% raw %}{{{% endraw %}SkillTable
-| SkillName = {{character.sub_skill.name_tl}}
+| SkillName = {{character.sub_skill.name_translated}}
 | SkillNameJP = {{character.sub_skill.name}}
 | SkillIconType = {{character.sub_skill.icon}}
 | SkillDamageType = {{character.sub_skill.damage_type}}
 | SkillType = Sub
-| SkillDescriptionGeneral = {{character.sub_skill.levels[0].description|colorize}}
+| SkillDescriptionGeneral = {{character.sub_skill.description_general|colorize}}
 {% for level in character.sub_skill.levels -%}
 | SkillDescriptionLv{{loop.index}} = {{level.description|colorize}}
 {% endfor -%}
 {% raw %}}}{% endraw %}
-
 ===Skill Upgrade Materials===
 {% raw %}{{{% endraw %}SkillUpgradeTable
 | SkillType = EX Skill
 | SkillNameJP = {{character.ex_skill.name}}
-| SkillNameEN = {{character.ex_skill.name_tl if character.ex_skill.name_tl}}
+| SkillNameEN = {{character.ex_skill.name_translated if character.ex_skill.name_translated}}
 {% for level in character.ex_skill.levels -%}
 {%- set outer_loop = loop -%}
 {% for name, icon, amount in level.materials -%}
@@ -117,7 +123,7 @@
 {% raw %}{{{% endraw %}SkillUpgradeTable
 | SkillType = Normal Skill
 | SkillNameJP = {{character.normal_skill.name}}
-| SkillNameEN = {{character.normal_skill.name_tl if character.normal_skill.name_tl}}
+| SkillNameEN = {{character.normal_skill.name_translated if character.normal_skill.name_translated}}
 {% for level in character.normal_skill.levels -%}
 {%- set outer_loop = loop -%}
 {% for name, icon, amount in level.materials -%}
@@ -131,7 +137,7 @@
 {% raw %}{{{% endraw %}SkillUpgradeTable
 | SkillType = Passive Skill
 | SkillNameJP = {{character.passive_skill.name}}
-| SkillNameEN = {{character.passive_skill.name_tl if character.passive_skill.name_tl}}
+| SkillNameEN = {{character.passive_skill.name_translated if character.passive_skill.name_translated}}
 {% for level in character.passive_skill.levels -%}
 {%- set outer_loop = loop -%}
 {% for name, icon, amount in level.materials -%}
@@ -145,7 +151,7 @@
 {% raw %}{{{% endraw %}SkillUpgradeTable
 | SkillType = Sub Skill
 | SkillNameJP = {{character.sub_skill.name}}
-| SkillNameEN = {{character.sub_skill.name_tl if character.sub_skill.name_tl}}
+| SkillNameEN = {{character.sub_skill.name_translated if character.sub_skill.name_translated}}
 {% for level in character.sub_skill.levels -%}
 {%- set outer_loop = loop -%}
 {% for name, icon, amount in level.materials -%}
@@ -157,4 +163,31 @@
 {% endfor -%}
 {% raw %}}}{% endraw %}
 
+===Unique weapon===
+{% raw %}{{{% endraw %}UniqueWeapon
+| CharacterId = {{character.id}}
+| NameEN = {{character.profile.weapon_name_translated}} 
+| NameJP = {{character.profile.weapon_name}} 
+| DescriptionEN = {{character.profile.weapon_desc_translated}} 
+| DescriptionJP = {{character.profile.weapon_desc}} 
+| Rank2 = {{character.weapon.rank2_desc}}
+| Rank3 = {{character.weapon.rank3_desc}}
+| StatBonusAtk = {{character.weapon.attack_power}}
+| StatBonusAtk100 = {{character.weapon.attack_power_100}}
+| StatBonusHP = {{character.weapon.max_hp}}
+| StatBonusHP100 = {{character.weapon.max_hp_100}}
+| StatBonusHealing = {{character.weapon.heal_power}}
+| StatBonusHealing100 = {{character.weapon.heal_power_100}}
+{% raw %}}}{% endraw %}
+{% raw %}{{{% endraw %}SkillTable
+| SkillName = {{character.passive_weapon_skill.name_translated}}
+| SkillNameJP = {{character.passive_weapon_skill.name}}
+| SkillIconType = {{character.passive_weapon_skill.icon}}
+| SkillDamageType = {{character.passive_weapon_skill.damage_type}}
+| SkillType = Weapon Passive
+| SkillDescriptionGeneral = {{character.passive_weapon_skill.description_general|colorize}}
+{% for level in character.passive_weapon_skill.levels -%}
+| SkillDescriptionLv{{loop.index}} = {{level.description|colorize}}
+{% endfor -%}
+{% raw %}}}{% endraw %}
 [[Category:Characters]]
