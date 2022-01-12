@@ -274,8 +274,8 @@ class Skill(object):
         else:  
             skill_name_en = data.translated_skills[group[0]['GroupId']]['NameEn']
 
-        #if skill_name_en == None:
-            #print (f"No translation found for skill {data.skills_localization[group[0]['LocalizeSkillId']]['NameJp']}, group_id {group_id}")
+        if skill_name_en == None:
+            print (f"No translation found for skill {data.skills_localization[group[0]['LocalizeSkillId']]['NameJp']}, group_id {group_id}")
 
         return cls(
             data.skills_localization[group[0]['LocalizeSkillId']]['NameJp'],

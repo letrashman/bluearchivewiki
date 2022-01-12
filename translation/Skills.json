@@ -1432,21 +1432,6 @@
             "DescriptionEn": "Increase Healing of all allies by $1."
         },
         {
-            "GroupId": "CH0060WeaponPassive01",
-            "NameEn": "Light feelings +",
-            "DescriptionEn": "Increase HP by $1. Increase Attack Speed by $2."
-        },
-        {
-            "GroupId": "CH0061WeaponPassive01",
-            "NameEn": "Gaze of justice +",
-            "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
-        },
-        {
-            "GroupId": "CH0062WeaponPassive01",
-            "NameEn": "Now, eat up and do your best~! +",
-            "DescriptionEn": "Increase Stability by $1. Increase Attack Speed by $2."
-        },
-        {
             "GroupId": "CH0063WeaponPassive01",
             "NameEn": "Merciless Disciplinary Committee +",
             "DescriptionEn": "Increase CC Strength by $1. Increase Critical Rate by $2."
@@ -1485,21 +1470,6 @@
             "GroupId": "CH0140WeaponPassive01",
             "NameEn": "Taking immediate action! +",
             "DescriptionEn": "Increase Attack Speed by $1. Increase HP by $2."
-        },
-        {
-            "GroupId": "CH0058WeaponPassive01",
-            "NameEn": "Collector's Fighting Spirit +",
-            "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
-        },
-        {
-            "GroupId": "CH0059WeaponPassive01",
-            "NameEn": "Freezing Temperature +",
-            "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
-        },
-        {
-            "GroupId": "CH0133WeaponPassive01",
-            "NameEn": "Elixir of concentration +",
-            "DescriptionEn": "Increase Stability by $1. Further increase Critical Damage by $2."
         },
         {
             "GroupId": "CH0163Ex01",
@@ -1733,7 +1703,7 @@
         },
         {
             "GroupId": "CH0085Public01",
-            "NameEn": "Little devil chorus ",
+            "NameEn": "Little devil chorus",
             "DescriptionEn": "Every $1, deal $2 damage to enemies in a straight line. <br>If Mutsuki currently holds 6 \"Little devils\", deal an additional $3 damage."
         },
         {
@@ -1750,6 +1720,181 @@
             "GroupId": "CH0085ExtraPassive01",
             "NameEn": "Little devil's cute plot",
             "DescriptionEn": "Each time Mutsuki's EX Skill hits 3 enemies, she gains one \"Little devil\" for $1. Can hold up to $2 \"Little devils\", Critical Damage is increased by $3 for every \"Little devil\" that Mutsuki holds."
+        },
+        {
+            "GroupId": "CH0059Ex01",
+            "NameEn": "Biting Water",
+            "DescriptionEn": "Deal $1 damage to a single enemy and apply $2 continuous cold damage over $3."
+        },
+        {
+            "GroupId": "CH0059Public01",
+            "NameEn": "Anger Beach",
+            "DescriptionEn": "Every $1, increase Crit Damage by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "CH0059Passive01",
+            "NameEn": "Freezing Temperature",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "CH0059WeaponPassive01",
+            "NameEn": "Freezing Temperature +",
+            "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
+        },
+        {
+            "GroupId": "CH0059ExtraPassive01",
+            "NameEn": "Saltwater in the Wound",
+            "DescriptionEn": "When attacking, there is a $1 chance to reduce target's Defense by $2 for $3. (Cooldown: $4)"
+        },
+        {
+            "GroupId": "CH0090Ex01",
+            "NameEn": "You're interrupting my work!",
+            "DescriptionEn": "Deal $1 damage enemies in an arch-shaped area.<br>Reduce their Critical Rate by $2 for $3."
+        },
+        {
+            "GroupId": "CH0090Public01",
+            "NameEn": "As a shrine maiden, I'll pray for you!",
+            "DescriptionEn": "Every $1, increase Attack of allies within a circular area by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "CH0090Passive01",
+            "NameEn": "Shrine maiden's determination",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "CH0090WeaponPassive01",
+            "NameEn": "Shrine maiden's determination +",
+            "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
+        },
+        {
+            "GroupId": "CH0090ExtraPassive01",
+            "NameEn": "Shrine maiden's tenacity",
+            "DescriptionEn": "Increase Critical Damage Resistance of all allies by $1."
+        },
+        {
+            "GroupId": "CH0133Ex01",
+            "NameEn": "It's a gift from me!",
+            "DescriptionEn": "Create a horizontal area, enemies within area are dealt $1 continuous damage. (Duration: $2)"
+        },
+        {
+            "GroupId": "CH0133Public01",
+            "NameEn": "Research never ends!",
+            "DescriptionEn": "Every $1, deal $2 damage to all enemies within a circular area."
+        },
+        {
+            "GroupId": "CH0133Passive01",
+            "NameEn": "Elixir of concentration",
+            "DescriptionEn": "Increase Critical Damage by $1."
+        },
+        {
+            "GroupId": "CH0133WeaponPassive01",
+            "NameEn": "Elixir of concentration +",
+            "DescriptionEn": "Increase Stability by $1. Increase Critical Damage by $2."
+        },
+        {
+            "GroupId": "CH0133ExtraPassive01",
+            "NameEn": "It's not a suspicious drug!",
+            "DescriptionEn": "Increase Critical Damage of all allies by $1."
+        },
+        {
+            "GroupId": "CH0058Ex01",
+            "NameEn": "Crusader-chan, please!",
+            "DescriptionEn": "Hifumi enters the battlefield riding Crusader-chan.<br>Its Attack is increased by $1 of Hifumi's Attack. (Duration: $2)<br>Every $3, Crusader-chan will activate its \"2-pounder loaded with HE shell!\" skill and deal $4 damage to enemies in an area.<br>(Only one tactical support vehicle can be fielded at any given time)"
+        },
+        {
+            "GroupId": "CH0058Public01",
+            "NameEn": "Peroro-sama's Attack",
+            "DescriptionEn": "Every $1, deal $2 damage to enemies in an area."
+        },
+        {
+            "GroupId": "CH0058Passive01",
+            "NameEn": "Collector's Fighting Spirit",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "CH0058WeaponPassive01",
+            "NameEn": "Collector's Fighting Spirit +",
+            "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
+        },
+        {
+            "GroupId": "CH0058ExtraPassive01",
+            "NameEn": "Angry Adelie's Blessing",
+            "DescriptionEn": "Increase Attack Speed of all allies by $1."
+        },
+        {
+            "GroupId": "CH0060Ex01",
+            "NameEn": "Unstoppable torrent",
+            "DescriptionEn": "Normal attack deals additional $1 damage. (Duration: $2)"
+        },
+        {
+            "GroupId": "CH0060Public01",
+            "NameEn": "A burning blow",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy."
+        },
+        {
+            "GroupId": "CH0060Passive01",
+            "NameEn": "Light feelings",
+            "DescriptionEn": "Increase Attack Speed by $1."
+        },
+        {
+            "GroupId": "CH0060WeaponPassive01",
+            "NameEn": "Light feelings +",
+            "DescriptionEn": "Increase HP by $1. Increase Attack Speed by $2."
+        },
+        {
+            "GroupId": "CH0060ExtraPassive01",
+            "NameEn": "Burning body",
+            "DescriptionEn": "When Normal skill is activated, increase Attack Speed by $1 for $2."
+        },
+        {
+            "GroupId": "CH0061Ex01",
+            "NameEn": "Baptism of justice",
+            "DescriptionEn": "Decrease Evasion of a single enemy by $1 for $2. Then, deal $3 damage to that enemy."
+        },
+        {
+            "GroupId": "CH0061Public01",
+            "NameEn": "Cooperation of justice",
+            "DescriptionEn": "Every $1, increase Critical Damage of an ally with the highest Attack by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "CH0061Passive01",
+            "NameEn": "Gaze of justice",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "CH0061WeaponPassive01",
+            "NameEn": "Gaze of justice +",
+            "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
+        },
+        {
+            "GroupId": "CH0061ExtraPassive01",
+            "NameEn": "Blessing of justice",
+            "DescriptionEn": "Increase Accuracy of all allies by $1."
+        },
+        {
+            "GroupId": "CH0062Ex01",
+            "NameEn": "Filled with coconut juice!",
+            "DescriptionEn": "Throw coconut at an enemy, dealing $1 damage. If there are other enemies around the target that have not been hit, the coconut will bounce in their direction and deal damage again (the amount of damage from the second time onwards is reduced by 10%) Deals up to 5 hits. Stun enemies hit for $2"
+        },
+        {
+            "GroupId": "CH0062Public01",
+            "NameEn": "Sweet and sour and delicious!",
+            "DescriptionEn": "Every $1, increase Attack by $2 for $3."
+        },
+        {
+            "GroupId": "CH0062Passive01",
+            "NameEn": "Now, eat up and do your best~!",
+            "DescriptionEn": "Increase Attack Speed by $1."
+        },
+        {
+            "GroupId": "CH0062WeaponPassive01",
+            "NameEn": "Now, eat up and do your best~! +",
+            "DescriptionEn": "Increase Stability by $1. Increase Attack Speed by $2."
+        },
+        {
+            "GroupId": "CH0062ExtraPassive01",
+            "NameEn": "Ice-cold, but delicious~",
+            "DescriptionEn": "Attacks have a $1 chance to stun for $2. (Cooldown: $3)"
         }
 
     ]

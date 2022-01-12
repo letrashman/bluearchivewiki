@@ -646,6 +646,15 @@
             "NameEN": "Trick or Treat",
             "DescriptionJP": "ムツキがいつも持ち歩いているマシンガン。\n\nお正月を迎えて着飾った彼女だが、きちんとその鞄の中には銃が仕舞われている。ムツキ曰くいざとなれば即座に取り出せるようになっており、悪戯には何の支障も無いとのこと。",
             "DescriptionEN": "A machine gun that Mutsuki always carries with her.<br>She is all dressed up for the New Year, but still has the gun in her bag. According to Mutsuki, the gun is ready to be taken out at a moment's notice, so pranks can go on."
+        },
+        
+        {
+            "Id": 20011,
+            "NameJP": "シンシアリティ",
+            "NameEN": "Sincerity",
+            "DescriptionJP": "セリカがバイトに出る時も携帯しているアサルトライフル。\n\n巫女さんのアルバイトであってもそれは例外ではなく、新年だからと他者に迷惑をかける問題児の沈静化にも使われている模様。",
+            "DescriptionEN": "An assault rifle Serika carries to her part-time job. <br>Even the part-time job of a shrine maiden is no exception to this rule, and it comes handy to reign in bothersome children who cause trouble to others because it is the New Year."
         }
+
     ]
 }
