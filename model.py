@@ -5,7 +5,7 @@ import re
 
 
 class Character(object):
-    def __init__(self, id, name, dev_name, name_en, rarity, school, role, position, damage_type, armor_type, combat_class, equipment, weapon_type,
+    def __init__(self, id, name, dev_name, name_en, family_name_en, rarity, school, role, position, damage_type, armor_type, combat_class, equipment, weapon_type,
                  uses_cover, profile, normal_skill, ex_skill, passive_skill, passive_weapon_skill, sub_skill, stats, weapon, favor, memory_lobby):
         self.id = id
         self.name = name
@@ -32,6 +32,7 @@ class Character(object):
 
         self.dev_name = dev_name
         self.name_translated = name_en
+        self.family_name_translated = family_name_en
 
     @property
     def role(self):
@@ -83,6 +84,7 @@ class Character(object):
             data.characters_localization[character_id]['PersonalNameJp'],
             character['DevName'],
             data.translated_characters[character_id]['PersonalNameEn'],
+            data.translated_characters[character_id]['FamilyNameEn'],
             character['DefaultStarGrade'],
             character['School'],
             character['TacticRole'],
@@ -107,7 +109,7 @@ class Character(object):
 
 
 class Profile(object):
-    def __init__(self, full_name, age, birthday, height, hobbies, illustrator, voice, introduction, reading, weapon_name, weapon_desc, weapon_name_translated, weapon_desc_translated):
+    def __init__(self, full_name, age, birthday, height, hobbies, illustrator, voice, introduction_jp, introduction_en, reading, release_date_jp, weapon_name, weapon_desc, weapon_name_translated, weapon_desc_translated):
         self.full_name = full_name
         self._age = age
         self._birthday = birthday
@@ -115,8 +117,10 @@ class Profile(object):
         self.hobbies = hobbies
         self.illustrator = illustrator
         self.voice = voice
-        self.introduction = introduction
+        self.introduction_jp = introduction_jp
+        self.introduction_en = introduction_en
         self.reading = reading
+        self.release_date_jp = release_date_jp
         self.weapon_name = weapon_name
         self.weapon_desc = weapon_desc
         self.weapon_name_translated = weapon_name_translated
@@ -150,6 +154,10 @@ class Profile(object):
         profile = data.characters_localization[character_id]
         weapon = data.translated_weapons[character_id]
 
+        release_date_jp = 'ReleaseDateJp' in data.translated_characters[character_id] and data.translated_characters[character_id]['ReleaseDateJp'] or ''
+        introduction_en = 'ProfileIntroductionEn' in data.translated_characters[character_id] and data.translated_characters[character_id]['ProfileIntroductionEn'] or ''
+        #full_name_en = 
+
         #translator = Translator()
         #
         #weapon_name_translated = translator.translate(profile['WeaponNameJp'], dest='en', src='ja').text
@@ -166,8 +174,10 @@ class Profile(object):
             profile['HobbyJp'],
             profile['ArtistNameJp'],
             profile['CharacterVoiceJp'],
-            profile['ProfileIntroductionJp'],
+            profile['ProfileIntroductionJp'].replace("\n\n",'<br>'),
+            introduction_en.replace("\n\n",'<br>'),
             f'{profile["FamilyNameRubyJp"]} {profile["PersonalNameJp"]}',
+            release_date_jp,
             profile['WeaponNameJp'],
             profile['WeaponDescJp'].replace("\n\n",'<br>'),
             weapon['NameEN'],

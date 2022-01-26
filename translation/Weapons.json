@@ -341,7 +341,7 @@
             "NameJP": "第3号ヴァルキューレ制式拳銃",
             "NameEN": "No. 3 Valkyrie Standard Handgun",
             "DescriptionJP": "キリノがヴァルキューレ警察学校から支給されている制式拳銃。<br>キリノは自分の射撃の腕がおかしいのはこの銃のせいではと思っているが、特に銃に異常は無い。",
-            "DescriptionEN": "Standard model handgun issued to Kirino by Valkyrie Police School.<br>Even though Kirino blames her questionable shooting skills on this gun, there is nothing particularly wrong with it.<br>"
+            "DescriptionEN": "Standard model handgun issued to Kirino by Valkyrie Police Academy.<br>Even though Kirino blames her questionable shooting skills on this gun, there is nothing particularly wrong with it."
         },
 
         {
@@ -654,6 +654,38 @@
             "NameEN": "Sincerity",
             "DescriptionJP": "セリカがバイトに出る時も携帯しているアサルトライフル。\n\n巫女さんのアルバイトであってもそれは例外ではなく、新年だからと他者に迷惑をかける問題児の沈静化にも使われている模様。",
             "DescriptionEN": "An assault rifle Serika carries to her part-time job. <br>Even the part-time job of a shrine maiden is no exception to this rule, and it comes handy to reign in bothersome children who cause trouble to others because it is the New Year."
+        },
+
+        {
+            "Id": 10033,
+            "NameJP": "真紅の災厄",
+            "NameEN": "Crimson Calamity",
+            "DescriptionJP": "ワカモの愛用するライフル。<br>古風な外観に反して、いつも炎と火薬の匂いを漂わせている。現在は先生の身の回りの「邪魔もの」に向けて放たれることが多い。",
+            "DescriptionEN": "Wakamo's favorite rifle. <br>Despite its old-fashioned appearance, it always smells of flames and gunpowder. Nowadays, it is often used against \"obstacles\" around the teacher."
+        },
+
+        {
+            "Id": 16008,
+            "NameJP": "第14号ヴァルキューレ制式ライフル",
+            "NameEN": "No. 14 Valkyrie Standard Rifle",
+            "DescriptionJP": "フブキがヴァルキューレ警察学校から支給されている制式ライフル。<br>独自の高い威力を誇るが、フブキが管理を疎かにしがちなため、本来の性能を発揮できずにいる。",
+            "DescriptionEN": "Standard model rifle provided to Fubuki by Valkyrie Police Academy.<br>Designed for high power, but performs below expectation due to Fubuki's lackluster maintenance."
+        },
+
+        {
+            "Id": 20012,
+            "NameJP": "救急用突入キット",
+            "NameEN": "Emergency entry kit",
+            "DescriptionJP": "セナの使用するショートバレルのグレネードランチャー。<br>救急出動時の障害物を素早く取り除くための道具。障害物の中には仕事の邪魔をする相手も含まれる。",
+            "DescriptionEN": "Short-barrel grenade launcher used by Sena.<br>A tool for quickly removing obstacles during emergency dispatch. Obstacles include those who would interfere with her work."
+        },
+
+        {
+            "Id": 20013,
+            "NameJP": "バックドア",
+            "NameEN": "Backdoor",
+            "DescriptionJP": "チヒロが使用するアサルトライフル。<br>彼女の言葉によると、暗号化されたパスワードを手に入れる最も早い手段だとか。",
+            "DescriptionEN": "Assault rifle used by Chihiro. <br>According to her, it's the fastest way to get the encrypted password."
         }
 
     ]

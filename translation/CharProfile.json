@@ -311,7 +311,7 @@
      {
       "CharacterId": 19004,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Erika_default"
+       "PersonalNameEn": "Erika"
      },
      {
       "CharacterId": 19005,
@@ -331,17 +331,17 @@
      {
       "CharacterId": 10024,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Shiroko_RidingSuit"
+       "PersonalNameEn": "Shiroko (Riding)"
      },
      {
       "CharacterId": 10028,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Asuna (Bunny Girl) CH0098"
+       "PersonalNameEn": "Asuna (Bunny Girl)"
      },
      {
       "CharacterId": 10029,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Natsu CH0155"
+       "PersonalNameEn": "Natsu"
      },     {
       "CharacterId": 13012,
        "FamilyNameEn": "null",
@@ -350,17 +350,17 @@
      {
       "CharacterId": 20004,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Mashiro_Swimsuit"
+       "PersonalNameEn": "Mashiro (Swimsuit)"
      },
      {
       "CharacterId": 20005,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Hihumi_Swimsuit"
+       "PersonalNameEn": "Hihumi (Swimsuit)"
      },
      {
       "CharacterId": 20006,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Saya (Casual) CH0133"
+       "PersonalNameEn": "Saya (Casual)"
      },
      {
       "CharacterId": 23008,
@@ -370,52 +370,52 @@
      {
       "CharacterId": 20008,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Ako_default"
+       "PersonalNameEn": "Ako"
      },
      {
       "CharacterId": 20007,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Hatsune Miku CH9999"
+       "PersonalNameEn": "Hatsune Miku"
      },
      {
       "CharacterId": 16005,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Tsurugi_Swimsuit"
+       "PersonalNameEn": "Tsurugi (Swimsuit)"
      },
      {
       "CharacterId": 16006,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Izumi_swimsuit"
+       "PersonalNameEn": "Izumi (Swimsuit)"
      },
      {
       "CharacterId": 10021,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Azusa_Swimsuit"
+       "PersonalNameEn": "Azusa (Swimsuit)"
      },
      {
       "CharacterId": 10022,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Hina (Swimsuit) CH0063"
+       "PersonalNameEn": "Hina (Swimsuit)"
      },
      {
       "CharacterId": 10023,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Iori (Swimsuit) CH0064"
+       "PersonalNameEn": "Iori (Swimsuit)"
      },
      {
       "CharacterId": 10025,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Shun (Kid) CH0066"
+       "PersonalNameEn": "Shun (Kid)"
      },
      {
       "CharacterId": 10026,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Neru (Bunny Girl) CH0101"
+       "PersonalNameEn": "Neru (Bunny Girl)"
      },
      {
       "CharacterId": 10027,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Karin (Bunny Girl) CH0100"
+       "PersonalNameEn": "Karin (Bunny Girl)"
      },
      {
       "CharacterId": 16007,
@@ -425,38 +425,69 @@
      {
       "CharacterId": 10030,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Chinatsu (Hot Spring) CH0163"
+       "PersonalNameEn": "Chinatsu (Hot Spring)"
      },
      {
       "CharacterId": 20009,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Cherino (Hot Spring) CH0164"
+       "PersonalNameEn": "Cherino (Hot Spring)"
      },
      {
       "CharacterId": 20010,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Nodoka (Hot Spring) CH0165"
+       "PersonalNameEn": "Nodoka (Hot Spring)"
      },
      {
       "CharacterId": 19004,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Mimori_default"
+       "PersonalNameEn": "Mimori"
      },
      {
       "CharacterId": 10031,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Aru_Newyear"
+       "PersonalNameEn": "Aru (New Year)"
      },
      {
       "CharacterId": 10032,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Mutsuki_Newyear"
+       "PersonalNameEn": "Mutsuki (New Year)"
      },
      {
       "CharacterId": 20011,
        "FamilyNameEn": "null",
-       "PersonalNameEn": "Serika_Newyear"
+       "PersonalNameEn": "Serika (New Year)",
+       "ProfileIntroductionEn": "A member of the Abydos Countermeasure Committee, who is now employed as a shrine maiden(?).<br>       Serika has been working hard at her various part-time jobs so that she can help the countermeasures committee as much as possible. For the New Year, she chose a shrine maiden's part-time job. Although she is not particularly fond of or knowledgeable about shrine maidens, Serika is, as usual, resolved to do her best at whatever job she's been entrusted with (apparently there is also a matter of getting paid more if you act as becomes a shrine maiden)."
+     },
+     {
+      "CharacterId": 10033,
+       "FamilyNameEn": "Kosaka",
+       "PersonalNameEn": "Wakamo",
+       "ProfileIntroductionEn": "Formerly from Hyakkiyako Alliance Academy, Wakamo is one of the \"Seven Prisoners\" that escaped from Corrections Bureau after being suspended from school. <br>Known as the Fox of Misfortune for her indiscriminate and large-scale destruction, and is widely feared. Her motives and purpose are shrouded in mystery. Her true face, hidden beneath the mask, is rumored to be as scary as a demon or as ugly as the devil.",
+       "ReleaseDateJp": "2022/01/26"
+     },
+     {
+      "CharacterId": 16008,
+       "FamilyNameEn": "Nemugaki",
+       "PersonalNameEn": "Fubuki",
+       "ProfileIntroductionEn": "A lazy student of the Community Safety Bureau of Valkyrie Police Academy.<br>She enrolled in the Valkyrie Police Academy pursuing the carefree life of a civil servant. Treats any incoming complaints with utter indifference, and enjoys the life of a window-gazer who's not motivated by money nor honor. Her favorite thing to do is to listen to the radio while eating a doughnut.",
+       "ReleaseDateJp": "2022/01/26"
+     },
+     {
+      "CharacterId": 20012,
+       "FamilyNameEn": "Himuro",
+       "PersonalNameEn": "Sena",
+       "ProfileIntroductionEn": "Head of the Emergency Medicine Department within Gehenna Academy.<br>Although she has saved countless people in the course of her career, Sena's habit of calling injured people \"corpses\" and the rough way she treats patients has made some students shy away from her.",
+       "ReleaseDateJp": "2022/01/30"
+     },
+     {
+      "CharacterId": 20013,
+       "FamilyNameEn": "Kagami",
+       "PersonalNameEn": "Chihiro",
+       "ProfileIntroductionEn": "Deputy director of the hacker group Veritas, a member of the Millennium Science School.<br>Chihiro is a hacker with outstanding programming skills who tries to avoid abusing her abilities. She is the collective consciousness of Veritas group, which is full of mischievous children, and although Chihiro always gives passionate speeches about \"proper hacker ethics\" to the club members, she is also willing to put in greyhat work when necessary.",
+       "ReleaseDateJp": "2022/01/30"
      }
+
+
 
 
 

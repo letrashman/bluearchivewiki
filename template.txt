@@ -1,9 +1,9 @@
 {% raw %}{{{% endraw %}Character
 | Id = {{character.id}}
-| Name = {{character.name}}
-| Image =
+| Name = {{character.name_translated}}
+| Image = {{character.name_translated}}_full.png
 | JPName = {{character.profile.full_name}}
-| JPReading = {{character.profile.reading}}
+| JPReading = {{character.family_name_translated}} {{character.name_translated}}
 | School = {{character.school}}
 | Age = {{character.profile.age}}
 | Birthday = {{character.profile.birthday}}
@@ -25,15 +25,19 @@
 | EquipmentSlot1 = {{character.equipment[0]}}
 | EquipmentSlot2 = {{character.equipment[1]}}
 | EquipmentSlot3 = {{character.equipment[2]}}
-| ReleaseDate = 
+| ReleaseDate = {{character.profile.release_date_jp}}
 {% raw %}}}{% endraw %}
-
 =Background=
 {% raw %}{{{% endraw %}CharacterBackground
-| ENText = 
-| JPText = {{character.profile.introduction}}
+| ENText = {{character.profile.introduction_en}}
+| JPText = {{character.profile.introduction_jp}}
 {% raw %}}}{% endraw %}
-
+{% raw %}{{#dpl:
+| category        = Furniture
+| linksto         = {{PAGENAME}}
+| format          = ,,,
+| include         = {Furniture{{!}}CharacterCafeInteraction.dpl}
+}}{% endraw %}
 =How to Obtain=
 
 =Character Details=
@@ -72,7 +76,6 @@
 | ordermethod     = title
 | include         = {CharacterAffectionTable}
 }}{% endraw %}
-
 ===Skills===
 {% raw %}{{{% endraw %}EXSkillTable
 | SkillName = {{character.ex_skill.name_translated}}

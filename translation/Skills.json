@@ -18,7 +18,7 @@
         {
             "GroupId": "PinaWeaponPassive01",
             "NameEn": "Sharp Intuition +",
-            "DescriptionEn": "Increase Critical Rate by $2. Further increase Critical Rate by $2."
+            "DescriptionEn": "Increase Critical Rate by $1. Further increase Critical Rate by $2."
         },
         {
             "GroupId": "PinaExtraPassive01",
@@ -308,17 +308,17 @@
         },
         {
             "GroupId": "FuukaPublic01",
-            "NameEn": "Kindnes of School Lunch Club",
+            "NameEn": "Kindness of School Lunch Club",
             "DescriptionEn": "Every $1, Fuuka increases Defense of an ally with the highest HP by $2. (Duration: $3)"
         },
         {
             "GroupId": "FuukaPassive01",
-            "NameEn": "Let's garther fresh ingredients",
+            "NameEn": "Let's gather fresh ingredients",
             "DescriptionEn": "Increase Healing by $1."
         },
         {
             "GroupId": "FuukaWeaponPassive01",
-            "NameEn": "Let's garther fresh ingredients +",
+            "NameEn": "Let's gather fresh ingredients +",
             "DescriptionEn": "Increase Healing by $1. Further increase Healing by $2."
         },
         {
@@ -1184,7 +1184,7 @@
         {
             "GroupId": "HareEx01",
             "NameEn": "Deploy EMP Drone",
-            "DescriptionEn": "Deal $1 damage to enemies in a circular area and inflict Faint for $2."
+            "DescriptionEn": "Deal $1 damage to enemies in a circular area and Stun them for $2."
         },
         {
             "GroupId": "HarePublic01",
@@ -1430,26 +1430,6 @@
             "GroupId": "CH0055ExtraPassive01",
             "NameEn": "It's not embarrassing if we're together!",
             "DescriptionEn": "Increase Healing of all allies by $1."
-        },
-        {
-            "GroupId": "CH0063WeaponPassive01",
-            "NameEn": "Merciless Disciplinary Committee +",
-            "DescriptionEn": "Increase CC Strength by $1. Increase Critical Rate by $2."
-        },
-        {
-            "GroupId": "CH0064WeaponPassive01",
-            "NameEn": "Precise Shot +",
-            "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
-        },
-        {
-            "GroupId": "CH0066WeaponPassive01",
-            "NameEn": "Enthusiastic +",
-            "DescriptionEn": "Increase Attack by $1. Increase Attack Speed by $2."
-        },
-        {
-            "GroupId": "CH0065WeaponPassive01",
-            "NameEn": "Rapid Fire +",
-            "DescriptionEn": "Increase Attack Speed by $1. Further increase Attack Speed by $2."
         },
         {
             "GroupId": "CH0100WeaponPassive01",
@@ -1874,7 +1854,7 @@
         {
             "GroupId": "CH0062Ex01",
             "NameEn": "Filled with coconut juice!",
-            "DescriptionEn": "Throw coconut at an enemy, dealing $1 damage. If there are other enemies around the target that have not been hit, the coconut will bounce in their direction and deal damage again (the amount of damage from the second time onwards is reduced by 10%) Deals up to 5 hits. Stun enemies hit for $2"
+            "DescriptionEn": "Throw coconut at an enemy, dealing $1 damage. If there are other enemies around the target that have not been hit, the coconut will bounce in their direction and deal damage again (the amount of damage from the second time onwards is reduced by 10%) Deals up to 5 hits. Stun enemies hit for $2."
         },
         {
             "GroupId": "CH0062Public01",
@@ -1895,6 +1875,206 @@
             "GroupId": "CH0062ExtraPassive01",
             "NameEn": "Ice-cold, but delicious~",
             "DescriptionEn": "Attacks have a $1 chance to stun for $2. (Cooldown: $3)"
+        },
+        {
+            "GroupId": "CH0063Ex01",
+            "NameEn": "Distant seas: Ishbóshet",
+            "DescriptionEn": "Deal 232~441% damage to up to 5 enemies in fan-shaped area."
+        },
+        {
+            "GroupId": "CH0063Public01",
+            "NameEn": "Slow and Knock out",
+            "DescriptionEn": "Every $1, deal $2 damage to a single enemy and stun them for $3."
+        },
+        {
+            "GroupId": "CH0063Passive01",
+            "NameEn": "Merciless Disciplinary Committee",
+            "DescriptionEn": "Increase Critical Rate by $1."
+        },
+        {
+            "GroupId": "CH0063WeaponPassive01",
+            "NameEn": "Merciless Disciplinary Committee +",
+            "DescriptionEn": "Increase CC Strength by $1. Increase Critical Rate by $2."
+        },
+        {
+            "GroupId": "CH0063ExtraPassive01",
+            "NameEn": "Use of Force",
+            "DescriptionEn": "When EX skill is activated, increase Attack by $1. Stacks up to a maximum of $2 times."
+        },
+        {
+            "GroupId": "CH0064Ex01",
+            "NameEn": "Storm and Stress",
+            "DescriptionEn": "Deal $1 damage to enemies in a circular area."
+        },
+        {
+            "GroupId": "CH0064Public01",
+            "NameEn": "Swift and Skilful Resolution",
+            "DescriptionEn": "Every $1, deal $2 damage to a single enemy. Additionally, inflict $3 continuous chill damage. (Duration: $4)"
+        },
+        {
+            "GroupId": "CH0064Passive01",
+            "NameEn": "Precise Shot",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "CH0064WeaponPassive01",
+            "NameEn": "Precise Shot +",
+            "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
+        },
+        {
+            "GroupId": "CH0064ExtraPassive01",
+            "NameEn": "Specialist's Might",
+            "DescriptionEn": "When attacking, there is a $1 chance to inflict continuous chill damage equivalent to $2 of Attack for $3. (Cooldown: $4)"
+        },
+        {
+            "GroupId": "CH0065Ex01",
+            "NameEn": "Ride & Grenade",
+            "DescriptionEn": "Deal $1 damage to enemies in a circular area and reduce their Attack by $2 for $3."
+        },
+        {
+            "GroupId": "CH0065Public01",
+            "NameEn": "One-point breakthrough",
+            "DescriptionEn": "Every $1, deal $2 damage to enemies in a straight line."
+        },
+        {
+            "GroupId": "CH0065Passive01",
+            "NameEn": "Rapid Fire",
+            "DescriptionEn": "Increase Attack Speed by $1."
+        },
+        {
+            "GroupId": "CH0065WeaponPassive01",
+            "NameEn": "Rapid Fire +",
+            "DescriptionEn": "Increase Attack Speed by $1. Further increase Attack Speed by $2."
+        },
+        {
+            "GroupId": "CH0065ExtraPassive01",
+            "NameEn": "Sharp Eyes",
+            "DescriptionEn": "When attacking weakened enemies, deal additional damage of $1 Attack."
+        },
+        {
+            "GroupId": "CH0066Ex01",
+            "NameEn": "That's not how it's supposed to work, okay?",
+            "DescriptionEn": "Deal $1 damage to a single target. (Ignores $2 of target's Defense)"
+        },
+        {
+            "GroupId": "CH0066Public01",
+            "NameEn": "That's dangerous!",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy."
+        },
+        {
+            "GroupId": "CH0066Passive01",
+            "NameEn": "Enthusiastic",
+            "DescriptionEn": "Increase Attack Speed by $1."
+        },
+        {
+            "GroupId": "CH0066WeaponPassive01",
+            "NameEn": "Enthusiastic +",
+            "DescriptionEn": "Increase Attack by $1. Increase Attack Speed by $2."
+        },
+        {
+            "GroupId": "CH0066ExtraPassive01",
+            "NameEn": "Unbalanced",
+            "DescriptionEn": "When using EX skill, decrease Attack by $1 for $2. Afterwards, increase Attack by $4 for $3."
+        },
+        {
+            "GroupId": "CH0111Ex01",
+            "NameEn": "Crimson Flower Divination",
+            "DescriptionEn": "Deal $1 damage to one enemy. After that, the damage done by the allies to that enemy is added up for $2, and the resulting damage is done again as Mystic type.<br>(This damage can not be critical, maximum amount of damage that can be accumulated is $3 of Wakamo's Attack)"
+        },
+        {
+            "GroupId": "CH0111Public01",
+            "NameEn": "Cherry Blossom Storm",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy."
+        },
+        {
+            "GroupId": "CH0111Passive01",
+            "NameEn": "Destructive urges in full bloom",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "CH0111WeaponPassive01",
+            "NameEn": "Destructive urges in full bloom +",
+            "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
+        },
+        {
+            "GroupId": "CH0111ExtraPassive01",
+            "NameEn": "Fighting instincts in full bloom",
+            "DescriptionEn": "When attacking a BOSS, deal additional damage of $1 Attack."
+        },
+        {
+            "GroupId": "CH0160Ex01",
+            "NameEn": "Override",
+            "DescriptionEn": "Deal $1 damage to one enemy. If the enemy's defense type is Heavy armor, Stun them for $2."
+        },
+        {
+            "GroupId": "CH0160Public01",
+            "NameEn": "Into the backdoor",
+            "DescriptionEn": "Every $1, decrease Attack of one enemy with the highest Attack by $1 for $2."
+        },
+        {
+            "GroupId": "CH0160Passive01",
+            "NameEn": "Exploit",
+            "DescriptionEn": "Increase Critical Damage by $1."
+        },
+        {
+            "GroupId": "CH0160WeaponPassive01",
+            "NameEn": "Exploit +",
+            "DescriptionEn": "Increase Critical Damage by $1. Further increase Critical Damage by $2."
+        },
+        {
+            "GroupId": "CH0160ExtraPassive01",
+            "NameEn": "Deploying firewall",
+            "DescriptionEn": "Increase CC Strength of all allies by $1."
+        },
+        {
+            "GroupId": "CH0081Ex01",
+            "NameEn": "Emergency dispatch",
+            "DescriptionEn": "Sena enters the battlefield riding Emergency Vehicle No. 11. Its Healing is increased by $1 of Sena's Healing power. (Duration: $2)<br>Attack of allies (excluding Sena herself) within the circular range around Emergency Vehicle No. 11 is increased by $3, and they are healed for $5 Healing every $4.<br>(Only one tactical support vehicle can be fielded at any given time)"
+        },
+        {
+            "GroupId": "CH0081Public01",
+            "NameEn": "Stimulant injection",
+            "DescriptionEn": "Every $1, increase Attack of one ally with the highest Attack by $2 for $3."
+        },
+        {
+            "GroupId": "CH0081Passive01",
+            "NameEn": "Emergency support",
+            "DescriptionEn": "Increase Healing by $1."
+        },
+        {
+            "GroupId": "CH0081WeaponPassive01",
+            "NameEn": "Emergency support +",
+            "DescriptionEn": "Increase Healing by $1. Further increase Healing by $2."
+        },
+        {
+            "GroupId": "CH0081ExtraPassive01",
+            "NameEn": "As soon as possible",
+            "DescriptionEn": "Increase Attack of all allies by $1."
+        },
+        {
+            "GroupId": "CH0141Ex01",
+            "NameEn": "First of all, rest well",
+            "DescriptionEn": "Increase Attack by $1 for $2."
+        },
+        {
+            "GroupId": "CH0141Public01",
+            "NameEn": "One last bite!",
+            "DescriptionEn": "Whenever ammo count reaches 3 or less, deal $1 damage to one enemy and Stun them for $2.<br>Reduce Ammo count by $3."
+        },
+        {
+            "GroupId": "CH0141Passive01",
+            "NameEn": "Traffic control",
+            "DescriptionEn": "Increase CC Strength by $1."
+        },
+        {
+            "GroupId": "CH0141WeaponPassive01",
+            "NameEn": "Traffic control +",
+            "DescriptionEn": "Increase Critical Rate by $1. Increase CC Strength by $2."
+        },
+        {
+            "GroupId": "CH0141ExtraPassive01",
+            "NameEn": "I think I'll take you up on that",
+            "DescriptionEn": "When any ally uses an EX skill, increases Fubuki's Attack by $1 for $2."
         }
 
     ]
