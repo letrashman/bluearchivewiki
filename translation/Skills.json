@@ -374,7 +374,7 @@
         {
             "GroupId": "YoshimiExtraPassive01",
             "NameEn": "Listen to what I have to say!",
-            "DescriptionEn": "Increase CC Resistance of all allies by $1."
+            "DescriptionEn": "Increase CC Strength of all allies by $1."
         },
         {
             "GroupId": "YuukaEx01",
@@ -999,7 +999,7 @@
         {
             "GroupId": "AiriWeaponPassive01",
             "NameEn": "The power of pudding +",
-            "DescriptionEn": "Increase Healing by $1. Increase Attack by $2."
+            "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
         },
         {
             "GroupId": "AiriExtraPassive01",

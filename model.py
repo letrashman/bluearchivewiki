@@ -64,7 +64,7 @@ class Character(object):
     def combat_class(self):
         return {
             'Main': 'Striker',
-            'Support': 'Support'
+            'Support': 'Special'
         }[self._combat_class]
 
     @property

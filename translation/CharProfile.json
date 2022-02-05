@@ -462,7 +462,7 @@
       "CharacterId": 10033,
        "FamilyNameEn": "Kosaka",
        "PersonalNameEn": "Wakamo",
-       "ProfileIntroductionEn": "Formerly from Hyakkiyako Alliance Academy, Wakamo is one of the \"Seven Prisoners\" that escaped from Corrections Bureau after being suspended from school. <br>Known as the Fox of Misfortune for her indiscriminate and large-scale destruction, and is widely feared. Her motives and purpose are shrouded in mystery. Her true face, hidden beneath the mask, is rumored to be as scary as a demon or as ugly as the devil.",
+       "ProfileIntroductionEn": "Formerly from Hyakkiyako Alliance Academy, Wakamo is one of the \"Seven Prisoners\" that escaped from Corrections Bureau after being suspended from school. <br>Known as the Fox of Misfortune for her indiscriminate and large-scale destruction, she is widely feared. Her motives and purpose are shrouded in mystery. Her true face, hidden beneath the mask, is rumored to be as scary as a demon or as ugly as the devil.",
        "ReleaseDateJp": "2022/01/26"
      },
      {
@@ -485,10 +485,28 @@
        "PersonalNameEn": "Chihiro",
        "ProfileIntroductionEn": "Deputy director of the hacker group Veritas, a member of the Millennium Science School.<br>Chihiro is a hacker with outstanding programming skills who tries to avoid abusing her abilities. She is the collective consciousness of Veritas group, which is full of mischievous children, and although Chihiro always gives passionate speeches about \"proper hacker ethics\" to the club members, she is also willing to put in greyhat work when necessary.",
        "ReleaseDateJp": "2022/01/30"
+     },
+     {
+      "CharacterId": 10034,
+       "FamilyNameEn": "",
+       "PersonalNameEn": "Mimori",
+       "ProfileIntroductionEn": "",
+       "ReleaseDateJp": ""
+     },
+     {
+      "CharacterId": 19004,
+       "FamilyNameEn": "",
+       "PersonalNameEn": "Erika",
+       "ProfileIntroductionEn": "",
+       "ReleaseDateJp": ""
+     },
+     {
+      "CharacterId": 19005,
+       "FamilyNameEn": "",
+       "PersonalNameEn": "dummy_Striker80",
+       "ProfileIntroductionEn": "",
+       "ReleaseDateJp": ""
      }
-
-
-
 
 
    ]

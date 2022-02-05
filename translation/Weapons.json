@@ -686,6 +686,30 @@
             "NameEN": "Backdoor",
             "DescriptionJP": "チヒロが使用するアサルトライフル。<br>彼女の言葉によると、暗号化されたパスワードを手に入れる最も早い手段だとか。",
             "DescriptionEN": "Assault rifle used by Chihiro. <br>According to her, it's the fastest way to get the encrypted password."
+        },
+
+        {
+            "Id": 10034,
+            "NameJP": "",
+            "NameEN": "",
+            "DescriptionJP": "",
+            "DescriptionEN": ""
+        },
+
+        {
+            "Id": 19004,
+            "NameJP": "",
+            "NameEN": "",
+            "DescriptionJP": "",
+            "DescriptionEN": ""
+        },
+
+        {
+            "Id": 19005,
+            "NameJP": "",
+            "NameEN": "",
+            "DescriptionJP": "",
+            "DescriptionEN": ""
         }
 
     ]
