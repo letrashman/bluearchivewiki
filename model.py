@@ -6,7 +6,7 @@ import re
 
 class Character(object):
     def __init__(self, id, name, dev_name, name_en, family_name_en, rarity, school, role, position, damage_type, armor_type, combat_class, equipment, weapon_type,
-                 uses_cover, profile, normal_skill, ex_skill, passive_skill, passive_weapon_skill, sub_skill, stats, weapon, favor, memory_lobby):
+                 uses_cover, profile, normal_skill, ex_skill, passive_skill, passive_weapon_skill, sub_skill, stats, weapon, favor, memory_lobby, momotalk, liked_gift_tags):
         self.id = id
         self.name = name
         self.rarity = rarity
@@ -29,6 +29,8 @@ class Character(object):
         self.weapon = weapon
         self.favor = favor
         self.memory_lobby = memory_lobby
+        self.momotalk = momotalk
+        self.liked_gift_tags = liked_gift_tags
 
         self.dev_name = dev_name
         self.name_translated = name_en
@@ -79,6 +81,8 @@ class Character(object):
     def from_data(cls, character_id, data):
         character = data.characters[character_id]
         character_ai = data.characters_ai[character['CharacterAIId']]
+        liked_gift_tags = data.characters_cafe_tags[character_id]['FavorItemTags']
+
         return cls(
             character['Id'],
             data.characters_localization[character_id]['PersonalNameJp'],
@@ -104,7 +108,9 @@ class Character(object):
             Stats.from_data(character_id, data),
             Weapon.from_data(character_id, data),
             Favor.from_data(character_id, data),
-            MemoryLobby.from_data(character_id, data)
+            MemoryLobby.from_data(character_id, data),
+            Momotalk.from_data(character_id, data),
+            liked_gift_tags
         )
 
 
@@ -501,4 +507,23 @@ class MemoryLobby(object):
         return cls(
             lobby_data['RewardTextureName'][lobby_data['RewardTextureName'].rfind('/')+1:],
             unlock_level
+        )
+
+
+class Momotalk(object):
+    def __init__(self, levels):
+        self.levels = levels
+
+    @classmethod
+    def from_data(cls, character_id, data):
+        levels = []
+
+
+        for favor_reward in data.favor_rewards:
+            if favor_reward[0] == character_id:
+                #print(data.favor_rewards[(character_id , favor_reward[1])]['FavorRank'])
+                levels.append(favor_reward[1])  
+
+        return cls(
+            levels
         )

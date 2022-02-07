@@ -6,6 +6,8 @@
 {%- for level in character.favor.levels %}
 | AffectionLevel{{level}} ={% for stat_type in character.favor.levels[level]['stat_type'] %} {{stat_type}}+{{character.favor.levels[level]['stat_value'][loop.index-1]}}{% endfor -%}
 {%- endfor %}
+{%- for level in character.momotalk.levels %}
+| Momotalk{{loop.index}} = {{level}}{% endfor %}
 {% raw %}}}{% endraw %}{% raw %}{{#dpl:
 | namespace       = 
 | category        = Characters

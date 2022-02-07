@@ -4,8 +4,8 @@ import os
 
 BlueArchiveData = collections.namedtuple(
     'BlueArchiveData',
-    ['characters', 'characters_ai', 'characters_localization', 'characters_skills', 'characters_stats', 'skills', 
-    'skills_localization','translated_characters','translated_skills',
+    ['characters', 'characters_ai', 'characters_localization', 'characters_skills', 'characters_stats', 'characters_cafe_tags', 
+    'skills', 'skills_localization','translated_characters','translated_skills',
     'weapons', 'translated_weapons',
     'currencies','translated_currencies',
     'items', 'translated_items',
@@ -54,6 +54,7 @@ def load_data(path, locale_path):
         characters_localization=load_characters_localization(path),
         characters_skills=load_characters_skills(path),
         characters_stats=load_characters_stats(path),
+        characters_cafe_tags = load_characters_cafe_tags(path),
         skills=load_skills(path),
         skills_localization=load_skills_localization(path),
         translated_characters = load_characters_translation(locale_path),
@@ -106,6 +107,7 @@ def load_weapons_translation(path):
 def load_favor_levels(path):
     with open(os.path.join(path, 'Excel', 'FavorLevelRewardExcelTable.json')) as f:
         data = json.load(f)
+        f.close()
 
     return {
         (favor_level['CharacterId'], favor_level['FavorLevel']): favor_level
@@ -116,6 +118,7 @@ def load_favor_levels(path):
 def load_favor_rewards(path):
     with open(os.path.join(path, 'Excel', 'AcademyFavorScheduleExcelTable.json')) as f:
         data = json.load(f)
+        f.close()
 
     return {
         (favor_rewards['CharacterId'], favor_rewards['FavorRank']): favor_rewards
@@ -135,3 +138,6 @@ def load_items_translation(path):
 
 def load_skills_translation(path):
     return load_file(os.path.join(path, 'Skills.json'), key='GroupId')
+
+def load_characters_cafe_tags(path):
+    return load_file(os.path.join(path, 'Excel', 'CharacterAcademyTagsExcelTable.json'))
