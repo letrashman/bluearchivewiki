@@ -1432,26 +1432,6 @@
             "DescriptionEn": "Increase Healing of all allies by $1."
         },
         {
-            "GroupId": "CH0100WeaponPassive01",
-            "NameEn": "Firepower upgrade, complete +",
-            "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
-        },
-        {
-            "GroupId": "CH0101WeaponPassive01",
-            "NameEn": "Bitter +",
-            "DescriptionEn": "Increase HP by $1. Increase Critical Damage by $2."
-        },
-        {
-            "GroupId": "CH0155WeaponPassive01",
-            "NameEn": "When you're hungry...! +",
-            "DescriptionEn": "Increase HP by $1. Further increase HP by $2."
-        },
-        {
-            "GroupId": "CH0140WeaponPassive01",
-            "NameEn": "Taking immediate action! +",
-            "DescriptionEn": "Increase Attack Speed by $1. Increase HP by $2."
-        },
-        {
             "GroupId": "CH0163Ex01",
             "NameEn": "Combat Type-A Energizer",
             "DescriptionEn": "Increase the Attack Speed for one other ally by $1 for $2."
@@ -2098,8 +2078,108 @@
         },
         {
             "GroupId": "CH0115ExtraPassive01",
-            "NameEn": "Would you like to taste it? ",
+            "NameEn": "Would you like to taste it?",
             "DescriptionEn": "Every $1, increase Defense of allies within the circular area by $2 for $3."
+        },
+        {
+            "GroupId": "CH0101Ex01",
+            "NameEn": "You there, don't move!",
+            "DescriptionEn": "Move to chosen location, deploy a shield with HP equal to $1 of Healing for $2, and deal $3 damage to enemies in a circular area. Taunt enemies in a circular area for $4."
+        },
+        {
+            "GroupId": "CH0101Public01",
+            "NameEn": "I said this ain't a show!",
+            "DescriptionEn": "Every $1, increase Evasion by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "CH0101Passive01",
+            "NameEn": "Bitter",
+            "DescriptionEn": "Increase Critical Damage by $1."
+        },
+        {
+            "GroupId": "CH0101WeaponPassive01",
+            "NameEn": "Bitter +",
+            "DescriptionEn": "Increase HP by $1. Increase Critical Damage by $2."
+        },
+        {
+            "GroupId": "CH0101ExtraPassive01",
+            "NameEn": "You like it even more painful?",
+            "DescriptionEn": "When attacking, deal $1 extra damage to mid-sized enemies."
+        },
+        {
+            "GroupId": "CH0100Ex01",
+            "NameEn": "Promptly and precisely",
+            "DescriptionEn": "Deal $1 damage to enemies in a conical area, ignoring $2 of their defense."
+        },
+        {
+            "GroupId": "CH0100Public01",
+            "NameEn": "Wide-area firing, commence",
+            "DescriptionEn": "Every $1, deal $2 damage to enemies in a circular area, ignoring $3 of their defense."
+        },
+        {
+            "GroupId": "CH0100Passive01",
+            "NameEn": "Firepower upgrade, complete",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "CH0100WeaponPassive01",
+            "NameEn": "Firepower upgrade, complete +",
+            "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
+        },
+        {
+            "GroupId": "CH0100ExtraPassive01",
+            "NameEn": "Carefully and correctly",
+            "DescriptionEn": "Upon activating EX skill, increase Critical Rate by $1. (Duration: $2)"
+        },
+        {
+            "GroupId": "CH0140Ex01",
+            "NameEn": "We're done talking!",
+            "DescriptionEn": "Deal $1 damage to enemies within a circular area. Creates smoke screen for $2 that reduces Accuracy of enemies within it by $3."
+        },
+        {
+            "GroupId": "CH0140Public01",
+            "NameEn": "Suppression!",
+            "DescriptionEn": "Every $1, deal $2 damage to the furthest targetable enemy, and reduce their Accuracy by $3 for $4."
+        },
+        {
+            "GroupId": "CH0140Passive01",
+            "NameEn": "Taking immediate action!",
+            "DescriptionEn": "Increase HP by $1."
+        },
+        {
+            "GroupId": "CH0140WeaponPassive01",
+            "NameEn": "Taking immediate action! +",
+            "DescriptionEn": "Increase Attack Speed by $1. Increase HP by $2."
+        },
+        {
+            "GroupId": "CH0140ExtraPassive01",
+            "NameEn": "No time to rest!",
+            "DescriptionEn": "Normal attacks have a $1 chance to decrease enemy Recovery Rate by $2 for $3. (Cooldown: $4)"
+        },
+        {
+            "GroupId": "CH0155Ex01",
+            "NameEn": "It's the best thing to do in times like these",
+            "DescriptionEn": "Recover HP by $1 of Healing and clear all debuffs."
+        },
+        {
+            "GroupId": "CH0155Public01",
+            "NameEn": "Eat this and cheer up",
+            "DescriptionEn": "Every $1, increase Attack of an ally by $2 for $3. If there are other allies that do not have this buff (excluding self), apply it to them as well."
+        },
+        {
+            "GroupId": "CH0155Passive01",
+            "NameEn": "When you're hungry...!",
+            "DescriptionEn": "Increase HP by $1."
+        },
+        {
+            "GroupId": "CH0155WeaponPassive01",
+            "NameEn": "When you're hungry...! +",
+            "DescriptionEn": "Increase HP by $1. Further increase HP by $2."
+        },
+        {
+            "GroupId": "CH0155ExtraPassive01",
+            "NameEn": "A mouthful of happiness",
+            "DescriptionEn": "When activating EX skill, increase Recovery Rate by $1. Stacks up to a maximum of $2."
         }
 
     ]
