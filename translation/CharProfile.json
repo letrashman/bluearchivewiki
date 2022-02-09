@@ -488,10 +488,12 @@
      },
      {
       "CharacterId": 10034,
-       "FamilyNameEn": "",
+       "FamilyNameEn": "Mizuha",
        "PersonalNameEn": "Mimori",
-       "ProfileIntroductionEn": "",
-       "ReleaseDateJp": ""
+       "ProfileIntroductionEn": "Member of the Hyakkiyako Alliance Academy, and a kind vice-president of the discipline club.<br>Mimori always has a cheerful smile and a gentle demeanor, and she is very popular with everyone. Having been shojo manga fan since young age, she pursues a dream of embodying the \"Yamato Nadeshiko\" character, to which end she joined the discipline club. Together with her childhood friend and club director Tsubaki she is working hard every day to practice cooking and cleaning.",
+       "ReleaseDateJp": "2022/02/09",
+       "HobbiesEn": "Shojo manga, doing household chores",
+       "VoiceEn": "Tanaka Rie"
      },
      {
       "CharacterId": 19004,

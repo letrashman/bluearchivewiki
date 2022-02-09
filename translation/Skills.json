@@ -2075,6 +2075,31 @@
             "GroupId": "CH0141ExtraPassive01",
             "NameEn": "I think I'll take you up on that",
             "DescriptionEn": "When any ally uses an EX skill, increases Fubuki's Attack by $1 for $2."
+        },
+        {
+            "GroupId": "CH0115Ex01",
+            "NameEn": "It's a beatiful day to watch cherry blossoms",
+            "DescriptionEn": "Move up to 5 allies within circular area to a specified position and increase their Attack Speed by $1 for $2."
+        },
+        {
+            "GroupId": "CH0115Public01",
+            "NameEn": "I've packed lunch",
+            "DescriptionEn": "Every $1, continuously regenerate HP of an ally with the lowest HP (except Mimori herself) at a rate of $2 Healing for $3."
+        },
+        {
+            "GroupId": "CH0115Passive01",
+            "NameEn": "There's plenty more",
+            "DescriptionEn": "Increase Defense by $1."
+        },
+        {
+            "GroupId": "CH0115WeaponPassive01",
+            "NameEn": "There's plenty more +",
+            "DescriptionEn": "Increase Defense by $1. Further increase Defense by $2."
+        },
+        {
+            "GroupId": "CH0115ExtraPassive01",
+            "NameEn": "Would you like to taste it? ",
+            "DescriptionEn": "Every $1, increase Defense of allies within the circular area by $2 for $3."
         }
 
     ]

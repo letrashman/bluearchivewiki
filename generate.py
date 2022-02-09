@@ -26,7 +26,7 @@ def generate(datadir, localedir, outdir):
 
     env = Environment(loader=FileSystemLoader(os.path.dirname(__file__)))
     env.filters['colorize'] = colorize
-    template = env.get_template('template_affection.txt')
+    template = env.get_template('template.txt')
 
     #weapon_data = {}
     #weapon_data['DataList'] = []

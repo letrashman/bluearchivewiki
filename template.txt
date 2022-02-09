@@ -32,12 +32,7 @@
 | ENText = {{character.profile.introduction_en}}
 | JPText = {{character.profile.introduction_jp}}
 {% raw %}}}{% endraw %}
-{% raw %}{{#dpl:
-| category        = Furniture
-| linksto         = {{PAGENAME}}
-| format          = ,,,
-| include         = {Furniture{{!}}CharacterCafeInteraction.dpl}
-}}{% endraw %}
+
 =How to Obtain=
 
 =Character Details=
@@ -209,5 +204,14 @@
 | SkillDescriptionLv{{loop.index}} = {{level.description|colorize}}
 {% endfor -%}
 {% raw %}}}{% endraw %}
-[[Category:Characters]]
+{% raw %}=Cafe=
+{{#dpl:
+| category        = Furniture
+| linksto         = {{PAGENAME}}
+| format          = ,,,
+| include         = {Furniture{{!}}CharacterCafeInteraction.dpl}
+}}
+===Gifts===
+{{CharacterGifts}}{% endraw %}
 {% raw %}{{CharacterNavbox}}{% endraw %}
+[[Category:Characters]]
