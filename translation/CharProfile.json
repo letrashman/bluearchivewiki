@@ -1,515 +1,844 @@
-{ 
+{
   "DataList": [
     {
       "CharacterId": 16004,
       "FamilyNameEn": "Asahina",
-      "PersonalNameEn": "Pina"
+      "PersonalNameEn": "Pina",
+      "HobbiesEn": "Watching yakuza movies",
+      "Illust": "OSUK2",
+      "VoiceEn": "Kido Ibuki",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 13009,
       "FamilyNameEn": "Kasuga",
-      "PersonalNameEn": "Tsubaki"
+      "PersonalNameEn": "Tsubaki",
+      "HobbiesEn": "Afternoon naps",
+      "Illust": "Mx2j",
+      "VoiceEn": "Saho Shirasu",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 16003,
-      "FamilyNameEn": "Moritsuki",
-      "PersonalNameEn": "Suzumi"
+      "FamilyNameEn": "Morizuki",
+      "PersonalNameEn": "Suzumi",
+      "HobbiesEn": "Patrolling, strolling",
+      "Illust": "Empew",
+      "VoiceEn": "Shamoto Haruka",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 13003,
       "FamilyNameEn": "Hanekawa",
-      "PersonalNameEn": "Hasumi"
+      "PersonalNameEn": "Hasumi",
+      "HobbiesEn": "Reading, watching people",
+      "Illust": "Mx2j",
+      "VoiceEn": "Asami Seto",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 10003,
       "FamilyNameEn": "Ajitani",
-      "PersonalNameEn": "Hifumi"
+      "PersonalNameEn": "Hifumi",
+      "HobbiesEn": "Collecting ''Peroro'' goods, collecting cute things, shopping, giving advice",
+      "Illust": "Hwansang",
+      "VoiceEn": "Hondo Kaede",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 10013,
       "FamilyNameEn": "Kenzaki",
-      "PersonalNameEn": "Tsurugi"
+      "PersonalNameEn": "Tsurugi",
+      "HobbiesEn": "Watching movies, reading (romance novels)",
+      "Illust": "Mx2j",
+      "VoiceEn": "Kobayashi Yū",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 13006,
       "FamilyNameEn": "Asagi",
-      "PersonalNameEn": "Mutsuki"
+      "PersonalNameEn": "Mutsuki",
+      "HobbiesEn": "Collecting bombs",
+      "Illust": "DoReMi",
+      "VoiceEn": "Ōkubo Rumi",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 13005,
-      "FamilyNameEn": "Guifang",
-      "PersonalNameEn": "Kayoko"
+      "FamilyNameEn": "Onikata",
+      "PersonalNameEn": "Kayoko",
+      "HobbiesEn": "Collecting CDs",
+      "Illust": "DoReMi",
+      "VoiceEn": "Fujī Yukiyo",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 10000,
       "FamilyNameEn": "Rikuhachima",
-      "PersonalNameEn": "Aru"
+      "PersonalNameEn": "Aru",
+      "HobbiesEn": "Studying management",
+      "Illust": "DoReMi",
+      "VoiceEn": "Kondō Reina",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 16000,
       "FamilyNameEn": "Igusa",
-      "PersonalNameEn": "Haruka"
+      "PersonalNameEn": "Haruka",
+      "HobbiesEn": "Growing weeds",
+      "Illust": "DoReMi",
+      "VoiceEn": "Ishitobi Erika",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 13004,
       "FamilyNameEn": "Izayoi",
-      "PersonalNameEn": "Nonomi"
+      "PersonalNameEn": "Nonomi",
+      "HobbiesEn": "Shopping",
+      "Illust": "9ml",
+      "VoiceEn": "Miura Chiyuki",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 13007,
       "FamilyNameEn": "Akashi",
-      "PersonalNameEn": "Junko"
+      "PersonalNameEn": "Junko",
+      "HobbiesEn": "Gourmet tour",
+      "Illust": "DoReMi",
+      "VoiceEn": "Kanemoto Hisako",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 10004,
       "FamilyNameEn": "Sorasaki",
-      "PersonalNameEn": "Hina"
+      "PersonalNameEn": "Hina",
+      "HobbiesEn": "Sleeping, resting",
+      "Illust": "DoReMi",
+      "VoiceEn": "Hirohashi Ryō",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 10010,
       "FamilyNameEn": "Sunaōkami",
-      "PersonalNameEn": "Shiroko"
+      "PersonalNameEn": "Shiroko",
+      "HobbiesEn": "Jogging, strength training, cycling",
+      "Illust": "Hwansang",
+      "VoiceEn": "Ogura Yui",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 13008,
       "FamilyNameEn": "Kuromi",
-      "PersonalNameEn": "Serika"
+      "PersonalNameEn": "Serika",
+      "HobbiesEn": "Saving money, working part-time",
+      "Illust": "Hwansang",
+      "VoiceEn": "Ōhashi Ayaka",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 10009,
-      "FamilyNameEn": "Shishido",
-      "PersonalNameEn": "Izumi"
+      "FamilyNameEn": "Shishidō",
+      "PersonalNameEn": "Izumi",
+      "HobbiesEn": "Making and eating strange foods",
+      "Illust": "Mx2j",
+      "VoiceEn": "Kubo Yurika",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 10005,
       "FamilyNameEn": "Takanashi",
-      "PersonalNameEn": "Hoshino"
+      "PersonalNameEn": "Hoshino",
+      "HobbiesEn": "Afternoon naps, lazing around",
+      "Illust": "9ml",
+      "VoiceEn": "Hanamori Yumiri",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 16001,
       "FamilyNameEn": "Ichinose",
-      "PersonalNameEn": "Asuna"
+      "PersonalNameEn": "Asuna",
+      "HobbiesEn": "Attacking",
+      "Illust": "Mx2j",
+      "VoiceEn": "Hasegawa Ikumi",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 13010,
       "FamilyNameEn": "Hayase",
-      "PersonalNameEn": "Yuuka"
+      "PersonalNameEn": "Yuuka",
+      "HobbiesEn": "Calculating things",
+      "Illust": "Hwansang",
+      "VoiceEn": "Haruka Ran",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 13000,
-      "FamilyNameEn": "Murogasa",
-      "PersonalNameEn": "Akane"
+      "FamilyNameEn": "Murokasa",
+      "PersonalNameEn": "Akane",
+      "HobbiesEn": "Cleaning",
+      "Illust": "Mx2j",
+      "VoiceEn": "Hara Yumi",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 10001,
       "FamilyNameEn": "Izumimoto",
-      "PersonalNameEn": "Eimi"
+      "PersonalNameEn": "Eimi",
+      "HobbiesEn": "Zoning out, listening to music",
+      "Illust": "ポップキュン (''POPQN'')",
+      "VoiceEn": "Matsunaga Akane",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 10008,
       "FamilyNameEn": "Mikamo",
-      "PersonalNameEn": "Neru"
+      "PersonalNameEn": "Neru",
+      "HobbiesEn": "Winning",
+      "Illust": "Mx2j",
+      "VoiceEn": "Koshimizu Ami",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 13011,
-      "FamilyNameEn": "Saito",
-      "PersonalNameEn": "Momoi"
+      "FamilyNameEn": "Saiba",
+      "PersonalNameEn": "Momoi",
+      "HobbiesEn": "Video games",
+      "Illust": "キキ (''Kiki'')",
+      "VoiceEn": "Tokui Sora",
+      "ReleaseDateJp": "2021/04/08"
     },
     {
       "CharacterId": 10016,
-      "FamilyNameEn": "Saito",
-      "PersonalNameEn": "Midori"
+      "FamilyNameEn": "Saiba",
+      "PersonalNameEn": "Midori",
+      "HobbiesEn": "Drawing pictures",
+      "Illust": "キキ (''Kiki'')",
+      "VoiceEn": "Takada Yūki",
+      "ReleaseDateJp": "2021/04/08"
     },
     {
       "CharacterId": 10015,
-      "FamilyNameEn": "Tendo",
-      "PersonalNameEn": "Arisu"
+      "FamilyNameEn": "Tendou",
+      "PersonalNameEn": "Arisu",
+      "HobbiesEn": "Games (Especially RPGs)",
+      "Illust": "DoReMi",
+      "VoiceEn": "Minami Tanaka",
+      "ReleaseDateJp": "2021/03/25"
     },
     {
       "CharacterId": 23002,
       "FamilyNameEn": "Asagao",
-      "PersonalNameEn": "Hanae"
+      "PersonalNameEn": "Hanae",
+      "HobbiesEn": "Dance, cheerleading",
+      "Illust": "tonito",
+      "VoiceEn": "Yūki Kana",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 20003,
       "FamilyNameEn": "Shizuyama",
-      "PersonalNameEn": "Mashiro"
+      "PersonalNameEn": "Mashiro",
+      "HobbiesEn": "Climbing to high places, keeping an observation diary",
+      "Illust": "ポップキュン (''POPQN'')",
+      "VoiceEn": "Kitō Akari",
+      "ReleaseDateJp": "2021/02/11"
     },
     {
       "CharacterId": 26000,
       "FamilyNameEn": "Hinomiya",
-      "PersonalNameEn": "Chinatsu"
+      "PersonalNameEn": "Chinatsu",
+      "HobbiesEn": "Reading philosophy books",
+      "Illust": "Mx2j",
+      "VoiceEn": "Kouzuki Haruka",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 23001,
       "FamilyNameEn": "Aikiyo",
-      "PersonalNameEn": "Fuuka"
+      "PersonalNameEn": "Fuuka",
+      "HobbiesEn": "Home cooking, making bento",
+      "Illust": "ヌードル (''Noodle'')",
+      "VoiceEn": "Fairouz Ai",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 26002,
       "FamilyNameEn": "Ushimaki",
-      "PersonalNameEn": "Juri"
+      "PersonalNameEn": "Juri",
+      "HobbiesEn": "Self-styled culinary research",
+      "Illust": "nino",
+      "VoiceEn": "Tanabe Rui",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 23003,
       "FamilyNameEn": "Omagari",
-      "PersonalNameEn": "Hare"
+      "PersonalNameEn": "Hare",
+      "HobbiesEn": "Video games, watching movies",
+      "Illust": "9ml",
+      "VoiceEn": "Kaihara Reina",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 26001,
       "FamilyNameEn": "Otose",
-      "PersonalNameEn": "Kotama"
+      "PersonalNameEn": "Kotama",
+      "HobbiesEn": "Radio communication, wiretapping",
+      "Illust": "mona",
+      "VoiceEn": "Takagawa Mina",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 20001,
       "FamilyNameEn": "Kakudate",
-      "PersonalNameEn": "Karin"
+      "PersonalNameEn": "Karin",
+      "HobbiesEn": "Cleaning",
+      "Illust": "Mx2j",
+      "VoiceEn": "Numakura Manami",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 20002,
       "FamilyNameEn": "Yakushi",
-      "PersonalNameEn": "Saya"
+      "PersonalNameEn": "Saya",
+      "HobbiesEn": "Research",
+      "Illust": "whoisshe",
+      "VoiceEn": "Tamura Yukari",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 26004,
       "FamilyNameEn": "Endō",
-      "PersonalNameEn": "Shimiko"
+      "PersonalNameEn": "Shimiko",
+      "HobbiesEn": "Reading, making bookmarks",
+      "Illust": "あやみ (''Ayami'')",
+      "VoiceEn": "Tomita Miyu",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 26003,
       "FamilyNameEn": "Sumi",
-      "PersonalNameEn": "Serina"
+      "PersonalNameEn": "Serina",
+      "HobbiesEn": "Volunteering at hospitals",
+      "Illust": "RONOPU",
+      "VoiceEn": "Suzumoto Akiho",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 23000,
       "FamilyNameEn": "Kurimura",
-      "PersonalNameEn": "Airi"
+      "PersonalNameEn": "Airi",
+      "HobbiesEn": "Looking for tasty sweets, tea parties",
+      "Illust": "まきあっと (''Makiatto'')",
+      "VoiceEn": "Chikako Sugimura",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 26005,
-      "FamilyNameEn": "Ibaragi",
-      "PersonalNameEn": "Yoshimi"
+      "FamilyNameEn": "Ibaraki",
+      "PersonalNameEn": "Yoshimi",
+      "HobbiesEn": "All kinds of events, touring cafés for limited edition sweets",
+      "Illust": "Mx2j",
+      "VoiceEn": "Ayumi Mano",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 10006,
       "FamilyNameEn": "Shiromi",
-      "PersonalNameEn": "Iori"
+      "PersonalNameEn": "Iori",
+      "HobbiesEn": "Patrolling, raising her voice",
+      "Illust": "Mx2j",
+      "VoiceEn": "Sakura Ayane",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 13002,
       "FamilyNameEn": "Wanibuchi",
-      "PersonalNameEn": "Akari"
+      "PersonalNameEn": "Akari",
+      "HobbiesEn": "Eating a lot",
+      "Illust": "9ml",
+      "VoiceEn": "Yūka Morishima",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 10002,
       "FamilyNameEn": "Kurodate",
-      "PersonalNameEn": "Haruna"
+      "PersonalNameEn": "Haruna",
+      "HobbiesEn": "Looking for delicious things",
+      "Illust": "whoisshe",
+      "VoiceEn": "Tadokoro Azusa",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 10012,
       "FamilyNameEn": "Otohana",
-      "PersonalNameEn": "Sumire"
+      "PersonalNameEn": "Sumire",
+      "HobbiesEn": "Training, gardening",
+      "Illust": "Fame",
+      "VoiceEn": "Asami Imai",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 10007,
       "FamilyNameEn": "Konuri",
-      "PersonalNameEn": "Maki"
+      "PersonalNameEn": "Maki",
+      "HobbiesEn": "Graffiti, video games",
+      "Illust": "9ml",
+      "VoiceEn": "Mikami Shiori",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 20000,
       "FamilyNameEn": "Nekozuka",
-      "PersonalNameEn": "Hibiki"
+      "PersonalNameEn": "Hibiki",
+      "HobbiesEn": "Shopping, cosplay",
+      "Illust": "ミミトケ (''Mimitoke'')",
+      "VoiceEn": "Nazuka Kaori",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 23004,
       "FamilyNameEn": "Shiraishi",
-      "PersonalNameEn": "Utaha"
+      "PersonalNameEn": "Utaha",
+      "HobbiesEn": "Inventing and repairing in general",
+      "Illust": "やまかわ (''Yamakawa'')",
+      "VoiceEn": "Aochi Nozomi",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 16002,
       "FamilyNameEn": "Toyomi",
-      "PersonalNameEn": "Kotori"
+      "PersonalNameEn": "Kotori",
+      "HobbiesEn": "Talking",
+      "Illust": "三脚たこ (''Sankyaku Tako'')",
+      "VoiceEn": "Shinohara Narumi",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 13001,
       "FamilyNameEn": "Waraku",
-      "PersonalNameEn": "Chise"
+      "PersonalNameEn": "Chise",
+      "HobbiesEn": "Haiku",
+      "Illust": "Hwansang",
+      "VoiceEn": "Shimamura Yuu",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 10011,
-      "FamilyNameEn": "Haruhara",
-      "PersonalNameEn": "Shun"
+      "FamilyNameEn": "Sunohara",
+      "PersonalNameEn": "Shun",
+      "HobbiesEn": "Playing with children",
+      "Illust": "9ml",
+      "VoiceEn": "Itou Shizuka",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 23005,
       "FamilyNameEn": "Okusora",
-      "PersonalNameEn": "Ayane"
+      "PersonalNameEn": "Ayane",
+      "HobbiesEn": "Keeping the accounts, collecting antiques",
+      "Illust": "Hwansang",
+      "VoiceEn": "Harada Sayaka",
+      "ReleaseDateJp": "2021/02/04"
     },
     {
       "CharacterId": 10014,
       "FamilyNameEn": "Kuda",
-      "PersonalNameEn": "Izuna"
+      "PersonalNameEn": "Izuna",
+      "HobbiesEn": "Studying ninja arts, escorting her master",
+      "Illust": "はねこと (''Hanekoto'')",
+      "VoiceEn": "Kana Asumi",
+      "ReleaseDateJp": "2021/02/25"
     },
     {
       "CharacterId": 23006,
-       "FamilyNameEn": "Kawawa",
-       "PersonalNameEn": "Shizuko"
-     },
-     {
-      "CharacterId": 13011,
-      "FamilyNameEn": "Saiba",
-      "PersonalNameEn": "Momoi"
+      "FamilyNameEn": "Kawawa",
+      "PersonalNameEn": "Shizuko",
+      "HobbiesEn": "Serving customers with charm, attracting people into her shop",
+      "Illust": "whoisshe",
+      "VoiceEn": "Morigana Chitose",
+      "ReleaseDateJp": "2021/02/25"
     },
     {
-      "CharacterId": 10016,
-       "FamilyNameEn": "Saiba",
-       "PersonalNameEn": "Midori"
-     },
-     {
       "CharacterId": 10017,
-       "FamilyNameEn": "Renkawa",
-       "PersonalNameEn": "Cherino"
-     },
-     {
+      "FamilyNameEn": "Renkawa",
+      "PersonalNameEn": "Cherino",
+      "HobbiesEn": "Purges, snowball fights",
+      "Illust": "Hwansang",
+      "VoiceEn": "Sakura Tange",
+      "ReleaseDateJp": "2021/04/29"
+    },
+    {
       "CharacterId": 10018,
-       "FamilyNameEn": "Hanaoka",
-       "PersonalNameEn": "Yuzu"
-     },
-     {
+      "FamilyNameEn": "Hanaoka",
+      "PersonalNameEn": "Yuzu",
+      "HobbiesEn": "Making games",
+      "Illust": "YutokaMizu",
+      "VoiceEn": "Momoka Terasawa",
+      "ReleaseDateJp": "2021/05/13"
+    },
+    {
       "CharacterId": 26006,
-       "FamilyNameEn": "Amami",
-       "PersonalNameEn": "Nodoka"
-     },
-     {
+      "IsLimited": true,
+      "FamilyNameEn": "Amami",
+      "PersonalNameEn": "Nodoka",
+      "HobbiesEn": "Astronomy",
+      "Illust": "Hwansang",
+      "VoiceEn": "Satomi Satou",
+      "ReleaseDateJp": "2021/04/29"
+    },
+    {
       "CharacterId": 10019,
-       "FamilyNameEn": "Shirasu",
-       "PersonalNameEn": "Azusa",
-       "CharacterSkillGroup": "CH0056"
-     },
-     {
+      "FamilyNameEn": "Shirasu",
+      "PersonalNameEn": "Azusa",
+      "CharacterSkillGroup": "CH0056",
+      "HobbiesEn": "None",
+      "Illust": "NAMYO",
+      "VoiceEn": "Risa Taneda",
+      "ReleaseDateJp": "2021/05/27"
+    },
+    {
       "CharacterId": 10020,
-       "FamilyNameEn": "Shimoe",
-       "PersonalNameEn": "Koharu",
-       "CharacterSkillGroup": "CH0057"
-     },
-     {
+      "FamilyNameEn": "Shimoe",
+      "PersonalNameEn": "Koharu",
+      "CharacterSkillGroup": "CH0057",
+      "HobbiesEn": "Daydreaming, delusions, collecting lewd magazines",
+      "Illust": "DoReMi",
+      "VoiceEn": "Hikaru Akao",
+      "ReleaseDateJp": "2021/06/10"
+    },
+    {
       "CharacterId": 23007,
-       "FamilyNameEn": "Urawa",
-       "PersonalNameEn": "Hanako",
-       "CharacterSkillGroup": "CH0055"
-     },
-     {
+      "FamilyNameEn": "Urawa",
+      "PersonalNameEn": "Hanako",
+      "CharacterSkillGroup": "CH0055",
+      "HobbiesEn": "Wandering around",
+      "Illust": "Hwansang",
+      "VoiceEn": "Moe Toyota",
+      "ReleaseDateJp": "2021/05/27"
+    },
+    {
       "CharacterId": 19002,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "19002"
-     },
-     {
+      "FamilyNameEn": "null",
+      "PersonalNameEn": "19002"
+    },
+    {
       "CharacterId": 19003,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "19003"
-     },
-     {
+      "FamilyNameEn": "null",
+      "PersonalNameEn": "19003"
+    },
+    {
       "CharacterId": 19004,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Erika"
-     },
-     {
+      "FamilyNameEn": "",
+      "PersonalNameEn": "Erika",
+      "ProfileIntroductionEn": "",
+      "ReleaseDateJp": ""
+    },
+    {
       "CharacterId": 19005,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "19005"
-     },
-     {
+      "FamilyNameEn": "",
+      "PersonalNameEn": "dummy_Striker80",
+      "ProfileIntroductionEn": "",
+      "ReleaseDateJp": ""
+    },
+    {
       "CharacterId": 19006,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "19006"
-     },
-     {
+      "FamilyNameEn": "null",
+      "PersonalNameEn": "19006"
+    },
+    {
       "CharacterId": 29003,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "29003"
-     },
-     {
+      "FamilyNameEn": "null",
+      "PersonalNameEn": "29003"
+    },
+    {
       "CharacterId": 10024,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Shiroko (Riding)"
-     },
-     {
+      "FamilyNameEn": "Sunaōkami",
+      "PersonalNameEn": "Shiroko (Riding)",
+      "HobbiesEn": "Jogging, strength training, cycling",
+      "Illust": "Hwansang",
+      "VoiceEn": "Ogura Yui",
+      "ReleaseDateJp": "2021/08/12"
+    },
+    {
       "CharacterId": 10028,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Asuna (Bunny Girl)"
-     },
-     {
+      "FamilyNameEn": "Ichinose",
+      "PersonalNameEn": "Asuna (Bunny Girl)",
+      "HobbiesEn": "Attacking",
+      "Illust": "Mx2j",
+      "VoiceEn": "Hasegawa Ikumi",
+      "ReleaseDateJp": "2021/10/12"
+    },
+    {
       "CharacterId": 10029,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Natsu"
-     },     {
+      "FamilyNameEn": "Yutori",
+      "PersonalNameEn": "Natsu",
+      "HobbiesEn": "Romantic things, thinking",
+      "Illust": "kokosando",
+      "VoiceEn": "Maria Naganawa",
+      "ReleaseDateJp": "2021/10/27"
+    },
+    {
       "CharacterId": 13012,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Kirino"
-     },
-     {
+      "FamilyNameEn": "Nakatsukasa",
+      "PersonalNameEn": "Kirino",
+      "HobbiesEn": "Eating on the go",
+      "Illust": "日下雲",
+      "VoiceEn": "Yui Nakajima",
+      "ReleaseDateJp": "2021/08/26"
+    },
+    {
       "CharacterId": 20004,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Mashiro (Swimsuit)"
-     },
-     {
+      "IsLimited": true,
+      "FamilyNameEn": "Shizuyama",
+      "PersonalNameEn": "Mashiro (Swimsuit)",
+      "HobbiesEn": "Climbing to high places, keeping an observation diary",
+      "Illust": "ポップキュン (''POPQN'')",
+      "VoiceEn": "Akari Kitō",
+      "ReleaseDateJp": "2021/06/30"
+    },
+    {
       "CharacterId": 20005,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Hifumi (Swimsuit)"
-     },
-     {
+      "FamilyNameEn": "Ajitani",
+      "PersonalNameEn": "Hifumi (Swimsuit)",
+      "HobbiesEn": "Collecting ''Peroro'' goods, collecting cute things, shopping, giving advice",
+      "Illust": "Hwansang",
+      "VoiceEn": "Hondo Kaede",
+      "ReleaseDateJp": "2021/07/15"
+    },
+    {
       "CharacterId": 20006,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Saya (Casual)"
-     },
-     {
+      "FamilyNameEn": "Yakushi",
+      "PersonalNameEn": "Saya (Casual)",
+      "HobbiesEn": "Research",
+      "Illust": "whoisshe",
+      "VoiceEn": "Tamura Yukari",
+      "ReleaseDateJp": "2021/09/09"
+    },
+    {
       "CharacterId": 23008,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Mari"
-     },     
-     {
+      "FamilyNameEn": "Iochi",
+      "PersonalNameEn": "Mari",
+      "HobbiesEn": "Prayer, thinking",
+      "Illust": "Vinoker",
+      "VoiceEn": "Ozawa Ari",
+      "ReleaseDateJp": "2021/10/27"
+    },
+    {
       "CharacterId": 20008,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Ako"
-     },
-     {
+      "FamilyNameEn": "Amau",
+      "PersonalNameEn": "Ako",
+      "HobbiesEn": "President Hina",
+      "Illust": "DoReMi",
+      "VoiceEn": "Marika Kouno",
+      "ReleaseDateJp": "2021/11/17"
+    },
+    {
       "CharacterId": 20007,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Hatsune Miku"
-     },
-     {
+      "IsLimited": true,
+      "FamilyNameEn": "Hatsune",
+      "PersonalNameEn": "Hatsune Miku",
+      "HobbiesEn": "Singing, dancing",
+      "Illust": "YutokaMizu",
+      "VoiceEn": "Saki Fujita",
+      "ReleaseDateJp": "2021/11/03"
+    },
+    {
       "CharacterId": 16005,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Tsurugi (Swimsuit)"
-     },
-     {
+      "FamilyNameEn": "Kenzaki",
+      "PersonalNameEn": "Tsurugi (Swimsuit)",
+      "HobbiesEn": "Watching movies, reading (romance novels)",
+      "Illust": "Mx2j",
+      "VoiceEn": "Kobayashi Yū",
+      "ReleaseDateJp": "2021/06/30"
+    },
+    {
       "CharacterId": 16006,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Izumi (Swimsuit)"
-     },
-     {
+      "FamilyNameEn": "Shishidō",
+      "PersonalNameEn": "Izumi (Swimsuit)",
+      "HobbiesEn": "Making and eating strange foods",
+      "Illust": "Mx2j",
+      "VoiceEn": "Kubo Yurika",
+      "ReleaseDateJp": "2021/07/29"
+    },
+    {
       "CharacterId": 10021,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Azusa (Swimsuit)"
-     },
-     {
+      "IsLimited": true,
+      "FamilyNameEn": "Shirasu",
+      "PersonalNameEn": "Azusa (Swimsuit)",
+      "HobbiesEn": "None",
+      "Illust": "NAMYO",
+      "VoiceEn": "Risa Taneda",
+      "ReleaseDateJp": "2021/06/30"
+    },
+    {
       "CharacterId": 10022,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Hina (Swimsuit)"
-     },
-     {
+      "IsLimited": true,
+      "FamilyNameEn": "Sorasaki",
+      "PersonalNameEn": "Hina (Swimsuit)",
+      "HobbiesEn": "Sleeping, resting",
+      "Illust": "DoReMi",
+      "VoiceEn": "Hirohashi Ryō",
+      "ReleaseDateJp": "2021/07/29"
+    },
+    {
       "CharacterId": 10023,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Iori (Swimsuit)"
-     },
-     {
+      "IsLimited": true,
+      "FamilyNameEn": "Shiromi",
+      "PersonalNameEn": "Iori (Swimsuit)",
+      "HobbiesEn": "Patrolling, raising her voice",
+      "Illust": "Mx2j",
+      "VoiceEn": "Sakura Ayane",
+      "ReleaseDateJp": "2021/07/29"
+    },
+    {
       "CharacterId": 10025,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Shun (Kid)"
-     },
-     {
+      "FamilyNameEn": "Sunohara",
+      "PersonalNameEn": "Shun (Kid)",
+      "HobbiesEn": "Eating sweets",
+      "Illust": "9ml",
+      "VoiceEn": "Itou Shizuka",
+      "ReleaseDateJp": "2021/08/26",
+      "AgeEn": "Top secret ",
+      "HeightEn": "Wasn't measured"
+    },
+    {
       "CharacterId": 10026,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Neru (Bunny Girl)"
-     },
-     {
+      "IsLimited": true,
+      "FamilyNameEn": "Mikamo",
+      "PersonalNameEn": "Neru (Bunny Girl)",
+      "HobbiesEn": "Winning",
+      "Illust": "Mx2j",
+      "VoiceEn": "Koshimizu Ami",
+      "ReleaseDateJp": "2021/09/29"
+    },
+    {
       "CharacterId": 10027,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Karin (Bunny Girl)"
-     },
-     {
+      "IsLimited": true,
+      "FamilyNameEn": "Kakudate",
+      "PersonalNameEn": "Karin (Bunny Girl)",
+      "HobbiesEn": "Cleaning",
+      "Illust": "Mx2j",
+      "VoiceEn": "Numakura Manami",
+      "ReleaseDateJp": "2021/09/29"
+    },
+    {
       "CharacterId": 16007,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Tomoe"
-     },
-     {
+      "FamilyNameEn": "Sashiro",
+      "PersonalNameEn": "Tomoe",
+      "HobbiesEn": "Agitation",
+      "Illust": "mery",
+      "VoiceEn": "Nanami Atsugi",
+      "ReleaseDateJp": "2021/11/30"
+    },
+    {
       "CharacterId": 10030,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Chinatsu (Hot Spring)"
-     },
-     {
+      "FamilyNameEn": "Hinomiya",
+      "PersonalNameEn": "Chinatsu (Hot Spring)",
+      "HobbiesEn": "Reading philosophy books",
+      "Illust": "Mx2j",
+      "VoiceEn": "Kouzuki Haruka",
+      "ReleaseDateJp": "2021/11/30"
+    },
+    {
       "CharacterId": 20009,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Cherino (Hot Spring)"
-     },
-     {
+      "FamilyNameEn": "Renkawa",
+      "PersonalNameEn": "Cherino (Hot Spring)",
+      "HobbiesEn": "Purges, snowball fights",
+      "Illust": "Hwansang",
+      "VoiceEn": "Sakura Tange",
+      "ReleaseDateJp": "2021/11/30"
+    },
+    {
       "CharacterId": 20010,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Nodoka (Hot Spring)"
-     },
-     {
-      "CharacterId": 19004,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Mimori"
-     },
-     {
+      "FamilyNameEn": "Amami",
+      "PersonalNameEn": "Nodoka (Hot Spring)",
+      "HobbiesEn": "Astronomy",
+      "Illust": "9ml",
+      "VoiceEn": "Satomi Satou",
+      "ReleaseDateJp": "2021/12/15"
+    },
+    {
       "CharacterId": 10031,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Aru (New Year)"
-     },
-     {
+      "IsLimited": true,
+      "FamilyNameEn": "Rikuhachima",
+      "PersonalNameEn": "Aru (New Year)",
+      "HobbiesEn": "Studying management",
+      "Illust": "DoReMi",
+      "VoiceEn": "Kondō Reina",
+      "ReleaseDateJp": "2021/12/29"
+    },
+    {
       "CharacterId": 10032,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Mutsuki (New Year)"
-     },
-     {
+      "IsLimited": true,
+      "FamilyNameEn": "Asagi",
+      "PersonalNameEn": "Mutsuki (New Year)",
+      "HobbiesEn": "Collecting bombs",
+      "Illust": "DoReMi",
+      "VoiceEn": "Ōkubo Rumi",
+      "ReleaseDateJp": "2021/12/29"
+    },
+    {
       "CharacterId": 20011,
-       "FamilyNameEn": "null",
-       "PersonalNameEn": "Serika (New Year)",
-       "ProfileIntroductionEn": "A member of the Abydos Countermeasure Committee, who is now employed as a shrine maiden(?).<br>       Serika has been working hard at her various part-time jobs so that she can help the countermeasures committee as much as possible. For the New Year, she chose a shrine maiden's part-time job. Although she is not particularly fond of or knowledgeable about shrine maidens, Serika is, as usual, resolved to do her best at whatever job she's been entrusted with (apparently there is also a matter of getting paid more if you act as becomes a shrine maiden)."
-     },
-     {
+      "FamilyNameEn": "Kuromi",
+      "PersonalNameEn": "Serika (New Year)",
+      "ProfileIntroductionEn": "A member of the Abydos Countermeasure Committee, who is now employed as a shrine maiden(?).<br>       Serika has been working hard at her various part-time jobs so that she can help the countermeasures committee as much as possible. For the New Year, she chose a shrine maiden's part-time job. Although she is not particularly fond of or knowledgeable about shrine maidens, Serika is, as usual, resolved to do her best at whatever job she's been entrusted with (apparently there is also a matter of getting paid more if you act as becomes a shrine maiden).",
+      "HobbiesEn": "Saving money, working part-time",
+      "Illust": "YutokaMizu",
+      "VoiceEn": "Ōhashi Ayaka",
+      "ReleaseDateJp": "2022/01/12"
+    },
+    {
       "CharacterId": 10033,
-       "FamilyNameEn": "Kosaka",
-       "PersonalNameEn": "Wakamo",
-       "ProfileIntroductionEn": "Formerly from Hyakkiyako Alliance Academy, Wakamo is one of the \"Seven Prisoners\" that escaped from Corrections Bureau after being suspended from school. <br>Known as the Fox of Misfortune for her indiscriminate and large-scale destruction, she is widely feared. Her motives and purpose are shrouded in mystery. Her true face, hidden beneath the mask, is rumored to be as scary as a demon or as ugly as the devil.",
-       "ReleaseDateJp": "2022/01/26"
-     },
-     {
+      "IsLimited": true,
+      "FamilyNameEn": "Kosaka",
+      "PersonalNameEn": "Wakamo",
+      "ProfileIntroductionEn": "Formerly from Hyakkiyako Alliance Academy, Wakamo is one of the \"Seven Prisoners\" that escaped from Corrections Bureau after being suspended from school. <br>Known as the Fox of Misfortune for her indiscriminate and large-scale destruction, she is widely feared. Her motives and purpose are shrouded in mystery. Her true face, hidden beneath the mask, is rumored to be as scary as a demon or as ugly as the devil.",
+      "HobbiesEn": "Destruction, pillaging",
+      "Illust": "NAMYO",
+      "VoiceEn": "Chiwa Saito",
+      "ReleaseDateJp": "2022/01/26"
+    },
+    {
       "CharacterId": 16008,
-       "FamilyNameEn": "Nemugaki",
-       "PersonalNameEn": "Fubuki",
-       "ProfileIntroductionEn": "A lazy student of the Community Safety Bureau of Valkyrie Police Academy.<br>She enrolled in the Valkyrie Police Academy pursuing the carefree life of a civil servant. Treats any incoming complaints with utter indifference, and enjoys the life of a window-gazer who's not motivated by money nor honor. Her favorite thing to do is to listen to the radio while eating a doughnut.",
-       "ReleaseDateJp": "2022/01/26"
-     },
-     {
+      "IsLimited": true,
+      "FamilyNameEn": "Nemugaki",
+      "PersonalNameEn": "Fubuki",
+      "ProfileIntroductionEn": "A lazy student of the Community Safety Bureau of Valkyrie Police Academy.<br>She enrolled in the Valkyrie Police Academy pursuing the carefree life of a civil servant. Treats any incoming complaints with utter indifference, and enjoys the life of a window-gazer who's not motivated by money nor honor. Her favorite thing to do is to listen to the radio while eating a doughnut.",
+      "HobbiesEn": "Crosswords, radio",
+      "Illust": "Mimitoke",
+      "VoiceEn": "Emi Hirayama",
+      "ReleaseDateJp": "2022/01/26"
+    },
+    {
       "CharacterId": 20012,
-       "FamilyNameEn": "Himuro",
-       "PersonalNameEn": "Sena",
-       "ProfileIntroductionEn": "Head of the Emergency Medicine Department within Gehenna Academy.<br>Although she has saved countless people in the course of her career, Sena's habit of calling injured people \"corpses\" and the rough way she treats patients has made some students shy away from her.",
-       "ReleaseDateJp": "2022/01/30"
-     },
-     {
+      "FamilyNameEn": "Himuro",
+      "PersonalNameEn": "Sena",
+      "ProfileIntroductionEn": "Head of the Emergency Medicine Department within Gehenna Academy.<br>Although she has saved countless people in the course of her career, Sena's habit of calling injured people \"corpses\" and the rough way she treats patients has made some students shy away from her.",
+      "HobbiesEn": "Standing by, preparing medicine",
+      "Illust": "Icomochi",
+      "VoiceEn": "Saori Ōnishi",
+      "ReleaseDateJp": "2022/01/30"
+    },
+    {
       "CharacterId": 20013,
-       "FamilyNameEn": "Kagami",
-       "PersonalNameEn": "Chihiro",
-       "ProfileIntroductionEn": "Deputy director of the hacker group Veritas, a member of the Millennium Science School.<br>Chihiro is a hacker with outstanding programming skills who tries to avoid abusing her abilities. She is the collective consciousness of Veritas group, which is full of mischievous children, and although Chihiro always gives passionate speeches about \"proper hacker ethics\" to the club members, she is also willing to put in greyhat work when necessary.",
-       "ReleaseDateJp": "2022/01/30"
-     },
-     {
+      "FamilyNameEn": "Kagami",
+      "PersonalNameEn": "Chihiro",
+      "ProfileIntroductionEn": "Deputy director of the hacker group Veritas, a member of the Millennium Science School.<br>Chihiro is a hacker with outstanding programming skills who tries to avoid abusing her abilities. She is the collective consciousness of Veritas group, which is full of mischievous children, and although Chihiro always gives passionate speeches about \"proper hacker ethics\" to the club members, she is also willing to put in greyhat work when necessary.",
+      "HobbiesEn": "Shopping for electronics",
+      "Illust": "ni02",
+      "VoiceEn": "Hibiku Yamamura",
+      "ReleaseDateJp": "2022/01/30"
+    },
+    {
       "CharacterId": 10034,
-       "FamilyNameEn": "Mizuha",
-       "PersonalNameEn": "Mimori",
-       "ProfileIntroductionEn": "Member of the Hyakkiyako Alliance Academy, and a kind vice-president of the discipline club.<br>Mimori always has a cheerful smile and a gentle demeanor, and she is very popular with everyone. Having been shojo manga fan since young age, she pursues a dream of embodying the \"Yamato Nadeshiko\" character, to which end she joined the discipline club. Together with her childhood friend and club director Tsubaki she is working hard every day to practice cooking and cleaning.",
-       "ReleaseDateJp": "2022/02/09",
-       "HobbiesEn": "Shojo manga, doing household chores",
-       "VoiceEn": "Tanaka Rie"
-     },
-     {
-      "CharacterId": 19004,
-       "FamilyNameEn": "",
-       "PersonalNameEn": "Erika",
-       "ProfileIntroductionEn": "",
-       "ReleaseDateJp": ""
-     },
-     {
-      "CharacterId": 19005,
-       "FamilyNameEn": "",
-       "PersonalNameEn": "dummy_Striker80",
-       "ProfileIntroductionEn": "",
-       "ReleaseDateJp": ""
-     }
-
-
-   ]
+      "FamilyNameEn": "Mizuha",
+      "PersonalNameEn": "Mimori",
+      "ProfileIntroductionEn": "Member of the Hyakkiyako Alliance Academy, and a kind vice-president of the discipline club.<br>Mimori always has a cheerful smile and a gentle demeanor, and she is very popular with everyone. Having been shojo manga fan since young age, she pursues a dream of embodying the \"Yamato Nadeshiko\" character, to which end she joined the discipline club. Together with her childhood friend and club director Tsubaki she is working hard every day to practice cooking and cleaning.",
+      "HobbiesEn": "Shojo manga, doing household chores",
+      "VoiceEn": "Tanaka Rie",
+      "Illust": "tokki",
+      "ReleaseDateJp": "2022/02/09"
+    }
+  ]
 }

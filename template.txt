@@ -2,8 +2,9 @@
 | Id = {{character.id}}
 | Name = {{character.name_translated}}
 | Image = {{character.name_translated}}_full.png
+| Portrait = {{character.portrait}}
 | JPName = {{character.profile.full_name}}
-| JPReading = {{character.family_name_translated}} {{character.name_translated}}
+| JPReading = {{character.family_name_translated}} {{character.name_translated.split('(', 1)[0].strip()}}
 | School = {{character.school}}
 | Age = {{character.profile.age}}
 | Birthday = {{character.profile.birthday}}
@@ -34,6 +35,7 @@
 {% raw %}}}{% endraw %}
 
 =How to Obtain=
+{% raw %}{{CharacterBanners}}{% endraw %}
 
 =Character Details=
 {% raw %}{{{% endraw %}CharacterStatTable

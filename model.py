@@ -5,7 +5,7 @@ import re
 
 
 class Character(object):
-    def __init__(self, id, name, dev_name, name_en, family_name_en, rarity, school, role, position, damage_type, armor_type, combat_class, equipment, weapon_type,
+    def __init__(self, id, name, dev_name, portrait, name_en, family_name_en, rarity, school, role, position, damage_type, armor_type, combat_class, equipment, weapon_type,
                  uses_cover, profile, normal_skill, ex_skill, passive_skill, passive_weapon_skill, sub_skill, stats, weapon, favor, memory_lobby, momotalk, liked_gift_tags):
         self.id = id
         self.name = name
@@ -33,6 +33,7 @@ class Character(object):
         self.liked_gift_tags = liked_gift_tags
 
         self.dev_name = dev_name
+        self.portrait = portrait
         self.name_translated = name_en
         self.family_name_translated = family_name_en
 
@@ -87,10 +88,11 @@ class Character(object):
             character['Id'],
             data.characters_localization[character_id]['PersonalNameJp'],
             character['DevName'],
+            character['TextureDir'][character['TextureDir'].rfind('/')+1:],
             data.translated_characters[character_id]['PersonalNameEn'],
             data.translated_characters[character_id]['FamilyNameEn'],
             character['DefaultStarGrade'],
-            character['School'],
+            character['School'] != 'RedWinter' and character['School'] or 'Red Winter',
             character['TacticRole'],
             character['TacticRange'],
             character['BulletType'],
@@ -160,9 +162,14 @@ class Profile(object):
         profile = data.characters_localization[character_id]
         weapon = data.translated_weapons[character_id]
 
+        hobbies = 'HobbiesEn' in data.translated_characters[character_id] and data.translated_characters[character_id]['HobbiesEn'] or profile['HobbyJp']
+        illustrator = 'Illust' in data.translated_characters[character_id] and data.translated_characters[character_id]['Illust'] or profile['ArtistNameJp']
+        voice = 'VoiceEn' in data.translated_characters[character_id] and data.translated_characters[character_id]['VoiceEn'] or profile['CharacterVoiceJp']
+        age = 'AgeEn' in data.translated_characters[character_id] and data.translated_characters[character_id]['AgeEn'] or profile['CharacterAgeJp']
+        height = 'HeightEn' in data.translated_characters[character_id] and data.translated_characters[character_id]['HeightEn'] or profile['CharHeightJp']
         release_date_jp = 'ReleaseDateJp' in data.translated_characters[character_id] and data.translated_characters[character_id]['ReleaseDateJp'] or ''
         introduction_en = 'ProfileIntroductionEn' in data.translated_characters[character_id] and data.translated_characters[character_id]['ProfileIntroductionEn'] or ''
-        #full_name_en = 
+ 
 
         #translator = Translator()
         #
@@ -174,12 +181,12 @@ class Profile(object):
 
         return cls(
             f'{profile["FamilyNameJp"]} {profile["PersonalNameJp"]}',
-            profile['CharacterAgeJp'],
+            age,
             profile['BirthDay'],
-            profile['CharHeightJp'],
-            profile['HobbyJp'],
-            profile['ArtistNameJp'],
-            profile['CharacterVoiceJp'],
+            height,
+            hobbies,
+            illustrator,
+            voice,
             profile['ProfileIntroductionJp'].replace("\n\n",'<br>'),
             introduction_en.replace("\n\n",'<br>'),
             f'{profile["FamilyNameRubyJp"]} {profile["PersonalNameJp"]}',
