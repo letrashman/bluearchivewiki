@@ -1,0 +1,657 @@
+{
+    "DataList": [
+        {
+            "Id": 2205211310,
+            "NameJp": "初音ミクのフォトカード",
+            "NameEn": "Hatsune Miku photo card",
+            "DescriptionJp": "初音ミクのキヴォトスにおけるライブで配られた、特製のフォトカード。ライブはかなりの大盛況に終り、初音ミクのファンであれば誰もが欲しがるレアなグッズとなった。",
+            "DescriptionEn": "A special photo card distributed Hatsune Miku's live concert in Kivotos. The concert was a great success, and it became a rare item that any Hatsune Miku fan would want.\n\n''This is a special event gift, it will be treated as favorite when given to any student.''"
+        },
+        {
+            "Id": 3401454433,
+            "NameJp": "きらめきの花束",
+            "DescriptionJp": "特別な人に記念でプレゼントする、クリスタルで作られた花束。\n光を当てると万華鏡のように輝く。",
+            "NameEn": "Shiny Bouquet",
+            "DescriptionEn": "A crystal bouquet perfect for giving to a special someone.\nIt sparkles like a kaleidoscope in the light.\n\n''This is a special event gift, it will be treated as favorite when given to any student.''"
+        },
+        {
+            "Id": 1575353856,
+            "NameJp": "禁断の愛\n〜許されないからこそ美しく〜",
+            "DescriptionJp": "大人気の恋愛小説作家「恋よ鯉」先生の最新作！\n結ばれることは許されない、禁断の愛を扱った問題作！",
+            "NameEn": "Forbidden Love ~Beautiful Sin~",
+            "DescriptionEn": "The latest work from the popular romance novelist who wrote \"Koi About Love\"!\nDelve into a dizzying tale of forbidden love!"
+        },    
+        {
+            "Id": 1148052880,
+            "NameJp": "跳躍探偵ウサギ\n〜霧に包まれた温泉での滑落〜",
+            "DescriptionJp": "そのピンと立った純白の耳は、事件の音を逃さない！跳躍探偵ウサギシリーズ、第3弾！\n今度の舞台は温泉だ！",
+            "NameEn": "Jumping Detective Rabbit ~A trip through the misty hot springs~",
+            "DescriptionEn": "Whenever there's a case, these snow-white bunny ears are sure to crack it! Volume 3 of the Extraordinary Cottontail Detective series! The stage is set at the hot springs!"
+        },
+        {
+            "Id": 1773086852,
+            "NameJp": "高級なクッキーセット",
+            "DescriptionJp": "優しい甘さが絶品の、シュレーディンガーの高級なクッキーセット。クッキーの代わりに他のものが入っている確率もそれなりにある。開けてみないと事象は確定しない。",
+            "NameEn": "Luxury Cookie Set",
+            "DescriptionEn": "Schrödinger's set of exquisite luxury cookies. There is a good chance that something else will be inside instead of the cookies. Contents can not be confirmed unless the box is opened."
+        },
+        {
+            "Id": 4122424050,
+            "NameJp": "スイートチョコポテトチップス",
+            "NameEn": "Sweet Chocolate Chips",
+            "DescriptionJp": "片面にチョコレートがコーティングされたポテトチップス。サクサクとした食感にチョコレートの甘さが加わったが、モモカの好みではなさそうだ。",
+            "DescriptionEn": "Potato chips with a chocolate coating on one side. The sweetness of the chocolate pairs well with crispy texture of the chips, but Momoko doesn't seem to be fond of it."
+        },
+        {
+            "Id": 2341679944,
+            "NameJp": "エンジェルチョコレート",
+            "NameEn": "Angel Chocolate",
+            "DescriptionJp": "「エンジェル24」プライベートブランドのチョコレート。ソラがミスで大量発注した、その最後の一つ。",
+            "DescriptionEn": "Angel 24's store-brand chocolate. The last one of a large order that Sora placed by mistake."
+        },
+        {
+            "Id": 2435557875,
+            "NameJp": "お徳用チョコレートパック",
+            "NameEn": "Chocolate Value Pack",
+            "DescriptionJp": "連邦生徒会に置かれているお徳用のミニチョコレート。リンも仕事中にたまに食べるらしい。",
+            "DescriptionEn": "Mini-chocolate value pack that is available at the Federal Student Council. Rin sometimes eats them during work."
+        },
+        {
+            "Id": 2724075845,
+            "NameJp": "アロナのチョコジンジャークッキー",
+            "NameEn": "Arona's Chocolate Gingerbread Cookies",
+            "DescriptionJp": "アロナが一生懸命作ったチョコジンジャークッキー。先生とアロナの姿が可愛らしく再現されている。",
+            "DescriptionEn": "The chocolate gingerbread cookies that Arona worked so hard to make. The figures of the Sensei and Arona are reproduced in a cute way."
+        },
+        {
+            "Id": 1567224539,
+            "NameJp": "バレンタインペロロ",
+            "NameEn": "Valentine Peroro",
+            "DescriptionJp": "バレンタインデーを記念して発売されたペロロ形のチョコレート。マニアの間でも話題になったその限定商品を、当然ヒフミは見逃さなかった。",
+            "DescriptionEn": "The Peroro-shaped chocolates that were released to commemorate Valentine's Day. Naturally, Hifumi couldn't miss out on this limited edition product that became a hot topic among fans."
+        },
+        {
+            "Id": 984677767,
+            "NameJp": "レーションD型",
+            "NameEn": "D Ration",
+            "DescriptionJp": "オーツ麦とココアパウダーを混ぜた軍用チョコレート。正義のためならばその圧倒的なカロリーもマシロは恐れない。",
+            "DescriptionEn": "Military chocolate made from a mixture of oats and cocoa powder. Mashiro is not afraid of the overwhelming calorie content when it comes to justice."
+        },
+        {
+            "Id": 1666908815,
+            "NameJp": "ハッピーホットチョコレート",
+            "NameEn": "Happy Hot Chocolate",
+            "DescriptionJp": "ハナエが作ってくれた、温かいホットチョコレート。一口飲むと疲れが取れると同時に、幸せな気分が溢れてくる。",
+            "DescriptionEn": "Warm hot chocolate made by Hanae. Taking one sip will relieve your tiredness and make you feel happy at the same time."
+        },
+        {
+            "Id": 3922278991,
+            "NameJp": "ショコラ・デ・ゲヘナ",
+            "NameEn": "Chocolat de Gehenna",
+            "DescriptionJp": "高カロリー・高カフェインのゲヘナ製ダークチョコレート。実はイオリも靴墨と取り違えたことがある。",
+            "DescriptionEn": "Dark Chocolate made in Gehenna, high in calories and high in caffeine. In fact, Iori once mistook it for shoe polish."
+        },
+        {
+            "Id": 342988654,
+            "NameJp": "大量の板チョコレート",
+            "NameEn": "Lots of chocolate bars",
+            "DescriptionJp": "アカリがチョコレート大食い大会に備えるために買ってきた大量の板チョコレート。普通の人は見ただけで満腹になりそう。",
+            "DescriptionEn": "A large amount of chocolate bars that Akari bought to prepare for the chocolate eating competition. A normal person would get full just by looking at it."
+        },
+        {
+            "Id": 741491105,
+            "NameJp": "チョコ団子",
+            "NameEn": "Chocolate Dango",
+            "DescriptionJp": "和菓子屋で売られていたチョコレート味のお団子。意外な取り合わせだが、ジュンコの舌にかなう美味しさ。",
+            "DescriptionEn": "Chocolate flavored dango sold at Japanese sweets shop. An unexpected combination, but it was delicious enough to satisfy Junko's taste buds."
+        },
+        {
+            "Id": 2503165795,
+            "NameJp": "デス·ラブ",
+            "NameEn": "Death·Love",
+            "DescriptionJp": "カヨコの好きな音楽グループ、ブラック·デス·ポイズンのバレンタイン限定シングルを購入するとおまけでもらえるギフト。この見た目だが、味は柔らかくて甘い。",
+            "DescriptionEn": "A gift you get as a bonus when you buy the limited edition Valentine's Day single from Kayoko's favorite music group, Black Death Poison. It may look like this, but the taste is soft and sweet."
+        },
+        {
+            "Id": 3659929614,
+            "NameJp": "ライダーの間食",
+            "NameEn": "Rider's Snack",
+            "DescriptionJp": "シロコがライディング用に常備しているエナジーバー。ナッツが練りこまれており、一口かじればすぐに元気が体の隅々までいきわたる。",
+            "DescriptionEn": "An energy bar that Shiroko always keeps on hand for riding. The nuts are kneaded into the bar, and you can feel the energy spreading to every corner of your body as soon as you bite into it."
+        },
+        {
+            "Id": 3042768744,
+            "NameJp": "海のお友達",
+            "NameEn": "Friend of the Sea",
+            "DescriptionJp": "海洋博物館で売られているチョコレートセットの中のクジラ。クジラの巨大さをホシノは気に入っているが、このクジラは手のひらサイズ。",
+            "DescriptionEn": "A chocolate whale set sold at the Maritime Museum. Hoshino likes the huge size of whales, but this one is the size of the palm of her hand."
+        },
+        {
+            "Id": 1510394578,
+            "NameJp": "砂漠のバラ",
+            "NameEn": "Desert Rose",
+            "DescriptionJp": "アビドスの駅前で売られているバラ模様のチョコレート。砂漠のバラをモチーフにしたチョコレートで、贈り物として人気が高い。",
+            "DescriptionEn": "Rose patterned chocolates sold in front of the train station in Abydos. These chocolates are based on the motif of desert roses and are popular as gifts."
+        },
+        {
+            "Id": 2394567841,
+            "NameJp": "ヴィーナスのチョコレート",
+            "NameEn": "Venus Chocolate",
+            "DescriptionJp": "学生向けとは思えない大胆な形のチョコレート。学生で買うのはエイミくらいかもしれない。",
+            "DescriptionEn": "A bold shaped chocolates that you wouldn't think are meant for students. The only student who would buy it is probably Eimi."
+        },
+        {
+            "Id": 367299249,
+            "NameJp": "盗聴装置14号",
+            "NameEn": "Wiretap Device No.14",
+            "DescriptionJp": "コタマが作った盗聴器が乗ったチョコレート。隠す気配は全く無いようだ。",
+            "DescriptionEn": "Chocolate with a listening device on it made by Kotama. She seems to have no intention of hiding it at all."
+        },
+        {
+            "Id": 919440775,
+            "NameJp": "缶のホットココア",
+            "NameEn": "Can Hot Cocoa",
+            "DescriptionJp": "主に自動販売機で販売されているチョコレートドリンクの缶。この甘さが深夜のチヒロを何度も癒してきた。",
+            "DescriptionEn": "A can of chocolate drink sold mainly from vending machines. The sweetness of this drink has soothed Chihiro many times late at night."
+        },
+        {
+            "Id": 3490934017,
+            "NameJp": "パヴェ・チョコレート（領収書付き）",
+            "NameEn": "Pavé Chocolates (with receipt)",
+            "DescriptionJp": "ユウカが先生のために購入した贈答用チョコレートセット。5000円の領収書が貼られているのだから、5000円のチョコで間違いない。",
+            "DescriptionEn": "A set of gift chocolates that Yuuka bought for Sensei, with a receipt for 5,000 yen on it, so it must be a 5,000 yen worth of chocolates."
+        },
+        {
+            "Id": 419901229,
+            "NameJp": "勇者のチョコレート（アイテム）",
+            "NameEn": "Hero's Chocolate (Item)",
+            "DescriptionJp": "ユズがゲーム内でプレゼントしてくれた期間限定のアイテム。使用するとキャラクターの体力とプレイヤーの心を回復してくれる。",
+            "DescriptionEn": "A limited-time item that Yuzu gave to you as a gift in-game. When used, it restores the character's strength and the player's heart."
+        },
+        {
+            "Id": 3659962553,
+            "NameJp": "手作りチョコスネイル",
+            "NameEn": "Homemade Chocolate 'Snaily'",
+            "DescriptionJp": "アリスがゲーム内のモンスター「スネイル」をモチーフにして手作りしたチョコ。遠めに見ればスネイルに見えないこともない。",
+            "DescriptionEn": "This is a chocolate that Alice made by hand, based on the 'Snaily' monster in the game. If you look at it from afar, it might look like a snail."
+        },
+        {
+            "Id": 941224173,
+            "NameJp": "妖怪MAXチョコレート味",
+            "NameEn": "Youkai MAX Chocolate Flavor",
+            "DescriptionJp": "バレンタインシーズンを記念して発売されたチョコ味の妖怪MAX。意識が覚醒することはともかく、普通の妖怪MAXより美味しいかどうかを決めるにはハレとの議論が必要。",
+            "DescriptionEn": "A chocolate-flavored Youkai Max released to celebrate the Valentine's Day season; aside from increasing your energy, you'll have to argue with Hare to decide if it tastes better than regular Youkai Max."
+        },
+        {
+            "Id": 1781832965,
+            "NameJp": "チョコ味のスプレー",
+            "NameEn": "Chocolate-flavored Spray",
+            "DescriptionJp": "インクの代わりにチョコレートを噴射するスプレー。マキによると、世の中を甘くするのに使えるらしい。",
+            "DescriptionEn": "A spray can that sprays chocolate instead of paint. According to Maki, it can be used to sweeten the world."
+        },
+        {
+            "Id": 4075915701,
+            "NameJp": "チョコレート砲弾Mk.2",
+            "NameEn": "Chocolate Shell Mk.2",
+            "DescriptionJp": "ヒビキがバレンタインデーイベントの行事用に開発したチョコレート砲弾。威力が高すぎてイベントでは使用できなかった。",
+            "DescriptionEn": "A chocolate cannonball developed by Hibiki for the Valentine's Day event. It was too powerful to be used in the event."
+        },
+        {
+            "Id": 2579538323,
+            "NameJp": "チョコレートネジ",
+            "NameEn": "Chocolate Screws",
+            "DescriptionJp": "銀紙で包装されたネジ型チョコレート。ウタハですら一目で見抜けないほど完璧な造形だが、工具としては使用できない。",
+            "DescriptionEn": "A screw-shaped chocolate wrapped in silver paper. The shape is so perfect that even Utaha can't recognize it at a glance, but it can't be used as a tool."
+        },
+        {
+            "Id": 3469911388,
+            "NameJp": "チェリョンカ",
+            "NameEn": "Cheryonka",
+            "DescriptionJp": "レッドウィンターの給食部で生産している、レッドウィンター連邦学園特製のミルクチョコレート。チェリノがすでに一口味わったもの。",
+            "DescriptionEn": "Red Winter Federal Academy's special milk chocolate, produced by Red Winter's School Lunch Club. Something that Cherino had already tasted a bite of."
+        },
+        {
+            "Id": 1188251464,
+            "NameJp": "改良型チェリョンカ",
+            "NameEn": "Improved Cheryonka",
+            "DescriptionJp": "トモエ描き下ろしの可愛いイラストが入った、改良型チェリョンカ。味は従来のチェリョンカとほとんど変わらない。",
+            "DescriptionEn": "An improved version of Cheryonka with a cute illustration drawn by Tomoe. The taste is almost the same as the traditional Cheryonka."
+        },
+        {
+            "Id": 3845682331,
+            "NameJp": "カカオの実",
+            "NameEn": "Cacao Bean",
+            "DescriptionJp": "先生にチョコレートをプレゼントしたかったノドカがやっと手に入れたカカオの実。甘くはないが、加工してお茶のように沸かして飲むと良い風味が出る。",
+            "DescriptionEn": "Nodoka, who wanted to give chocolate to Sensei, finally got her hands on some cacao bean. It is not sweet, but gives a nice flavor when processed and brewed into a hot drink."
+        },
+        {
+            "Id": 410737829,
+            "NameJp": "不老不死の霊薬(失敗作)",
+            "NameEn": "Elixir of Immortality (Failed)",
+            "DescriptionJp": "サヤがチョコレートをベースに作った新しい霊薬。味も効果も従来のチョコと変わらないので、ただのチョコと言って良いのかもしれない。",
+            "DescriptionEn": "A new elixir created by Saya based on chocolate. The taste and effects are the same as those of conventional chocolate, so it may as well just be a chocolate."
+        },
+        {
+            "Id": 1298182383,
+            "NameJp": "大人のラムボンボン",
+            "NameEn": "Adult's Rum Bonbon",
+            "DescriptionJp": "ラム入りの濃厚な香りのボンボンチョコレート。学生が食べるには少し早い味。もちろんシュンにとっても。",
+            "DescriptionEn": "Richly scented chocolate bonbon with rum filling. Students are a bit too young to enjoy such things. And that goes for Shun too, of course."
+        },
+        {
+            "Id": 125955518,
+            "NameJp": "チョコレート手錠",
+            "NameEn": "Chocolate handcuffs",
+            "DescriptionJp": "手錠の形をしたチョコレート。実際に手錠として使おうとしたキリノの発想は、メーカーとしても予想外だった。",
+            "DescriptionEn": "Chocolate in the shape of handcuffs. Kirino's idea of actually using them as handcuffs was unexpected even for the manufacturer."
+        },
+        {
+            "Id": 1951960570,
+            "NameJp": "特製チョコクルーラー",
+            "NameEn": "Special Chocolate Cruller",
+            "DescriptionJp": "マスタードーナッツにてバレンタインシーズン限定で発売される、スプリンクルがかかった特製のチョコクルーラー。フブキにとってバレンタインとはこれを食べられる日という意味。",
+            "DescriptionEn": "A special chocolate cruller with sprinkles, available only during the Valentine's Day season at Master Donut. For Fubuki, Valentine's Day means the day she can eat this."
+        },
+        {
+            "Id": 711391590,
+            "NameJp": "チョコ埴輪",
+            "NameEn": "Chocolate Haniwa",
+            "DescriptionJp": "ハナコが用意した埴輪形のチョコレート。どこから見ても視線が合う気がする。",
+            "DescriptionEn": "The haniwa-shaped chocolate that Hanako prepared. Regardless of how you turn it, it feels like your line of sight would always meet its gaze."
+        },
+        {
+            "Id": 4101876,
+            "NameJp": "リトル·ブレット",
+            "NameEn": "Little·Bullet",
+            "DescriptionJp": "ハスミがくれた狙撃小銃の弾丸型のチョコレート。小さいが、その甘さは胸を打ち抜く。",
+            "DescriptionEn": "A chocolate in the shape of a sniper rifle bullet given by Hasumi. It's small, but its sweetness hits right to the heart."
+        },
+        {
+            "Id": 2407160249,
+            "NameJp": "ヒナの手作りチョコレート",
+            "NameEn": "Hina's Homemade Chocolate",
+            "DescriptionJp": "ヒナの手作りチョコレート。見た目は整っていないが、ふり絞られた勇気は何よりも美しい。",
+            "DescriptionEn": "Hina's homemade chocolate. May not look like much, but the effort it took is more precious than anything else."
+        },
+        {
+            "Id": 1422578612,
+            "NameJp": "あなたのための一口の休息",
+            "NameEn": "A Bite of Rest For You",
+            "DescriptionJp": "アコが厳選した材料を使用した自家製チョコレート。一見して手作りとはわからない完璧な出来栄えで、仕事中でも食べやすいその味とサイズは、アコの有能さや気遣いの表れでもある。",
+            "DescriptionEn": "Homemade chocolates made with ingredients carefully selected by Ako. At first glance, it's such a perfect item that you wouldn't believe it to be homemade, and its taste and size, which are easy to eat even at work, are a sign of Ako's skill and care."
+        },
+        {
+            "Id": 87498756,
+            "NameJp": "すごく！おいしい！！チョコレート！！！",
+            "NameEn": "Super! Delicious! Chocolate!!!",
+            "DescriptionJp": "イズミが思う最高の材料をたくさん使って作った、イズミの手作りチョコレート。しょっぱくて香ばしい味がポイント。",
+            "DescriptionEn": "Izumi's homemade chocolates made with many of the best ingredients that Izumi thought of. The key point is the salty and savory taste."
+        },
+        {
+            "Id": 1899678676,
+            "NameJp": "社長の最高級チョコレート",
+            "NameEn": "The President's Finest Chocolate",
+            "DescriptionJp": "アルが日頃の協力への感謝としてくれたチョコレート。大事なのは買った値段ではなく、誰がどんな気持ちでくれたかである。",
+            "DescriptionEn": "The chocolates that Aru gave me as a thank you for daily efforts. The important thing is not the price of the chocolate, but who gave it to you and how they felt about it."
+        },
+        {
+            "Id": 171489856,
+            "NameJp": "地獄のロシアンルーレット",
+            "NameEn": "Hell's Russian Roulette",
+            "DescriptionJp": "当たってしまえば地獄を見るかもしれない、いたずら用のロシアンルーレットチョコレート。ムツキのブックマークにはこうした商品が大量に保存されている。",
+            "DescriptionEn": "A russian roulette chocolates for pranking that might make you see hell if you eat the wrong one. Mutsuki has a large number of such products stored in her bookmarks."
+        },
+        {
+            "Id": 2099851060,
+            "NameJp": "ココアが入ったマグカップ",
+            "NameEn": "Mugs filled with Cocoa",
+            "DescriptionJp": "フウカが先生のために入れてくれたココア。先生の健康を気遣う心のおかげか、実際の味以上に甘く温かい。",
+            "DescriptionEn": "The cocoa that Fuuka made for Sensei. Her concern for the Sensei's health made it even sweeter and warmer."
+        },
+        {
+            "Id": 1852286999,
+            "NameJp": "ジュリの手作りチョコレート",
+            "NameEn": "Juri's Homemade Chocolate",
+            "DescriptionJp": "ジュリが全力を尽くした手作りチョコレート。食べたはずなのだが味は分からない。分からなくていいのかもしれない。その真心だけは伝わったのだから。",
+            "DescriptionEn": "Homemade chocolate that Juri did her best to make. Even if you eat it, you will not taste anything. Maybe it's okay not to know. Because the sincerity of her message was conveyed either way."
+        },
+        {
+            "Id": 1269992298,
+            "NameJp": "共にする時間",
+            "NameEn": "Our Time Together",
+            "DescriptionJp": "セリカがバイト先でもらった最高級チョコレートケーキ。労働の苦労と喜びが、何よりも味を引き立ててくれる。",
+            "DescriptionEn": "The finest chocolate cake that Serika received from her part-time job. The hardships and joys of labor enhance the taste more than anything else."
+        },
+        {
+            "Id": 265930468,
+            "NameJp": "おやつ担当のお仕事",
+            "NameEn": "Snack Supervisor's Choice",
+            "DescriptionJp": "アビドスのおやつ担当であるノノミが用意したチョコレートセット。先生や個性的な対策委員会メンバーのだれもが楽しめるよう、あらゆる種類のチョコが詰まっている。",
+            "DescriptionEn": "The chocolate set that was prepared by Nonomi, who is in charge of Abydos' snacks. It's filled with all kinds of chocolates for everyone to enjoy, including Sensei and members of the  Countermeasures Committee."
+        },
+        {
+            "Id": 689413464,
+            "NameJp": "選りすぐりの一品",
+            "NameEn": "The Best Selection",
+            "DescriptionJp": "スミレが実際に試食し、100種類以上の中から選び抜いた最高の栄養食品。これだけで一日動けるほどの大量のカロリーを素早く摂れるが、当然その後は相応の運動が必要になる。",
+            "DescriptionEn": "The best nutritional food that Sumire has actually tasted and selected from over a hundred different kinds. This alone can provide large enough amount of calories to keep you moving for a day, but of course, you will need to do a reasonable amount of exercise afterwards."
+        },
+        {
+            "Id": 3328209817,
+            "NameJp": "カシオペアの拳～ウーパールーパー大列伝～",
+            "NameEn": "Cassiopeia's Fist: The Great Upalupa's Tale",
+            "DescriptionJp": "モモイがクレーンゲーム機で獲得した食玩チョコレート。人気格闘ゲーム『カシオペアの拳~ウーパールーパー大列伝~』のマスコットキャラクターのおもちゃが同梱されている。全7種類。",
+            "DescriptionEn": "A chocolate toy that Momoi won from a crane game machine. It includes a toy of the mascot character from the popular fighting game 'Cassiopeia's Fist: The Greate Upalula's Tale'. There are seven types in all."
+        },
+        {
+            "Id": 3385816833,
+            "NameJp": "ミドリの手作りチョコレート",
+            "NameEn": "Midori's Homemade Chocolate",
+            "DescriptionJp": "たくさんの練習。手探りの試行錯誤。失敗と再挑戦、そして早起き。彼女がゲームと絵以外のことでこういった努力をするのは、初めてのことかもしれない。",
+            "DescriptionEn": "Lots of practice. Trial and error. Failing, then trying again, and waking up early. This may be the first time she has made such an effort for something other than games and drawing."
+        },
+        {
+            "Id": 3589704604,
+            "NameJp": "四字熟語チョコ煎餅",
+            "NameEn": "Four-Character Idiom Chocolate Fortune Cookies",
+            "DescriptionJp": "様々な四字熟語が盛り込まれているチョコレート菓子。まじめな四字熟語の中に時折変な言葉が混じっているあたりが、チセのお気に入りのようだ。",
+            "DescriptionEn": "A chocolate candy that contains a variety of four-character idioms. Chise's favorite part is that there are sometimes strange words mixed in with the serious four-character idioms."
+        },
+        {
+            "Id": 3842989732,
+            "NameJp": "百夜堂の限定スイーツ",
+            "NameEn": "Momoyo Hall's Limited Edition Sweets",
+            "DescriptionJp": "百夜堂でバレンタインにのみ販売される特別なスイーツ。告知もされず、メニューにも載っておらず、誰に売るものなのかをシズコは教えてくれない。",
+            "DescriptionEn": "A special sweet sold only on Valentine's Day at Momoyo Hall. It's not announced, it's not on the menu, and Shizuko won't say who it's sold to."
+        },
+        {
+            "Id": 3251730635,
+            "NameJp": "特製忍者グッズ49番「チョコレートセット」",
+            "NameEn": "Special Ninja Goods No. 49「Chocolate Set」",
+            "DescriptionJp": "各種忍者道具がいっぱい入った夢の忍者チョコレートセット。主殿と味わいたいがために、イズナが朝早くから並んで手に入れた一品。実際に使用することはできないので要注意。",
+            "DescriptionEn": "Ultimate ninja chocolate set filled with various ninja tools. Izuna lined up early in the morning to get this item so that she could taste it with her lord. Please note that they cannot be used in actual combat."
+        },
+        {
+            "Id": 4247091559,
+            "NameJp": "安眠チョコレートと安眠グッズセット",
+            "NameEn": "A Good Night's Sleep Chocolate and Bedding Essentials Set",
+            "DescriptionJp": "いつも過労気味の先生のためにツバキが用意してくれた安眠グッズ一式。より眠りやすい枕が欲しくなった時にはツバキを呼ぼう。普通に買うと合計3,980円。",
+            "DescriptionEn": "A set of good night's sleep goods that Tsubaki prepared for the always overworked Sensei. Whenever you want a pillow that will help you sleep better, call Tsubaki. If you buy it normally, the total cost is 3,980 yen."
+        },
+        {
+            "Id": 2771361458,
+            "NameJp": "ワカモの愛がこもったチョコレート",
+            "NameEn": "Chocolate filled with Wakamo's Love",
+            "DescriptionJp": "ワカモが溢れる熱い思いをいっぱい込めて作ったチョコレート。ただし込められているのが本当に愛情だけなのかは定かでない。",
+            "DescriptionEn": "A chocolate made by Wakamo with a lot of thought and passion. However, it is not clear if it's really just love that's put into it."
+        },
+        {
+            "Id": 1572630441,
+            "NameJp": "美食の証明（抹茶味）",
+            "NameEn": "Proof of Gourmet (Matcha Flavor)",
+            "DescriptionJp": "ハルナが美食の研究の一環で作った抹茶チョコレート。噛みしめると、深い苦みの中から甘さが滲み出てくる。",
+            "DescriptionEn": "Matcha flavored chocolate made by Haruna as part of her gourmet research. When you bite into it, the sweetness oozes out from the deep bitterness."
+        },
+        {
+            "Id": 3743008500,
+            "NameJp": "バレンタインの聖者スカルマン",
+            "NameEn": "St. Skull Man Valentine's Day",
+            "DescriptionJp": "アズサが用意した『死の死神スカルマン』のチョコレートバージョン。食べてしまえば骨も残らないが、込められた思いはきっと残る。",
+            "DescriptionEn": "The chocolate version of the 'Grim Reaper of Death, Skull Man' prepared by Azusa. Once it is eaten, there will be no bones left, but the thought that went into it will surely remain."
+        },
+        {
+            "Id": 1084418779,
+            "NameJp": "ラブリー·クロスライン",
+            "NameEn": "Lovely·Crossline",
+            "DescriptionJp": "コハルが持ってきた有名なチョコレート。ホワイトチョコとダークチョコが混ざっており、黒の十字模様がとても魅力的。",
+            "DescriptionEn": "The famous chocolate brought by Koharu. It is an assortment of white and dark chocolate, with a very attractive black cross pattern."
+        },
+        {
+            "Id": 2742248602,
+            "NameJp": "トゥインクルスター",
+            "NameEn": "Twinkle Star",
+            "DescriptionJp": "スズミがコンビニで買ってくれた星型のチョコレート。包みを開くと金箔がかけられており、キラキラと静かに輝きを放つ。",
+            "DescriptionEn": "A star-shaped chocolate that Suzumi bought at a convenience store. Its golden foil wrapping is glittering brilliantly."
+        },
+        {
+            "Id": 663608497,
+            "NameJp": "ホーリー・チョコレート",
+            "NameEn": "Holy・Chocolate",
+            "DescriptionJp": "マリーがプレゼントしてくれたチョコレート。シスターフッドのお土産として人気で、最初から食用ではなく展示用だったのかもしれない。",
+            "DescriptionEn": "The chocolates that Mari gave as a gift. It was a popular souvenir among the Sisterhood, and may have been intended for display rather than for eating."
+        },
+        {
+            "Id": 848260985,
+            "NameJp": "本のお友",
+            "NameEn": "A Book's Friend",
+            "DescriptionJp": "手が汚れない特殊なコーティングが施されたチョコレート。シミコをはじめ読書家の間で人気が高い。",
+            "DescriptionEn": "Chocolate with a special coating that keeps your hands clean. It is very popular among avid readers, including Shimiko."
+        },
+        {
+            "Id": 1900401189,
+            "NameJp": "ビー·ウィズ·ユー",
+            "NameEn": "Be·With·You",
+            "DescriptionJp": "セリナが作ってくれた手作りチョコレート。その甘い味わいは心までほっとさせてくれる。",
+            "DescriptionEn": "Homemade chocolate made by Serina. The sweet taste of the chocolates makes you feel relaxed."
+        },
+        {
+            "Id": 4183660781,
+            "NameJp": "ペニーロイヤルチョコミント",
+            "NameEn": "Pennyroyal Mint Chocolate",
+            "DescriptionJp": "アイリが用意した特別なチョコミント。マニアの間では大人気かつ特別なものらしいが、どれくらいどのように特別なのかを理解するには、アイリに説明をしてもらう必要がありそうだ。",
+            "DescriptionEn": "A special mint chocolate prepared by Airi. Apparently they are very popular and special among fans, but to understand how special it is, you'll have to ask Airi to explain it."
+        },
+        {
+            "Id": 1868703267,
+            "NameJp": "ヨシミの限定チョコレート",
+            "NameEn": "Yoshimi's Limited Edition Chocolate",
+            "DescriptionJp": "ヨシミの手作りチョコレート。幾つかの意味で、他では見られない貴重な限定モノ。",
+            "DescriptionEn": "Yoshimi's homemade chocolates. In some ways, it's a rare and limited edition item that can't be found anywhere else."
+        },
+        {
+            "Id": 355355427,
+            "NameJp": "言葉よりチョコレート",
+            "NameEn": "Chocolate over Words",
+            "DescriptionJp": "ナツの手作りと予想されるチョコレート。ナツの雄弁な言葉の代わりにしてはシンプルで、だからこそ美しさが感じられるデザインになっている。",
+            "DescriptionEn": "The chocolate that is believed to have been homemade by Natsu. The design is kept laconic in stark contrast to Natsu's eloquent words, and that is why it is so beautiful."
+        },
+        {
+            "Id": 2098665142,
+            "NameJp": "フォーチュンチョコレート（自作）",
+            "NameEn": "Fortune Chocolate (Homemade)",
+            "DescriptionJp": "チナツが準備してきたチョコレート。どれを選んでも同じになるなら、それは運命と呼んでも良いかもしれない。",
+            "DescriptionEn": "The chocolates that was prepared by Chinatsu. The message inside will always be the same, that might as well be fate itself."
+        },
+        {
+            "Id": 3487183095,
+            "NameJp": "バンデージチョコ",
+            "NameEn": "Bandage Chocolate",
+            "DescriptionJp": "セナが勤務中に作った食べ物。包装紙が見つからずに包帯が巻かれているが、人体に問題はないとお墨付きだし、仮に倒れてもきっとセナが看病してくれる。",
+            "DescriptionEn": "Food that Sena made while she was on duty. She had no wrapping paper and used bandages instead, but it is guaranteed to be safe for human consumption, and even if you collapse, Sena will surely take care of you."
+        },
+        {
+            "Id": 3066393242,
+            "NameJp": "カカオ99.99%",
+            "NameEn": "Cacao 99.99%",
+            "DescriptionJp": "先生のためにハルカが準備したチョコレート。99.99という数字を見て「とりあえず凄そう」と感じたら便利屋68に向いているのかもしれない。",
+            "DescriptionEn": "The chocolate that was prepared by Haruka for Sensei. If you look at the number 99.99 and think, 'At any rate, that looks amazing,' you might be a good candidate for Handyman 68."
+        },
+        {
+            "Id": 3579363383,
+            "NameJp": "ツイステッドバレンタイン",
+            "NameEn": "Twisted Valentine",
+            "DescriptionJp": "ご主人様のためにアスナが準備してきたチョコレート。保管と運搬の際にちょっとした変形が起きてしまった。",
+            "DescriptionEn": "The chocolates that Asuna had prepared for her master. During storage and transportation, a slight deformation occurred."
+        },
+        {
+            "Id": 304962670,
+            "NameJp": "メイド·バイ",
+            "NameEn": "Made·By",
+            "DescriptionJp": "アカネの手作りチョコレート。特別なところのない、単なる生徒から先生への贈り物……のように見えてメイドとしての優れた手腕が隠しきれていない。",
+            "DescriptionEn": "Akane's homemade chocolates. It looks like a mere gift from a student to a teacher with nothing special about it..., but it can't hide her excellent skills as a maid."
+        },
+        {
+            "Id": 1933815846,
+            "NameJp": "チョコオムライス",
+            "NameEn": "Chocolate Omurice",
+            "DescriptionJp": "バレンタインデーを迎え、カリンが用意したオムライス。ケチャップの代わりにチョコレートでハートが描かれている、オムライス本来の味とチョコの甘みが調和した素晴らしい品。",
+            "DescriptionEn": "Omurice that was prepared by Karin for Valentine's Day. Instead of ketchup, a chocolate heart is drawn on the rice, and the omelette's original flavor and the sweetness of the chocolate come together in harmony."
+        },
+        {
+            "Id": 1957428602,
+            "NameJp": "チョコレート版画：竜",
+            "NameEn": "Chocolate Print: Dragon",
+            "DescriptionJp": "ネルがどこかから持ってきた、チョコレートでできている竜の模様の版画。見た目が強いので味もすごいはずだ、とネルは思っている。",
+            "DescriptionEn": "A print of a dragon pattern made of chocolate that Neru brought from somewhere. Neru thinks that since it looks so strong, it must taste amazing too."
+        },
+        {
+            "Id": 1255509912,
+            "NameJp": "バレンタイン·ビギニング",
+            "NameEn": "Valentine·Beginning",
+            "DescriptionJp": "バレンタインの起源や意義を説明するためにコトリが作ったチョコレート。一口かじれば連綿と紡がれてきた歴史が口にあふれる。",
+            "DescriptionEn": "Kotori made this chocolate to explain the origin and significance of Valentine's Day. When you take a bite, your mouth will be flooded with the history that has been passed down from generation to generation."
+        },
+        {
+            "Id": 1303875154,
+            "NameJp": "甘い杯",
+            "NameEn": "Sweet Sake Cup",
+            "DescriptionJp": "フィーナが持ってきた杯型のチョコレート。長く持っていると溶けてしまうので、素早く味わうのが作法である。",
+            "DescriptionEn": "The cup-shaped chocolate that Pina brought. If you hold it for too long, it will melt, so the etiquette is to taste it quickly."
+        },
+        {
+            "Id": 1082089594,
+            "NameJp": "アマンド·クリムゾン",
+            "NameEn": "Almond·Crimson",
+            "DescriptionJp": "ツルギが残したアーモンドチョコレート。可愛らしい赤いリボンが結ばれており、おそらくお店側で付けたリボンではない。",
+            "DescriptionEn": "Almond chocolate left by Tsurugi. It was tied with a pretty red ribbon, probably not the ribbon that the store had given her."
+        },
+        {
+            "Id": 1522817419,
+            "NameJp": "満点の答案用紙",
+            "NameEn": "Perfect Answer Sheet",
+            "DescriptionJp": "見事に満点を獲得した試験の答案用紙です、頑張りましたね！",
+            "DescriptionEn": "The answer sheet for the exam that you got a perfect score on, good job!"
+        },
+        {
+            "Id": 2160888131,
+            "NameJp": "ヴォルフスエック鋼鉄の欠片",
+            "DescriptionJp": "精錬中に零れ落ちたヴォルフスエック鋼鉄の欠片。製造や強化に使用される。",
+            "NameEn": "Wolfsegg Iron",
+            "DescriptionEn": "A piece of residual Wolfsegg iron from the smelting process. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 3399341924,
+            "NameJp": "トーテムポールの破片",
+            "NameEn": "Totem Pole Fragment",
+            "DescriptionJp": "トーテムポールの破片。製造や強化に使用される。",
+            "DescriptionEn": "A fragment oh the Totem Pole. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 3885013922,
+            "NameJp": "破損したトーテムポール",
+            "NameEn": "Broken Totem Pole",
+            "DescriptionJp": "かなりの部分が破損したトーテムポール。製造や強化に使用される。",
+            "DescriptionEn": "A Totem Pole broken beyond repair. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 4223626783,
+            "NameJp": "修復済みのトーテムポール",
+            "NameEn": "Repaired Totem Pole",
+            "DescriptionJp": "幾つかのトーテムポールを寄せ合わせて修理したトーテムポール。製造や強化に使用される。",
+            "DescriptionEn": "A Totem Pole repaired by putting various pieces together. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 1991681492,
+            "NameJp": "完全なトーテムポール",
+            "NameEn": "Intact Totem Pole",
+            "DescriptionJp": "完全な状態のトーテムポール。製造や強化に使用される。",
+            "DescriptionEn": "An intact Totem Pole. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 1475262601,
+            "NameJp": "古代の電池の破片",
+            "NameEn": "Ancient Battery Fragment",
+            "DescriptionJp": "古代の電池の壊れた部品。製造や強化に使用される。",
+            "DescriptionEn": "Shattered parts of an ancient battery. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 3050372668,
+            "NameJp": "破損した古代の電池",
+            "NameEn": "Damaged Ancient Battery",
+            "DescriptionJp": "かなりの部分が破損した古代の電池。製造や強化に使用される。",
+            "DescriptionEn": "Ancient battery with a significant amount of damage. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 3846626706,
+            "NameJp": "摩耗した古代の電池",
+            "NameEn": "Depleted Ancient Battery",
+            "DescriptionJp": "今となっては動作していない古代の電池。製造や強化に使用される。",
+            "DescriptionEn": "Ancient battery that is no longer working. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 675535925,
+            "NameJp": "完全なる古代の電池",
+            "NameEn": "Intact Ancient Battery",
+            "DescriptionJp": "完全な状態の古代の電池。製造や強化に使用される。",
+            "DescriptionEn": "An intact Ancient Battery. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 2203771245,
+            "NameJp": "黄金の糸",
+            "NameEn": "Golden Thread",
+            "DescriptionJp": "黄金色に輝く珍しい羊の毛から得られた糸。製造や強化に使用される。",
+            "DescriptionEn": "A thread spun from rare sheep's wool that shines like gold. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 1712573168,
+            "NameJp": "黄金の巻糸",
+            "NameEn": "Golden Thread Spool",
+            "DescriptionJp": "黄金の羊毛から得られた糸の束。製造や強化に使用される。",
+            "DescriptionEn": "A spool of thread spun from golden wool. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 1575525577,
+            "NameJp": "大きな黄金の巻糸",
+            "NameEn": "Golden Thread Yarn",
+            "DescriptionJp": "黄金の羊毛から得られたたくさんの糸の束。製造や強化に使用される。",
+            "DescriptionEn": "A ball of golden wool yarn. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 1453501240,
+            "NameJp": "黄金の布",
+            "NameEn": "Golden Fleece",
+            "DescriptionJp": "黄金の羊毛から得られた糸でできた、高級感のある布。製造や強化に使用される。",
+            "DescriptionEn": "Luxurious cloth made of golden wool. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 1790524054,
+            "NameJp": "髪伸び人形の破片",
+            "NameEn": "Broken Okiku Doll",
+            "DescriptionJp": "髪伸び人形の破片の一部。製造や強化に使用される。",
+            "DescriptionEn": "Broken piece of a hair-growing Okiku doll. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 1835718573,
+            "NameJp": "破損した髪伸び人形",
+            "NameEn": "Damaged Okiku Doll",
+            "DescriptionJp": "かなり傷ついてしまった髪伸び人形。製造や強化に使用される。",
+            "DescriptionEn": "A damaged hair-growing Okiku doll. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 1545254610,
+            "NameJp": "修理済みの髪伸び人形",
+            "NameEn": "Repaired Okiku Doll",
+            "DescriptionJp": "あちこちを綺麗にしてもらった髪伸び人形。製造や強化に使用される。",
+            "DescriptionEn": "A hair-growing Okiku doll that has been patched up. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 647237127,
+            "NameJp": "完全な髪伸び人形",
+            "NameEn": "Intact Okiku Doll",
+            "DescriptionJp": "完全な状態の髪伸び人形。製造や強化に使用される。",
+            "DescriptionEn": "A hair-growing Okiku doll in perfect condition. Used in various crafted items and enhancements."
+        }
+
+
+    ]
+}

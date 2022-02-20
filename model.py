@@ -83,12 +83,13 @@ class Character(object):
         character = data.characters[character_id]
         character_ai = data.characters_ai[character['CharacterAIId']]
         liked_gift_tags = data.characters_cafe_tags[character_id]['FavorItemTags']
+        portrait = character['TextureDir'][character['TextureDir'].rfind('/')+1:]
 
         return cls(
             character['Id'],
             data.characters_localization[character_id]['PersonalNameJp'],
             character['DevName'],
-            character['TextureDir'][character['TextureDir'].rfind('/')+1:],
+            portrait,
             data.translated_characters[character_id]['PersonalNameEn'],
             data.translated_characters[character_id]['FamilyNameEn'],
             character['DefaultStarGrade'],
@@ -210,7 +211,8 @@ def _get_skill_upgrade_materials(level, data):
     )
     for type_, id, amount in ingredients:
         if type_ == 'Item':
-            yield data.translated_items[id]['NameEn'], data.items[id]['Icon'].rsplit('/', 1)[-1], amount
+            #yield data.translated_items[id]['NameEn'], data.items[id]['Icon'].rsplit('/', 1)[-1], amount
+            yield data.etc_localization[data.items[id]['LocalizeEtcId']]['NameEn'], data.items[id]['Icon'].rsplit('/', 1)[-1], amount
         elif type_ == 'Currency':
             yield data.translated_currencies[id]['NameEn'], data.currencies[id]['Icon'].rsplit('/', 1)[-1], amount
 

@@ -8,11 +8,38 @@ BlueArchiveData = collections.namedtuple(
     'skills', 'skills_localization','translated_characters','translated_skills',
     'weapons', 'translated_weapons',
     'currencies','translated_currencies',
-    'items', 'translated_items',
+    'items', #'translated_items',
     'recipes', 'recipes_ingredients', 
     'favor_levels', 'favor_rewards', 
-    'memory_lobby']
+    'memory_lobby','etc_localization']
 )
+
+
+def load_data(path_primary, path_secondary, path_translation):
+    return BlueArchiveData(
+        characters=load_characters(path_primary),
+        characters_ai=load_characters_ai(path_primary),
+        characters_localization=load_characters_localization(path_primary),
+        characters_skills=load_characters_skills(path_primary),
+        characters_stats=load_characters_stats(path_primary),
+        characters_cafe_tags = load_characters_cafe_tags(path_primary),
+        skills=load_skills(path_primary),
+        skills_localization=load_skills_localization(path_primary),
+        translated_characters = load_characters_translation(path_translation),
+        translated_skills =  load_skills_translation(path_translation),
+        weapons = load_weapons(path_primary),
+        translated_weapons = load_weapons_translation(path_translation),
+        currencies=load_currencies(path_primary),
+        translated_currencies=load_currencies_translation(path_translation),
+        items=load_items(path_primary),
+        #translated_items=load_items_translation(path_translation),
+        recipes=load_recipes(path_primary),
+        recipes_ingredients=load_recipes_ingredients(path_primary),
+        favor_levels=load_favor_levels(path_primary),
+        favor_rewards=load_favor_rewards(path_primary),
+        memory_lobby=load_memory_lobby(path_primary),
+        etc_localization=load_etc_localization(path_primary, path_secondary, path_translation)
+    )
 
 
 def load_characters(path):
@@ -44,33 +71,6 @@ def load_characters_stats(path):
 
 def load_currencies(path):
     return load_file(os.path.join(path, 'Excel', 'CurrencyExcelTable.json'), key='ID')
-
-
-
-def load_data(path, locale_path):
-    return BlueArchiveData(
-        characters=load_characters(path),
-        characters_ai=load_characters_ai(path),
-        characters_localization=load_characters_localization(path),
-        characters_skills=load_characters_skills(path),
-        characters_stats=load_characters_stats(path),
-        characters_cafe_tags = load_characters_cafe_tags(path),
-        skills=load_skills(path),
-        skills_localization=load_skills_localization(path),
-        translated_characters = load_characters_translation(locale_path),
-        translated_skills =  load_skills_translation(locale_path),
-        weapons = load_weapons(path),
-        translated_weapons = load_weapons_translation(locale_path),
-        currencies=load_currencies(path),
-        translated_currencies=load_currencies_translation(locale_path),
-        items=load_items(path),
-        translated_items=load_items_translation(locale_path),
-        recipes=load_recipes(path),
-        recipes_ingredients=load_recipes_ingredients(path),
-        favor_levels=load_favor_levels(path),
-        favor_rewards=load_favor_rewards(path),
-        memory_lobby=load_memory_lobby(path)
-    )
 
 
 def load_file(file, key='Id'):
@@ -133,11 +133,39 @@ def load_memory_lobby(path):
 def load_currencies_translation(path):
     return load_file(os.path.join(path, 'Currencies.json'))
 
-def load_items_translation(path):
-    return load_file(os.path.join(path, 'Items.json'))
+# def load_items_translation(path):
+#     return load_file(os.path.join(path, 'Items.json'))
 
 def load_skills_translation(path):
     return load_file(os.path.join(path, 'Skills.json'), key='GroupId')
 
 def load_characters_cafe_tags(path):
     return load_file(os.path.join(path, 'Excel', 'CharacterAcademyTagsExcelTable.json'))
+
+def load_etc_localization(path_primary, path_secondary, translation):
+    data_primary = load_file(os.path.join(path_primary, 'Excel', 'LocalizeEtcExcelTable.json'), key='Key')
+    data_secondary = load_file(os.path.join(path_secondary, 'Excel', 'LocalizeEtcExcelTable.json'), key='Key')
+    data_aux = None
+
+    index_list = list(data_primary.keys())
+    index_list.extend(x for x in list(data_secondary.keys()) if x not in index_list)
+
+    if os.path.exists(os.path.join(translation, 'LocalizeEtcExcelTable.json')):
+        print(f'Loading additional translations from {translation}/LocalizeEtcExcelTable.json')
+        data_aux = load_file(os.path.join(translation, 'LocalizeEtcExcelTable.json'))
+
+        index_list.extend(x for x in list(data_aux.keys()) if x not in index_list)
+
+    for index in index_list:
+        try: 
+            if data_aux != None and index in data_aux:
+                #print(f'Loading aux translation {index}')
+                data_primary[index] = data_aux[index] 
+            else :
+                #print(f'Loading secondary data translation {index}')
+                data_primary[index] = data_secondary[index] 
+        except KeyError:
+            #print (f'No secondary data for localize item {index}')
+            continue
+    
+    return data_primary
