@@ -28,6 +28,7 @@
 | EquipmentSlot3 = {{character.equipment[2]}}
 | ReleaseDate = {{character.profile.release_date_jp}}
 {% raw %}}}{% endraw %}
+__TOC__
 =Background=
 {% raw %}{{{% endraw %}CharacterBackground
 | ENText = {{character.profile.introduction_en}}
@@ -35,6 +36,7 @@
 {% raw %}}}{% endraw %}
 
 =How to Obtain=
+*Regular Gacha pool
 {% raw %}{{CharacterBanners}}{% endraw %}
 
 =Character Details=

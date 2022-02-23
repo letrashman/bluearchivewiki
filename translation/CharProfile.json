@@ -839,6 +839,36 @@
       "VoiceEn": "Tanaka Rie",
       "Illust": "tokki",
       "ReleaseDateJp": "2022/02/09"
+    },
+    {
+      "CharacterId": 10035,
+      "FamilyNameEn": "Kozeki",
+      "PersonalNameEn": "Ui",
+      "ProfileIntroductionEn": "Ui belongs to Trinity General Academy and is the chairman of the library committee. She loves books and is also a bit of a misanthrope, although it is unclear which of the two comes first. She is particularly fond of old books, and spends her days in seclusion, deciphering and managing old tomes at a place called the \"Antiquarian Bookstore\". Her intellectual curiosity and her knowledge of antique books are first-rate, and she is even called the \"Sorceress of the Antiquarian Bookstore\" by those around her.",
+      "HobbiesEn": "Reading, book management, old book research",
+      "VoiceEn": "Saori Goto",
+      "-Illust": "",
+      "ReleaseDateJp": "2022/02/23"
+    },
+    {
+      "CharacterId": 10036,
+      "FamilyNameEn": "Wakaba",
+      "PersonalNameEn": "Hinata",
+      "ProfileIntroductionEn": "Hinata is a serious and earnest Sisterhood member from the Trinity Integrated Academy. <br>She is responsible for the \"management of the cathedral and other items\", a job she performs faithfully every day. However, she is a bit of a dilettante, and often loses confidence after making a series of mistakes. She carries with surprising ease a large suitcase with various items in it, including a grenade launcher.",
+      "HobbiesEn": "Prayer, tidying up",
+      "VoiceEn": "Rina Hidaka",
+      "-Illust": "",
+      "ReleaseDateJp": "2022/02/23"
+    },
+    {
+      "CharacterId": 10037,
+      "FamilyNameEn": "",
+      "PersonalNameEn": "Marina",
+      "-ProfileIntroductionEn": "",
+      "-HobbiesEn": "",
+      "-VoiceEn": "",
+      "-Illust": "",
+      "-ReleaseDateJp": ""
     }
   ]
 }

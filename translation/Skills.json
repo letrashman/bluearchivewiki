@@ -324,7 +324,7 @@
         {
             "GroupId": "FuukaExtraPassive01",
             "NameEn": "Pride of School Lunch Club",
-            "DescriptionEn": "Increase CC Resistance of all allies by $1."
+            "DescriptionEn": "Increase Critical Rate Resistance of all allies by $1."
         },
         {
             "GroupId": "MutsukiEx01",
@@ -1314,7 +1314,7 @@
         {
             "GroupId": "CherinoPublic01",
             "NameEn": "Regulate the enemy!",
-            "DescriptionEn": "Every $1, apply a Focused Fire status to the enemy with the highest Attack, and lower their resistance to critical hits by $2. (Duration: $3)"
+            "DescriptionEn": "Every $1, apply a Focused Fire status to the enemy with the highest Attack, and lower their Critical Damage Resistance by $2. (Duration: $3)"
         },
         {
             "GroupId": "CherinoPassive01",
@@ -2180,6 +2180,56 @@
             "GroupId": "CH0155ExtraPassive01",
             "NameEn": "A mouthful of happiness",
             "DescriptionEn": "When activating EX skill, increase Recovery Rate by $1. Stacks up to a maximum of $2."
+        },
+        {
+            "GroupId": "CH0169Ex01",
+            "NameEn": "Old book expert",
+            "DescriptionEn": "Reduce EX skill cost for one other ally by $1 (reduction active until EX is activated $2). The discount is rounded down to the nearest whole number.<br>Increase Attack by $3 for $4."
+        },
+        {
+            "GroupId": "CH0169Public01",
+            "NameEn": "Knowledge to be passed on",
+            "DescriptionEn": "Every $1, increase Critical Rate of allies within a circular area by $2 for $3."
+        },
+        {
+            "GroupId": "CH0169Passive01",
+            "NameEn": "Expert knowledge",
+            "DescriptionEn": "Increase Critical Rate by $1."
+        },
+        {
+            "GroupId": "CH0169WeaponPassive01",
+            "NameEn": "Expert knowledge +",
+            "DescriptionEn": "Increase Critical Rate by $1. Further increase Critical Rate by $2."
+        },
+        {
+            "GroupId": "CH0169ExtraPassive01",
+            "NameEn": "Irritable",
+            "DescriptionEn": "When using the EX skill, increase Attack Speed by $1 for $2."
+        },
+        {
+            "GroupId": "CH0073Ex01",
+            "NameEn": "Last resort",
+            "DescriptionEn": "Deal $1 damage to enemies within 5 circular areas."
+        },
+        {
+            "GroupId": "CH0073Public01",
+            "NameEn": "Let's talk first...!",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy with the highest HP."
+        },
+        {
+            "GroupId": "CH0073Passive01",
+            "NameEn": "Unexpected development",
+            "DescriptionEn": "Increase Critical Damage by $1."
+        },
+        {
+            "GroupId": "CH0073WeaponPassive01",
+            "NameEn": "Unexpected development +",
+            "DescriptionEn": "Increase Critical Damage by $1. Further increase Critical Damage by $2."
+        },
+        {
+            "GroupId": "CH0073ExtraPassive01",
+            "NameEn": "I'll do the heavy lifting!",
+            "DescriptionEn": "When attacking, deal $1 additional damage against medium-sized enemies."
         }
 
     ]

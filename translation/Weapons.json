@@ -695,6 +695,27 @@
             "DescriptionJP": "ミモリが普段持ち歩いている自動式拳銃。<br>初めて素敵なレディーになりたいという夢を抱いた時に買ったもので、日々大切に手入れがされている。",
             "DescriptionEN": "An automatic pistol that Mimori carries.<br>She bought it when she first aspired to becoming a beautiful lady, and she takes good care of it every day."
         },
+        {
+            "Id": 10035,
+            "NameJP": "ボリュームサプレッサー",
+            "NameEN": "Volume Suppressor",
+            "DescriptionJP": "周囲の騒音が大きくなってきた時などに、ウイが使用するアサルトライフル。\n\n名前の通り、対象を静かにさせることが可能。",
+            "DescriptionEN": "Ui uses this assault rifle  whenever the noise around her is getting too loud. As the name implies, it is capable of making the target quiet."
+        },
+        {
+            "Id": 10036,
+            "NameJP": "ブレッシング",
+            "NameEN": "Blessing",
+            "DescriptionJP": "ヒナタのカバンに常に入ってるグレネードランチャー。<br>何かが起きた時に大事なのは真摯な気持ちと、分かりやすい火力である。",
+            "DescriptionEN": "A grenade launcher is always in Hinata's bag. <br>When something happens, what's important is good faith and straightforward firepower."
+        },
+        {
+            "Id": 10037,
+            "NameJP": "",
+            "NameEN": "",
+            "DescriptionJP": "",
+            "DescriptionEN": ""
+        },
 
         {
             "Id": 19004,
