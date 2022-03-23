@@ -711,10 +711,24 @@
         },
         {
             "Id": 10037,
-            "NameJP": "",
-            "NameEN": "",
-            "DescriptionJP": "",
-            "DescriptionEN": ""
+            "NameJP": "バラライカ",
+            "NameEN": "Balalaika",
+            "DescriptionJP": "マリナが愛用している、ドラムマガジン付きのサブマシンガン。\n\nその驚異的な発射速度は、レッドウィンターの権威を疑う者たちに容赦なく襲い掛かる。",
+            "DescriptionEN": "A submachine gun with a drum magazine that Marina loves. <br>Its astounding rate of fire mercilessly attacks those who doubt the authority of Red Winter."
+        },
+        {
+            "Id": 10038,
+            "NameJP": "RABBIT-31式短機関銃",
+            "NameEN": "RABBIT-31 type submachine gun",
+            "DescriptionJP": "ミヤコがSRT特殊学園から支給された、制式サブマシンガン。\n\n高い信頼性を誇る銃であり、極限の状況下にあっても効果的に敵を撃退することができる。",
+            "DescriptionEN": "Regulation submachine gun issued to Miyako by the SRT Special Academy. <br>It is a highly reliable gun and can effectively repel the enemy even under extreme circumstances."
+        },
+        {
+            "Id": 20014,
+            "NameJP": "RABBIT-26式機関銃",
+            "NameEN": "RABBIT-26 type machine gun",
+            "DescriptionJP": "サキがSRT特殊学園から支給された、制式マシンガン。\n\n構造上の問題で整備が難しい点が短所だが、逆にしっかり整備さえできれば強大な火力を誇る銃である。",
+            "DescriptionEN": "Regulation machine gun issued to Saki  by the SRT Special Academy. <br>Requires arduous maintenance due to its construction, this gun boasts significant firepower as long as it is maintained properly."
         },
 
         {

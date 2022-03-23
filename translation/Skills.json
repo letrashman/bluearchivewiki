@@ -611,7 +611,7 @@
         {
             "GroupId": "ZunkoPublic01",
             "NameEn": "Don't talk to me when I'm hungry!",
-            "DescriptionEn": "Junko gains immortal status for $2 when her HP is under $1. (Can only be used $3 per battle)"
+            "DescriptionEn": "Junko gains Immortal status for $2 when her HP is under $1. (Can only be used $3 per battle)"
         },
         {
             "GroupId": "ZunkoPassive01",
@@ -2230,7 +2230,82 @@
             "GroupId": "CH0073ExtraPassive01",
             "NameEn": "I'll do the heavy lifting!",
             "DescriptionEn": "When attacking, deal $1 additional damage against medium-sized enemies."
+        },
+        {
+            "GroupId": "CH0119Ex01",
+            "NameEn": "Revolutionary charge!",
+            "DescriptionEn": "Deal $1 damage to enemies within an arch-shaped area. Reduce their Recovery Rate by $2 for $3."
+        },
+        {
+            "GroupId": "CH0119Public01",
+            "NameEn": "Not a step back!",
+            "DescriptionEn": "When HP is $1 or less, gain Immortal status for $2. (Can only be used $3 per battle)"
+        },
+        {
+            "GroupId": "CH0119Passive01",
+            "NameEn": "No retreat!",
+            "DescriptionEn": "Increase Evasion by $1."
+        },
+        {
+            "GroupId": "CH0119WeaponPassive01",
+            "NameEn": "No retreat! +",
+            "DescriptionEn": "Increase HP by $1. Increase Evasion by $2."
+        },
+        {
+            "GroupId": "CH0119ExtraPassive01",
+            "NameEn": "Iron discipline",
+            "DescriptionEn": "While EX skill is active, increase the Evasion by $1."
+        },
+        {
+            "GroupId": "CH0142Ex01",
+            "NameEn": "Self-propelled flash drone",
+            "DescriptionEn": "Deal $1 damage to an enemy and Stun them for $2."
+        },
+        {
+            "GroupId": "CH0142Public01",
+            "NameEn": "Claymore",
+            "DescriptionEn": "Every $1, 5 fragments are scattered from a small claymore, each dealing $2 damage."
+        },
+        {
+            "GroupId": "CH0142Passive01",
+            "NameEn": "Special bulletproof plate",
+            "DescriptionEn": "Increase HP by $1."
+        },
+        {
+            "GroupId": "CH0142WeaponPassive01",
+            "NameEn": "Special bulletproof plate +",
+            "DescriptionEn": "Increase Defense by $1. Increase HP by $2."
+        },
+        {
+            "GroupId": "CH0142ExtraPassive01",
+            "NameEn": "Operation reinforcements",
+            "DescriptionEn": "When using EX skill, reduce incoming damage by $1 for $2."
+        },
+        {
+            "GroupId": "CH0144Ex01",
+            "NameEn": "Support fire, commence!",
+            "DescriptionEn": "Deal $1 damage to enemies in a circular area and Stun them for $2."
+        },
+        {
+            "GroupId": "CH0144Public01",
+            "NameEn": "Suppressive fire",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy. Apply continuous Burn damage, dealing $3 damage every 4 seconds for $4."
+        },
+        {
+            "GroupId": "CH0144Passive01",
+            "NameEn": "All set",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "CH0144WeaponPassive01",
+            "NameEn": "All set +",
+            "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
+        },
+        {
+            "GroupId": "CH0144ExtraPassive01",
+            "NameEn": "Point man leading the way",
+            "DescriptionEn": "Increase Attack of all allies by $1."
         }
-
+        
     ]
 }

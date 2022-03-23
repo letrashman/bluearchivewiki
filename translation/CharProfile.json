@@ -836,7 +836,7 @@
       "PersonalNameEn": "Mimori",
       "ProfileIntroductionEn": "Member of the Hyakkiyako Alliance Academy, and a kind vice-president of the discipline club.<br>Mimori always has a cheerful smile and a gentle demeanor, and she is very popular with everyone. Having been shojo manga fan since young age, she pursues a dream of embodying the \"Yamato Nadeshiko\" character, to which end she joined the discipline club. Together with her childhood friend and club director Tsubaki she is working hard every day to practice cooking and cleaning.",
       "HobbiesEn": "Shojo manga, doing household chores",
-      "VoiceEn": "Tanaka Rie",
+      "VoiceEn": "Rie Tanaka",
       "Illust": "tokki",
       "ReleaseDateJp": "2022/02/09"
     },
@@ -862,13 +862,43 @@
     },
     {
       "CharacterId": 10037,
-      "FamilyNameEn": "",
+      "FamilyNameEn": "Ikekura",
       "PersonalNameEn": "Marina",
+      "ProfileIntroductionEn": "Marina is the chairman of the security committee in charge of maintaining public order at Red Winter Federal Academy. <br>She has a reputation for punishing violators of the school rules without question or mercy. Marina is fond of the word \"charge\" and will repeatedly charge at anything. Always the first to jump into the fray whenever there is a problem in Red Winter, she is certainly faithful to her duties, but she often gets lost as a result of her charges.",
+      "HobbiesEn": "Walks, charges",
+      "VoiceEn": "Sachie Hirai",
+      "-Illust": "",
+      "ReleaseDateJp": "2022/03/08"
+    },
+    {
+      "CharacterId": 10038,
+      "FamilyNameEn": "Tsukiyuki",
+      "PersonalNameEn": "Miyako",
+      "ProfileIntroductionEn": "Miyako is the leader of RABBIT platoon belonging to SRT Special Academy. She enrolled in the SRT Special Academy admiring the success of her seniors, only to find her school suddenly closed. She is now living in the park with fellow platoon members. Her facial expressions do not change much and she rarely shows her emotions, so people around Miyako tend to think that she is unsociable. However, deep down inside, she is always concerned about the members of her platoon and has a kind heart. Her callsign is \"RABBIT1\".",
+      "HobbiesEn": "Watching animal-related videos",
+      "VoiceEn": "Akane Fujita",
+      "Illust": "Suzumeyuu",
+      "ReleaseDateJp": "2022/03/23"
+    },
+    {
+      "CharacterId": 10039,
+      "FamilyNameEn": "",
+      "PersonalNameEn": "Miyu",
       "-ProfileIntroductionEn": "",
       "-HobbiesEn": "",
-      "-VoiceEn": "",
-      "-Illust": "",
-      "-ReleaseDateJp": ""
+      "-VoiceEn": "Akane Fujita",
+      "-Illust": "Suzumeyuu",
+      "-ReleaseDateJp": "2022/03/23"
+    },
+    {
+      "CharacterId": 20014,
+      "FamilyNameEn": "Sorai",
+      "PersonalNameEn": "Saki",
+      "ProfileIntroductionEn": "Saki is the point man of the RABBIT platoon, belonging to SRT Special Academy. She entered the SRT Special Academy in search of a life based on strict rules and regulations, but the academy was suddenly shut down. Saki now lives in a park with other members of the same platoon, always carrying around an SRT tactics manual, and is basically the type of person who always focuses on following the principles of the school. She enjoys foraging for wild vegetables and other scavenged items, which seems to be of great use in the current scarcity of resources in the park. Her callsign is \"RABBIT2\".",
+      "HobbiesEn": "Firearms maintenance, gathering plants, etc.",
+      "VoiceEn": "Akane Tomonaga",
+      "-Illust": "YutokaMizu",
+      "ReleaseDateJp": "2022/03/23"
     }
   ]
 }

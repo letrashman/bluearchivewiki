@@ -451,7 +451,7 @@ class Weapon(object):
 
         return cls(
             weapon['Id'],
-            weapon['ImagePath'],
+            weapon['ImagePath'].rsplit('_', 1)[-1],
             weapon['AttackPower'],
             weapon['AttackPower100'],
             weapon['MaxHP'],
