@@ -322,6 +322,7 @@ def replace_units(text):
     text = re.sub('つ', '', text)
     text = re.sub('秒', ' seconds', text)
     text = re.sub('個', '', text)
+    text = re.sub('発分', ' hits', text)
     return text
 
 def translate_skill(text_jp, skill_level, group_id, data):

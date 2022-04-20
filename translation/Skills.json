@@ -2305,6 +2305,31 @@
             "GroupId": "CH0144ExtraPassive01",
             "NameEn": "Point man leading the way",
             "DescriptionEn": "Increase Attack of all allies by $1."
+        },
+        {
+            "GroupId": "CH0145Ex01",
+            "NameEn": "Observation of a timid person",
+            "DescriptionEn": "Apply the Weak Point Exposed debuff to one enemy for $1. When attacked, an enemy with this debuff takes additional damage equal to $2 of Miyu's Attack.<br>(This damage can not be critical, effect ends after $3)"
+        },
+        {
+            "GroupId": "CH0145Public01",
+            "NameEn": "Attack from an unexpected angle",
+            "DescriptionEn": "Every $1 Normal attacks, deal $2 damage to one enemy."
+        },
+        {
+            "GroupId": "CH0145Passive01",
+            "NameEn": "Take a deep breath",
+            "DescriptionEn": "Increase Critical Damage by $1."
+        },
+        {
+            "GroupId": "CH0145WeaponPassive01",
+            "NameEn": "Take a deep breath +",
+            "DescriptionEn": "Increase Attack Speed by $1. Increase Critical Damage by $2."
+        },
+        {
+            "GroupId": "CH0145ExtraPassive01",
+            "NameEn": "Special sniper rounds",
+            "DescriptionEn": "After reloading increase Critical Damage by $1 for $2."
         }
         
     ]

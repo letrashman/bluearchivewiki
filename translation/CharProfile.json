@@ -582,6 +582,7 @@
       "CharacterId": 13012,
       "FamilyNameEn": "Nakatsukasa",
       "PersonalNameEn": "Kirino",
+      "ProfileIntroductionEn": "An enthusiastic student belonging to the Community Safety Bureau of Valkyrie Police Academy.<br>Looking up to the police officers who maintain law and order in the city, Kirino enrolled in the Valkyrie Police Academy, but was placed in the Community Safety Bureau due to her fatally poor shooting skills.<br>Nevertheless, she doesn't give up on her dream, and strives everyday to become a police officer who can skilfully suppress criminals.",
       "HobbiesEn": "Eating on the go",
       "Illust": "日下雲",
       "VoiceEn": "Yui Nakajima",
@@ -882,13 +883,13 @@
     },
     {
       "CharacterId": 10039,
-      "FamilyNameEn": "",
+      "FamilyNameEn": "Kasumizawa",
       "PersonalNameEn": "Miyu",
-      "-ProfileIntroductionEn": "",
-      "-HobbiesEn": "",
-      "-VoiceEn": "Akane Fujita",
-      "-Illust": "Suzumeyuu",
-      "-ReleaseDateJp": "2022/03/23"
+      "ProfileIntroductionEn": "A sniper of the RABBIT platoon belonging to SRT Special Academy. <br>She enrolled SRT Special Academy because of her talent as a sniper, only to find her school suddenly closed. She is now living in the park with fellow platoon members. Miyu has a weak presence, which in itself is useful for sniper missions, but she is often forgotten not only by the enemies but also by her allies. Her callsign is \"RABBIT 4\".",
+      "HobbiesEn": "Negative thoughts, escapism, pebbles hunting",
+      "VoiceEn": "Yuko Goto",
+      "-Illust": "",
+      "ReleaseDateJp": "2022/04/06"
     },
     {
       "CharacterId": 20014,

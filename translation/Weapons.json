@@ -724,6 +724,13 @@
             "DescriptionEN": "Regulation submachine gun issued to Miyako by the SRT Special Academy. <br>It is a highly reliable gun and can effectively repel the enemy even under extreme circumstances."
         },
         {
+            "Id": 10039,
+            "NameJP": "RABBIT-39式小銃",
+            "NameEN": "RABBIT-39 type rifle",
+            "DescriptionJP": "ミユがSRT特殊学園から支給された、制式スナイパーライフル。<br>精密な加工がなされており、驚異の命中率を誇る。",
+            "DescriptionEN": "Regulation sniper rifle issued to Miyu by the SRT Special Academy. <br>Finely made and boasts an amazing accuracy."
+        },
+        {
             "Id": 20014,
             "NameJP": "RABBIT-26式機関銃",
             "NameEN": "RABBIT-26 type machine gun",
