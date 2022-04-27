@@ -737,21 +737,26 @@
             "DescriptionJP": "サキがSRT特殊学園から支給された、制式マシンガン。\n\n構造上の問題で整備が難しい点が短所だが、逆にしっかり整備さえできれば強大な火力を誇る銃である。",
             "DescriptionEN": "Regulation machine gun issued to Saki  by the SRT Special Academy. <br>Requires arduous maintenance due to its construction, this gun boasts significant firepower as long as it is maintained properly."
         },
-
         {
-            "Id": 19004,
-            "NameJP": "",
-            "NameEN": "",
-            "DescriptionJP": "",
-            "DescriptionEN": ""
+            "Id": 16009,
+            "NameJP": "ミチル流オーバーフローショットガン",
+            "NameEN": "Michiru-style Overflow Shotgun",
+            "DescriptionJP": "ミチルが愛用しているショットガン。\n\n彼女自作の忍術に用いるため、特殊な弾丸が撃てるように様々な改造がされたり追加パーツが付けられている。かえって使いにくそうな気もするものの、ミチル曰く「それもまた味があって良いんだよ！」とのこと。",
+            "DescriptionEN": "Michiru's beloved shotgun. <br>Numerous modifications and additional parts are attached so that special ammo can be shot for use in her own ninjutsu. It seems difficult to use, but Michiru says, \"That's part of the style!\""
         },
-
         {
-            "Id": 19005,
-            "NameJP": "",
-            "NameEN": "",
-            "DescriptionJP": "",
-            "DescriptionEN": ""
+            "Id": 20015,
+            "NameJP": "ファニー・ファイアワークス",
+            "NameEN": "Funny・Fireworks",
+            "DescriptionJP": "カエデがいつも持ち歩いている拳銃。\n\nその実態としては信号拳銃であり、何か問題を起こしている生徒や、あるいは珍しいムシクイーンのカードを発見した時などに使用される。",
+            "DescriptionEN": "A pistol that Kaede always carries. <br>It is actually a flare gun, and is used to signal when student is having a problem or when they discover a rare Bug Queen card."
+        },
+        {
+            "Id": 20016,
+            "NameJP": "万魔殿制式拳銃",
+            "NameEN": "Pandemonium service pistol",
+            "DescriptionJP": "イロハが携行している拳銃。\n\n万魔殿の戦車長である彼女がこれを使う機会は少なく、このサイズでも持ち歩きが面倒だと常々口にしているが、それでも日々綺麗に整備されているところからイロハらしさが垣間見える。",
+            "DescriptionEN": "A pistol carried by Iroha. <br>Being the tank commander of Pandemonium, she rarely uses it, and she always says that even at this size it is annoying to carry around, but even so, the fact that it is always neatly maintained Iroha's character."
         }
 
     ]

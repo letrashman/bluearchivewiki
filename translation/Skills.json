@@ -2330,6 +2330,84 @@
             "GroupId": "CH0145ExtraPassive01",
             "NameEn": "Special sniper rounds",
             "DescriptionEn": "After reloading increase Critical Damage by $1 for $2."
+        },
+
+        {
+            "GroupId": "CH0113Ex01",
+            "NameEn": "Michiru-style technique!!",
+            "DescriptionEn": "Launch a firework that flies in a straight line and deals $1 damage to the first enemy hit. Additionally, inflict $2 continuous burn damage for $3."
+        },
+        {
+            "GroupId": "CH0113Public01",
+            "NameEn": "Behold, hell's ninja sword!",
+            "DescriptionEn": "Every $1, increases Attack by $2 for $3."
+        },
+        {
+            "GroupId": "CH0113Passive01",
+            "NameEn": "Look, look, my own ninjutsu!",
+            "DescriptionEn": "Increase Critical Damage by $1."
+        },
+        {
+            "GroupId": "CH0113WeaponPassive01",
+            "NameEn": "Look, look, my own ninjutsu! +",
+            "DescriptionEn": "Increase Attack by $1. Increase Critical Damage by $2."
+        },
+        {
+            "GroupId": "CH0113ExtraPassive01",
+            "NameEn": "Secret Michiru-style ninjutsu!",
+            "DescriptionEn": "Increase Critical Damage by $1. For each $2 student of the Ninjutsu Research Department within the same team, the  Critical Damage is increased by an additional $3. (Michiru not included, up to a maximum of 3)"
+        },
+
+        {
+            "GroupId": "CH0116Ex01",
+            "NameEn": "Flare gun, fire!!",
+            "DescriptionEn": "Grant a shield of $1 Healing to the allies within a circular range. (Duration: $2)"
+        },
+        {
+            "GroupId": "CH0116Public01",
+            "NameEn": "Beetle shield!",
+            "DescriptionEn": "Every $1, increase Defense of one ally with the highest Defense by $2 for $3."
+        },
+        {
+            "GroupId": "CH0116Passive01",
+            "NameEn": "Healing wave!",
+            "DescriptionEn": "Increase Healing by $1."
+        },
+        {
+            "GroupId": "CH0116WeaponPassive01",
+            "NameEn": "Healing wave! +",
+            "DescriptionEn": "Increase Healing  by $1. Further increase Healing by $2."
+        },
+        {
+            "GroupId": "CH0116ExtraPassive01",
+            "NameEn": "Keep doing your best!",
+            "DescriptionEn": "Increase HP of all allies by $1."
+        },
+
+        {
+            "GroupId": "CH0156Ex01",
+            "NameEn": "Let's go, Toramaru",
+            "DescriptionEn": "Iroha enters the battlefield riding Toramaru. <br>Its Attack is increased by $1 of Iroha's Attack. (Duration: $2) <br>Every $3, Toramaru will activate its \"Main gun aim, fire\" skill, dealing $4 damage to one enemy. Upon hit, shell separates and deals the same damage to 2 nearby enemies.<br>(Only one tactical support vehicle can be fielded at any given time)"
+        },
+        {
+            "GroupId": "CH0156Public01",
+            "NameEn": "It's annoying...",
+            "DescriptionEn": "Every $1, fire shells at up to 4 enemies. Deal $2 damage within the circular area around targeted enemy."
+        },
+        {
+            "GroupId": "CH0156Passive01",
+            "NameEn": "There's no choice",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "CH0156WeaponPassive01",
+            "NameEn": "There's no choice +",
+            "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
+        },
+        {
+            "GroupId": "CH0156ExtraPassive01",
+            "NameEn": "Please stay strong",
+            "DescriptionEn": "Increase Attack of all allies by $1."
         }
         
     ]

@@ -900,6 +900,47 @@
       "VoiceEn": "Akane Tomonaga",
       "-Illust": "YutokaMizu",
       "ReleaseDateJp": "2022/03/23"
+    },
+    {
+      "CharacterId": 16009,
+      "FamilyNameEn": "Chidori",
+      "PersonalNameEn": "Michiru",
+      "ProfileIntroductionEn": "A student of Hyakkiyako Alliance Academy and director of the Ninjutsu Research Department, Michiru is always full of unfounded self-confidence. She is an otaku who loves ninja movies, anime, and goods. Michiru is running around with the members of the Ninjutsu Research Department today to let everyone throughout Kivotos know of the greatness of ninjas.",
+      "HobbiesEn": "Inventing new ninjutsu and making videos",
+      "VoiceEn": "Kaori Mizuhashi",
+      "-Illust": "",
+      "ReleaseDateJp": "2022/04/27"
+    },
+    {
+      "CharacterId": 20015,
+      "FamilyNameEn": "Isami",
+      "PersonalNameEn": "Kaede",
+      "ProfileIntroductionEn": "A student of Hyakkiyako Alliance Academy, an energetic member of the discipline club. <br>Originally, she was a mischievous child from a rural Hyakkiyako countryside, but the moment she met Tsubaki and Mimori, Kaede decided to join the discipline club saying \"I want to be such a wonderful lady!\". She is studying every day to get closer to her ideals, but most of the training leads to trouble for some reason.",
+      "HobbiesEn": "Mischief (she tries to hold back as much as possible), catching beetles",
+      "VoiceEn": "Emiri Kato",
+      "-Illust": "",
+      "ReleaseDateJp": "2022/04/27"
+    },
+    {
+      "CharacterId": 20016,
+      "FamilyNameEn": "Natsume",
+      "PersonalNameEn": "Iroha",
+      "ProfileIntroductionEn": "One of the members of \"Pandemonium Society\" within Gehenna Academy. She's easily irritable and tries to slack from her duties. Those attempts are repeatedly blocked by fellow Pandemonium members (specifically, Makoto). Pandemonium officer's days are always busy with problems to solve and tasks that have to be done, even if one finds them annoying. Ibuki, Pandemonium Society's mascot, always helps to keep Iroha's spirit up, and so, with a sigh, she continues to carry out her daily duties.",
+      "HobbiesEn": "Reading, skipping classes",
+      "VoiceEn": "Misato Fukuen",
+      "-Illust": "",
+      "ReleaseDateJp": "2022/04/27"
+    },
+
+    {
+      "CharacterId": 10040,
+      "FamilyNameEn": "",
+      "PersonalNameEn": "Tsukuyo",
+      "-ProfileIntroductionEn": "",
+      "-VoiceEn": "",
+      "-Illust": "",
+      "-ReleaseDateJp": ""
     }
+    
   ]
 }

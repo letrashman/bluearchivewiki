@@ -1613,8 +1613,98 @@
             "Id": 1019220439,
             "NameJp": "",
             "NameEn": "Summer Resort Pool Party Furniture"
+        },
+        {
+            "Id": 3360596941,
+            "NameJp": "秘伝ノートの断片",
+            "NameEn": "Secret Tech Sheet Fragment",
+            "DescriptionJp": "戦術の奥義が記録されている技術ノートの断片。\n複数集めることで、「テイラーメイド」機能を通じて「秘伝ノート」として復元（生成）することができる。",
+            "DescriptionEn": "A fragment of a technical note containing tactical secrets.\nBy collecting multiple fragments, you can craft a Secret Tech Sheet through the \"TailorMade\" function."
+        },
+        {
+            "Id": 315453169,
+            "NameJp": "ムシクイーンのカードパック",
+            "NameEn": "Insect Queen Card Pack",
+            "DescriptionJp": "大人気トレーディングカードゲーム「ムシクイーン」の拡張パック第3弾「アルティメットインセクトの襲来」。カエデ曰く、パックの手触りで中にレアカードが入っているかどうか分かるのだとか。",
+            "DescriptionEn": "The third expansion pack of the popular trading card game「Insect Queen」,「Attack of the Ultimate Insects」. According to Kaede, you can tell if there are rare cards inside the pack just by touching it."
+        },
+        {
+            "Id": 2801049295,
+            "NameJp": "交流会のチラシ",
+            "NameEn": "Exchange Meeting Flyer",
+            "DescriptionJp": "百鬼夜行とゲヘナ学園の間で「交流会」が開かれることを知らせるためのチラシ。主催者であるニヤの挨拶や、主な日程、注意事項などが記載されている。",
+            "DescriptionEn": "A Flyer to inform people that an 'Exchange Meeting' will be held between Hyakkiyako and Gehenna Academy. It includes a greeting from the organizer, Niya, the main schedules, notes, etc."
+        },
+        {
+            "Id": 3117990777,
+            "NameJp": "和楽姫のうちわ",
+            "NameEn": "Warakuhime's Fan",
+            "DescriptionJp": "百鬼夜行連合学院の大人気アイドルであるチセ様のご尊顔が描かれたうちわ。ファンの間では高値が付くほどの大人気グッズの一つ。",
+            "DescriptionEn": "A type of Japanese fan with the face of Chise-sama, a very popular idol of Hyakkiyako Academy. It is one of the most popular goods that fetches high prices among fans."
+        },
+        {
+            "Id": 1122375527,
+            "NameJp": "ニンペロさんグッズ",
+            "NameEn": "Ninpero-san's Goods",
+            "DescriptionJp": "渦巻映画村で販売されている忍者のキャラクターグッズ。最初は某キャラクターのスピンオフとして始まったものだったが、途中から人気を博した結果、一つのシリーズものとして独立した。この業界ではそれなりによくある話。",
+            "DescriptionEn": "Ninja character goods sold at the Uzumaki Movie Village. It started out as a spin-off of a certain character, but along the way, as a result of its popularity, it became an independent series. It's a fairly common story in this industry."
+        },
+        {
+            "Id": 1157572539,
+            "NameJp": "円盤型ペンダントの欠片",
+            "NameEn": "Disco Colgante Piece",
+            "DescriptionJp": "円盤型ペンダントの壊れた欠片。製造や強化に使用される。",
+            "DescriptionEn": "A fractured Disco Colgante piece. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 3035593625,
+            "NameJp": "壊れた円盤型ペンダント",
+            "NameEn": "Broken Disco Colgante",
+            "DescriptionJp": "元の形が分からないほど壊れた円盤型ペンダント。製造や強化に使用される。",
+            "DescriptionEn": "A Disco Colgante so broken that its original shape is no longer recognizable. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 1608213624,
+            "NameJp": "修復途中の円盤型ペンダント",
+            "NameEn": "Damaged Disco Colgante",
+            "DescriptionJp": "欠片を寄せ集めて修復している最中の円盤型ペンダント。製造や強化に使用される。",
+            "DescriptionEn": "A disco Colgante in the process of being restored by combining various fragments together. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 2689897740,
+            "NameJp": "完全な円盤型ペンダント",
+            "NameEn": "Intact Disco Colgante",
+            "DescriptionJp": "完全な状態の円盤型ペンダント。製造や強化に使用される。",
+            "DescriptionEn": "An Intact Disco Colgante. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 481204051,
+            "NameJp": "ミステリーストーンの欠片",
+            "NameEn": "Mystery Stone Piece",
+            "DescriptionJp": "ミステリーストーンの壊れた欠片。製造や強化に使用される。",
+            "DescriptionEn": "A fractured Mystery Stone piece. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 2995021343,
+            "NameJp": "壊れたミステリーストーン",
+            "NameEn": "Broken Mystery Stone",
+            "DescriptionJp": "元の形が分からないほど壊れたミステリーストーン。製造や強化に使用される。",
+            "DescriptionEn": "A Mystery Stone so broken that its original shape is no longer recognizable. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 2163708171,
+            "NameJp": "不完全なミステリーストーン",
+            "NameEn": "Repaired Mystery Stone",
+            "DescriptionJp": "修復したものの、正しい形か分からないミステリーストーン。製造や強化に使用される。",
+            "DescriptionEn": "A Mystery Stone that have been pieced together but may not be quite correct. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 4215214925,
+            "NameJp": "完全なミステリーストーン",
+            "NameEn": "Intact Mystery Stone",
+            "DescriptionJp": "完全な状態のミステリーストーン。製造や強化に使用される。",
+            "DescriptionEn": "An Intact Mystery Stone. Used in various crafted items and enhancements."
         }
-
 
 
     ]
