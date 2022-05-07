@@ -5,8 +5,7 @@ import re
 
 
 class Character(object):
-    def __init__(self, id, name, dev_name, portrait, name_en, family_name_en, rarity, school, role, position, damage_type, armor_type, combat_class, equipment, weapon_type,
-                 uses_cover, profile, normal_skill, ex_skill, passive_skill, passive_weapon_skill, sub_skill, stats, weapon, favor, memory_lobby, momotalk, liked_gift_tags):
+    def __init__(self, id, name, dev_name, portrait, name_en, family_name_en, rarity, school, role, position, damage_type, armor_type, combat_class, equipment, weapon_type, uses_cover, profile, normal_skill, ex_skill, passive_skill, passive_weapon_skill, sub_skill, stats, weapon, favor, memory_lobby, momotalk, liked_gift_tags, is_limited):
         self.id = id
         self.name = name
         self.rarity = rarity
@@ -31,6 +30,7 @@ class Character(object):
         self.memory_lobby = memory_lobby
         self.momotalk = momotalk
         self.liked_gift_tags = liked_gift_tags
+        self.is_limited = is_limited
 
         self.dev_name = dev_name
         self.portrait = portrait
@@ -113,7 +113,8 @@ class Character(object):
             Favor.from_data(character_id, data),
             MemoryLobby.from_data(character_id, data),
             Momotalk.from_data(character_id, data),
-            liked_gift_tags
+            liked_gift_tags,
+            'IsLimited' in data.translated_characters[character_id] or False
         )
 
 

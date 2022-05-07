@@ -629,7 +629,7 @@
             "NameJP": "サジタリウスナイト",
             "NameEN": "Sagittarius Night",
             "DescriptionJP": "ノドカが天体観測に出かける時にも携帯しているサブマシンガン。<br>ライトが付属しており、暗い夜道も明るく照らしてくれる。",
-            "DescriptionEN": "A submachine gun that Nodoka carries. It is mostly used to illuminate dark night roads around the hot spring village, but also comes handy for dealing with annoying customers."
+            "DescriptionEN": "A submachine gun that Nodoka carries. <br>It is mostly used to illuminate dark night roads around the hot spring village, but also comes handy for dealing with annoying customers."
         },
 
         {
@@ -706,8 +706,10 @@
             "Id": 10036,
             "NameJP": "ブレッシング",
             "NameEN": "Blessing",
-            "DescriptionJP": "ヒナタのカバンに常に入ってるグレネードランチャー。<br>何かが起きた時に大事なのは真摯な気持ちと、分かりやすい火力である。",
-            "DescriptionEN": "A grenade launcher is always in Hinata's bag. <br>When something happens, what's important is good faith and straightforward firepower."
+            "DescriptionJP": "ヒナタがいつも身に着けている拳銃。<br>平時は鍵を失くした扉を開くためなど、困っている人たちを助ける目的で使われる。 ",
+            "DescriptionEN": "A pistol that Hinata always cariies. <br>In peacetime, it is used to help people in need, such as opening a door when they've lost the key.",
+            "DescriptionJP_original": "ヒナタのカバンに常に入ってるグレネードランチャー。<br>何かが起きた時に大事なのは真摯な気持ちと、分かりやすい火力である。",
+            "DescriptionEN_original": "A grenade launcher is always in Hinata's bag. <br>When something happens, what's important is good faith and straightforward firepower."
         },
         {
             "Id": 10037,
@@ -756,7 +758,7 @@
             "NameJP": "万魔殿制式拳銃",
             "NameEN": "Pandemonium service pistol",
             "DescriptionJP": "イロハが携行している拳銃。\n\n万魔殿の戦車長である彼女がこれを使う機会は少なく、このサイズでも持ち歩きが面倒だと常々口にしているが、それでも日々綺麗に整備されているところからイロハらしさが垣間見える。",
-            "DescriptionEN": "A pistol carried by Iroha. <br>Being the tank commander of Pandemonium, she rarely uses it, and she always says that even at this size it is annoying to carry around, but even so, the fact that it is always neatly maintained Iroha's character."
+            "DescriptionEN": "A pistol carried by Iroha. <br>Being the tank commander of Pandemonium, she rarely uses it, and she always says that even at this size it is annoying to carry around, but even so, the fact that it is always neatly maintained speaks of Iroha's character."
         }
 
     ]

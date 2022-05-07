@@ -124,7 +124,7 @@
         {
             "GroupId": "ShunExtraPassive01",
             "NameEn": "Meihua Yuan's Teachings",
-            "DescriptionEn": "When attacking medium-sized enemies, increase damage by $1 of Attack."
+            "DescriptionEn": "When attacking medium-sized enemies, deal $1 of Attack as additional damage."
         },
         {
             "GroupId": "SerikaEx01",
@@ -776,7 +776,7 @@
         {
             "GroupId": "IoriExtraPassive01",
             "NameEn": "Bravery of the Disciplinary Committee",
-            "DescriptionEn": "When Iori is not taking cover, attacks deal $1 Attack power additional damage."
+            "DescriptionEn": "When Iori is not taking cover, attacks deal $1 of Attack as additional damage."
         },
         {
             "GroupId": "HihumiEx01",
@@ -1268,17 +1268,17 @@
         },
         {
             "GroupId": "MomoiPassive01",
-            "NameEn": "Artist Inspiration",
+            "NameEn": "Creative Sense",
             "DescriptionEn": "Increase Critical Rate by $1."
         },
         {
             "GroupId": "MomoiWeaponPassive01",
-            "NameEn": "Artist Inspiration +",
+            "NameEn": "Creative Sense +",
             "DescriptionEn": "Increase Critical Rate by $1. Further increase Critical Rate by $2."
         },
         {
             "GroupId": "MomoiExtraPassive01",
-            "NameEn": "Developer Synergy: Momoi",
+            "NameEn": "Developer Synergy: Midori",
             "DescriptionEn": "Increase Attack by $1. If Midori is in the same team, increase by $2 instead."
         },
         {
@@ -1379,7 +1379,7 @@
         {
             "GroupId": "CH0056ExtraPassive01",
             "NameEn": "Aim for the weak point",
-            "DescriptionEn": "Deal an additional $1 damage to weakened enemies."
+            "DescriptionEn": "When attacking weakened enemies, deal $1 of Attack as additional damage."
         },
         {
             "GroupId": "CH0057Ex01",
@@ -1504,7 +1504,7 @@
         {
             "GroupId": "TomoeExtraPassive01",
             "NameEn": "Irrefutable claims",
-            "DescriptionEn": "When attacking shielded enemies, deal $1 additional damage."
+            "DescriptionEn": "When attacking shielded enemies, deal $1 of Attack as additional damage."
         },
         {
             "GroupId": "CH0165Ex01",
@@ -1859,7 +1859,7 @@
         {
             "GroupId": "CH0063Ex01",
             "NameEn": "Distant seas: Ishbóshet",
-            "DescriptionEn": "Deal 232~441% damage to up to 5 enemies in fan-shaped area."
+            "DescriptionEn": "Deal $1 damage to up to 5 enemies in fan-shaped area."
         },
         {
             "GroupId": "CH0063Public01",
@@ -1929,7 +1929,7 @@
         {
             "GroupId": "CH0065ExtraPassive01",
             "NameEn": "Sharp Eyes",
-            "DescriptionEn": "When attacking weakened enemies, deal additional damage of $1 Attack."
+            "DescriptionEn": "When attacking weakened enemies, deal $1 of Attack as additional damage."
         },
         {
             "GroupId": "CH0066Ex01",
@@ -1979,7 +1979,7 @@
         {
             "GroupId": "CH0111ExtraPassive01",
             "NameEn": "Fighting instincts in full bloom",
-            "DescriptionEn": "When attacking a BOSS, deal additional damage of $1 Attack."
+            "DescriptionEn": "When attacking a BOSS, deal $1 of Attack as additional damage."
         },
         {
             "GroupId": "CH0160Ex01",
@@ -2104,7 +2104,7 @@
         {
             "GroupId": "CH0101ExtraPassive01",
             "NameEn": "You like it even more painful?",
-            "DescriptionEn": "When attacking, deal $1 extra damage to mid-sized enemies."
+            "DescriptionEn": "When attacking medium-sized enemies, deal $1 of Attack as additional damage."
         },
         {
             "GroupId": "CH0100Ex01",
@@ -2229,7 +2229,7 @@
         {
             "GroupId": "CH0073ExtraPassive01",
             "NameEn": "I'll do the heavy lifting!",
-            "DescriptionEn": "When attacking, deal $1 additional damage against medium-sized enemies."
+            "DescriptionEn": "When attacking medium-sized enemies, deal $1 of Attack as additional damage."
         },
         {
             "GroupId": "CH0119Ex01",
@@ -2387,7 +2387,7 @@
         {
             "GroupId": "CH0156Ex01",
             "NameEn": "Let's go, Toramaru",
-            "DescriptionEn": "Iroha enters the battlefield riding Toramaru. <br>Its Attack is increased by $1 of Iroha's Attack. (Duration: $2) <br>Every $3, Toramaru will activate its \"Main gun aim, fire\" skill, dealing $4 damage to one enemy. Upon hit, shell separates and deals the same damage to 2 nearby enemies.<br>(Only one tactical support vehicle can be fielded at any given time)"
+            "DescriptionEn": "Iroha enters the battlefield riding Toramaru. <br>Its Attack is increased by $1 of Iroha's Attack. (Duration: $2) <br>Every $3, Toramaru will activate its \"Main gun aim, fire\" skill, dealing $4 damage to one enemy. Upon hit, shell fragments and deals the same damage to 2 nearby enemies, then deals the same damage to further 2 nearby enemies.<br>(Only one tactical support vehicle can be fielded at any given time)"
         },
         {
             "GroupId": "CH0156Public01",

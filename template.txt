@@ -36,8 +36,8 @@
 {% raw %}}}{% endraw %}
 
 =How to Obtain=
-*Regular Gacha pool
-{% raw %}{{CharacterBanners}}{% endraw %}
+{% if character.is_limited == False %}*Regular Gacha pool
+{% endif -%}{% raw %}{{CharacterBanners}}{% endraw %}
 
 =Character Details=
 {% raw %}{{{% endraw %}CharacterStatTable
@@ -124,7 +124,7 @@
 {% endfor -%}
 {% raw %}}}{% endraw %}
 ===Skill Upgrade Materials===
-{% raw %}{{{% endraw %}SkillUpgradeTable
+{% raw %}{{{% endraw %}SkillUpgradeTable2
 | SkillType = EX Skill
 | SkillNameJP = {{character.ex_skill.name}}
 | SkillNameEN = {{character.ex_skill.name_translated if character.ex_skill.name_translated}}
@@ -132,13 +132,11 @@
 {%- set outer_loop = loop -%}
 {% for name, icon, amount in level.materials -%}
 | Level{{outer_loop.index}}_{{loop.index}}_Name = {{name}}
-| Level{{outer_loop.index}}_{{loop.index}}_Link = Items/{{name|replace(' ', '_')}}
-| Level{{outer_loop.index}}_{{loop.index}}_Icon = {{icon}}.png
 | Level{{outer_loop.index}}_{{loop.index}}_Amount = {{amount}}
 {% endfor -%}
 {% endfor -%}
 {% raw %}}}{% endraw %}
-{% raw %}{{{% endraw %}SkillUpgradeTable
+{% raw %}{{{% endraw %}SkillUpgradeTable2
 | SkillType = Normal Skill
 | SkillNameJP = {{character.normal_skill.name}}
 | SkillNameEN = {{character.normal_skill.name_translated if character.normal_skill.name_translated}}
@@ -146,13 +144,11 @@
 {%- set outer_loop = loop -%}
 {% for name, icon, amount in level.materials -%}
 | Level{{outer_loop.index}}_{{loop.index}}_Name = {{name}}
-| Level{{outer_loop.index}}_{{loop.index}}_Link = Items/{{name|replace(' ', '_')}}
-| Level{{outer_loop.index}}_{{loop.index}}_Icon = {{icon}}.png
 | Level{{outer_loop.index}}_{{loop.index}}_Amount = {{amount}}
 {% endfor -%}
 {% endfor -%}
 {% raw %}}}{% endraw %}
-{% raw %}{{{% endraw %}SkillUpgradeTable
+{% raw %}{{{% endraw %}SkillUpgradeTable2
 | SkillType = Passive Skill
 | SkillNameJP = {{character.passive_skill.name}}
 | SkillNameEN = {{character.passive_skill.name_translated if character.passive_skill.name_translated}}
@@ -160,13 +156,11 @@
 {%- set outer_loop = loop -%}
 {% for name, icon, amount in level.materials -%}
 | Level{{outer_loop.index}}_{{loop.index}}_Name = {{name}}
-| Level{{outer_loop.index}}_{{loop.index}}_Link = Items/{{name|replace(' ', '_')}}
-| Level{{outer_loop.index}}_{{loop.index}}_Icon = {{icon}}.png
 | Level{{outer_loop.index}}_{{loop.index}}_Amount = {{amount}}
 {% endfor -%}
 {% endfor -%}
 {% raw %}}}{% endraw %}
-{% raw %}{{{% endraw %}SkillUpgradeTable
+{% raw %}{{{% endraw %}SkillUpgradeTable2
 | SkillType = Sub Skill
 | SkillNameJP = {{character.sub_skill.name}}
 | SkillNameEN = {{character.sub_skill.name_translated if character.sub_skill.name_translated}}
@@ -174,8 +168,6 @@
 {%- set outer_loop = loop -%}
 {% for name, icon, amount in level.materials -%}
 | Level{{outer_loop.index}}_{{loop.index}}_Name = {{name}}
-| Level{{outer_loop.index}}_{{loop.index}}_Link = Items/{{name|replace(' ', '_')}}
-| Level{{outer_loop.index}}_{{loop.index}}_Icon = {{icon}}.png
 | Level{{outer_loop.index}}_{{loop.index}}_Amount = {{amount}}
 {% endfor -%}
 {% endfor -%}
