@@ -759,6 +759,13 @@
             "NameEN": "Pandemonium service pistol",
             "DescriptionJP": "イロハが携行している拳銃。\n\n万魔殿の戦車長である彼女がこれを使う機会は少なく、このサイズでも持ち歩きが面倒だと常々口にしているが、それでも日々綺麗に整備されているところからイロハらしさが垣間見える。",
             "DescriptionEN": "A pistol carried by Iroha. <br>Being the tank commander of Pandemonium, she rarely uses it, and she always says that even at this size it is annoying to carry around, but even so, the fact that it is always neatly maintained speaks of Iroha's character."
+        },
+        {
+            "Id": 10040,
+            "NameJP": "ツクヨ流サブマシンガン",
+            "NameEN": "Tsukuyo-style Submachine Gun",
+            "DescriptionJP": "ツクヨが大事にしているサブマシンガン。\n\n銃の扱いが得意ではないツクヨのために、ミチルやイズナが色んな飾りつけや改造を施した一品。ツクヨにとっては何にも代えがたいものであり、大事な瞬間、彼女はいっそう優しく銃身を握りしめる。",
+            "DescriptionEN": "A submachine gun that Tsukuyo cherishes. <br>Tsukuyo is not good at handling guns, so Michiru and Izuna have added various decorations and modifications for her. It's irreplaceable for Tsukuyo, and at the crucial moments she holds the barrel even more tenderly."
         }
 
     ]

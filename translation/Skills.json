@@ -2408,7 +2408,33 @@
             "GroupId": "CH0156ExtraPassive01",
             "NameEn": "Please stay strong",
             "DescriptionEn": "Increase Attack of all allies by $1."
+        },
+        {
+            "GroupId": "CH0114Ex01",
+            "NameEn": "Tsukuyo-style technique...!",
+            "DescriptionEn": "Each time character is attacked, recover $1 of Healing.<br>(Duration: $2, applies up to a maximum of $3 times)<br>Reduce Tsukuyo's own Attack by $4 for $5."
+        },
+        {
+            "GroupId": "CH0114Public01",
+            "NameEn": "I practiced a lot, so...!",
+            "DescriptionEn": "Every $1 normal attacks, deal $2 damage to one enemy.<br>If the enemy is medium-sized, additionally reduce their Defense by $3 for $4."
+        },
+        {
+            "GroupId": "CH0114Passive01",
+            "NameEn": "Naturally gifted",
+            "DescriptionEn": "Increase HP by $1."
+        },
+        {
+            "GroupId": "CH0114WeaponPassive01",
+            "NameEn": "Naturally gifted +",
+            "DescriptionEn": "Increase HP by $1. Further increase HP by $2."
+        },
+        {
+            "GroupId": "CH0114ExtraPassive01",
+            "NameEn": "I can' t go down, yet...!",
+            "DescriptionEn": "Recover $1 of Healing when affected by a CC state."
         }
+        
         
     ]
 }

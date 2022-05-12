@@ -859,7 +859,7 @@
       "CharacterId": 20013,
       "FamilyNameEn": "Kagami",
       "PersonalNameEn": "Chihiro",
-      "ProfileIntroductionEn": "Deputy director of the hacker group Veritas, a member of the Millennium Science School.<br>Chihiro is a hacker with outstanding programming skills who tries to avoid abusing her abilities. She is the collective consciousness of Veritas group, which is full of mischievous children, and although Chihiro always gives passionate speeches about \"proper hacker ethics\" to the club members, she is also willing to put in greyhat work when necessary.",
+      "ProfileIntroductionEn": "The deputy director of the hacker group Veritas; member of the Millennium Science School.<br>Chihiro is a hacker with outstanding programming skills who tries to avoid abusing her abilities. She is the collective consciousness of Veritas group, which is full of mischievous children, and although Chihiro always gives passionate speeches about \"proper hacker ethics\" to the club members, she is also willing to put in greyhat work when necessary.",
       "HobbiesEn": "Shopping for electronics",
       "Illust": "ni02",
       "VoiceEn": "Hibiku Yamamura",
@@ -968,12 +968,13 @@
 
     {
       "CharacterId": 10040,
-      "FamilyNameEn": "",
+      "FamilyNameEn": "Ōno",
       "PersonalNameEn": "Tsukuyo",
-      "-ProfileIntroductionEn": "",
-      "-VoiceEn": "",
-      "-Illust": "",
-      "-ReleaseDateJp": ""
+      "ProfileIntroductionEn": "A member of the Ninjutsu Research Club of Hyakkiyako Academy. <br>Tsukuyo grew up tall in an early age, and she was often teased for her physique, and as a result, her current reclusive personality was formed. Tsukuyo is a timid person and isn't good at communicating to others, but she also has the strength to jump into any situation once she sets her mind to it. Although she is not very familiar with the ways of ninja yet, she seems to be enjoying her time in the Ninjutsu Research Club with her senior Michiru, and Izuna.",
+      "HobbiesEn": "Body replacement technique, holding breath",
+      "VoiceEn": "Ayasa Goto",
+      "Illust": "にぎりうさぎ (''Nigiri&nbsp;Usagi'')",
+      "ReleaseDateJp": "2022/05/11"
     }
     
   ]
