@@ -5,11 +5,12 @@ import re
 
 
 class Character(object):
-    def __init__(self, id, name, dev_name, portrait, name_en, family_name_en, rarity, school, role, position, damage_type, armor_type, combat_class, equipment, weapon_type, uses_cover, profile, normal_skill, ex_skill, passive_skill, passive_weapon_skill, sub_skill, stats, weapon, favor, memory_lobby, momotalk, liked_gift_tags, is_limited):
+    def __init__(self, id, name, dev_name, portrait, name_en, family_name_en, rarity, school, club, role, position, damage_type, armor_type, combat_class, equipment, weapon_type, uses_cover, profile, normal_skill, ex_skill, passive_skill, passive_weapon_skill, sub_skill, stats, weapon, favor, memory_lobby, momotalk, liked_gift_tags, is_limited):
         self.id = id
         self.name = name
         self.rarity = rarity
         self.school = school
+        self._club = club
         self._role = role
         self.position = position
         self._damage_type = damage_type
@@ -46,6 +47,44 @@ class Character(object):
             'Healer': 'Healer',
             'Vehicle': 'Tactical Support'
         }[self._role]
+
+    @property
+    def club(self):
+        return {
+            self._club: self._club,
+            'Countermeasure': 'Countermeasure Council',
+            'GourmetClub': 'Gourmet Research Club',
+            'RemedialClass': 'Supplemental Classes Club',
+            'SisterHood': 'Sisterhood',
+            'Kohshinjo68': 'Handyman 68',
+            'CleanNClearing': 'C&C',
+            'Shugyobu': 'Inner Discipline Club',
+            'MatsuriOffice': 'Festival Organization Committee',
+            'Endanbou': 'Chinese alchemy study group',
+            'Class227': 'Class No. 227',
+            'HoukagoDessert': 'After School Sweets Club',
+            'GameDev': 'Game Development Club',
+            'Veritas': 'Veritas',
+            'Engineer': 'Engineering Club',
+            'KnightsHospitaller': 'Rescue Knights',
+            'FoodService': 'School Lunch Club',
+            'PandemoniumSociety': 'Pandemonium Society',
+            'RabbitPlatoon': 'RABBIT Platoon',
+            'Emergentology': 'Emergency Medicine Department',
+            'RedwinterSecretary': 'Red Winter Secretariat',
+            'Fuuki': 'Disciplinary Committee',
+            'NinpoKenkyubu': 'Ninjutsu Research Department',
+            'anzenkyoku': 'Community Safety Bureau',
+            'Justice': 'Justice Actualization Committee',
+            'TrinityVigilance': 'Vigilante Corps',
+            'Onmyobu': 'Yin-Yan Сlub',
+            'BookClub': 'Library Committee',
+            'Meihuayuan': 'Meihua Yuan',
+            'TrainingClub': 'Training Club',
+            'SPTF': 'Supernatural Phenomenon Task Force',
+            'TheSeminar': 'Seminar',
+            'EmptyClub': 'no club'
+        }[self._club]
 
     @property
     def damage_type(self):
@@ -94,6 +133,7 @@ class Character(object):
             data.translated_characters[character_id]['FamilyNameEn'],
             character['DefaultStarGrade'],
             character['School'] != 'RedWinter' and character['School'] or 'Red Winter',
+            character['Club'],
             character['TacticRole'],
             character['TacticRange'],
             character['BulletType'],

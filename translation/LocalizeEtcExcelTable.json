@@ -1704,6 +1704,90 @@
             "NameEn": "Intact Mystery Stone",
             "DescriptionJp": "完全な状態のミステリーストーン。製造や強化に使用される。",
             "DescriptionEn": "An Intact Mystery Stone. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 149499250,
+            "NameJp": "任務レポート",
+            "NameEn": "Mission Report",
+            "DescriptionJp": "シャーレの活動記録が記載されたレポート。",
+            "DescriptionEn": "A report containing Schale activity records."
+        },
+        {
+            "Id": 3943222922,
+            "NameJp": "マシュマロ串",
+            "NameEn": "Marshmallow Skewer",
+            "DescriptionJp": "マシュマロに木の串を通したもの。焚火などで焼くことで、より甘くなる。",
+            "DescriptionEn": "Marshmallows on a wooden skewer. Bake it on a bonfire to make them sweeter."
+        },
+        {
+            "Id": 1275230444,
+            "NameJp": "クロムハンマー",
+            "NameEn": "Chromium Hammer",
+            "DescriptionJp": "引き金を引いた時に撃針に力を伝達するための部品。クロムの合金でできており、丈夫で錆びない。固有武器の強化に使用可能。",
+            "DescriptionEn": "A part of the gun that delivers the power from trigger to the firing pin. Made of chromium alloy which makes it durable and rust-resistant. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 563331103,
+            "NameJp": "チタンハンマー",
+            "NameEn": "Titanium Hammer",
+            "DescriptionJp": "引き金を引いた時に撃針に力を伝達するための部品。チタン合金でできており、丈夫な上に軽い。固有武器の強化に使用可能。",
+            "DescriptionEn": "A part of the gun that delivers the power from trigger to the firing pin. Made of titanium alloy which makes it even more durable while staying light. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 3590797977,
+            "NameJp": "錆びた銃身",
+            "NameEn": "Rusty Barrel",
+            "DescriptionJp": "打ち出される弾丸が通過する筒状の部品。ひどい管理のされ方をしていたのか、あちこちが錆びついている。固有武器の強化に使用可能。",
+            "DescriptionEn": "A tube through which projectile is propelled. Rusty on the surface due to lack of maintenance. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 2753922894,
+            "NameJp": "普通の銃身",
+            "NameEn": "Intact Barrel",
+            "DescriptionJp": "打ち出される弾丸が通過する筒状の部品。普通にきちんとした状態で、新品のように保存されていた。固有武器の強化に使用可能。",
+            "DescriptionEn": "A tube through which projectile is propelled. As good as new. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 3047737247,
+            "NameJp": "クロム銃身",
+            "NameEn": "Chromium Barrel",
+            "DescriptionJp": "打ち出される弾丸が通過する筒状の部品。クロムの合金でできており、丈夫で錆びない。固有武器の強化に使用可能。",
+            "DescriptionEn": "A tube through which projectile is propelled. Made of chromium alloy which makes it durable and rust-resistant. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 3465834983,
+            "NameJp": "チタン銃身",
+            "NameEn": "Titanium Barrel",
+            "DescriptionJp": "打ち出される弾丸が通過する筒状の部品。チタン合金でできており、丈夫な上に軽い。固有武器の強化に使用可能。",
+            "DescriptionEn": "A tube through which projectile is propelled. Made of titanium alloy which makes it even more durable while staying light. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 1498728523,
+            "NameJp": "錆びた撃針",
+            "NameEn": "Rusty Firing Pin",
+            "DescriptionJp": "弾丸の雷管に衝撃を与えるための金属の部品。ひどい管理のされ方をしていたのか、あちこちが錆びついている。固有武器の強化に使用可能。",
+            "DescriptionEn": "A metal part used to impact the detonator of a round. Rusty on the surface due to lack of maintenance. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 1441450061,
+            "NameJp": "普通の撃針",
+            "NameEn": "Intact Firing Pin",
+            "DescriptionJp": "弾丸の雷管に衝撃を与えるための金属の部品。普通にきちんとした状態で、新品のように保存されていた。固有武器の強化に使用可能。",
+            "DescriptionEn": "A metal part used to impact the detonator of a round. As good as new. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 1068433115,
+            "NameJp": "クロム撃針",
+            "NameEn": "Chromium Firing Pin",
+            "DescriptionJp": "弾丸の雷管に衝撃を与えるための金属の部品。クロムの合金でできており、丈夫で錆びない。固有武器の強化に使用可能。",
+            "DescriptionEn": "A metal part used to impact the detonator of a round. Made of chromium alloy which makes it durable and rust-resistant. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 1300399581,
+            "NameJp": "チタン撃針",
+            "NameEn": "Titanium Firing Pin",
+            "DescriptionJp": "弾丸の雷管に衝撃を与えるための金属の部品。チタン合金でできており、丈夫な上に軽い。固有武器の強化に使用可能。",
+            "DescriptionEn": "A metal part used to impact the detonator of a round. Made of titanium alloy which makes it even more durable while staying light. Used to enhance Unique Weapons."
         }
 
 

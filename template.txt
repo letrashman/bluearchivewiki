@@ -6,6 +6,7 @@
 | JPName = {{character.profile.full_name}}
 | JPReading = {{character.family_name_translated}} {{character.name_translated.split('(', 1)[0].strip()}}
 | School = {{character.school}}
+| Club = {{character.club}}
 | Age = {{character.profile.age}}
 | Birthday = {{character.profile.birthday}}
 | Height = {{character.profile.height}}
