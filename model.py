@@ -83,6 +83,7 @@ class Character(object):
             'TrainingClub': 'Training Club',
             'SPTF': 'Supernatural Phenomenon Task Force',
             'TheSeminar': 'Seminar',
+            'AriusSqud': 'Arius Squad',
             'EmptyClub': 'no club'
         }[self._club]
 

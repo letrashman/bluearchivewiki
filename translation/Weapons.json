@@ -766,6 +766,20 @@
             "NameEN": "Tsukuyo-style Submachine Gun",
             "DescriptionJP": "ツクヨが大事にしているサブマシンガン。\n\n銃の扱いが得意ではないツクヨのために、ミチルやイズナが色んな飾りつけや改造を施した一品。ツクヨにとっては何にも代えがたいものであり、大事な瞬間、彼女はいっそう優しく銃身を握りしめる。",
             "DescriptionEN": "A submachine gun that Tsukuyo cherishes. <br>Tsukuyo is not good at handling guns, so Michiru and Izuna have added various decorations and modifications for her. It's irreplaceable for Tsukuyo, and at the crucial moments she holds the barrel even more tenderly."
+        },
+        {
+            "Id": 20017,
+            "NameJP": "アイデンティティ",
+            "NameEN": "Identity",
+            "DescriptionJP": "ヒヨリが使用するスナイパーライフル。\n\n正確に敵を目掛けて飛んでいく20mmの弾丸は、銃弾が降り注ぐ戦場においてもその存在を強く主張する。",
+            "DescriptionEN": "Sniper rifle used by Hiyori. <br>The 20mm bullets strike true, asserting their presence on the gunfire-filled battlefield."
+        },
+        {
+            "Id": 10041,
+            "NameJP": "セイントプレデター",
+            "NameEN": "Saint Predator",
+            "DescriptionJP": "アリウス分校所属、口数が少なく無愛想な印象を受けるアリウススクワッドの少女。\n\n他人にも自分自身にも興味が薄く、時折自暴自棄とも取れる行動を起こす。手首や首元には、何かを隠すように分厚い包帯が巻かれている。",
+            "DescriptionEN": "Rocket launcher used by Misaki. <br>After firing, when it reaches a certain altitude, it separates into multiple munitions and causes a widespread explosion."
         }
 
     ]

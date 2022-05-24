@@ -1788,6 +1788,48 @@
             "NameEn": "Titanium Firing Pin",
             "DescriptionJp": "弾丸の雷管に衝撃を与えるための金属の部品。チタン合金でできており、丈夫な上に軽い。固有武器の強化に使用可能。",
             "DescriptionEn": "A metal part used to impact the detonator of a round. Made of titanium alloy which makes it even more durable while staying light. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 1673564872,
+            "NameJp": "ロイヤルダイヤチェア",
+            "NameEn": "Royal Diamond Chair",
+            "DescriptionJp": "古風なダイヤパターンのチェア。節制された曲線型のデザインがお洒落さを増している。",
+            "DescriptionEn": "A chair with an old-fashioned diamond pattern upholstery. Gently curving shapes of the design add to its stylishness."
+        },
+        {
+            "Id": 2983351598,
+            "NameJp": "古ぼけたアリウスのバッジ",
+            "NameEn": "Old Arius Badge",
+            "DescriptionJp": "やや汚れているアリウスのバッジ。アリウス分校のエンブレムが描かれている。",
+            "DescriptionEn": "A slightly dirty Arius badge. It bears the emblem of the Arius Branch School."
+        },
+        {
+            "Id": 471603600,
+            "NameJp": "初級テイラーストーン",
+            "NameEn": "Beginner Tailor Stone",
+            "DescriptionJp": "クラフトチェンバーのテイラーメイド機能を起動させる時に必要な起動石。",
+            "DescriptionEn": "Material required to activate the tailor-made function of the Crafting Chamber."
+        },
+        {
+            "Id": 1792884876,
+            "NameJp": "中級テイラーストーン",
+            "NameEn": "Intermediate Tailor Stone",
+            "DescriptionJp": "クラフトチェンバーのテイラーメイド機能を起動させる時に必要な起動石。",
+            "DescriptionEn": "Material required to activate the tailor-made function of the Crafting Chamber."
+        },
+        {
+            "Id": 2951854574,
+            "NameJp": "上級テイラーストーン",
+            "NameEn": "Advanced Tailor Stone",
+            "DescriptionJp": "クラフトチェンバーのテイラーメイド機能を起動させる時に必要な起動石。",
+            "DescriptionEn": "Material required to activate the tailor-made function of the Crafting Chamber."
+        },
+        {
+            "Id": 3331695516,
+            "NameJp": "最上級テイラーストーン",
+            "NameEn": "Superior Tailor Stone",
+            "DescriptionJp": "クラフトチェンバーのテイラーメイド機能を起動させる時に必要な起動石。",
+            "DescriptionEn": "Material required to activate the tailor-made function of the Crafting Chamber."
         }
 
 

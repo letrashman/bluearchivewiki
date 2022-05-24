@@ -975,7 +975,41 @@
       "VoiceEn": "Ayasa Goto",
       "Illust": "にぎりうさぎ (''Nigiri&nbsp;Usagi'')",
       "ReleaseDateJp": "2022/05/11"
+    },
+
+    {
+      "CharacterId": 20017,
+      "FamilyNameEn": "Tsuchinaga",
+      "PersonalNameEn": "Hiyori",
+      "ProfileIntroductionEn": "Hiyori is a petulant and melancholic member of the Arius Squad. She has low self-esteem, usually sees things in a negative light and is often self-deprecating when it comes to herself. She is occasionally seen carrying a heavy luggage on her back and following slightly behind everyone else.",
+      "HobbiesEn": "Collecting magazines",
+      "VoiceEn": "Mai Nakahara",
+      "-Illust": "",
+      "ReleaseDateJp": "2022/05/24"
+    },
+
+    {
+      "CharacterId": 10041,
+      "FamilyNameEn": "Imashino",
+      "PersonalNameEn": "Misaki",
+      "ProfileIntroductionEn": "Misaki belongs to Arius Branch School. She is an Arius Squad girl of few words and strikes others as unsociable. <br>Misaki has little interest in others or herself, and sometimes acts out of desperation. Her wrists and neck are covered with thick bandages as if to hide something.",
+      "HobbiesEn": "Being alone",
+      "VoiceEn": "Rio Tsuchiya",
+      "-Illust": "",
+      "ReleaseDateJp": "2022/05/24"
+    },
+
+    {
+      "CharacterId": 10042,
+      "FamilyNameEn": "",
+      "PersonalNameEn": "Atsuko",
+      "ProfileIntroductionEn": "",
+      "HobbiesEn": "",
+      "VoiceEn": "",
+      "-Illust": "",
+      "-ReleaseDateJp": "2022/05/24"
     }
+    
     
   ]
 }

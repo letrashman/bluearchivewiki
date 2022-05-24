@@ -2433,7 +2433,60 @@
             "GroupId": "CH0114ExtraPassive01",
             "NameEn": "I can' t go down, yet...!",
             "DescriptionEn": "Recover $1 of Healing when affected by a CC state."
+        },
+        {
+            "GroupId": "CH0105Ex01",
+            "NameEn": "Empty world",
+            "DescriptionEn": "Deal $2 damage to enemies within 7 circular areas each $1. (Duration: $3)<br>(If this skill is used again while its previous effect is still active, previous effect disappears)"
+        },
+        {
+            "GroupId": "CH0105Public01",
+            "NameEn": "I can't wait to get this over with",
+            "DescriptionEn": "Every $1, increase Attack by $2 for $3."
+        },
+        {
+            "GroupId": "CH0105Passive01",
+            "NameEn": "Pointless technology",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "CH0105WeaponPassive01",
+            "NameEn": "Pointless technology +",
+            "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
+        },
+        {
+            "GroupId": "CH0105ExtraPassive01",
+            "NameEn": "Equivalent exchange",
+            "DescriptionEn": "When attacking a weakened enemy, deal $1 of Attack as additional damage, stacks up to 5 times depending on the number of weakening effects."
+        },
+        {
+            "GroupId": "CH0106Ex01",
+            "NameEn": "I-i'll support you now!",
+            "DescriptionEn": "Fires a bullet that flies in a straight line and deals $1 damage to the first enemy it hits.<br>If there are two or fewer Arius Squad students in the same team, reduce Defense of the hit enemy by $2; if there are three or more, reduce their Defence by $3 instead. (Duration: $4)"
+        },
+        {
+            "GroupId": "CH0106Public01",
+            "NameEn": "O-oh, this will hurt!",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy and reduce their defense by $3 for $4."
+        },
+        {
+            "GroupId": "CH0106Passive01",
+            "NameEn": "I read it in a magazine",
+            "DescriptionEn": "Increase Critical Damage by $1."
+        },
+        {
+            "GroupId": "CH0106WeaponPassive01",
+            "NameEn": "I read it in a magazine +",
+            "DescriptionEn": "Increase Critical Damage by $1. Further increase Critical Damage by $2."
+        },
+        {
+            "GroupId": "CH0106ExtraPassive01",
+            "NameEn": "Power of the appendix",
+            "DescriptionEn": "Increase Attack of all allies by $1."
         }
+        
+
+
         
         
     ]
