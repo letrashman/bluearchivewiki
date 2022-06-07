@@ -1806,14 +1806,14 @@
         {
             "Id": 471603600,
             "NameJp": "初級テイラーストーン",
-            "NameEn": "Beginner Tailor Stone",
+            "NameEn": "Lesser Tailor Stone",
             "DescriptionJp": "クラフトチェンバーのテイラーメイド機能を起動させる時に必要な起動石。",
             "DescriptionEn": "Material required to activate the tailor-made function of the Crafting Chamber."
         },
         {
             "Id": 1792884876,
             "NameJp": "中級テイラーストーン",
-            "NameEn": "Intermediate Tailor Stone",
+            "NameEn": "Normal Tailor Stone",
             "DescriptionJp": "クラフトチェンバーのテイラーメイド機能を起動させる時に必要な起動石。",
             "DescriptionEn": "Material required to activate the tailor-made function of the Crafting Chamber."
         },
@@ -1830,6 +1830,13 @@
             "NameEn": "Superior Tailor Stone",
             "DescriptionJp": "クラフトチェンバーのテイラーメイド機能を起動させる時に必要な起動石。",
             "DescriptionEn": "Material required to activate the tailor-made function of the Crafting Chamber."
+        },
+        {
+            "Id": 1668372693,
+            "NameJp": "火力演習コイン",
+            "NameEn": "Firepower Exercise Coin",
+            "DescriptionJp": "合同火力演習ショップで利用可能なコイン。",
+            "DescriptionEn": "Coins that can be used at the Joint Firepower Exercise Shop."
         }
 
 

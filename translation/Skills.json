@@ -214,12 +214,12 @@
         {
             "GroupId": "HasumiPassive01",
             "NameEn": "Target in sights",
-            "DescriptionEn": "Increase Critical Damage  by $1."
+            "DescriptionEn": "Increase Critical Damage by $1."
         },
         {
             "GroupId": "HasumiWeaponPassive01",
             "NameEn": "Target in sights +",
-            "DescriptionEn": "Increase Critical Damage  by $1. Further increase Critical Damage  by $2."
+            "DescriptionEn": "Increase Critical Damage by $1. Further increase Critical Damage by $2."
         },
         {
             "GroupId": "HasumiExtraPassive01",
@@ -1709,7 +1709,7 @@
         {
             "GroupId": "CH0090Ex01",
             "NameEn": "You're interrupting my work!",
-            "DescriptionEn": "Deal $1 damage enemies in an arch-shaped area.<br>Reduce their Critical Rate by $2 for $3."
+            "DescriptionEn": "Deal $1 damage enemies in an arch-shaped area.<br>Reduce their Critical Damage by $2 for $3."
         },
         {
             "GroupId": "CH0090Public01",

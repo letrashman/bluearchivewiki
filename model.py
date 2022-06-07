@@ -57,7 +57,7 @@ class Character(object):
             'RemedialClass': 'Supplemental Classes Club',
             'SisterHood': 'Sisterhood',
             'Kohshinjo68': 'Handyman 68',
-            'CleanNClearing': 'C&C',
+            'CleanNClearing': 'Cleaning & Clearing',
             'Shugyobu': 'Inner Discipline Club',
             'MatsuriOffice': 'Festival Organization Committee',
             'Endanbou': 'Chinese alchemy study group',
@@ -77,9 +77,9 @@ class Character(object):
             'anzenkyoku': 'Community Safety Bureau',
             'Justice': 'Justice Actualization Committee',
             'TrinityVigilance': 'Vigilante Corps',
-            'Onmyobu': 'Yin-Yan Сlub',
+            'Onmyobu': 'Yin-Yang Сlub',
             'BookClub': 'Library Committee',
-            'Meihuayuan': 'Meihua Yuan',
+            'Meihuayuan': 'Plum Blossom Garden',
             'TrainingClub': 'Training Club',
             'SPTF': 'Supernatural Phenomenon Task Force',
             'TheSeminar': 'Seminar',
@@ -208,7 +208,7 @@ class Profile(object):
         hobbies = 'HobbiesEn' in data.translated_characters[character_id] and data.translated_characters[character_id]['HobbiesEn'] or profile['HobbyJp']
         illustrator = 'Illust' in data.translated_characters[character_id] and data.translated_characters[character_id]['Illust'] or profile['ArtistNameJp']
         voice = 'VoiceEn' in data.translated_characters[character_id] and data.translated_characters[character_id]['VoiceEn'] or profile['CharacterVoiceJp']
-        age = 'AgeEn' in data.translated_characters[character_id] and data.translated_characters[character_id]['AgeEn'] or profile['CharacterAgeJp']
+        age = 'AgeEn' in data.translated_characters[character_id] and data.translated_characters[character_id]['AgeEn']+' ' or profile['CharacterAgeJp']
         height = 'HeightEn' in data.translated_characters[character_id] and data.translated_characters[character_id]['HeightEn'] or profile['CharHeightJp']
         release_date_jp = 'ReleaseDateJp' in data.translated_characters[character_id] and data.translated_characters[character_id]['ReleaseDateJp'] or ''
         introduction_en = 'ProfileIntroductionEn' in data.translated_characters[character_id] and data.translated_characters[character_id]['ProfileIntroductionEn'] or ''
@@ -230,8 +230,8 @@ class Profile(object):
             hobbies,
             illustrator,
             voice,
-            profile['ProfileIntroductionJp'].replace("\n\n",'<br>'),
-            introduction_en.replace("\n\n",'<br>'),
+            '<p>' + profile['ProfileIntroductionJp'].replace("\n\n",'</p><p>').replace("\n",'<br>') + '</p>',
+            '<p>' + introduction_en.replace("\n\n",'</p><p>').replace("\n",'<br>') + '</p>',
             f'{profile["FamilyNameRubyJp"]} {profile["PersonalNameJp"]}',
             release_date_jp,
             profile['WeaponNameJp'],
