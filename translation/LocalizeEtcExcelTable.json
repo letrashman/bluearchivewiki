@@ -2021,8 +2021,280 @@
             "DescriptionJp": "装備を作ることができる図面。",
             "NameEn": "Nikolai Locket Blueprint",
             "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 1396845827,
+            "NameJp": "ワカモの神名文字",
+            "NameEn": "Wakamo's Eleph",
+            "DescriptionJp": "ワカモの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Wakamo."
+        },
+        {
+            "Id": 3357677321,
+            "NameJp": "ミモリの神名文字",
+            "NameEn": "Mimori's Eleph",
+            "DescriptionJp": "ミモリの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Mimori."
+        },
+        {
+            "Id": 2864423367,
+            "NameJp": "ウイの神名文字",
+            "NameEn": "Ui's Eleph",
+            "DescriptionJp": "ウイの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Ui."
+        },
+        {
+            "Id": 3674017384,
+            "NameJp": "ヒナタの神名文字",
+            "NameEn": "Hinata's Eleph",
+            "DescriptionJp": "ヒナタの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Hinata."
+        },
+        {
+            "Id": 3965504658,
+            "NameJp": "マリナの神名文字",
+            "NameEn": "Marina's Eleph",
+            "DescriptionJp": "マリナの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Marina."
+        },
+        {
+            "Id": 459551967,
+            "NameJp": "ミヤコの神名文字",
+            "NameEn": "Miyako's Eleph",
+            "DescriptionJp": "ミヤコの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Miyako."
+        },
+        {
+            "Id": 1250059406,
+            "NameJp": "ミユの神名文字",
+            "NameEn": "Miyu's Eleph",
+            "DescriptionJp": "ミユの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Miyu."
+        },
+        {
+            "Id": 2361479186,
+            "NameJp": "ツクヨの神名文字",
+            "NameEn": "Tsukuyo's Eleph",
+            "DescriptionJp": "ツクヨの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Tsukuyo."
+        },
+        {
+            "Id": 1204269992,
+            "NameJp": "ミサキの神名文字",
+            "NameEn": "Misaki's Eleph",
+            "DescriptionJp": "ミサキの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Misaki."
+        },
+        {
+            "Id": 2160472125,
+            "NameJp": "アツコの神名文字",
+            "NameEn": "Atsuko's Eleph",
+            "DescriptionJp": "アツコの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Atsuko."
+        },
+        {
+            "Id": 3674798725,
+            "NameJp": "フブキの神名文字",
+            "NameEn": "Fubuki's Eleph",
+            "DescriptionJp": "フブキの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Fubuki."
+        },
+        {
+            "Id": 2156443274,
+            "NameJp": "ミチルの神名文字",
+            "NameEn": "Michiru's Eleph",
+            "DescriptionJp": "ミチルの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Michiru."
+        },
+        {
+            "Id": 2360999366,
+            "NameJp": "初音ミクの神名文字",
+            "NameEn": "Hatsune Miku's Eleph",
+            "DescriptionJp": "初音ミクの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Hatsune Miku."
+        },
+        {
+            "Id": 3891540835,
+            "NameJp": "セナの神名文字",
+            "NameEn": "Sena's Eleph",
+            "DescriptionJp": "セナの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Sena."
+        },
+        {
+            "Id": 2575812370,
+            "NameJp": "チヒロの神名文字",
+            "NameEn": "Chihiro's Eleph",
+            "DescriptionJp": "チヒロの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Chihiro."
+        },
+        {
+            "Id": 3018163885,
+            "NameJp": "サキの神名文字",
+            "NameEn": "Saki's Eleph",
+            "DescriptionJp": "サキの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Saki."
+        },
+        {
+            "Id": 4011646913,
+            "NameJp": "カエデの神名文字",
+            "NameEn": "Kaede's Eleph",
+            "DescriptionJp": "カエデの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Kaede."
+        },
+        {
+            "Id": 3428606412,
+            "NameJp": "イロハの神名文字",
+            "NameEn": "Iroha's Eleph",
+            "DescriptionJp": "イロハの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Iroha."
+        },
+        {
+            "Id": 2541056814,
+            "NameJp": "ヒヨリの神名文字",
+            "NameEn": "Hiyori's Eleph",
+            "DescriptionJp": "ヒヨリの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Hiyori."
+        },
+        {
+            "Id": 2871486003,
+            "NameJp": "シロコ（ライディング）の神名文字",
+            "DescriptionJp": "シロコ（ライディング）の神秘が詰まった神名文字。",
+            "NameEn": "Shiroko's (Riding) Eleph",
+            "DescriptionEn": "The mystical Eleph of Shiroko (Riding)."
+        },
+        {
+            "Id": 1096234198,
+            "NameJp": "シュン（幼女）の神名文字",
+            "DescriptionJp": "シュン（幼女）の神秘が詰まった神名文字。",
+            "NameEn": "Little Shun's Eleph",
+            "DescriptionEn": "The mystical Eleph of Shun (Kid)."
+        },
+        {
+            "Id": 2158470460,
+            "NameJp": "ネル（バニーガール）の神名文字",
+            "DescriptionJp": "ネル（バニーガール）の神秘が詰まった神名文字。",
+            "NameEn": "Neru's (Bunny Girl) Eleph",
+            "DescriptionEn": "The mystical Eleph of Neru (Bunny Girl)."
+        },
+        {
+            "Id": 958835353,
+            "NameJp": "カリン（バニーガール）の神名文字",
+            "DescriptionJp": "カリン（バニーガール）の神秘が詰まった神名文字。",
+            "NameEn": "Karin's (Bunny Girl) Eleph",
+            "DescriptionEn": "The mystical Eleph of Karin (Bunny Girl)."
+        },
+        {
+            "Id": 3973279174,
+            "NameJp": "アスナ（バニーガール）の神名文字",
+            "DescriptionJp": "アスナ（バニーガール）の神秘が詰まった神名文字。",
+            "NameEn": "Asuna's (Bunny Girl) Eleph",
+            "DescriptionEn": "The mystical Eleph of Asuna (Bunny Girl)."
+        },
+        {
+            "Id": 3159814357,
+            "NameJp": "チナツ（温泉）の神名文字",
+            "DescriptionJp": "チナツ（温泉）の神秘が詰まった神名文字。",
+            "NameEn": "Chinatsu's (Hot Spring) Eleph",
+            "DescriptionEn": "The mystical Eleph of Chinatsu (Hot Spring)."
+        },
+        {
+            "Id": 2406695321,
+            "NameJp": "チェリノ（温泉）の神名文字",
+            "DescriptionJp": "チェリノ（温泉）の神秘が詰まった神名文字。",
+            "NameEn": "Cherino's (Hot Spring) Eleph",
+            "DescriptionEn": "The mystical Eleph of Cherino (Hot Spring)."
+        },
+        {
+            "Id": 2984211353,
+            "NameJp": "ノドカ（温泉）の神名文字",
+            "DescriptionJp": "ノドカ（温泉）の神秘が詰まった神名文字。",
+            "NameEn": "Nodoka's (Hot Spring) Eleph",
+            "DescriptionEn": "The mystical Eleph of Nodoka (Hot Spring)."
+        },
+        {
+            "Id": 2190707346,
+            "NameJp": "セリカ（正月）の神名文字",
+            "DescriptionJp": "セリカ（正月）の神秘が詰まった神名文字。",
+            "NameEn": "Serika's (New Year) Eleph",
+            "DescriptionEn": "The mystical Eleph of Serika (New Year)."
+        },
+        {
+            "Id": 18911590,
+            "NameJp": "アズサ（水着）の神名文字",
+            "DescriptionJp": "アズサ（水着）の神秘が詰まった神名文字。",
+            "NameEn": "Azusa's (Swimsuit) Eleph",
+            "DescriptionEn": "The mystical Eleph of Azusa (Swimsuit)."
+        },
+        {
+            "Id": 1673011833,
+            "NameJp": "ヒナ（水着）の神名文字",
+            "DescriptionJp": "ヒナ（水着）の神秘が詰まった神名文字。",
+            "NameEn": "Hina's (Swimsuit) Eleph",
+            "DescriptionEn": "The mystical Eleph of Hina (Swimsuit)."
+        },
+        {
+            "Id": 1768478589,
+            "NameJp": "イオリ（水着）の神名文字",
+            "DescriptionJp": "イオリ（水着）の神秘が詰まった神名文字。",
+            "NameEn": "Iori's (Swimsuit) Eleph",
+            "DescriptionEn": "The mystical Eleph of Iori (Swimsuit)."
+        },
+        {
+            "Id": 3650626904,
+            "NameJp": "ツルギ（水着）の神名文字",
+            "DescriptionJp": "ツルギ（水着）の神秘が詰まった神名文字。",
+            "NameEn": "Tsurugi's (Swimsuit) Eleph",
+            "DescriptionEn": "The mystical Eleph of Tsurugi (Swimsuit)."
+        },
+        {
+            "Id": 1183324031,
+            "NameJp": "イズミ（水着）の神名文字",
+            "DescriptionJp": "イズミ（水着）の神秘が詰まった神名文字。",
+            "NameEn": "Izumi's (Swimsuit) Eleph",
+            "DescriptionEn": "The mystical Eleph of Izumi (Swimsuit)."
+        },
+        {
+            "Id": 3080168960,
+            "NameJp": "マシロ（水着）の神名文字",
+            "DescriptionJp": "マシロ（水着）の神秘が詰まった神名文字。",
+            "NameEn": "Mashiro's (Swimsuit) Eleph",
+            "DescriptionEn": "The mystical Eleph of Mashiro (Swimsuit)."
+        },
+        {
+            "Id": 3998397720,
+            "NameJp": "ヒフミ（水着）の神名文字",
+            "DescriptionJp": "ヒフミ（水着）の神秘が詰まった神名文字。",
+            "NameEn": "Hifumi's (Swimsuit) Eleph",
+            "DescriptionEn": "The mystical Eleph of Hifumi (Swimsuit)."
+        },
+        {
+            "Id": 768461772,
+            "NameJp": "サヤ（私服）の神名文字",
+            "DescriptionJp": "サヤ（私服）の神秘が詰まった神名文字。",
+            "NameEn": "Saya's (Casual) Eleph",
+            "DescriptionEn": "The mystical Eleph of Saya (Casual)."
+        },
+        {
+            "Id": 592001888,
+            "NameJp": "アル（正月）の神名文字",
+            "DescriptionJp": "アル（正月）の神秘が詰まった神名文字。",
+            "NameEn": "Aru's (New Year) Eleph",
+            "DescriptionEn": "The mystical Eleph of Aru (New Year)."
+        },
+        {
+            "Id": 629707236,
+            "NameJp": "ムツキ（正月）の神名文字",
+            "DescriptionJp": "ムツキ（正月）の神秘が詰まった神名文字。",
+            "NameEn": "Mutsuki's (New Year) Eleph",
+            "DescriptionEn": "The mystical Eleph of Mutsuki (New Year)."
+        },
+        {
+            "Id": 1199341966,
+            "NameJp": "アリスの神名文字",
+            "DescriptionJp": "アリスの神秘が詰まった神名文字。",
+            "NameEn": "Arisu's Eleph",
+            "DescriptionEn": "The mystical Eleph of Arisu."
         }
-
 
     ]
 }
