@@ -1837,6 +1837,190 @@
             "NameEn": "Firepower Exercise Coin",
             "DescriptionJp": "合同火力演習ショップで利用可能なコイン。",
             "DescriptionEn": "Coins that can be used at the Joint Firepower Exercise Shop."
+        },
+        {
+            "Id": 835357934,
+            "NameJp": "バケットハット",
+            "NameEn": "Bucket Hat",
+            "DescriptionJp": "顔の上部を隠せる大きめのバケットハット。マスクを合わせると顔の露出を最低限にでき、紫外線対策もバッチリ。",
+            "DescriptionEn": "A large bucket hat that shades the eyes. Wearing a mask will minimize the exposure of your face and provide perfect UV protection."
+        },
+        {
+            "Id": 1472344616,
+            "NameJp": "バケットハットの設計図",
+            "NameEn": "Bucket Hat Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 1332723028,
+            "NameJp": "アームカバー",
+            "NameEn": "Arm Cover",
+            "DescriptionJp": "紫外線対策とファッション、その二つの要素を同時に求める生徒のためのアームカバー。季節の変わり目などにおススメ。",
+            "DescriptionEn": "An arm cover for students who want both UV protection and fashion at the same time. Recommended for the changing seasons."
+        },
+        {
+            "Id": 3926402710,
+            "NameJp": "アームカバーの設計図",
+            "NameEn": "Arm Cover Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 134212594,
+            "NameJp": "カジュアルスニーカー",
+            "NameEn": "Casual Sneakers",
+            "DescriptionJp": "シンプルなデザインのスニーカー。軽くてフィット感も良く、多くの生徒から支持されている。",
+            "DescriptionEn": "Sneakers with a basic design. Lightweight and well-fitting, they are favored by many students."
+        },
+        {
+            "Id": 1101051979,
+            "NameJp": "カジュアルスニーカーの設計図",
+            "NameEn": "Casual Sneakers Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 1637503010,
+            "NameJp": "ストリートバッグ",
+            "NameEn": "Street Bag",
+            "DescriptionJp": "カジュアルな雰囲気に実用性を加えたストリートバッグ。たっぷり収納できるため、多くの生徒に愛用されている。",
+            "DescriptionEn": "This street bag combines casual appearance with practicality. It is a favorite of many students because of its ample storage capacity."
+        },
+        {
+            "Id": 3313108412,
+            "NameJp": "ストリートバッグの設計図",
+            "NameEn": "Street Bag Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 589220143,
+            "NameJp": "ストリートバッジ",
+            "NameEn": "Street Badge",
+            "DescriptionJp": "ストリートファッションブランド「トリプルステップ」の新作バッジ。社名を中央に大きく印刷した大胆さからは、制作者の自信が窺える。",
+            "DescriptionEn": "A new badge for the \"Triple Step\" street fashion brand. Boldly printing the company name front and center shows the confidence of the creator."
+        },
+        {
+            "Id": 498575224,
+            "NameJp": "ストリートバッジの設計図",
+            "NameEn": "Street Badge Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 1353993108,
+            "NameJp": "カリグラフィーヘアピン",
+            "NameEn": "Calligraphy Hairpin",
+            "DescriptionJp": "文字でデザインされたヘアピン。文字列そのものに意味はないが、どこか胸をときめかせてくれるデザイン。",
+            "DescriptionEn": "A hairpin decorated with text. The string of letters itself has no meaning, but the design is somehow exciting."
+        },
+        {
+            "Id": 828687381,
+            "NameJp": "カリグラフィーヘアピンの設計図",
+            "NameEn": "Calligraphy Hairpin Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 237084781,
+            "NameJp": "呪いの人形",
+            "NameEn": "Cursed Doll",
+            "DescriptionJp": "怨念などの強い感情がこめられていそうな呪いの人形。針刺しとして使いやすいらしく、手芸部の生徒たちに人気が高い。",
+            "DescriptionEn": "A cursed doll that seems to be filled with strong negative emotions such as grudges. It can be used as a needle pad, and is very popular among the students of the handicraft club."
+        },
+        {
+            "Id": 1058203923,
+            "NameJp": "呪いの人形の設計図",
+            "NameEn": "Cursed Doll Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 2415212758,
+            "NameJp": "ゴシック風の腕時計",
+            "NameEn": "Gothic Wristwatch",
+            "DescriptionJp": "ゴシック風にデザインされた腕時計。クラシカルな服などによく似合うものの、慣れないと時間が読みにくいという弱点がある。",
+            "DescriptionEn": "A wristwatch designed in a gothic style. Although it goes well with classical clothing, it is difficult to read the time if you are not accustomed to it."
+        },
+        {
+            "Id": 2625452827,
+            "NameJp": "ゴシック風の腕時計の設計図",
+            "NameEn": "Gothic Wristwatch Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 1964406377,
+            "NameJp": "パンクチョーカー",
+            "NameEn": "Punk Choker",
+            "DescriptionJp": "鋭いスパイクがしつらえられたパンクスタイルのチョーカー。首に着けるとちょっと頷きにくくなる。",
+            "DescriptionEn": "A punk-style choker with sharp spikes. It's a little hard to nod your head when you re wearing it."
+        },
+        {
+            "Id": 3028364897,
+            "NameJp": "パンクチョーカーの設計図",
+            "NameEn": "Punk Choker Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 4067164356,
+            "NameKr": "어그 부츠",
+            "DescriptionKr": "아웃도어 브랜드 <마나슬루>의 방한용 장화. 귀여운 디자인에 보온성도 우수해 추운 지방의 여고생들에게 인기가 높다.",
+            "NameJp": "ムートンブーツ",
+            "DescriptionJp": "アウトドアブランド「マナスル」のブーツ。デザインの可愛らしさもさることながら、保温性にも優れており、寒い地方の女子高生たちに人気が高い。",
+            "NameEn": "Mouton Boots",
+            "DescriptionEn": "Cold weather boots from the outdoor brand Manaslu. Their cute design and excellent thermal insulation make them popular with high school girls in cold regions."
+        },
+        {
+            "Id": 1035529863,
+            "NameJp": "ムートンブーツの設計図",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "NameEn": "Mouton Boots Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 940066526,
+            "NameJp": "紺色のスクールバッグ",
+            "DescriptionJp": "トリニティ総合学園の校則に従って製作されたスクールバッグ。そのシンプルで高級なデザインは、他校の生徒からも人気が高い。",
+            "NameEn": "Navy School Bag",
+            "DescriptionEn": "A navy blue school bag made in adherence to the rules of Trinity Academy. It's also popular with students from other academies thanks to its simple and luxurious design."
+        },
+        {
+            "Id": 2415084447,
+            "NameJp": "紺色のスクールバッグの設計図",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "NameEn": "Navy School Bag Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 3773560632,
+            "NameJp": "防塵型の腕時計",
+            "DescriptionJp": "ミリタリー専門ブランド「カゼヤマ」で製作された防塵型の腕時計。過酷な環境下でも、故障の心配をすることなく使用することができる。",
+            "NameEn": "Dustproof Wristwatch",
+            "DescriptionEn": "A wristwatch from the military specialty brand Kazeyama. Its enhanced resistance to dust mean you don't have to worry about it breaking down in harsh environments."
+        },
+        {
+            "Id": 748088041,
+            "NameJp": "防塵型の腕時計の設計図",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "NameEn": "Dustproof Wristwatch Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 4279598505,
+            "NameJp": "ニコライのロケットペンダント",
+            "DescriptionJp": "「モモフレンズ」のキャラクター「Mr.ニコライ」の顔がぶら下がったようなロケットペンダント。鼻の部分を押すと、写真を入れられる小さなスペースが開く。",
+            "NameEn": "Nikolai Locket",
+            "DescriptionEn": "A locket bearing the face of Mr. Nikolai, a character from Momo Friends. A small space for storing photos opens when you press on his nose."
+        },
+        {
+            "Id": 1311970368,
+            "NameJp": "ニコライのロケットペンダントの設計図",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "NameEn": "Nikolai Locket Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
         }
 
 

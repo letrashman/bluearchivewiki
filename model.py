@@ -235,9 +235,9 @@ class Profile(object):
             f'{profile["FamilyNameRubyJp"]} {profile["PersonalNameJp"]}',
             release_date_jp,
             profile['WeaponNameJp'],
-            profile['WeaponDescJp'].replace("\n\n",'<br>'),
+            '<p>' + profile['WeaponDescJp'].replace("\n\n",'</p><p>').replace("\n",'<br>') + '</p>',
             weapon['NameEN'],
-            weapon['DescriptionEN'].replace("\n\n",'<br>')
+            '<p>' + weapon['DescriptionEN'].replace("\n\n",'</p><p>').replace("\n",'<br>') + '</p>',
         )
 
 

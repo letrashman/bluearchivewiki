@@ -2483,6 +2483,31 @@
             "GroupId": "CH0106ExtraPassive01",
             "NameEn": "Power of the appendix",
             "DescriptionEn": "Increase Attack of all allies by $1."
+        },
+        {
+            "GroupId": "CH0104Ex01",
+            "NameEn": "This is also my power...?",
+            "DescriptionEn": "Recover HP of all allies in a circular area around Atsuko by $2 of Healing every $1. (Duration: $3)"
+        },
+        {
+            "GroupId": "CH0104Public01",
+            "NameEn": "Hiding",
+            "DescriptionEn": "Every $1, deploy a smoke screen that increases Evasion of allies within range by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "CH0104Passive01",
+            "NameEn": "As instructed",
+            "DescriptionEn": "Increase Evasion by $1."
+        },
+        {
+            "GroupId": "CH0104WeaponPassive01",
+            "NameEn": "As instructed +",
+            "DescriptionEn": "Increase Healing by $1. Increase Evasion by $2."
+        },
+        {
+            "GroupId": "CH0104ExtraPassive01",
+            "NameEn": "I'm used to pain",
+            "DescriptionEn": "Increase Evasion by $2 when HP is below $1."
         }
         
 

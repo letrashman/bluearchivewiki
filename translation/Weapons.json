@@ -780,6 +780,13 @@
             "NameEN": "Saint Predator",
             "DescriptionJP": "アリウス分校所属、口数が少なく無愛想な印象を受けるアリウススクワッドの少女。\n\n他人にも自分自身にも興味が薄く、時折自暴自棄とも取れる行動を起こす。手首や首元には、何かを隠すように分厚い包帯が巻かれている。",
             "DescriptionEN": "Rocket launcher used by Misaki. <br>After firing, when it reaches a certain altitude, it separates into multiple munitions and causes a widespread explosion."
+        },
+        {
+            "Id": 10042,
+            "NameJP": "スコルピウス",
+            "NameEN": "Scorpius",
+            "DescriptionJP": "アツコが使用するサブマシンガン。\n\n短い銃身の割に激しい火力を持ち、特に近距離での戦闘に適している。",
+            "DescriptionEN": "A submachine gun used by Atsuko.\n\nIt has a heavy firepower for its short barrel, and is especially suited for close quarters combat."
         }
 
     ]

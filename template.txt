@@ -125,7 +125,7 @@
 {% endfor -%}
 {% raw %}}}{% endraw %}
 ===Skill Upgrade Materials===
-{% raw %}{{{% endraw %}SkillUpgradeTable2
+{% raw %}{{{% endraw %}SkillUpgradeTable
 | SkillType = EX Skill
 | SkillNameJP = {{character.ex_skill.name}}
 | SkillNameEN = {{character.ex_skill.name_translated if character.ex_skill.name_translated}}
@@ -137,7 +137,7 @@
 {% endfor -%}
 {% endfor -%}
 {% raw %}}}{% endraw %}
-{% raw %}{{{% endraw %}SkillUpgradeTable2
+{% raw %}{{{% endraw %}SkillUpgradeTable
 | SkillType = Normal Skill
 | SkillNameJP = {{character.normal_skill.name}}
 | SkillNameEN = {{character.normal_skill.name_translated if character.normal_skill.name_translated}}
@@ -149,7 +149,7 @@
 {% endfor -%}
 {% endfor -%}
 {% raw %}}}{% endraw %}
-{% raw %}{{{% endraw %}SkillUpgradeTable2
+{% raw %}{{{% endraw %}SkillUpgradeTable
 | SkillType = Passive Skill
 | SkillNameJP = {{character.passive_skill.name}}
 | SkillNameEN = {{character.passive_skill.name_translated if character.passive_skill.name_translated}}
@@ -161,7 +161,7 @@
 {% endfor -%}
 {% endfor -%}
 {% raw %}}}{% endraw %}
-{% raw %}{{{% endraw %}SkillUpgradeTable2
+{% raw %}{{{% endraw %}SkillUpgradeTable
 | SkillType = Sub Skill
 | SkillNameJP = {{character.sub_skill.name}}
 | SkillNameEN = {{character.sub_skill.name_translated if character.sub_skill.name_translated}}
