@@ -2023,6 +2023,13 @@
             "DescriptionEn": "A blueprint for creating equipment."
         },
         {
+            "Id": 1759502696,
+            "NameJp": "レザーグローブ",
+            "DescriptionJp": "高級革を使用しているグローブ。耐久性はそれほど高くなく、主に式典やパーティなどで使われる。",
+            "NameEn": "Leather Gloves",
+            "DescriptionEn": "Gloves made of high-quality leather. Because they're not very durable, they're mainly used for ceremonies and parties."
+          },
+        {
             "Id": 1396845827,
             "NameJp": "ワカモの神名文字",
             "NameEn": "Wakamo's Eleph",
@@ -2294,6 +2301,13 @@
             "DescriptionJp": "アリスの神秘が詰まった神名文字。",
             "NameEn": "Arisu's Eleph",
             "DescriptionEn": "The mystical Eleph of Arisu."
+        },
+        {
+            "Id": 2683341399,
+            "NameJp": "クレジットポイント",
+            "DescriptionJp": "先生が持っているカードのポイント、通称「クレジット」。クレジットポイントは特定の状況で、現金のように自由に使える。",
+            "NameEn": "Credits",
+            "DescriptionEn": "Basic ingame currency."
         }
 
     ]

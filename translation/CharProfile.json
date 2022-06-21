@@ -517,7 +517,7 @@
       "PersonalNameEn": "Cherino",
       "ProfileIntroductionEn": "Cherino is the tyrannical and childlike student council president of Red Winter. <br>She has an extremely strong desire for power - despite being overthrown in a revolution almost every week, Cherino somehow keeps returning to the seat of student council president. <br>According to Cherino, her fake moustache is a \"symbol of influence\" that \"radiates authority\".",
       "HobbiesEn": "Purges, snowball fights",
-      "Illust": "Hwansang",
+      "-Illust": "Hwansang",
       "VoiceEn": "Sakura Tange",
       "ReleaseDateJp": "2021/04/29"
     },
@@ -536,10 +536,10 @@
       "IsLimited": true,
       "FamilyNameEn": "Amami",
       "PersonalNameEn": "Nodoka",
-      "ProfileIntroductionEn": "Nodoka is a student of Red Winter. However, she is currently suspended from school, instead being confined to Class No. 227 in the old school building. <br>The reason for her suspension is \"using a telescope to engage in stalking\". <br>Nodoka has a desire to observe all of the beautiful things in the world with her own eyes (including Sensei). The long hardship she has endured as part of Class No. 227 has given her a deep-running sense of frugality.",
+      "ProfileIntroductionEn": "Nodoka is a student of Red Winter. However, she is currently suspended from school, instead being confined to Class No. 227 in the old school building.\n\nThe reason for her suspension is \"using a telescope to engage in stalking\".\nNodoka has a desire to observe all of the beautiful things in the world with her own eyes (including Sensei). The long hardship she has endured as part of Class No. 227 has given her a deep-running sense of frugality.",
       "HobbiesEn": "Astronomy",
-      "Illust": "Hwansang",
-      "VoiceEn": "Satomi Satou",
+      "Illust": "日下雲 (''Kusaka Kumo'')",
+      "VoiceEn": "Satou Satomi",
       "ReleaseDateJp": "2021/04/29"
     },
     {
@@ -640,10 +640,10 @@
       "CharacterId": 13012,
       "FamilyNameEn": "Nakatsukasa",
       "PersonalNameEn": "Kirino",
-      "ProfileIntroductionEn": "An enthusiastic student belonging to the Community Safety Bureau of Valkyrie Police Academy.<br>Looking up to the police officers who maintain law and order in the city, Kirino enrolled in the Valkyrie Police Academy, but was placed in the Community Safety Bureau due to her fatally poor shooting skills.<br>Nevertheless, she doesn't give up on her dream, and strives everyday to become a police officer who can skilfully suppress criminals.",
+      "ProfileIntroductionEn": "An enthusiastic student belonging to the Community Safety Bureau of Valkyrie Police Academy.\n\nLooking up to the police officers who maintain law and order in the city, Kirino enrolled in the Valkyrie Police Academy, but was placed in the Community Safety Bureau due to her fatally poor shooting skills.\nNevertheless, she doesn't give up on her dream, and strives everyday to become a police officer who can skilfully suppress criminals.",
       "HobbiesEn": "Eating on the go",
-      "Illust": "日下雲",
-      "VoiceEn": "Yui Nakajima",
+      "Illust": "日下雲 (''Kusaka Kumo'')",
+      "VoiceEn": "Nakajima Yui",
       "ReleaseDateJp": "2021/08/26"
     },
     {
@@ -821,9 +821,9 @@
       "CharacterId": 20009,
       "FamilyNameEn": "Renkawa",
       "PersonalNameEn": "Cherino (Hot Spring)",
-      "ProfileIntroductionEn": "Student council president of Red Winter Federal Academy, Cherino is enjoying the No. 227 Hot Spring Resort. <br>Initially unhappy with the spa resort being built without her permission, she came to the village with the idea that it must be removed and purged. However, upon arrival, Cherino is turned around by Nodoka and her friends and enjoys the hot spring resort to the fullest. Although she was satisfied with the resort building and the food provided, she apparently did not like the hot springs themselves that much.",
+      "ProfileIntroductionEn": "Student council president of Red Winter Federal Academy, Cherino is enjoying the No. 227 Hot Spring Resort.\n\nInitially unhappy with the spa resort being built without her permission, she came to the village with the idea that it must be removed and purged. However, upon arrival, Cherino is turned around by Nodoka and her friends and enjoys the hot spring resort to the fullest. Although she was satisfied with the resort building and the food provided, she apparently did not like the hot springs themselves that much.",
       "HobbiesEn": "Purges, snowball fights",
-      "Illust": "Hwansang",
+      "-Illust": "Hwansang",
       "VoiceEn": "Sakura Tange",
       "ReleaseDateJp": "2021/11/30"
     },
@@ -831,10 +831,10 @@
       "CharacterId": 20010,
       "FamilyNameEn": "Amami",
       "PersonalNameEn": "Nodoka (Hot Spring)",
-      "ProfileIntroductionEn": "Nodoka is a student of Red Winter Federal Academy that was suspended from school and confined to Class No. 227 in the old school building, but somehow became the proprietress of \"No. 227 Hot Spring Resort\".<br>Newfound hot spring at the old school building has brought in unexpected wealth, however, her troubles seem to have only just begun as other students start to frequent the place, or interfere with business for various reasons.",
+      "ProfileIntroductionEn": "Nodoka is a student of Red Winter Federal Academy that was suspended from school and confined to Class No. 227 in the old school building, but somehow became the proprietress of \"No. 227 Hot Spring Resort\".\n\nNewfound hot spring at the old school building has brought in unexpected wealth, however, her troubles seem to have only just begun as other students start to frequent the place, or interfere with business for various reasons.",
       "HobbiesEn": "Astronomy",
       "Illust": "9ml",
-      "VoiceEn": "Satomi Satou",
+      "VoiceEn": "Satou Satomi",
       "ReleaseDateJp": "2021/12/15"
     },
     {
