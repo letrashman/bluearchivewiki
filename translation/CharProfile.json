@@ -1054,8 +1054,42 @@
       "VoiceEn": "Hanazawa Kana",
       "-Illust": "",
       "ReleaseDateJp": "2022/06/08"
+    },
+
+    {
+      "CharacterId": 10043,
+      "FamilyNameEn": "Kosaka",
+      "PersonalNameEn": "Wakamo (Swimsuit)",
+      "ProfileIntroductionEn": "Formerly from Hyakkiyako Alliance Academy and one of the \"Seven Prisoners\", Wakamo blooms ever more brilliantly in the summer.\n\nShe visits the seaside in a bathing suit just to show herself off to the teacher. She smiles brightly because she just met her teacher. No matter how hot the summer sun is, she attacks her teacher with a passionate approach that is second to none. She is the summer version of a girl who is still more in love than anyone else.",
+      "HobbiesEn": "Destruction, pillaging",
+      "-Illust": "NAMYO",
+      "VoiceEn": "Chiwa Saito",
+      "ReleaseDateJp": "2022/06/22"
+    },
+    
+    {
+      "CharacterId": 10044,
+      "FamilyNameEn": "Izayoi",
+      "PersonalNameEn": "Nonomi (Swimsuit)",
+      "ProfileIntroductionEn": "A member of the Countermeasure Council of Abydos, Nonomi seems to have a lot of fun after arriving to the seaside.\n\nEven at the resort, she continues to kindly look out for her friends. As an aside, she seems to have bought more than usual because she was so excited about this trip.",
+      "HobbiesEn": "Shopping",
+      "-Illust": "9ml",
+      "VoiceEn": "Miura Chiyuki",
+      "ReleaseDateJp": "2022/06/22"
+    },
+
+    {
+      "CharacterId": 26007,
+      "IsLimited": true,
+      "FamilyNameEn": "Okusora",
+      "PersonalNameEn": "Ayane (Swimsuit)",
+      "ProfileIntroductionEn": "The treasurer of the Countermeasure Council of Abydos High School, Ayane has come to the summer seaside.\n\nAlthough she intended to forget  the usual duties and enjoy herself for a while..., Ayane quickly fell back to her usual seriousness.",
+      "HobbiesEn": "Keeping the accounts, collecting antiques",
+      "-Illust": "Hwansang",
+      "VoiceEn": "Harada Sayaka",
+      "ReleaseDateJp": "2022/06/22"
     }
-    
-    
+
+
   ]
 }

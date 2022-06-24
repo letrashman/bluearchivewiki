@@ -2508,8 +2508,82 @@
             "GroupId": "CH0104ExtraPassive01",
             "NameEn": "I'm used to pain",
             "DescriptionEn": "Increase Evasion by $2 when HP is below $1."
+        },
+        {
+            "GroupId": "CH0175Ex01",
+            "NameEn": "Jade Flower Divination",
+            "DescriptionEn": "Deal $1 damage to one enemy.<br>Each intermediate attack Stuns target for $2, the last attack Stuns target for $3."
+        },
+        {
+            "GroupId": "CH0175Public01",
+            "NameEn": "Just for you",
+            "DescriptionEn": "Every $1, increase Attack power while also increasing damage taken. Triggers up to 3 times.<br>Attack increase is $2.<br>Damage taken increase is $3."
+        },
+        {
+            "GroupId": "CH0175Passive01",
+            "NameEn": "Overflowing love",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "CH0175WeaponPassive01",
+            "NameEn": "Overflowing love +",
+            "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
+        },
+        {
+            "GroupId": "CH0175ExtraPassive01",
+            "NameEn": "Midsummer passion",
+            "DescriptionEn": "When attacking enemies with less than $1 HP, deal additional damage of $2 Attack to them."
+        },
+        {
+            "GroupId": "CH0176Ex01",
+            "NameEn": "Nimbostratus, attacking!",
+            "DescriptionEn": "Ayane enters the battlefield aboard the Nimbostratus.<br>Its Attack is increased by $1 and Critical Rate is increased by $2 of Ayane's. (Duration:$3)<br>Every $4, The Nimbostratus will activate its \"Rainstorm Missile\" skill, dealing $5 damage to one enemy. (This attack ignores $6 of the enemy Defense)<br>(Only one tactical support vehicle can be fielded at any given time)"
+        },
+        {
+            "GroupId": "CH0176Public01",
+            "NameEn": "Support from the sky",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy. (This attack ignores $3 of the enemy Defense)"
+        },
+        {
+            "GroupId": "CH0176Passive01",
+            "NameEn": "Automatic targeting",
+            "DescriptionEn": "Increase Critical Rate by $1."
+        },
+        {
+            "GroupId": "CH0176WeaponPassive01",
+            "NameEn": "Automatic targeting +",
+            "DescriptionEn": "Increase Critical Rate by $1. Further increase Critical Rate by $2."
+        },
+        {
+            "GroupId": "CH0176ExtraPassive01",
+            "NameEn": "Understanding the battlefield",
+            "DescriptionEn": "Increase Critical Damage of all allies by $1."
+        },
+        {
+            "GroupId": "CH0092Ex01",
+            "NameEn": "Stay cool ♧",
+            "DescriptionEn": "Deal $1 damage to one enemy.\n\nIgnore delay within normal attacks $3 until $2 bullets is consumed.\n\nReload immediately after skill activation."
+        },
+        {
+            "GroupId": "CH0092Public01",
+            "NameEn": "Have fun with everyone!",
+            "DescriptionEn": "Every $1, increases the Attack Speed of allies within a circular area by $2 for $3."
+        },
+        {
+            "GroupId": "CH0092Passive01",
+            "NameEn": "I can't wait ♧",
+            "DescriptionEn": "Increase Attack Speed by $1."
+        },
+        {
+            "GroupId": "CH0092WeaponPassive01",
+            "NameEn": "I can't wait ♧ +",
+            "DescriptionEn": "Increase Defense Penetration by $1. Increase Attack Speed by $2."
+        },
+        {
+            "GroupId": "CH0092ExtraPassive01",
+            "NameEn": "It's cold~!",
+            "DescriptionEn": "When EX skill is active, normal attacks deal additional damage of $1 Attack."
         }
-        
 
 
         

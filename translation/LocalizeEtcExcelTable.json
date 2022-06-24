@@ -2308,6 +2308,13 @@
             "DescriptionJp": "先生が持っているカードのポイント、通称「クレジット」。クレジットポイントは特定の状況で、現金のように自由に使える。",
             "NameEn": "Credits",
             "DescriptionEn": "Basic ingame currency."
+        },
+                {
+            "Id": 2333680348,
+            "NameJp": "資材ボックス",
+            "NameEn": "Material box",
+            "DescriptionJp": "捨てられたリゾートのあちこちに廃棄された資材ボックス。\n長く放置されていたようで、中に何が入っているのかは分からない。",
+            "DescriptionEn": "Material boxes like this have been left around the abandoned resort.\nIt has been left unattended for a long time, and we don't know what's inside."
         }
 
     ]

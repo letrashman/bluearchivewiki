@@ -481,7 +481,7 @@
     },
     {
       "Name": "15-3H",
-      "Description": null
+      "Description": "Team A starts at top, Team B starts at middle, Team C (main team) starts at bottom\n\n\nTeam A takes teleporter (3). Team B moves right, defeats enemy. Team C takes teleporter (1).\n\nTeam B goes right. Team A swaps with B and goes right. Team C swaps with A and goes right.\n\nTeam A moves down onto cracked tile. Team B takes teleporter (3), and takes teleporter (2). Team C moves right, defeats enemy.\n\nTeam B moves right, defeats enemy. Team C moves down. Team A ends turn on cracked tile (no movement).\n\nTeam B moves up, defeats enemy. Team A moves down, collects gift. Team C defeats boss."
     },
     {
       "Name": "16-1",
@@ -505,15 +505,15 @@
     },
     {
       "Name": "16-1H",
-      "Description": null
+      "Description": "yellow team right (main), blue team top.\n\n\nTurn 1, yellow team goes left, blue team goes down.\n\nTurn 2, yellow team goes left, blue team goes down.\n\nTurn 3, yellow team goes down and attacks, blue team goes down.\n\nTurn 4, yellow team goes left, blue team goes right.\n\nTurn 5, yellow team goes up, blue team goes down to grabs gift."
     },
     {
       "Name": "16-2H",
-      "Description": null
+      "Description": "blue team bottom, yellow team top (main).\n\n\nTurn 1, blue team goes up, yellow team goes left.\n\nTurn 2, blue team goes up and attacks, yellow team swap with blue team and goes left.\n\nTurn 3, yellow team goes down and attack, blue team goes down.\n\nTurn 4, blue team goes down to grabs gift, yellow team attack boss."
     },
     {
       "Name": "16-3H",
-      "Description": null
+      "Description": "Team A (yellow) top left, Team B (blue) down left, Team C (yellow) right (main).\n\n\nTurn 1, Team A goes right, Team B goes up, Team C goes left.\n\nTurn 2, Team B goes up-right and attacks, Team A swaps with Team B, goes right and attacks, Team C goes up-left to cracked tile.\n\nTurn 3, Team A goes down and grabs gift, Team B goes down and attacks, Team C swaps with Team A and goes down to attack.\n\nTurn 4, Team A goes up-left and attacks, Team C goes down and attacks boss."
     },
     {
       "Name": "17-1",

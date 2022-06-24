@@ -787,6 +787,27 @@
             "NameEN": "Scorpius",
             "DescriptionJP": "アツコが使用するサブマシンガン。\n\n短い銃身の割に激しい火力を持ち、特に近距離での戦闘に適している。",
             "DescriptionEN": "A submachine gun used by Atsuko.\n\nIt has a heavy firepower for its short barrel, and is especially suited for close quarters combat."
+        },
+        {
+            "Id": 10043,
+            "NameJP": "真紅の災厄",
+            "NameEN": "Crimson Calamity",
+            "DescriptionJP": "ワカモが愛用するライフル。\n\n夏を迎え浮足立ったワカモの気分のように、その銃口は邪魔者すべてに向けて灼熱の如く激しい真紅の火花を放つ。",
+            "DescriptionEN": "Wakamo's favorite rifle.\n\nLike Wakamo's buoyant mood with the arrival of summer, rifle's muzzle blooms scorching crimson sparks against all who stand in its way."
+        },
+        {
+            "Id": 10044,
+            "NameJP": "リトルマシンガンⅤ",
+            "NameEN": "Little Machine Gun V",
+            "DescriptionJP": "真夏でもノノミを守るマシンガン。\n\n爽やかに吐き出される弾丸は暑さをも吹き飛ばす。",
+            "DescriptionEN": "Machine gun that protects Nonomi even in midsummer.\n\nThe bullets it spits out refreshingly blow away the heat."
+        },
+        {
+            "Id": 26007,
+            "NameJP": "コモンセンス",
+            "NameEN": "Common Sense",
+            "DescriptionJP": "使われないことを願うばかりのアヤネの銃。\n\nしかし、その願望は毎度思わぬ形で破られる。",
+            "DescriptionEN": "Ayane's gun, which she hopes will never be used.\n\nHowever, that wish is always dashed in unexpected ways."
         }
 
     ]
