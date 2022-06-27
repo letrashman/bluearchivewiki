@@ -38,7 +38,7 @@
 
 =How to Obtain=
 {% if character.is_limited == False %}*Regular Gacha pool
-{% endif -%}{% raw %}{{CharacterBanners}}{% endraw %}
+{% endif -%}{% raw %}{{CharacterBanners}}{% endraw %}{{CharacterMissionRewards}}
 
 =Character Details=
 {% raw %}{{{% endraw %}CharacterStatTable
