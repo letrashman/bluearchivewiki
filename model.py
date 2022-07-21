@@ -5,7 +5,7 @@ import re
 
 
 class Character(object):
-    def __init__(self, id, name, dev_name, portrait, name_en, family_name_en, rarity, school, club, role, position, damage_type, armor_type, combat_class, equipment, weapon_type, uses_cover, profile, normal_skill, ex_skill, passive_skill, passive_weapon_skill, sub_skill, stats, weapon, favor, memory_lobby, momotalk, liked_gift_tags, is_limited):
+    def __init__(self, id, name, dev_name, portrait, name_en, family_name_en, rarity, school, club, role, position, damage_type, armor_type, combat_class, equipment, weapon_type, uses_cover, profile, normal_skill, normal_gear_skill, ex_skill, passive_skill, passive_weapon_skill, sub_skill, stats, weapon, gear, favor, memory_lobby, momotalk, liked_gift_tags, is_limited):
         self.id = id
         self.name = name
         self.rarity = rarity
@@ -21,12 +21,14 @@ class Character(object):
         self._uses_cover = uses_cover
         self.profile = profile
         self.normal_skill = normal_skill
+        self.normal_gear_skill = normal_gear_skill
         self.ex_skill = ex_skill
         self.passive_skill = passive_skill
         self.passive_weapon_skill = passive_weapon_skill
         self.sub_skill = sub_skill
         self.stats = stats
         self.weapon = weapon
+        self.gear = gear
         self.favor = favor
         self.memory_lobby = memory_lobby
         self.momotalk = momotalk
@@ -144,13 +146,15 @@ class Character(object):
             character['WeaponType'],
             character_ai['CanUseObstacleOfKneelMotion'] or character_ai['CanUseObstacleOfStandMotion'],
             Profile.from_data(character_id, data),
-            Skill.from_data(data.characters_skills[(character_id, 0, False)]['PublicSkillGroupId'][0], data),
-            Skill.from_data(data.characters_skills[(character_id, 0, False)]['ExSkillGroupId'][0], data, 5),
-            Skill.from_data(data.characters_skills[(character_id, 0, False)]['PassiveSkillGroupId'][0], data),
-            Skill.from_data(data.characters_skills[(character_id, 2, False)]['PassiveSkillGroupId'][0], data),
-            Skill.from_data(data.characters_skills[(character_id, 0, False)]['ExtraPassiveSkillGroupId'][0], data),
+            Skill.from_data(data.characters_skills[(character_id, 0, 0, False)]['PublicSkillGroupId'][0], data),
+            (character_id, 0, 2, False) in data.characters_skills and Skill.from_data(data.characters_skills[(character_id, 0, 2, False)]['PublicSkillGroupId'][0], data) or None,
+            Skill.from_data(data.characters_skills[(character_id, 0, 0, False)]['ExSkillGroupId'][0], data, 5),
+            Skill.from_data(data.characters_skills[(character_id, 0, 0, False)]['PassiveSkillGroupId'][0], data),
+            Skill.from_data(data.characters_skills[(character_id, 2, 0, False)]['PassiveSkillGroupId'][0], data),
+            Skill.from_data(data.characters_skills[(character_id, 0, 0, False)]['ExtraPassiveSkillGroupId'][0], data),
             Stats.from_data(character_id, data),
             Weapon.from_data(character_id, data),
+            (character_id, 1) in data.gear and Gear.from_data(character_id, data) or None,
             Favor.from_data(character_id, data),
             MemoryLobby.from_data(character_id, data),
             Momotalk.from_data(character_id, data),
@@ -460,7 +464,7 @@ class Weapon(object):
 
 
 
-        weapon_passive_skill = Skill.from_data(data.characters_skills[(character_id, 2, False)]['PassiveSkillGroupId'][0], data)
+        weapon_passive_skill = Skill.from_data(data.characters_skills[(character_id, 2, 0, False)]['PassiveSkillGroupId'][0], data)
 
         #print (passive_skill.name_translated)
         #try: data.translated_skills[group[0]['GroupId']]['NameEn']
@@ -469,7 +473,7 @@ class Weapon(object):
         #else:  
         #    skill_name_en = data.characters_skills[(character_id, False)]['PassiveSkillGroupId'][0] #data.translated_skills[group[0]['GroupId']]['NameEn']
 
-        rank2_desc = f'Passive Skill changes to "{weapon_passive_skill.name_translated}"'
+        rank2_desc = f'Passive Skill changes to <b>{weapon_passive_skill.name_translated}</b>'
 
                 
         def affinity_type(affinity_change_type):
@@ -506,6 +510,41 @@ class Weapon(object):
             rank2_desc,
             rank3_desc
         )
+
+
+class Gear(object):
+    def __init__(self, name_en, name_jp, desc_en, desc_jp, icon, tier1_desc, tier2_desc, levels):
+        self.name_en = name_en
+        self.name_jp = name_jp
+        self.desc_en = desc_en
+        self.desc_jp = desc_jp
+        self.icon = icon
+        self.tier1_desc = tier1_desc
+        self.tier2_desc = tier2_desc
+        self.levels = levels
+
+    @classmethod
+    def from_data(cls, character_id, data):
+        levels = {}
+
+        for gear in data.gear:
+            if gear[0] == character_id:
+                levels[gear[1]] = {'stat_type':replace_statnames(data.gear[(character_id , gear[1])]['StatType']), 'stat_value':data.gear[(character_id , gear[1])]['MaxStatValue']}
+
+
+        tier1_desc = "Increase " + levels[1]['stat_type'][0] + " by {{SkillValue|" + str(levels[1]['stat_value']) + "}}"
+        tier2_desc = 'Normal Skill changes to '
+
+        return cls(
+            'NameEn' in data.etc_localization[data.gear[(character_id , 1)]["LocalizeEtcId"]] and data.etc_localization[data.gear[(character_id , 1)]["LocalizeEtcId"]]['NameEn'] or None,
+            data.etc_localization[data.gear[(character_id , 1)]["LocalizeEtcId"]]['NameJp'],
+            'DescriptionEn' in data.etc_localization[data.gear[(character_id , 1)]["LocalizeEtcId"]] and '<p>' + data.etc_localization[data.gear[(character_id , 1)]["LocalizeEtcId"]]['DescriptionEn'].replace("\n\n",'</p><p>').replace("\n",'<br>') + '</p>' or None,
+            '<p>' + data.etc_localization[data.gear[(character_id , 1)]["LocalizeEtcId"]]['DescriptionJp'].replace("\n\n",'</p><p>').replace("\n",'<br>') + '</p>',
+            data.gear[(character_id , 1)]['Icon'].rsplit('/', 1)[-1],
+            tier1_desc,
+            tier2_desc,
+            levels
+        )
         
 
 class Favor(object):
@@ -515,20 +554,6 @@ class Favor(object):
     @classmethod
     def from_data(cls, character_id, data):
         levels = {}
-
-        def replace_statnames(stat_list):
-            list_out = []
-            
-            for item in stat_list:
-                item = re.sub('_Base', '', item)
-                item = re.sub('Power', '', item)
-                item = re.sub('Max', '', item)
-                item = re.sub('Heal', 'Healing', item)
-
-                list_out.append(item)     
-            #return([re.sub('_Base', '', item) for item in stat_list])
-            return (list_out)
-
 
         for favor_level in data.favor_levels:
             if favor_level[0] == character_id:
@@ -579,3 +604,23 @@ class Momotalk(object):
         return cls(
             levels
         )
+
+
+def replace_statnames(stat_list):
+            list_out = []
+            if type(stat_list) == str: stat_list = [stat_list] 
+            
+            for item in stat_list:
+                item = re.sub('_Base', '', item)
+                item = re.sub('Power', '', item)
+                item = re.sub('Max', '', item)
+                item = re.sub('Point', '', item)
+                item = re.sub('Rate', '', item)
+                item = re.sub('Normal', '', item)
+                item = re.sub('Heal', 'Healing', item)
+                item = re.sub('Speed', ' Speed', item)
+                item = re.sub('Damage', ' Damage', item)
+
+                list_out.append(item)     
+            #return([re.sub('_Base', '', item) for item in stat_list])
+            return (list_out)

@@ -6,7 +6,7 @@ BlueArchiveData = collections.namedtuple(
     'BlueArchiveData',
     ['characters', 'characters_ai', 'characters_localization', 'characters_skills', 'characters_stats', 'characters_cafe_tags', 
     'skills', 'skills_localization','translated_characters','translated_skills',
-    'weapons', 'translated_weapons',
+    'weapons', 'translated_weapons', 'gear',
     'currencies','translated_currencies',
     'items', #'translated_items',
     'recipes', 'recipes_ingredients', 
@@ -29,6 +29,7 @@ def load_data(path_primary, path_secondary, path_translation):
         translated_skills =  load_skills_translation(path_translation),
         weapons = load_weapons(path_primary),
         translated_weapons = load_weapons_translation(path_translation),
+        gear = load_gear(path_primary),
         currencies=load_currencies(path_primary),
         translated_currencies=load_currencies_translation(path_translation),
         items=load_items(path_primary),
@@ -59,7 +60,7 @@ def load_characters_skills(path):
         data = json.load(f)
 
     return {
-        (character_skill['CharacterId'], character_skill['MinimumGradeCharacterWeapon'], character_skill['IsFormConversion']): character_skill
+        (character_skill['CharacterId'], character_skill['MinimumGradeCharacterWeapon'], character_skill["MinimumTierCharacterGear"], character_skill['IsFormConversion']): character_skill
         for character_skill
         in data['DataList']
     }
@@ -103,6 +104,17 @@ def load_weapons(path):
 
 def load_weapons_translation(path):
     return load_file(os.path.join(path, 'Weapons.json'), key='Id')
+
+def load_gear(path):
+    with open(os.path.join(path, 'Excel', 'CharacterGearExcelTable.json')) as f:
+        data = json.load(f)
+        f.close()
+
+    return {
+        (gear['CharacterId'], gear['Tier']): gear
+        for gear
+        in data['DataList']
+    }
 
 def load_favor_levels(path):
     with open(os.path.join(path, 'Excel', 'FavorLevelRewardExcelTable.json')) as f:

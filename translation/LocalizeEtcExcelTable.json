@@ -1224,7 +1224,7 @@
         {
             "Id": 3459590836,
             "NameJp": "伝統的な畳の床",
-            "NameEn": "Traditional Ttatami Floor",
+            "NameEn": "Traditional Tatami Floor",
             "DescriptionJp": "伝統的な方式で作られた畳の床。火照った身体を投げ出してみると、ちょっと涼し気な感じがする。",
             "DescriptionEn": "Tatami floor made in the traditional way. Feels cool to the touch when you are resting on it."
         },
@@ -2309,12 +2309,367 @@
             "NameEn": "Credits",
             "DescriptionEn": "Basic ingame currency."
         },
-                {
+        {
             "Id": 2333680348,
             "NameJp": "資材ボックス",
             "NameEn": "Material box",
             "DescriptionJp": "捨てられたリゾートのあちこちに廃棄された資材ボックス。\n長く放置されていたようで、中に何が入っているのかは分からない。",
             "DescriptionEn": "Material boxes like this have been left around the abandoned resort.\nIt has been left unattended for a long time, and we don't know what's inside."
+        },
+        {
+            "Id": 2319299758,
+            "NameJp": "アルのすごく貴重な財布",
+            "NameEn": "Aru's treasured wallet",
+            "DescriptionJp": "アルが愛用する高級財布。\n質の良い素材で作られた高級品だが、長く使用したせいで色があせ、あちこちにキズがついている。初めて便利屋を立ち上げた後、ハルカ、カヨコ、ムツキが一緒にお金を集めてプレゼントしてくれたもので、アルにとってはかけがえのない大切なものである。",
+            "DescriptionEn": "A luxury wallet that Aru loves.\nIt's a luxury item made of high quality materials, but it has faded and scratched here and there due to long use. Haruka, Kayoko, and Mutsuki pooled money together and presented this wallet as a gift to commemorate the beginnings of Handyman 68, which makes it an irreplaceable treasured posession for Aru."
+        },
+        {
+            "Id": 1197583309,
+            "NameJp": "ツルギの特別ボックス",
+            "NameEn": "Tsurugi's special box",
+            "DescriptionJp": "ツルギの部屋の奥深くに隠されている特別なボックス。\nブロマイドや本、映画表などジャンルを選ばず、様々な種類のグッズが積み重ねられている。ほこり一つなくきれいに整頓されたグッズの状態だけでも、ツルギの細やかさを垣間見ることができる。",
+            "DescriptionEn": "A special box that is kept well-hidden in Tsurugi's room.\nContains a wide variety of goods stacked on top of each other, including bromides, books, movie charts, and many other things. The dust-free and neat condition of the things offers a glimpse of Tsurugi's meticulous attention to detail."
+        },
+        {
+            "Id": 1059841421,
+            "NameJp": "シュンの子供時代の思い出",
+            "NameEn": "Shun's childhood memories",
+            "DescriptionJp": "シュンが大好きな一対のヘアピン。\nツインテールをすることが少なくなりほとんど使わなくなってしまったが、シュンにとっては時が経っても変わらない大切な思い出の一部である。",
+            "DescriptionEn": "A pair of hairpins that Shun treasures.\nShe doesn't wear twintails, so they don't get much use anymore, but they are a memento of Shun's precious memories of the past."
+        },
+        {
+            "Id": 242283010,
+            "NameJp": "ウサギ尻尾の手榴弾",
+            "NameEn": "Bunny Tail Grenade",
+            "DescriptionJp": "アスナがバニーガールの服装をするときに身につけるウサギの尾のような手榴弾。\nふわふわな毛で覆われて一見無害に見えるが、他の手榴弾と同様に脅威的な破壊力を持っている。",
+            "DescriptionEn": "A grenade shaped like the tail of a rabbit that Asuna wears when dressed as a bunny girl.\nCovered with fluffy fur, it looks harmless at first glance, but has the same destructive power as any other grenade would."
+        },
+        {
+            "Id": 163861415,
+            "NameJp": "ユウカの関数電卓",
+            "NameEn": "Yuuka's scientific calculator",
+            "DescriptionJp": "ユウカが肌身離さず持ち歩いている関数電卓。\n優れた暗算実力を保有しているにもかかわらず、ユウカはいつも完璧を追求するために検算用の計算機を使用している。",
+            "DescriptionEn": "A scientific calculator that Yuuka usually has with her.\nDespite having excellent mental arithmetic ability, Yuuka always uses a calculator to double-check that the results are precise."
+        },
+        {
+            "Id": 2059299965,
+            "NameJp": "アテナ3号",
+            "NameEn": "Athena-3",
+            "DescriptionJp": "いつもハレの周りを動き回る球形ドローン。\n知恵の女神から取ったその名前通り、自ら経験して学習できる人工知能が搭載されているが、しばしば主人であるハレの意図とは真逆に働き、彼女の期待を裏切ったりする。",
+            "DescriptionEn": "A spherical drone that always hovers around Hare.\nNamed after the Goddess of Wisdom, the drone is equipped with an artificial intelligence that can learn from its own experiences, though it often works in the exact opposite of the intention of its master, to Hare's disappointment."
+        },
+        {
+            "Id": 1777637643,
+            "NameJp": "レースの枕",
+            "NameEn": "Lace Pillow",
+            "DescriptionJp": "豪華な素材で作られたレースの枕。一見シンプルに見えるデザインだが、文字通りそこには少女たちの夢が込められている。",
+            "DescriptionEn": "Lace pillow made of luxury materials. The design looks simple at first glance, but it literally contains the dreams of girls."
+        },
+        {
+            "Id": 2122048137,
+            "NameJp": "ストリートオブヤンキー1巻",
+            "NameEn": "Street of Yankees Volume 1",
+            "DescriptionJp": "「私たちには義理と度胸しかないっ！」のセリフで有名な話題作、ストリートオブヤンキーシリーズ第1巻。外見とは違って、主人公が意外に可愛いという感想と共にシリーズ好評発売中。",
+            "DescriptionEn": "The first volume of the Street of Yankees series, a popular work famous for the \"We have nothing but duty and guts!\" line. You wouldn't think this from the cover, but the series got a lot of favorable reviews, citing primarily that the main character is surprisingly cute."
+        },
+        {
+            "Id": 3996150169,
+            "NameJp": "サミュエラ「ザ・ビヨンド」",
+            "NameEn": "Samuela \"The Beyond\"",
+            "DescriptionJp": "高級化粧品メーカー「サミュエラ」で発売した最高級香水。\n「一度試して、愛らしさをその身につけてみてください」というキャッチフレーズで有名な超超ヒット作で、希代の天才調香師「ザ・ビヨンド」が作ったサミュエラ12傑作の一つである。",
+            "DescriptionEn": "The finest perfume released by the luxury cosmetics manufacturer \"Samuela\".\nIt is a super-hit work famous for the catchphrase \"Try it once and wear its charm\", and it is one of the 12 masterpieces of Samuela made by the rare genius perfumer \"The Beyond\"..."
+        },
+        {
+            "Id": 493877113,
+            "NameJp": "レトロな卵の工芸品",
+            "NameEn": "Retro Jewelled Egg",
+            "DescriptionJp": "卵形のボディの上に美しい宝石と幾何学的な柄が細工されている工芸品。もちろん温めてもひよこは​​生まれない。",
+            "DescriptionEn": "A jewelled egg with beautiful jewels and geometric patterns on an oval body. Of course, even if you kept it warm, no chick will ever hatch."
+        },
+        {
+            "Id": 2812198344,
+            "NameJp": "ミルフィーユの正統派パフェ",
+            "NameEn": "Mille-Feuille Traditional Parfait",
+            "DescriptionJp": "トリニティの有名菓子店カフェ・ミルフィーユで売っているパフェ。柔らかいアイスクリームの上に積み重なったお菓子とシロップ、生クリーム、そして果物のハーモニーはまさに正統派！",
+            "DescriptionEn": "A parfait sold at the famous confectionery shop Cafe Mille-Feuille in Trinity. The harmony of pastry, syrup, whipped cream, and fruits piled on top of soft ice cream is truly historic!"
+        },
+        {
+            "Id": 610304186,
+            "NameJp": "エイ～ブックレア",
+            "NameEn": "I-book Rare",
+            "DescriptionJp": "「キヴォトス中の生徒が最も欲しい電子機器TOP3」に入る有名ノートパソコン。かなりの高級品。欲しい！でもやっぱ高い！",
+            "DescriptionEn": "A famous laptop computer featured on the \"Top 3 Electronic Devices Most Wanted by Students in Kivotos\". Quite a luxury item. Everyone wants it! But it is so expensive!"
+        },
+        {
+            "Id": 991149378,
+            "NameJp": "おしゃれなくし",
+            "NameEn": "Stylish Comb",
+            "DescriptionJp": "高級感のあるおしゃれなデザインの携帯用くし。プレゼントとして人気が高い。",
+            "DescriptionEn": "A compact comb with a luxurious and fashionable design. Popular as a gift."
+        },
+        {
+            "Id": 18654891,
+            "NameJp": "栄養満載の総合ビタミンゼリー",
+            "NameEn": "Nutrient-rich Multivitamin Jellies",
+            "DescriptionJp": "総合的にビタミンが含まれている栄養ゼリー。様々な果物味のゼリーが入っていて食べる楽しみがある。どんどん食べて、気づいた時には空にならないように注意すべし！",
+            "DescriptionEn": "Gummy candy that is enriched with vitamins. Contains an assortment of fruit-flavored jellies and is fun to eat. Be careful you don't eat the whole pack before even noticing it!"
+        },
+        {
+            "Id": 442885187,
+            "NameJp": "最高級の楓の盆栽",
+            "NameEn": "Fine Maple Bonsai",
+            "DescriptionJp": "見ているだけでも心が落ち着く最高級の楓の盆栽。四季に応じて服を着替えるように変化する変幻自在の葉の姿が、風流な気分を漂わせる。",
+            "DescriptionEn": "Just looking at this top-quality maple bonsai is calming. The ever-changing leaves, shifting with the seasons as if they were changing clothes, create an air of elegance."
+        },
+        {
+            "Id": 897935320,
+            "NameJp": "裁縫キット",
+            "NameEn": "Sewing Kit",
+            "DescriptionJp": "あらゆる状況に対応するべく必要な道具を選別した上級者向け裁縫キット。これさえあれば服が破れたり、靴下に穴が開いても、問題なし！",
+            "DescriptionEn": "An expert's sewing kit with a selection of necessary tools for all kinds of situations. With this, if your clothes get ripped or your socks get holes, no problem!"
+        },
+        {
+            "Id": 175940735,
+            "NameJp": "音楽演奏会入場券",
+            "NameEn": "Music Concert Ticket",
+            "DescriptionJp": "キヴォトスで定期的に開催される演奏会の入場券。クラシックから最近流行りの曲まで。種類を問わない様々な音楽が好きな人に最適なプレゼント。",
+            "DescriptionEn": "Admission ticket to regularly scheduled concerts in Kivotos. From classical to the latest popular music. The perfect gift for anyone who loves a variety of music of any kind."
+        },
+        {
+            "Id": 794340686,
+            "NameJp": "1日3回ダンベルセット",
+            "NameEn": "Thrice-a-day Dumbbell Set",
+            "DescriptionJp": "様々な重さのダンベルが複数入っているセット商品。一日三回。朝、昼食、夕方のトレーニングを繰り返して素敵な筋肉を作ろう！",
+            "DescriptionEn": "A set of dumbbells of various weights. Use it three times a day. Build nice muscles by repeating your workout in the morning, at lunch, and in the evening!"
+        },
+        {
+            "Id": 1058688122,
+            "NameJp": "ボードゲーム「ザ・人生」",
+            "NameEn": "\"The Life\" Board Game",
+            "DescriptionJp": "就職したり、宝くじに当選したり、宇宙旅行もできる面白いボードゲーム。毎プレイごとに一歩先も分からないルーレットとサイコロの結果が、まるで人生だという。",
+            "DescriptionEn": "An entertaining board game where you can get a job, win a lottery, and even travel to space. Just like life, every dice roll leaves you just one step short of your goal."
+        },
+        {
+            "Id": 3588838649,
+            "NameJp": "ビーチサイドのホワイトチェア",
+            "NameEn": "Beachside White Chair",
+            "DescriptionJp": "夏の暑さを冷ますホワイトチェア。しばらく座って海の景観を鑑賞してみよう。",
+            "DescriptionEn": "White chairs to cool down the summer heat. Sit for a while and admire the sea view."
+        },
+        {
+            "Id": 1334657209,
+            "NameJp": "ビーチサイドシリーズ",
+            "NameEn": "Beachside Set",
+            "DescriptionJp": "涼しげな海が広がるビーチサイド。さっぱりとしたフルーツとアイスクリームで夏を満喫してください！",
+            "DescriptionEn": "Beachside of the vast cool sea. Enjoy the summer with refreshing fruits and ice cream!"
+        },
+        {
+            "Id": 1814470333,
+            "NameJp": "ビーチサイドシリーズ",
+            "NameEn": "Beachside Furniture"
+        },
+        {
+            "Id": 3397039462,
+            "NameJp": "ビーチサイドのクーリングマット",
+            "NameEn": "Beachside Cooling Mat",
+            "DescriptionJp": "涼しげな色合いが魅力的なクーリングマット。床からの熱気を落ち着かせてくれる、ソフトでひんやりとしたマット。",
+            "DescriptionEn": "Cooling mat in attractive cool colors. Soft and cool mat that keeps away the heat from the ground."
+        },
+        {
+            "Id": 2491732701,
+            "NameJp": "ベーシックホワイトパーテーション",
+            "NameEn": "Basic White Partition",
+            "DescriptionJp": "白の配色が印象的なベーシックなホワイトパーテーション。どこでも効率的に空間を分けることができる。",
+            "DescriptionEn": "A basic partition with an attractive white color scheme. It can efficiently divide space anywhere."
+        },
+        {
+            "Id": 570546005,
+            "NameJp": "原木のホワイトパーテーション",
+            "NameEn": "Log White Partition",
+            "DescriptionJp": "原木仕上げが目立つホワイトパーテーション。スペースを分けて使うのに有用だ。",
+            "DescriptionEn": "White partitions with a distinctive raw wood finish. Useful for separating spaces."
+        },
+        {
+            "Id": 4082006081,
+            "NameJp": "クールドリンク自販機",
+            "NameEn": "Cool Drink Vending Machine",
+            "DescriptionJp": "冷たい飲み物でいっぱいのクールドリンク自販機。夏の熱気をしばらく凌ぐことができる。",
+            "DescriptionEn": "Vending machine filled with cold drinks. You can beat the summer heat for a while."
+        },
+        {
+            "Id": 3849908170,
+            "NameJp": "ビーチサイドのホワイトテーブル",
+            "NameEn": "Beachside White Table",
+            "DescriptionJp": "ビーチサイドのホワイトテーブル。空間に爽やかな印象を与える。",
+            "DescriptionEn": "Beachside white table. Lends a refreshing atmosphere to the space."
+        },
+        {
+            "Id": 2855869096,
+            "NameJp": "原木のテラステーブル",
+            "NameEn": "Wood Terrace Table",
+            "DescriptionJp": "原木のテラステーブル。広い空間に活用するのに有効だ。",
+            "DescriptionEn": "Raw wood terrace table. Effective for utilizing a large space."
+        },
+        {
+            "Id": 892679216,
+            "NameJp": "爽やかなフルーツバー",
+            "NameEn": "Refreshing Fruits Bar",
+            "DescriptionJp": "爽やかなフルーツが用意された原木のテーブル。様々なフルーツで夏の暑さを冷ましてみよう。",
+            "DescriptionEn": "A wooden table with refreshments prepared. Let's cool down the summer heat with a variety of fruits."
+        },
+        {
+            "Id": 295238722,
+            "NameJp": "爽やかなフルーツ壁飾り",
+            "NameEn": "Refreshing Fruit Wall Decoration",
+            "DescriptionJp": "大胆な配色の爽やかなフルーツポスター。どの壁に配置しても見る人の視線を捕らえる。",
+            "DescriptionEn": "A refreshing fruit poster with a bold color scheme. No matter where it is placed on the wall, it captures the viewer's eye."
+        },
+        {
+            "Id": 2570970628,
+            "NameJp": "営業中ののぼり旗",
+            "NameEn": "Business Banner",
+            "DescriptionJp": "営業中を知らせるのぼり旗。これもまた夏の風情を感じさせる。",
+            "DescriptionEn": "A banner to let people know that the store is open for business. Also contributes to the atmosphere of summer."
+        },
+        {
+            "Id": 2575575829,
+            "NameJp": "ビーチサイドのクーリング扇風機",
+            "NameEn": "Beachside Cooling Fan",
+            "DescriptionJp": "ビーチサイドのクーリング扇風機。どこでも涼しい風を感じさせてくれる。",
+            "DescriptionEn": "Beachside cooling fan. You can feel the cool breeze anywhere."
+        },
+        {
+            "Id": 260275561,
+            "NameJp": "ビーチサイドのカラフルライフジャケット",
+            "NameEn": "Beachside Colorful Life Jackets",
+            "DescriptionJp": "どこでも目立つカラフルなライフジャケット。海に遊びに行くなら、必需品だ。",
+            "DescriptionEn": "A rack of brightly colored life jackets. It is a necessity if you are going to play in the ocean."
+        },
+        {
+            "Id": 2956803246,
+            "NameJp": "レモンパラソルホワイトテーブル",
+            "NameEn": "Lemon Parasol White Table",
+            "DescriptionJp": "レモン色のパラソルが印象的なホワイトテーブル。激しい夏の日差しを穏やかな照明に変えてくれる。",
+            "DescriptionEn": "A white table under a large lemon-colored umbrella. It turns the intense summer sunshine into mild lighting."
+        },
+        {
+            "Id": 2202760015,
+            "NameJp": "ビーチサイドの原木の床",
+            "NameEn": "Beachside Wooden Floor",
+            "DescriptionJp": "ビーチサイドにある原木の床。きれいに整列された木目の模様が安定感を与えてくれる。",
+            "DescriptionEn": "Raw wood floors of the beachside house. The nicely aligned grain patterns give a sense of stability."
+        },
+        {
+            "Id": 832214886,
+            "NameJp": "ビーチサイドのホワイトの壁",
+            "NameEn": "Beachside White Wall",
+            "DescriptionJp": "原木のワンポイントが引き立つホワイトの壁。明るい色が空間に活気を吹き込んでくれる。",
+            "DescriptionEn": "The white walls are highlighted with a wooden trim. The bright colors infuse the space with freshness."
+        },
+        {
+            "Id": 2378301844,
+            "NameJp": "ビーチサイドのオーシャンビュー窓",
+            "NameEn": "Beachside Ocean View Windows",
+            "DescriptionJp": "海が広がるオーシャンビューの窓。狭い空間を広く見せてくれる。",
+            "DescriptionEn": "Large window with an ocean views. It makes a small space seem larger."
+        },
+        {
+            "Id": 1707494079,
+            "NameJp": "ビーチサイドの背景",
+            "NameEn": "Beachside Background",
+            "DescriptionJp": "海の涼しさと夏の暑さが感じられるビーチサイドの背景。その涼しさに飛び込みたくなる。",
+            "DescriptionEn": "A beachside backdrop that brings the coolness of the ocean into the heat of summer. It makes you want to dive into that cool ocean."
+        },
+        {
+            "Id": 428856018,
+            "NameJp": "チル&クールアイスクリーム冷蔵庫",
+            "NameEn": "Chill & Cool Ice Cream Refrigerator",
+            "DescriptionJp": "爽やかなアイスクリームがいっぱいのアイスクリーム用冷蔵庫。一度にたくさん食べたらお腹をこわすかも……？",
+            "DescriptionEn": "An ice cream refrigerator full of refreshing ice cream. If you eat a lot at once, you may get sick...?"
+        },
+        {
+            "Id": 2761713126,
+            "NameJp": "カラフルドリンクバー",
+            "NameEn": "Colorful Drink Bar",
+            "DescriptionJp": "多彩なフルーツが備わったカラフルドリンクバー。たくさんの味にわくわくする。",
+            "DescriptionEn": "Colorful bar stocked with a variety of drinks. Exciting to see so many flavors."
+        },
+        {
+            "Id": 3944148940,
+            "NameJp": "甘くて涼しいかき氷バー",
+            "NameEn": "Sweet and Cool Shaved Ice Bar",
+            "DescriptionJp": "いつでもおいしいかき氷が作れるかき氷テーブル。夏の暑さもかき氷1口で消し飛ぶだろう。",
+            "DescriptionEn": "A machine that makes delicious shaved ice anytime you want some. The summer heat will disappear with just one bite of shaved ice."
+        },
+        {
+            "Id": 2324881054,
+            "NameJp": "ビーチサイドのオーシャンビューテラス",
+            "NameEn": "Beachside Ocean View Terrace",
+            "DescriptionJp": "広々とした海が広がるオーシャンビューテラス。真夏の爽やかな海の香りをもたらしてくれる。",
+            "DescriptionEn": "A terrace with expansive ocean views. It brings the fresh scent of the ocean in midsummer."
+        },
+        {
+            "Id": 4139475234,
+            "NameJp": "ビーチサイドのふわふわ浮き輪",
+            "NameEn": "Beachside Inflatable Floats",
+            "DescriptionJp": "可愛らしいふわふわ浮き輪。迷いなく海に飛び込ませてくれる。",
+            "DescriptionEn": "Cute inflatable floats. They let you jump into the sea without hesitation."
+        },
+        {
+            "Id": 81420889,
+            "NameJp": "ホログラム·キューブ·ターンテーブル",
+            "NameEn": "Hologram·Cube·Turntable",
+            "DescriptionJp": "最先端技術が集約されたターンテーブル。音楽に合わせて動くホログラムでリズムを感じてみよう！",
+            "DescriptionEn": "A turntable that integrates state-of-the-art technology. Feel the rhythm of the holograms moving to the music!"
+        },
+        {
+            "Id": 3987418957,
+            "NameJp": "指名手配コイン",
+            "NameEn": "Wanted Coin",
+            "DescriptionJp": "指名手配ショップで利用可能なコイン。",
+            "DescriptionEn": "Coins used at wanted shops."
+        },
+        {
+            "Id": 1459837138,
+            "NameJp": "百夜堂キラキラコイン",
+            "NameEn": "Momoyodou Glitter Coin",
+            "DescriptionJp": "百夜堂の海の家でお土産に交換可能なコイン。ただ、お客さんのほとんどはコイン自体をお土産として考えているようだ。",
+            "DescriptionEn": "Coins that can be exchanged for souvenirs at the Momoyodou beach house. However, most of the customers seem to consider the coins themselves to be souvenirs."
+        },
+        {
+            "Id": 2503861371,
+            "NameJp": "ツルツルサザエ",
+            "NameEn": "Turban Shell",
+            "DescriptionJp": "表地が滑らかでツルツルしたサザエ。チセが言うには耳に近づけて音を聞いていると、自然に俳句が浮かぶという。",
+            "DescriptionEn": "The surface of the turban shell is smooth and slippery. Chise says that when you hold it close to your ear and listen to the sound, a haiku naturally comes to mind."
+        },
+        {
+            "Id": 3295998236,
+            "NameJp": "夏用忍法図鑑巻物",
+            "NameEn": "Summer Ninjutsu Instructions Scroll",
+            "DescriptionJp": "夏に合わせて使える様々な忍法（創作）が書かれている巻物。主に夏に起こり得る事故に関する内容が多い。忍者にも安全が一番！",
+            "DescriptionEn": "This scroll contains various ninja techniques (theoretical) that can be used in summertime. The contents are mainly related to accidents that can occur during the summer. Safety is paramount, even for ninjas!"
+        },
+        {
+            "Id": 4253247347,
+            "NameJp": "深海温泉島リゾート使用権",
+            "NameEn": "Deep Sea Hot Spring Island Resort use rights",
+            "DescriptionJp": "深海温泉島リゾートの使用権が明示されているリゾート使用許諾契約書",
+            "DescriptionEn": "Resort license agreement that clearly states the right to use the Deep Sea Hot Springs Island Resort"
+        },
+        {
+            "Id": 2442357514,
+            "NameJp": "ムシクイーンクルーズリゾート使用権",
+            "NameEn": "MushiQueen Cruise Resort use rights",
+            "DescriptionJp": "ムシクイーンクルーズリゾートの使用権が明示されているリゾート使用許諾契約書",
+            "DescriptionEn": "Resort License Agreement that clearly states the rights to use the MushiQueen Cruise Resort."
+        },
+        {
+            "Id": 4133487383,
+            "NameJp": "超豪華リゾート使用権",
+            "NameEn": "Ultra-luxury Resort use rights",
+            "DescriptionJp": "超豪華リゾートの使用権が明示されているリゾート使用許諾契約書",
+            "DescriptionEn": "Resort license agreement that clearly states the right to use the Ultra-luxury Resort."
         }
 
     ]

@@ -109,7 +109,7 @@
         {
             "GroupId": "ShunPublic01",
             "NameEn": "Everyone, pay attention!",
-            "DescriptionEn": "Acquire $1 skill cost at the beginning of combat. (Can only be used $2 per battle)"
+            "DescriptionEn": "Acquire $1 Skill Cost at the beginning of combat. (Can only be used $2 per battle)"
         },
         {
             "GroupId": "ShunPassive01",
@@ -384,7 +384,12 @@
         {
             "GroupId": "YuukaPublic01",
             "NameEn": "I.F.F",
-            "DescriptionEn": "Every $1, Yuuka deals damage equal to $2 Attack to one enemy."
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy."
+        },
+        {
+            "GroupId": "YuukaGearPublic01",
+            "NameEn": "I.F.F +",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy. Additinally, increase Yuuka's Evasion by $3 for $4."
         },
         {
             "GroupId": "YuukaPassive01",
@@ -739,6 +744,11 @@
             "DescriptionEn": "When defeating an enemy, recover $1 of Healing power. (Cooldown: $2)"
         },
         {
+            "GroupId": "TsurugiGearPublic01",
+            "NameEn": "Passion +",
+            "DescriptionEn": "When defeating an enemy, recover $1 of Healing power and increase Attack Speed by $2 for $3. (Cooldown: $4)"
+        },
+        {
             "GroupId": "TsurugiPassive01",
             "NameEn": "Agility",
             "DescriptionEn": "Increase movement speed by $1."
@@ -1014,7 +1024,12 @@
         {
             "GroupId": "AruPublic01",
             "NameEn": "Noir shoot",
-            "DescriptionEn": "Every $1, deals $2 damage to one enemy. $3 chance to deal an additional $4 damage to enemies in a circular area around the targeted enemy."
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy. $3 chance to deal an additional $4 damage to enemies in a circular area around the targeted enemy."
+        },
+        {
+            "GroupId": "AruGearPublic01",
+            "NameEn": "Noir shoot +",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy.<br>Deal an additional $3 damage to enemies in a circular area around the targeted enemy."
         },
         {
             "GroupId": "AruPassive01",
@@ -1189,6 +1204,11 @@
         {
             "GroupId": "HarePublic01",
             "NameEn": "Subversion: Plan A",
+            "DescriptionEn": "Every $1, decrease one enemy's recovery rate by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "HareGearPublic01",
+            "NameEn": "Subversion: Plan A +",
             "DescriptionEn": "Every $1, decrease one enemy's recovery rate by $2. (Duration: $3)"
         },
         {
@@ -1542,6 +1562,11 @@
             "DescriptionEn": "Every $1, increase Attack by $2 for $3."
         },
         {
+            "GroupId": "CH0098GearPublic01",
+            "NameEn": "Let's have some fun! +",
+            "DescriptionEn": "Every $1, increase Attack by $2 for $3. Additionally, recover $4 Skill Cost."
+        },
+        {
             "GroupId": "CH0098Passive01",
             "NameEn": "Let's have even more fun!",
             "DescriptionEn": "Increase HP by $1."
@@ -1583,7 +1608,7 @@
         },
         {
             "GroupId": "CH0083Ex01",
-            "NameEn": "Providing reconnaissance data",
+            "NameEn": "Reconnaissance report",
             "DescriptionEn": "Increase the Critical Rate of one ally by $1, and additionally increase Critical Damage by $2. (Duration: $3)"
         },
         {
@@ -1942,6 +1967,11 @@
             "DescriptionEn": "Every $1, deal $2 damage to one enemy."
         },
         {
+            "GroupId": "CH0066GearPublic01",
+            "NameEn": "That's dangerous! +",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy. (This attack ignores $3 of the enemy Defense)"
+        },
+        {
             "GroupId": "CH0066Passive01",
             "NameEn": "Enthusiastic",
             "DescriptionEn": "Increase Attack Speed by $1."
@@ -2159,7 +2189,7 @@
         {
             "GroupId": "CH0155Ex01",
             "NameEn": "It's the best thing to do in times like these",
-            "DescriptionEn": "Recover HP by $1 of Healing and clear all debuffs."
+            "DescriptionEn": "Recover HP by $1 of Healing and clear $2 debuff."
         },
         {
             "GroupId": "CH0155Public01",
@@ -2179,7 +2209,7 @@
         {
             "GroupId": "CH0155ExtraPassive01",
             "NameEn": "A mouthful of happiness",
-            "DescriptionEn": "When activating EX skill, increase Recovery Rate by $1. Stacks up to a maximum of $2."
+            "DescriptionEn": "When activating EX skill, increase Recovery Rate by $1. Stacks up to a maximum of $2 times."
         },
         {
             "GroupId": "CH0169Ex01",
@@ -2583,10 +2613,111 @@
             "GroupId": "CH0092ExtraPassive01",
             "NameEn": "It's cold~!",
             "DescriptionEn": "When EX skill is active, normal attacks deal additional damage of $1 Attack."
+        },
+
+        {
+            "GroupId": "CH0091Ex01",
+            "NameEn": "Aquatic support",
+            "DescriptionEn": "Increase the Attack of all allies around Hoshino by $1, and add $2 to the Explosive damage. (Duration: $3)"
+        },
+        {
+            "GroupId": "CH0091Public01",
+            "NameEn": "Aquatic assault",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy. Additionally, heal herself by $3 of Healing."
+        },
+        {
+            "GroupId": "CH0091Passive01",
+            "NameEn": "Heat wave endurance",
+            "DescriptionEn": "Increase Defense by $1 and Attack by $2."
+        },
+        {
+            "GroupId": "CH0091WeaponPassive01",
+            "NameEn": "Heat wave endurance +",
+            "DescriptionEn": "Increase Defense by $1 and Attack by $2. Further increase Defense by $3 and Attack by $4."
+        },
+        {
+            "GroupId": "CH0091ExtraPassive01",
+            "NameEn": "Fun at the beach",
+            "DescriptionEn": "While EX skill is active, increase Cost Recovery by $1."
+        },
+
+        {
+            "GroupId": "CH0178Ex01",
+            "NameEn": "Summer beach, fe~ver~",
+            "DescriptionEn": "Fire grenades sequentially at up to 3 enemies, dealing $1 damage in circular area around targets and applying Stun for $2.<br>If the target is already affected by a CC state, deal $3 damage and Stun them for $4 instead."
+        },
+        {
+            "GroupId": "CH0178Public01",
+            "NameEn": "Beach ball, shoo~t",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy and Stun them for $3."
+        },
+        {
+            "GroupId": "CH0178Passive01",
+            "NameEn": "Stroll, ready",
+            "DescriptionEn": "Increase Attack by $1."
+        },
+        {
+            "GroupId": "CH0178WeaponPassive01",
+            "NameEn": "Stroll, ready +",
+            "DescriptionEn": "Increase Attack by $1. Further increase Attack by $2."
+        },
+        {
+            "GroupId": "CH0178ExtraPassive01",
+            "NameEn": "Brrr~ Getting chilly?",
+            "DescriptionEn": "When using EX skill, additionally deal $1 continuous Chill damage for $2."
+        },
+
+        {
+            "GroupId": "CH0179Ex01",
+            "NameEn": "Izuna-Style Ninjutsu・Summer Version!",
+            "DescriptionEn": "Deal $1 damage to one enemy.  Apply Focused Fire status to the enemy for $2."
+        },
+        {
+            "GroupId": "CH0179Public01",
+            "NameEn": "Izuna-Style Ninjutsu! Bubble Technique!",
+            "DescriptionEn": "Every $1 normal attacks, deal $2 damage to one enemy. Reduce their Critical Damage Resistance by $3 for $4."
+        },
+        {
+            "GroupId": "CH0179Passive01",
+            "NameEn": "Master! It's summer!",
+            "DescriptionEn": "Increase Attack Speed by $1."
+        },
+        {
+            "GroupId": "CH0179WeaponPassive01",
+            "NameEn": "Master! It's summer! +",
+            "DescriptionEn": "Increase Healing by $1. Further increase Attack Speed by $2."
+        },
+        {
+            "GroupId": "CH0179ExtraPassive01",
+            "NameEn": "Izuna-Style Ninjutsu・Summer Version Secret Technique!",
+            "DescriptionEn": "Every $1 critical hits, increases Attack Speed by $2 for $3."
+        },
+
+        {
+            "GroupId": "CH0180Ex01",
+            "NameEn": "Business trip, Momoyo summer stall!",
+            "DescriptionEn": "Move 4 allies in a circular area to the specified location and apply a shield equal to $1 of Healing power for $2."
+        },
+        {
+            "GroupId": "CH0180Public01",
+            "NameEn": "Are you hot?",
+            "DescriptionEn": "Every $1, increase the Critical Damage of one ally with the highest Critical Damage by $2. (Duration: $3)"
+        },
+        {
+            "GroupId": "CH0180Passive01",
+            "NameEn": "Sales are on the rise!",
+            "DescriptionEn": "Increase Healing by $1."
+        },
+        {
+            "GroupId": "CH0180WeaponPassive01",
+            "NameEn": "Sales are on the rise! +",
+            "DescriptionEn": "Increase Healing by $1. Further increase Healing by $2."
+        },
+        {
+            "GroupId": "CH0180ExtraPassive01",
+            "NameEn": "Good luck! Nyan Nyan!",
+            "DescriptionEn": "Increase Attack of all allies by $1."
         }
-
-
-        
         
     ]
 }

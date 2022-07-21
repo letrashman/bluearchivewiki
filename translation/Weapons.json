@@ -253,7 +253,7 @@
             "NameJP": "五七五式榴弾砲",
             "NameEN": "Type 575 howitzer",
             "DescriptionJP": "チセが普段から持ち歩いている銃。\n\n弾丸の一つ一つにチセが作った俳句が書かれているらしい。陰陽部にて現在販売中。",
-            "DescriptionEN": "A grenade launcher that Chise usually carries.\n\nSupposedly, a haiku made by Chise is inscribed on each round. Currently on sale at the Yin-Yan club."
+            "DescriptionEN": "A grenade launcher that Chise usually carries.\n\nSupposedly, a haiku made by Chise is inscribed on each round. Currently on sale at the Yin-Yang club."
         },
 
         {
@@ -751,7 +751,7 @@
             "NameJP": "ファニー・ファイアワークス",
             "NameEN": "Funny・Fireworks",
             "DescriptionJP": "カエデがいつも持ち歩いている拳銃。\n\nその実態としては信号拳銃であり、何か問題を起こしている生徒や、あるいは珍しいムシクイーンのカードを発見した時などに使用される。",
-            "DescriptionEN": "A pistol that Kaede always carries.\n\nIt is actually a flare gun, and is used to signal when student is having a problem or when they discover a rare Bug Queen card."
+            "DescriptionEN": "A pistol that Kaede always carries.\n\nIt is actually a flare gun, and is used to signal when student is having a problem or when they find a rare Mushiqueen card."
         },
         {
             "Id": 20016,
@@ -808,7 +808,44 @@
             "NameEN": "Common Sense",
             "DescriptionJP": "使われないことを願うばかりのアヤネの銃。\n\nしかし、その願望は毎度思わぬ形で破られる。",
             "DescriptionEN": "Ayane's gun, which she hopes will never be used.\n\nHowever, that wish is always dashed in unexpected ways."
+        },
+        {
+            "Id": 10045,
+            "NameJP": "Eye of Horus",
+            "NameEN": "Eye of Horus",
+            "DescriptionJP": "夏の海用に整備されたホシノのショットガン。\n\n獣道を切り開いたり、虫捕りに使ったりとさまざまな用途で使えるよう手入れされている。",
+            "DescriptionEN": "Hoshino's shotgun prepared for the summer seaside.\n\nIt is ready a variety of uses, such as cutting through animal trails and catching insects."
+        },
+        {
+            "Id": 10046,
+            "NameJP": "イズナ流スーパー忍具",
+            "NameEN": "Izuna-style Super Ninja Apparatus",
+            "DescriptionJP": "イズナが愛用しているサブマシンガン。\n\n文字通り最先端の忍者道具のため、防水機能もバッチリ完備！つまり海中でも使用可能。主殿のための忍具には隙がないのである。",
+            "DescriptionEN": "Izuna's beloved submachine gun.\n\nBecause it is a proper state-of-the-art ninja implement, it is of course fully waterproof! In other words, it can be used even at the sea. Only the best ninja tools are fit to serve the Master."
+        },
+        {
+            "Id": 10047,
+            "NameJP": "五七五式榴弾砲",
+            "NameEN": "Type 575 howitzer",
+            "DescriptionJP": "",
+            "DescriptionEN": "Chise's valued grenade launcher.\n\nThis time, on a suggestion from the teacher, a haiku about summer written by Chise is engraved on the round. It is of personal impotrance to Chise and will not be available on the market."
+        },
+        {
+            "Id": 26008,
+            "NameJP": "桜ボンボン",
+            "NameEN": "Sakura Bonbon",
+            "DescriptionJP": "夏の海でもシズコが愛用するポンプアクション式のショットガン。\n\n相変わらずあんみつの甘い香りがほのかに漂っている。",
+            "DescriptionEN": "A pump-action shotgun that Shizuko cherishes even an the summer seaside.\n\nAs usual, it is trailed by the faint sweet scent of anmitsu."
+        },
+
+        {
+            "Id": 10048,
+            "NameJP": "",
+            "NameEN": "",
+            "DescriptionJP": "",
+            "DescriptionEN": ""
         }
+
 
     ]
 }
