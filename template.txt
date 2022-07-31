@@ -58,6 +58,10 @@
 | minRange = {{character.stats.firing_range}}
 | minCCStr = {{character.stats.cc_strength}}
 | minCCRes = {{character.stats.cc_resistance}}
+| MoveSpeed = {{character.stats.move_speed}}
+| AmmoCount = {{character.stats.ammo_count}}
+| AmmoCost = {{character.stats.ammo_cost}}
+| RegenCost = {{character.stats.regen_cost}}
 | dataSource = raw
 {% raw %}}}{% endraw %}
 {% raw %}{{{% endraw %}CharacterAffectionTable

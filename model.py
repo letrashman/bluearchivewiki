@@ -397,7 +397,7 @@ def translate_skill(text_jp, skill_level, group_id, data):
 
 class Stats(object):
     def __init__(self, attack, defense, hp, healing, accuracy, evasion, critical_rate, critical_damage, stability,
-                 firing_range, cc_strength, cc_resistance, city_affinity, outdoor_affinity, indoor_affinity):
+                 firing_range, cc_strength, cc_resistance, city_affinity, outdoor_affinity, indoor_affinity, move_speed, ammo_count, ammo_cost, regen_cost):
         self.attack = attack
         self.defense = defense
         self.hp = hp
@@ -413,6 +413,10 @@ class Stats(object):
         self.city_affinity = city_affinity
         self.outdoor_affinity = outdoor_affinity
         self.indoor_affinity = indoor_affinity
+        self.move_speed = move_speed
+        self.ammo_count = ammo_count
+        self.ammo_cost = ammo_cost
+        self.regen_cost = regen_cost
 
     @property
     def critical_damage(self):
@@ -436,7 +440,11 @@ class Stats(object):
             stats['OppressionResist'],
             stats['StreetBattleAdaptation'],
             stats['OutdoorBattleAdaptation'],
-            stats['IndoorBattleAdaptation']
+            stats['IndoorBattleAdaptation'],
+            stats['MoveSpeed'],
+            stats['AmmoCount'],
+            stats['AmmoCost'],
+            stats['RegenCost']
         )
 
 

@@ -1,3 +1,4 @@
+from dataclasses import replace
 import os
 import re
 import sys
@@ -7,11 +8,16 @@ import argparse
 
 from jinja2 import Environment, FileSystemLoader
 
+from pywikiapi import Site
+import wikitextparser as wtp
+
 from data import load_data
 from model import Character
 
+WIKI_API = 'https://bluearchive.wiki/w/api.php'
 
 args = None
+site = None
 
 def colorize(value):
     return re.sub(
@@ -23,6 +29,7 @@ def colorize(value):
 
 def generate():
     global args
+    global site
     data = load_data(args['data_primary'], args['data_secondary'], args['translation'])
 
     env = Environment(loader=FileSystemLoader(os.path.dirname(__file__)))
@@ -51,13 +58,70 @@ def generate():
             continue
         
         with open(os.path.join(args['outdir'], f'{character.name_translated}.txt'), 'w', encoding="utf8") as f:
-            f.write(template.render(character=character))
+            wikitext = template.render(character=character)
+            
+            f.write(wikitext)
+            if site != None:
+                update_template(character.name_translated, args['wiki_template'], wikitext)
 
         
         #weapon_data['DataList'].append({'Id':character.id, 'NameJP': character.profile.weapon_name, 'NameEN': character.profile.weapon_name_translated, 'DescriptionJP': character.profile.weapon_desc, 'DescriptionEN': character.profile.weapon_desc_translated})
 
     #save_weapons_translation(weapon_data)
 
+
+
+def update_template(page_name, template_name, wikitext):
+    template_new = None
+    template_old = None
+
+    text = site('parse', page=page_name, prop='wikitext')
+    print (f"Updating wiki page {text['parse']['title']}")
+
+    wikitext_old = wtp.parse(text['parse']['wikitext'])
+    for template in wikitext_old.templates:
+        if template.name.strip() == template_name: 
+            template_old = str(template)
+            #print (f'Old template text is {template_old}')
+
+    wikitext_new = wtp.parse(wikitext)
+    for template in wikitext_new.templates:
+        if template.name.strip() == template_name: 
+            template_new = str(template)
+            #print (f'New template text is {template_new}')
+
+    if template_new == template_old:
+        print (f'No changes in {template_name} for {page_name}')
+    else:
+        wiki_publish(page_name, text['parse']['wikitext'].replace(template_old, template_new))
+
+
+def wiki_init():
+    global site
+
+    try:
+        site = Site(WIKI_API)
+        site.login(args['wiki'][0], args['wiki'][1])
+        print(f'Logged in to wiki, token {site.token()}')
+
+    except Exception as err:
+        print(f'Wiki error: {err}')
+        traceback.print_exc()
+
+
+
+def wiki_publish(page_name, wikitext):
+    global args, site
+
+    #with open(os.path.join(args['outdir'], f'{page_name}_wikiupdate.txt'), 'w', encoding="utf8") as f:    
+    #    f.write(wikitext)
+    site(
+        action='edit',
+        title=page_name,
+        text=wikitext,
+        summary=f'Updated template {args["wiki_template"]} data',
+        token=site.token()
+    )
 
 
 
@@ -70,7 +134,8 @@ def main():
     parser.add_argument('-data_secondary', metavar='DIR', help='Secondary (Global) version data to include localisation from')
     parser.add_argument('-translation', metavar='DIR', help='Additional translations directory')
     parser.add_argument('-outdir', metavar='DIR', help='Output directory')
-    # parser.add_argument('-wiki', nargs=2, metavar=('LOGIN', 'PASSWORD'), help='Publish data to wiki')
+    parser.add_argument('-wiki', nargs=2, metavar=('LOGIN', 'PASSWORD'), help='Publish data to wiki, requires wiki_template to be set')
+    parser.add_argument('-wiki_template', metavar='TEMPLATE NAME', help='Name of a template whose data will be updated')
 
     args = vars(parser.parse_args())
     args['data_primary'] = args['data_primary'] == None and '../ba-data/jp' or args['data_primary']
@@ -78,6 +143,13 @@ def main():
     args['translation'] = args['translation'] == None and 'translation' or args['translation']
     args['outdir'] = args['outdir'] == None and 'out' or args['outdir']
     print(args)
+
+    if args['wiki'] != None and args['wiki_template'] != None and len(args['wiki_template'])>0:
+        wiki_init()
+    else:
+        args['wiki'] = None
+        args['wiki_template'] = None
+
 
     try:
         generate()

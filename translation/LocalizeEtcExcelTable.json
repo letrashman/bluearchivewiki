@@ -2625,9 +2625,16 @@
         {
             "Id": 3987418957,
             "NameJp": "指名手配コイン",
-            "NameEn": "Wanted Coin",
+            "NameEn": "Bounty Hunt Coin",
             "DescriptionJp": "指名手配ショップで利用可能なコイン。",
-            "DescriptionEn": "Coins used at wanted shops."
+            "DescriptionEn": "Coins that can be redeemed at the Bounty Hunt shop."
+        },
+        {
+            "Id": 923224583,
+            "NameJp": "地域通貨",
+            "NameEn": "Local Currency",
+            "DescriptionJp": "観光を復活させる目的で作られた「ロスト・パラダイス・リゾート」の地域通貨。本当に効果があるのか​​は分からないが、それでもシズコ曰く「そんなのは直接証明すればいいんです！」という。",
+            "DescriptionEn": "Local currency of the \"Lost Paradise Resort\", created for the purpose of reviving tourism. It not clear if it really works, but Shizuko says, \"You just have to prove it yourself!\""
         },
         {
             "Id": 1459837138,
