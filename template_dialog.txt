@@ -17,5 +17,29 @@
 {% endfor -%}
 {% raw -%}
 |}
+{% endraw %}
+{%- if event_lines != [] %}
+{%- raw -%}
+{| class="wikitable"
+|+Event lines
+! rowspan="2" |Name
+! rowspan="2" style="max-width:313px" |
+! colspan="2" |Transcription
+|-
+! style="width:240px" |Japanese
+! style="width:240px" |English
+{%- endraw %}
+{% for line in event_lines -%}
+|-
+| {{line['Title']}}
+| {% for clip in line['WikiVoiceClip'] %}[[File:{{clip}}.ogg]]<br>{% endfor %}
+| {{line['LocalizeJP']}}
+| {{line['LocalizeEN']}}
+{% endfor -%}
+{% raw -%}
+|}
+{% endraw %}
+{%- endif -%}
+{% raw -%}
 {{CharacterAudioSeo}}
 {% endraw %}
