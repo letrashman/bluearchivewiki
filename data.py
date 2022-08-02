@@ -11,7 +11,8 @@ BlueArchiveData = collections.namedtuple(
     'items', #'translated_items',
     'recipes', 'recipes_ingredients', 
     'favor_levels', 'favor_rewards', 
-    'memory_lobby','etc_localization']
+    'memory_lobby','etc_localization',
+    'character_dialog','character_dialog_event']
 )
 
 
@@ -39,7 +40,9 @@ def load_data(path_primary, path_secondary, path_translation):
         favor_levels=load_favor_levels(path_primary),
         favor_rewards=load_favor_rewards(path_primary),
         memory_lobby=load_memory_lobby(path_primary),
-        etc_localization=load_etc_localization(path_primary, path_secondary, path_translation)
+        etc_localization=load_etc_localization(path_primary, path_secondary, path_translation),
+        character_dialog=load_character_dialog(path_primary, path_secondary, 'CharacterDialogExcelTable.json'),
+        character_dialog_event=load_character_dialog(path_primary, path_secondary, 'CharacterDialogEventExcelTable.json'),
     )
 
 
@@ -181,3 +184,30 @@ def load_etc_localization(path_primary, path_secondary, translation):
             continue
     
     return data_primary
+
+
+def load_character_dialog(path_primary, path_secondary, filename):
+    #dp = {}
+    ds = {}
+    data = []
+
+    with open(os.path.join(path_primary, 'Excel', filename), encoding="utf8") as f:
+        data_primary = json.load(f)['DataList']
+
+    with open(os.path.join(path_secondary, 'Excel', filename), encoding="utf8") as f:
+        data_secondary = json.load(f)['DataList']
+
+    for line in data_secondary:
+        ds[(line['CharacterId'], line['DialogCategory'], line['LocalizeJP'])] = line 
+
+    for line in data_primary:
+        try: 
+            #print (f"Localization found {ds[(line['CharacterId'], line['DialogCategory'], line['LocalizeJP'])]}")
+            line['LocalizeEN'] = ds[(line['CharacterId'], line['DialogCategory'], line['LocalizeJP'])]['LocalizeEN']
+        except KeyError:
+            #print (f"Localization not found {dp[(line['CharacterId'], line['DialogCategory'], line['LocalizeJP'])]}")
+            line['LocalizeEN'] = ''
+            pass
+        data.append(line)
+
+    return data

@@ -1,0 +1,21 @@
+{%- raw -%}
+{| class="wikitable"
+|+
+! rowspan="2" |Name
+! rowspan="2" style="max-width:313px" |
+! colspan="2" |Transcription
+|-
+! style="width:240px" |Japanese
+! style="width:240px" |English
+{%- endraw %}
+{% for line in lines -%}
+|-
+| {{line['Title']}}
+| {% for clip in line['WikiVoiceClip'] %}[[File:{{clip}}.ogg]]<br>{% endfor %}
+| {{line['LocalizeJP']}}
+| {{line['LocalizeEN']}}
+{% endfor -%}
+{% raw -%}
+|}
+{{CharacterAudioSeo}}
+{% endraw %}
