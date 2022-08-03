@@ -75,6 +75,7 @@ def generate():
 
         #print(f"JP_{character.dev_name.replace('_default','').replace('_','')}")
         if site != None: page_list = wiki_page_list(f"File:{character.name_translated}")
+        else: page_list = []
 
         for index, line in enumerate(lines):
             process_file(character, index, line, lines, page_list)

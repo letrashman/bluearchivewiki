@@ -4,5 +4,4 @@ __pycache__/
 
 in/**
 out/**
-translation/missing/**
 translation/missing_translations.json

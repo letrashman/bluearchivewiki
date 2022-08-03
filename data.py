@@ -41,8 +41,8 @@ def load_data(path_primary, path_secondary, path_translation):
         favor_rewards=load_favor_rewards(path_primary),
         memory_lobby=load_memory_lobby(path_primary),
         etc_localization=load_etc_localization(path_primary, path_secondary, path_translation),
-        character_dialog=load_character_dialog(path_primary, path_secondary, 'CharacterDialogExcelTable.json'),
-        character_dialog_event=load_character_dialog(path_primary, path_secondary, 'CharacterDialogEventExcelTable.json'),
+        character_dialog=load_character_dialog(path_primary, path_secondary, path_translation, 'CharacterDialogExcelTable.json'),
+        character_dialog_event=load_character_dialog(path_primary, path_secondary, path_translation, 'CharacterDialogEventExcelTable.json'),
     )
 
 
@@ -186,10 +186,12 @@ def load_etc_localization(path_primary, path_secondary, translation):
     return data_primary
 
 
-def load_character_dialog(path_primary, path_secondary, filename):
+def load_character_dialog(path_primary, path_secondary, path_translation,  filename):
     #dp = {}
     ds = {}
+    da = {}
     data = []
+    data_aux = []
 
     with open(os.path.join(path_primary, 'Excel', filename), encoding="utf8") as f:
         data_primary = json.load(f)['DataList']
@@ -197,13 +199,25 @@ def load_character_dialog(path_primary, path_secondary, filename):
     with open(os.path.join(path_secondary, 'Excel', filename), encoding="utf8") as f:
         data_secondary = json.load(f)['DataList']
 
+    for file in os.listdir(path_translation + '/audio/'):
+        print(f'Loading additional audio translations from {path_translation}/audio/{file}')
+        with open(os.path.join(path_translation + '/audio/', file), encoding="utf8") as f:
+            data_aux += json.load(f)['DataList']
+    
+
     for line in data_secondary:
         ds[(line['CharacterId'], line['DialogCategory'], line['LocalizeJP'])] = line 
 
+    for line in data_aux:
+        da[(line['CharacterId'], line['DialogCategory'], line['LocalizeJP'])] = line 
+
     for line in data_primary:
         try: 
-            #print (f"Localization found {ds[(line['CharacterId'], line['DialogCategory'], line['LocalizeJP'])]}")
-            line['LocalizeEN'] = ds[(line['CharacterId'], line['DialogCategory'], line['LocalizeJP'])]['LocalizeEN']
+            
+            if (line['CharacterId'], line['DialogCategory'], line['LocalizeJP']) in da: line['LocalizeEN'] = da[(line['CharacterId'], line['DialogCategory'], line['LocalizeJP'])]['LocalizeEN']
+            elif (line['CharacterId'], line['DialogCategory'], line['LocalizeJP']) in ds: line['LocalizeEN'] = ds[(line['CharacterId'], line['DialogCategory'], line['LocalizeJP'])]['LocalizeEN']
+            elif 'LocalizeEN' not in line: line['LocalizeEN'] = ''
+
         except KeyError:
             #print (f"Localization not found {dp[(line['CharacterId'], line['DialogCategory'], line['LocalizeJP'])]}")
             line['LocalizeEN'] = ''

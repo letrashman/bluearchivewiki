@@ -1,0 +1,354 @@
+{
+    "DataList": [
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "UITitle",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "블루~아카이브.",
+            "LocalizeJP": "ブル～アーカイブ～。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_Title"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "CharacterGet",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "후아아~. ……아, 선생~.\n모처럼이니까, 느긋하게 가자고~.",
+            "LocalizeJP": "ふぁあ～…あ、先生～。\nせっかくなんだし、のんびり行こうよ～",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_Gachaget"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "Cafe",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "다들 보기 좋구만.\n여유로운 게\n제일이지.",
+            "LocalizeJP": "ほほえましい\n光景だねぇ…まあ、\n余裕があるのは\n良いことだ",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_Cafe_monolog_1"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "Cafe",
+            "DialogCondition": "Idle",
+            "GroupId": 2,
+            "LocalizeKR": "어디,\n누울 만한 곳은….",
+            "LocalizeJP": "さーて、どこか横に\nなれるところは…",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_Cafe_monolog_2"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "Cafe",
+            "DialogCondition": "Idle",
+            "GroupId": 3,
+            "LocalizeKR": "괜찮은 장소가\n없으려나….",
+            "LocalizeJP": "どこか\n寛げそうな場所は…",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_Cafe_monolog_3"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "Cafe",
+            "DialogCondition": "Idle",
+            "GroupId": 4,
+            "LocalizeKR": "…저기가 좋을까?",
+            "LocalizeJP": "…お、\n良さそうだねぇ？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_Cafe_monolog_4"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "Cafe",
+            "DialogCondition": "Idle",
+            "GroupId": 5,
+            "LocalizeKR": "이게 뭐지…?",
+            "LocalizeJP": "何これ…？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_Cafe_monolog_5"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 1,
+            "LocalizeKR": "여어-. 왔어? 선생.\n괜찮다면 오늘은 좀\n느긋하게 보내보자고.",
+            "LocalizeJP": "やぁやぁ先生、お疲れ様ー\n今日くらいは\nのんびりしない？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_LogIn_1"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 2,
+            "LocalizeKR": "선생, 어서와~.",
+            "LocalizeJP": "先生おかえり～。\n\n…ん、私？\nずーっとここで\n休憩してたよー？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_LogIn_2"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "설마 이렇게\n차려입은 사람에게\n뭔가 시키려는 건 아니지?",
+            "LocalizeJP": "まさかこの格好で、\n働かせるつもりかー？\nなんて",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_Lobby_1"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 2,
+            "LocalizeKR": "여전히 선생은 바빠 보이네.",
+            "LocalizeJP": "相変わらず\n先生は忙しそうだねぇ\n\n…これを手伝えば良い？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_Lobby_2"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 3,
+            "LocalizeKR": "…응?\n쉬고 싶은 거 아니냐고?\n그야 그렇지만….",
+            "LocalizeJP": "んー？まあ、確かに\n休みたい気持ちは\nやまやまだけど…\n\n先生が働いてるのに、\nその横で休むのもねぇ？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_Lobby_3"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 4,
+            "LocalizeKR": "피곤하면\n언제든 말해, 선생.",
+            "LocalizeJP": "疲れたら\nいつでも言ってね、先生\n\n枕代わりに、\nこの浮き輪とかどう？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_Lobby_4"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 5,
+            "LocalizeKR": "오늘은 어떤 일이\n일어날까나~?",
+            "LocalizeJP": "今日はどんなことが\n起きるのかな～？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_Lobby_5"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 100,
+            "LocalizeKR": "생일 축하해, 선생.\n뭐 가지고 싶은 거 있어?",
+            "LocalizeJP": "お誕生日おめでとう、先生。\n何か欲しいものでもある？\n\n…私にできる範囲なら、\n何でも良いけど？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_Season_Birthday_Player"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 200,
+            "LocalizeKR": "…오. 그렇구나.\n내 생일이었네.",
+            "LocalizeJP": "…あ、そっか。\n私の誕生日か。\n\nありがとう、先生…\n覚えててもらえるのは、\n嬉しいことだね。\n\nうへへ。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_Season_Birthday"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 300,
+            "LocalizeKR": "새해 복 많이 받으라구,\n선생~.",
+            "LocalizeJP": "あけましておめでとう、\n先生～\n\n…今年もたくさん、\n楽しいことがあると良いね",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_Season_NewYear"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 400,
+            "LocalizeKR": "밖이 소란스럽네.\n…뭐, 크리스마스니까.",
+            "LocalizeJP": "何か騒がしいと思ったら、\nクリスマスか～\n\nま、おじさんも別に、\nこの空気は\n嫌いじゃないけどね\n\nただ、ちょっとこの格好じゃ\n外には出られないかなー？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_Season_Xmas"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 500,
+            "LocalizeKR": "별난 차림의\n사람들이 많네~.",
+            "LocalizeJP": "色んな仮装の\n人がたくさんだぁ\n\n…え、何その視線\n\nこれは仮装じゃ\nないってば～",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_Season_Halloween"
+            ]
+        },
+        {
+            "CharacterId": 10045,
+            "DialogCategory": "WeaponGet",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "여기까지 해주는 건가…….\n정말이지, 이상하다니까 선생님도.\n뭐, 괜찮지만……. \n자 그럼 나도 지금보다 더 열심히 해야겠지?",
+            "LocalizeJP": "ここまでしてくれるとか…\nほんと、変わってるねえ先生も。\nまぁ良いけど…じゃあ私も、\n今まで以上に頑張らないとね？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "HoshinoSwimsuit_ExWeapon_Get"
+            ]
+        },
+        [
+            {
+                "CharacterId": 19009050,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Enter",
+                "GroupId": 1,
+                "LocalizeKR": "오~, 선생.\n수고수고~.",
+                "LocalizeJP": "やー先生、お疲れ様ー",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "HoshinoSwimsuit_EventLogin_1"
+                ]
+            },
+            {
+                "CharacterId": 19009050,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Enter",
+                "GroupId": 2,
+                "LocalizeKR": "덥다, 더워~.\n더워서 바짝\n마를 것 같아….",
+                "LocalizeJP": "あっつい…\n暑くて干からびそう…\n\n動いてないのに暑いよ～…",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "HoshinoSwimsuit_EventLogin_2"
+                ]
+            },
+            {
+                "CharacterId": 19009050,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Idle",
+                "GroupId": 1,
+                "LocalizeKR": "선생~. 나한테\n신경 써도 되는 거야?",
+                "LocalizeJP": "先生～、\nおじさんに\n構ってて良いの？\n\n怒られちゃうよ？",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "HoshinoSwimsuit_EventLobby_1"
+                ]
+            },
+            {
+                "CharacterId": 19009050,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Idle",
+                "GroupId": 2,
+                "LocalizeKR": "아하하….\n그렇게 불러도\n더 나오는 건 없다구?",
+                "LocalizeJP": "うーん…そんなに\nつつかれても、\nおじさんからは\n何も出てこないけど…",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "HoshinoSwimsuit_EventLobby_2"
+                ]
+            },
+            {
+                "CharacterId": 19009050,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Idle",
+                "GroupId": 3,
+                "LocalizeKR": "흐음…. 선생도\n귀찮은 거지?",
+                "LocalizeJP": "もしかして、\n先生も疲れた？\n\nそれなら一緒に、\n向こうで一眠りする？",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "HoshinoSwimsuit_EventLobby_3"
+                ]
+            },
+            {
+                "CharacterId": 19009050,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Idle",
+                "GroupId": 4,
+                "LocalizeKR": "졸~려어~~~.",
+                "LocalizeJP": "ねーむぃ…",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "HoshinoSwimsuit_EventLobby_4"
+                ]
+            },
+            {
+                "CharacterId": 19009050,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Enter",
+                "GroupId": 3,
+                "LocalizeKR": "슬슬 움직여야 할까…?",
+                "LocalizeJP": "そろそろ\n行かなきゃダメ？\n\nうへー、\n面倒くさいなぁ…。",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "HoshinoSwimsuit_EventLogin_Season_1"
+                ]
+            },
+            {
+                "CharacterId": 19009050,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Enter",
+                "GroupId": 4,
+                "LocalizeKR": "시간이 없는 거 같네.\n빨리빨리 가자고~.",
+                "LocalizeJP": "もうあんまり時間が\n無さそうだし、そろそろ\n動くとしようか～",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "HoshinoSwimsuit_EventLogin_Season_2"
+                ]
+            },
+            {
+                "CharacterId": 19009050,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Enter",
+                "GroupId": 5,
+                "LocalizeKR": "선생, 아직도\n할 일이 남은 거야?",
+                "LocalizeJP": "先生、まだやる\nことが残ってるの？\n\n仕方ないなあ、\nおじさんが\n手伝ってあげよう",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "HoshinoSwimsuit_EventLogin_Season_End"
+                ]
+            }
+        ]
+    ]
+}

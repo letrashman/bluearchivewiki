@@ -1,0 +1,390 @@
+{
+    "DataList": [
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "UITitle",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "블루 아카이브-!",
+            "LocalizeJP": "ブルーアーカイブー！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Title"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "CharacterGet",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "주군! 여름이에요! 바다예요! 이즈나예요!\n이즈나와 함께, 잔뜩 놀아주실 거죠?!\n닌닌~!",
+            "LocalizeJP": "主殿！夏です、海です、イズナです！\nイズナと一緒に、たくさん遊んでくれますよね！？\nニンニン！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Gachaget"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "Cafe",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "다음엔 무엇을\n하고 놀까요?\n수박 깨기? 물총 싸움~?\n이즈나, 전부 기대돼요~",
+            "LocalizeJP": "次は何をして\n遊びましょう？\nスイカ割りでしょうか？\n水鉄砲でしょうか？\nイズナ、どれも楽しみです！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Cafe_monolog_1"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "Cafe",
+            "DialogCondition": "Idle",
+            "GroupId": 2,
+            "LocalizeKR": "이즈나이즈나~\n캥캥~♪",
+            "LocalizeJP": "イズナイズナ～\nコンココン♪",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Cafe_monolog_2"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "Cafe",
+            "DialogCondition": "Idle",
+            "GroupId": 3,
+            "LocalizeKR": "부장과 츠쿠요 공은,\n지금쯤 무얼\n하고 있을까요~?",
+            "LocalizeJP": "部長とツクヨ殿は、\n今頃何を\nしてるんでしょう？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Cafe_monolog_3"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "Cafe",
+            "DialogCondition": "Idle",
+            "GroupId": 4,
+            "LocalizeKR": "이즈나류 인법의\n여름 버전은 완성되었지만, \n다음은 겨울 버전도\n생각해둬야겠네요…",
+            "LocalizeJP": "イズナ流忍法・\n夏バージョンが\n完成しましたが\n次は冬バージョンも\n考えておかないとですね…",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Cafe_monolog_4"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "Cafe",
+            "DialogCondition": "Idle",
+            "GroupId": 5,
+            "LocalizeKR": "에어컨이란 굉장하네요!\n여름에도 이렇게나\n시원하다니~ 무, 물론!\n닌자라면 이런 더위쯤은\n참을 수 있지만요~!",
+            "LocalizeJP": "エアコンってすごいです\nね！夏でもこんなに涼し\nいとは……！も、もちろ\nん！忍者はこのくらい\n耐えられますが！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Cafe_monolog_5"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 1,
+            "LocalizeKR": "에헤헷!\n어서 오세요! 주군!",
+            "LocalizeJP": "えへへっ！\nおかえりなさい、主殿！\n\nこの夏もイズナは\n主殿をお守りしますね！\nニンニン！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_LogIn_1"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 2,
+            "LocalizeKR": "주군! 이즈나,\n기다리고 있었습니다!\n오늘은 무얼 하고 놀까요?",
+            "LocalizeJP": "主殿！イズナ、\nお待ちしておりました！\n今日は何をして遊びましょう？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_LogIn_2"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "이렇게나 더운 날에도\n주군은 열심히\n일을 하시는 거군요…!",
+            "LocalizeJP": "こんな暑い日でも、\n主殿はお仕事を\nされているんですね…！\n\nそれでは不肖イズナ！\nおそばで応援しております！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Lobby_1"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 2,
+            "LocalizeKR": "으~음, 이즈나가\n주군을 위해\n할 수 있는 일….",
+            "LocalizeJP": "う～ん、イズナが\n主殿のためにできること…\n\nあ、イズナの忍術で\n暑さを吹き飛ばすのは\nいかがでしょう！\n\n忍法！そよ風の術！！\nふ～、ふ～っ！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Lobby_2"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 3,
+            "LocalizeKR": "수박 깨기, \n모래성 만들기, 그리고\n뭐니뭐니해도 팥빙수!",
+            "LocalizeJP": "スイカ割り、砂のお城作り、\nそして何と言ってもかき氷！\n\nイズナ、この夏に主殿と\n楽しみたいことが\nいっぱいです！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Lobby_3"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 4,
+            "LocalizeKR": "인법도감에서 봤는데,\n바다의 사고에 대비해서\n「인공호흡의 술」을 익혀두면\n좋다는 모양이에요!",
+            "LocalizeJP": "忍術図鑑で見たのですが、\n海での事故に備えて\n「人工呼吸の術」を\n覚えておくといいらしいのです！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Lobby_4_1"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 4,
+            "LocalizeKR": "그래서 말이지만 주군,\n「인공호흡의 술」의 습득을\n도와주시지 않겠나요?",
+            "LocalizeJP": "というわけで主殿、\n「人工呼吸の術」の習得を\n手伝っていただけませんか？\n\n…あ、今は\nちょっと難しいのですか！\n\n分かりました！\nそれではイズナ、\nここでお待ちしています！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Lobby_4_2"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 5,
+            "LocalizeKR": "다음에 기회가 되면,\n부장과 츠쿠요 공.\n그리고 주군과 다 같이\n바다에서 놀고 싶어요!",
+            "LocalizeJP": "今度は、部長とツクヨ殿\nそして、主殿とみんなで\n海に遊びに行きたいです！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Lobby_5"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 100,
+            "LocalizeKR": "생일 축하드려요!\n주군!",
+            "LocalizeJP": "お誕生日\nおめでとうございます、主殿！\n\n今日は特別な日ですから、\n全てイズナにお任せください！\n\n夏の思い出に\n負けないくらい、\n素敵な日にしてみせます！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Season_Birthday_Player_1"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 100,
+            "LocalizeKR": "…네? 넷! 알겠습니다!",
+            "LocalizeJP": "…え？はい！\n承知しました。\n\nそれではイズナ、\nまずは全力で主殿の\nそばに座っていますね！\nニンニン！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Season_Birthday_Player_2"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 200,
+            "LocalizeKR": "그랬네요!\n오늘은 이즈나의\n생일이었습니다!",
+            "LocalizeJP": "そうでした！\n今日はイズナの\n誕生日でした！\n\nえへへっ、\n覚えててくださって\nありがとうございます！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Season_Birthday_1"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 200,
+            "LocalizeKR": "주군이 축하해\n주시는 것만으로도,\n마음속이 엄-청\n따끈따끈해져요!",
+            "LocalizeJP": "主殿が\n祝ってくださるだけで、\n心の中がとっても\n暖かくなるんです！\n\n…イズナは幸せ者です。\n本当に、\nありがとうございます！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Season_Birthday_2"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 300,
+            "LocalizeKR": "새해 복 많이 받으세요!",
+            "LocalizeJP": "あけまして\nおめでとうございます！\n\n主殿と一緒にまた新年を\n迎えられるなんて、\nイズナ感激です！\n\n今度の夏も、その次も！\nイズナと一緒に\nたくさん遊びましょう！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Season_NewYear"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 400,
+            "LocalizeKR": "크리스마스네요! 주군!\n오늘 같은 날을 주군과\n함께 할 수 있다니, ",
+            "LocalizeJP": "クリスマスですよ！主殿！\n今日という日を主殿と\n一緒に過ごせるなんて…\n\nイズナにとって今日は、\nとても特別な\n日になりそうです！\n\nその…主殿はどうですか？\n\n…そうですか、\nえへへ、嬉しいですっ。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Season_Xmas"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 500,
+            "LocalizeKR": "할로윈이에요. 주군!\n이 모습도, 할로윈 변장처럼\n보일까요?",
+            "LocalizeJP": "ハロウィーンですね、主殿！\nこの格好も、\n仮装に見えますでしょうか？\n\nであれば…主殿、\nトリックオアトリートです！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_Season_Halloween"
+            ]
+        },
+        {
+            "CharacterId": 10046,
+            "DialogCategory": "WeaponGet",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "주군께서 직접 준비해주신…. \n이즈나를 위한 여름용 닌자도구…!\n기뻐요! 주군! 이즈나! 앞으로도\n주군의 기대에 부응하기 위해!\n전력을 다하겠습니다! 에헤헷!",
+            "LocalizeJP": "主殿が手ずから用意してくださった…\nイズナのための夏用忍具…！\n嬉しいです、主殿！イズナ、\nこれからも主殿の期待に応えるべく、\n全力を尽くしますね！えへへっ！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0179_ExWeapon_Get"
+            ]
+        },
+        [
+            {
+                "CharacterId": 19009054,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Enter",
+                "GroupId": 1,
+                "LocalizeKR": "주군~ 여기~ 여기예요~!\n여기에 이즈나가 자리를\n잡아 뒀습니다!",
+                "LocalizeJP": "主殿～！こっち！\nこっちですー！\nこちらにイズナが、\nお席をご用意しました！",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "CH0179_EventLogin_1"
+                ]
+            },
+            {
+                "CharacterId": 19009054,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Enter",
+                "GroupId": 2,
+                "LocalizeKR": "앗, 기다리고 있었습니다! 주군!\n이즈나는 준비되었습니다!\n부디 명령을!",
+                "LocalizeJP": "あっ、お待ちして\nおりました！主殿！\nイズナは準備できて\nおります！どうぞご用命を！",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "CH0179_EventLogin_2"
+                ]
+            },
+            {
+                "CharacterId": 19009054,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Idle",
+                "GroupId": 1,
+                "LocalizeKR": "바다의 집이,\n이번 임무의 거점……!",
+                "LocalizeJP": "海の家が、\n今回の拠点……！\n\n拠点と聞くと、何だか\n忍者っぽいですね！",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "CH0179_EventLobby_1"
+                ]
+            },
+            {
+                "CharacterId": 19009054,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Idle",
+                "GroupId": 2,
+                "LocalizeKR": "흥흥흥~♪ 바다의 집엔\n여러 음식이 잔뜩이네요!",
+                "LocalizeJP": "ふんふんふん~♪\n海の家は色んな\n料理がいっぱいですね！\n\n主殿はどんなものが\n好きですか？\nかき氷？たこ焼き？\n\nイズナは、主殿と一緒なら\n何でも美味しいです！",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "CH0179_EventLobby_2"
+                ]
+            },
+            {
+                "CharacterId": 19009054,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Idle",
+                "GroupId": 3,
+                "LocalizeKR": "어떤 위험과 고난에 직면해도\n정면으로 맞서는 저 모습….",
+                "LocalizeJP": "どんな危険や苦難に\n直面しても真正面から\n立ち向かうあの姿……\n\nもしかして……\nシズコ殿は、\n忍者なのでは？",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "CH0179_EventLobby_3"
+                ]
+            },
+            {
+                "CharacterId": 19009054,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Idle",
+                "GroupId": 4,
+                "LocalizeKR": "무엇이든 말씀만\n내려주세요!",
+                "LocalizeJP": "何でもご用命ください！\n\n忍者のように\nサササッと解決して\nみせましょう！",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "CH0179_EventLobby_4"
+                ]
+            },
+            {
+                "CharacterId": 19009054,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Enter",
+                "GroupId": 3,
+                "LocalizeKR": "이번엔 이즈나와 주군뿐만\n아니라 많은 분들이\n협력해 주고 있어요!",
+                "LocalizeJP": "今回はイズナと\n主殿だけでなく\nたくさんの方々が\n協力してくださいました\n\n何だかにぎやかで\n楽しいですね、\n主殿！",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "CH0179_EventLogin_Season_1"
+                ]
+            },
+            {
+                "CharacterId": 19009054,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Enter",
+                "GroupId": 4,
+                "LocalizeKR": "꿀꺽... 주군과 함께한 임무도\n벌써 여기까지 온 건가요…!",
+                "LocalizeJP": "ごくり……主殿と一緒に\nこなしてきた任務も、遂に\n佳境へと差し掛かり\nつつありますね……！\n\nイズナもみんなに\n負けないよう\n頑張ります！ニンニン！",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "CH0179_EventLogin_Season_2"
+                ]
+            },
+            {
+                "CharacterId": 19009054,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Enter",
+                "GroupId": 5,
+                "LocalizeKR": "이번 여름은,\n엄청난 일이 잔뜩이었어요!\n말 그대로 이즈나의 눈이\n빙글빙글 돌 정도로….",
+                "LocalizeJP": "この夏は、すごいことが\nたくさんでした！\nもうイズナの目は\n回ってしまいそうなほどで……。\n\n……イズナは毎日、とっても\n楽しかったです！えへへっ！\nありがとうございました！\n主殿！",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "CH0179_EventLogin_Season_End"
+                ]
+            }
+        ]
+    ]
+}

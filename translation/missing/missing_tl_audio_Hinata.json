@@ -1,0 +1,510 @@
+{
+    "DataList": [
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "UITitle",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "브, 블루 아카이브!",
+            "LocalizeJP": "ぶ、ブルーアーカイブ……！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Title"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "CharacterGet",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "와, 와카바 히나타라고 합니다…….\n잘 부탁드립니다…….",
+            "LocalizeJP": "わ、若葉ヒナタと申します……\nよろしくお願いします……",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Gachaget"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "Cafe",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "뭔가…….\n진정이 되질 않네요…….",
+            "LocalizeJP": "な、何だかその……\n緊張、してしまい\nますね……。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Cafe_monolog_1"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "Cafe",
+            "DialogCondition": "Idle",
+            "GroupId": 2,
+            "LocalizeKR": "다양한 것들이\n있네요…….",
+            "LocalizeJP": "すごい、\n色んな物が……。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Cafe_monolog_2"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "Cafe",
+            "DialogCondition": "Idle",
+            "GroupId": 3,
+            "LocalizeKR": "가, 가끔은 이런 곳에서\n천천히 쉬는 것도\n괜찮겠죠……?",
+            "LocalizeJP": "た、たまにはこういう\nところで、ゆっくりして\nても良いですよね……？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Cafe_monolog_3"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "Cafe",
+            "DialogCondition": "Idle",
+            "GroupId": 4,
+            "LocalizeKR": "으음……. 피곤해…….",
+            "LocalizeJP": "んん、疲れた……。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Cafe_monolog_4"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "Cafe",
+            "DialogCondition": "Idle",
+            "GroupId": 5,
+            "LocalizeKR": "이렇게 쉬고 있어도\n괜찮은 걸까……?",
+            "LocalizeJP": "こ、こんなに\nゆっくりしてて\n良いんでしょうか……？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Cafe_monolog_5"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 1,
+            "LocalizeKR": "오, 오셨군요. 선생님!\n오늘도 평안한 하루\n되시길……!",
+            "LocalizeJP": "あ、お帰りなさいませ、先生！\n今日もどうか、安らかな\n一日になりますように……！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_LogIn_1"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 2,
+            "LocalizeKR": "아. 오셨군요, 선생님!\n그렇잖아도 마침 정리가\n막 끝났답니다.",
+            "LocalizeJP": "お疲れ様です、先生！\nちょうどこの辺りのお片づけを\n終えたところでして……！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_LogIn_2"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "도움이 된다는 건\n정말로 즐거운 일이에요!",
+            "LocalizeJP": "実は私、誰かのお役に立てるのが\nすっごく好きでして……！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Lobby_1_1"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "서, 선생님께는…….\n제가 도움이 되고 있을까요?",
+            "LocalizeJP": "で、ですがその、私は……\nきちんと先生のお役に、\n立てていますでしょうか……？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Lobby_1_2"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 2,
+            "LocalizeKR": "저는 늘 실수가 많아서…….",
+            "LocalizeJP": "私、いっつもミスして\nばかりで……。\n\nせっかく、諸々の管理を担当\nさせてもらっているのに……。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Lobby_2"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 3,
+            "LocalizeKR": "뭐, 뭐든지 시켜만 주세요!\n일단은 힘내 볼 테니까요……!",
+            "LocalizeJP": "ぜ、ぜひ何でもやらせて\nください！とりあえず、\n頑張りますので……！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Lobby_3"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 4,
+            "LocalizeKR": "최근 저에게 이상한 소문들이\n많다는데……. 뭘까요?",
+            "LocalizeJP": "何だか最近、私のことに\nついて色々と変な噂が\n流れているとか……？\n\nシスターフッドの\nみなさんに聞いても、\n教えてくださらなくて……。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Lobby_4"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 5,
+            "LocalizeKR": "지, 짐을 나르는 일이나\n정리 같은 거라면 맡겨주세요.",
+            "LocalizeJP": "荷物運びや片付けなど、\nそういったことでしたらぜひ\n私にお任せください……！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Lobby_5_1"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 5,
+            "LocalizeKR": "이래 봬도 관리 담당자\n역할을 맡고 있으니까요!",
+            "LocalizeJP": "こう見えても、\n管理担当ですので！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Lobby_5_2"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 100,
+            "LocalizeKR": "선생님, 생일 축하드려요!",
+            "LocalizeJP": "先生、お誕生日\nおめでとうございます！\n\n私にとっても今日は、\nすっごく特別で大切な日です！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Season_Birthday_Player"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 200,
+            "LocalizeKR": "서, 선생님…….\n그……. 그게,\n저……. 오늘은…….",
+            "LocalizeJP": "せ、先生……その、\nえっと……実は……。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Season_Birthday_1"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Idle",
+            "GroupId": 200,
+            "LocalizeKR": "오, 오늘은\n제 생일……이에요!\n그, 그러니까……!",
+            "LocalizeJP": "きょ、今日、\n私の誕生日、でして……！\nえっと、なので今日は……その、\n\nずっとそばに\nいてくださいませんか……！？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Season_Birthday_2"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 300,
+            "LocalizeKR": "새해라…….",
+            "LocalizeJP": "新年、ですね……\n\n今年はもっと、\n先生に立派な姿を\n見せられますように……！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Season_NewYear"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 400,
+            "LocalizeKR": "성탄절이로군요!",
+            "LocalizeJP": "今日は聖誕祭ですね……！\n\n至らぬ点ばかりではありますが、\n私もシスターフッドの一員です。\n\nぜひ今日は、\n先生のために祈らせてください。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Season_Xmas"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 500,
+            "LocalizeKR": "하, 할로윈이요……?",
+            "LocalizeJP": "あ、今日は\nハロウィーンでしたか……？\n\nそれで、先ほどから外で\n色んな格好の方が……。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Season_Halloween_1_1"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "UILobby",
+            "DialogCondition": "Enter",
+            "GroupId": 500,
+            "LocalizeKR": "……아.\n저는 변장이 아니라\n진짜 제 옷인데……!",
+            "LocalizeJP": "……あ。ね、念のためですが、\n私のこれは仮装ではなく、\nいつもの格好ですからね……！？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_Season_Halloween_1_2"
+            ]
+        },
+        {
+            "CharacterId": 10036,
+            "DialogCategory": "WeaponGet",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "이, 이렇게까지 기대를 받을 거라곤…….\n\r…기뻐요. 힘내서,\n기대에 부응해 보겠습니다……!",
+            "LocalizeJP": "こ、ここまで期待してくださるなんて……。\n……嬉しいです。\n頑張って、期待にお応えしてみせます……！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "hinata_ExWeapon_Get"
+            ]
+        },
+        [
+            {
+                "CharacterId": 19009031,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Enter",
+                "GroupId": 1,
+                "LocalizeKR": "오셨군요, 선생님!\n기다리고 있었답니다!",
+                "LocalizeJP": "お疲れ様です、先生！\nお待ちしておりました\n……！",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "hinata_EventLogin_1"
+                ]
+            },
+            {
+                "CharacterId": 19009031,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Enter",
+                "GroupId": 2,
+                "LocalizeKR": "늘 평안하시기를…….",
+                "LocalizeJP": "どうか、安らぎが\n訪れますように……\n\nえっと……やっぱり\n私にはこういうの、\n似合わないでしょうか\n……？",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "hinata_EventLogin_2"
+                ]
+            },
+            {
+                "CharacterId": 19009031,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Enter",
+                "GroupId": 3,
+                "LocalizeKR": "슬슬 더 힘을 내 볼까요?",
+                "LocalizeJP": "では、気合を入れ直して\n頑張りましょう！",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "hinata_EventLogin_Season_1"
+                ]
+            },
+            {
+                "CharacterId": 19009031,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Enter",
+                "GroupId": 4,
+                "LocalizeKR": "슬슬 서둘러야\n할 것 같은데…….",
+                "LocalizeJP": "あ、少し急いだほうが\n良いかもしれませんね\n……？\n\nが、頑張ります！",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "hinata_EventLogin_Season_2"
+                ]
+            },
+            {
+                "CharacterId": 19009031,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Enter",
+                "GroupId": 5,
+                "LocalizeKR": "마무리 정돈은 중요하죠.\n제가 도와드릴게요!",
+                "LocalizeJP": "お片付けの時間ですね、\n全力でお手伝いします！",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "hinata_EventLogin_Season_End"
+                ]
+            },
+            {
+                "CharacterId": 19009031,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Idle",
+                "GroupId": 1,
+                "LocalizeKR": "선생님……?\n필요하신 거라도\n있으신가요?",
+                "LocalizeJP": "……？先生、どうか\nされましたか？\n何か必要なものでも\nありました？",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "hinata_EventLobby_1"
+                ]
+            },
+            {
+                "CharacterId": 19009031,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Idle",
+                "GroupId": 2,
+                "LocalizeKR": "으음……? \n왜, 왜 그러세요……?",
+                "LocalizeJP": "え、えっと……？\nどうかされましたか？",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "hinata_EventLobby_2"
+                ]
+            },
+            {
+                "CharacterId": 19009031,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Idle",
+                "GroupId": 3,
+                "LocalizeKR": "선생님……?\n저한테 뭔가 묻기라도……?",
+                "LocalizeJP": "先生……？何か私に、\n変なものでも\nついてましたか？",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "hinata_EventLobby_3"
+                ]
+            },
+            {
+                "CharacterId": 19009031,
+                "DialogCategory": "UIEventLobby",
+                "DialogCondition": "Idle",
+                "GroupId": 4,
+                "LocalizeKR": "이렇게 선생님과\n이야기하는 것은\n즐겁지만, 저기,",
+                "LocalizeJP": "こうして先生と\nお話しするのは\n楽しいのですが、その、\n\nそろそろ出発\nした方が……？",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "hinata_EventLobby_4"
+                ]
+            },
+            {
+                "CharacterId": 19009031,
+                "DialogCategory": "UIEventShop",
+                "DialogCondition": "Enter",
+                "GroupId": 1,
+                "LocalizeKR": "피, 필요하신 것들을 정리해 봤어요!\n편하게 확인해 주세요…….",
+                "LocalizeJP": "じ、実は、必要になりそうなものを、\n事前にまとめておきました！\nご確認、よろしくお願いいたします……！",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "hinata_EventShop_Login_1"
+                ]
+            },
+            {
+                "CharacterId": 19009031,
+                "DialogCategory": "UIEventShop",
+                "DialogCondition": "Enter",
+                "GroupId": 2,
+                "LocalizeKR": "정리랑 관리는 자신 있으니까요……!\n한 번 봐 주세요!",
+                "LocalizeJP": "整理や管理でしたら、\nぜひ私に任せてください……！\nこちらをどうぞ！",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "hinata_EventShop_Login_2"
+                ]
+            },
+            {
+                "CharacterId": 19009031,
+                "DialogCategory": "UIEventShop",
+                "DialogCondition": "Enter",
+                "GroupId": 3,
+                "LocalizeKR": "아직 약간 시간이\n남은 것 같은데요.\n확인해 보시겠어요?",
+                "LocalizeJP": "まだもう少し時間がありそうです、\n確認されていきますか？",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "hinata_EventShop_End"
+                ]
+            },
+            {
+                "CharacterId": 19009031,
+                "DialogCategory": "UIEventShop",
+                "DialogCondition": "Idle",
+                "GroupId": 1,
+                "LocalizeKR": "저, 저기, 저는\n대체 어떻게 하면……?",
+                "LocalizeJP": "え、えっと、\n私は一体どうしたら……？",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "hinata_EventShop_1"
+                ]
+            },
+            {
+                "CharacterId": 19009031,
+                "DialogCategory": "UIEventShop",
+                "DialogCondition": "Idle",
+                "GroupId": 2,
+                "LocalizeKR": "제, 제가 아니라,\n이쪽을 봐 주시면……!",
+                "LocalizeJP": "わ、私ではなくその、\nこちらを見ていただきたく……！",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "hinata_EventShop_2"
+                ]
+            },
+            {
+                "CharacterId": 19009031,
+                "DialogCategory": "UIEventShop",
+                "DialogCondition": "Buy",
+                "GroupId": 1,
+                "LocalizeKR": "아. 그거 좋죠!",
+                "LocalizeJP": "あっ、良いですね、それ！",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "hinata_EventShop_Buy_1"
+                ]
+            },
+            {
+                "CharacterId": 19009031,
+                "DialogCategory": "UIEventShop",
+                "DialogCondition": "Buy",
+                "GroupId": 2,
+                "LocalizeKR": "저도 그게 좋다고 생각해요.",
+                "LocalizeJP": "はい、私もそれが\n良いと思います。",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "hinata_EventShop_Buy_2"
+                ]
+            },
+            {
+                "CharacterId": 19009031,
+                "DialogCategory": "UIEventShop",
+                "DialogCondition": "Buy",
+                "GroupId": 3,
+                "LocalizeKR": "역시 선생님이시군요!",
+                "LocalizeJP": "さすがは先生です！",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "hinata_EventShop_Buy_3"
+                ]
+            },
+            {
+                "CharacterId": 19009031,
+                "DialogCategory": "UIEventShop",
+                "DialogCondition": "Buy",
+                "GroupId": 4,
+                "LocalizeKR": "후훗, 좋은 쇼핑이었네요!",
+                "LocalizeJP": "ふふっ、良い\nお買い物でしたね！",
+                "LocalizeEN": "",
+                "VoiceClipsJp": [
+                    "hinata_EventShop_Buy_4"
+                ]
+            }
+        ]
+    ]
+}
