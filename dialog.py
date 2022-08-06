@@ -4,15 +4,17 @@ import sys
 import traceback
 import argparse
 import json
+import copy
+import re
 
 from jinja2 import Environment, FileSystemLoader
 
 from pywikiapi import Site, ApiError
 #import wikitextparser as wtp
 
-from data import load_data
+from data import load_data, load_scenario_data
 from model import Character
-from generate import colorize, wiki_init
+from generate import colorize
 
 WIKI_API = 'https://bluearchive.wiki/w/api.php'
 
@@ -20,23 +22,30 @@ args = None
 site = None
 
 
-
 def generate():
     global args
     global site
-    #lines = []
+
     data = load_data(args['data_primary'], args['data_secondary'], args['translation'])
+    scenario_data = load_scenario_data(args['data_primary'], args['data_secondary'], args['translation'])
+
 
     env = Environment(loader=FileSystemLoader(os.path.dirname(__file__)))
     env.filters['colorize'] = colorize
     template = env.get_template('template_dialog.txt')
 
 
-    for character in data.characters.values():
+    for character in data.characters.values():      
         lines = []
         event_lines = []
-        missing_tl = {}
-        missing_tl['DataList'] = []
+        memorial_lines = []
+
+        standard_lines = [] 
+        standard_line_types = [
+            'Formation', 'Tactic', 'Battle', 'CommonSkill', 'CommonTSASkill', 'ExSkill', 'Summon', #those do not have ingame transcriptions
+            'Growup', 'Relationship'
+                            ] 
+
         character_variation_ids = []
 
         if not character['IsPlayableCharacter'] or character['ProductionStep'] != 'Release':
@@ -53,6 +62,7 @@ def generate():
             traceback.print_exc()
             continue
 
+
         #get event versions of the character
         for character_variant in data.characters.values():
             if character_variant['DevName'].startswith(character.dev_name):
@@ -60,34 +70,85 @@ def generate():
                 #print (character_variant['DevName'])
 
 
-        lines, missing_tl['DataList'] = get_dialog_lines(character, data.character_dialog)
+        #dump missing translations
+        missing_tl = [x for x in data.character_dialog if x['CharacterId']==character.id and x['LocalizeEN'] == '' and x['LocalizeJP'] != '']
+        if len(missing_tl)>1 : 
+            print(f"Missing {character.name_translated} translations: {len(missing_tl)}")
+            save_missing_translations('dialog_'+character.name_translated.replace(' ', '_'), missing_tl)
+
+        missing_tl = [x for x in data.character_dialog_event if x['CharacterId'] in character_variation_ids and x['LocalizeEN'] == '' and x['LocalizeJP'] != '']
+        if len(missing_tl)>1 : 
+            print(f"Missing {character.name_translated} event translations: {len(missing_tl)}")
+            save_missing_translations('event_dialog_'+character.name_translated.replace(' ', '_'), missing_tl)
+        
+
+
+                
+        # memorial_intro_lines = []
+        # first_memolobby_line = [x for x in data.character_dialog if x['CharacterId'] == character.id and x['DialogCategory'] == 'UILobbySpecial' and x['LocalizeJP'] != ''][0]['LocalizeJP'].replace('\n','')
+        # print(first_memolobby_line)
+
+        # favor_rewards = [x for x in data.favor_rewards.values() if x['CharacterId'] == character.id and 'MemoryLobby' in x['RewardParcelType'] ]
+        
+        # sdf = [x for x in scenario_data.scenario_script_favor if x['GroupId'] == favor_rewards[0]['ScenarioSriptGroupId']]
+
+        # for line in sdf:
+        #     if re.sub(r"\[wa:\d+\]", "", line['TextJp'], 0).find(first_memolobby_line) > -1: 
+        #         #print (line)
+        #         break
+        #     if line['TextJp'] and line['TextJp'].startswith('―'): memorial_intro_lines.append(line)
+
+        # print (memorial_intro_lines)
+        # mil = get_memorial_lines(character, memorial_intro_lines)
+        # print(mil)
+
+
+
+
+        lines = get_dialog_lines(character, data.character_dialog)
+
+        memorial_lines = get_memorial_lines(character, data.character_dialog)
 
         for id in character_variation_ids:
             lines_list = []
-            lines_tl_list = []
-            character_variant = character
+            character_variant = copy.copy(character)
             character_variant.id = id
-            lines_list, lines_tl_list = get_dialog_lines(character_variant, data.character_dialog_event)
-            if len(lines_list)>0 or len(lines_tl_list)>0: print(f"Found {len(lines_list)} event lines and {len(lines_tl_list)} missing translation lines for {character.name_translated} (id {character.id})")
+            lines_list = get_dialog_lines(character_variant, data.character_dialog_event)
             if len(lines_list)>0: event_lines.extend(lines_list)
-            if len(lines_tl_list)>0: missing_tl['DataList'].append(lines_tl_list)
             
+
 
         #print(f"JP_{character.dev_name.replace('_default','').replace('_','')}")
         if site != None: page_list = wiki_page_list(f"File:{character.name_translated}")
         else: page_list = []
 
-        for index, line in enumerate(lines):
-            process_file(character, index, line, lines, page_list)
+        for line in lines:
+            process_file(character, line, page_list)
 
-        for index, line in enumerate(event_lines):
-            process_file(character, index, line, lines, page_list)
+        for line in event_lines:
+            process_file(character, line, page_list)
+
+        ml = []
+        for line in memorial_lines:
+            ml.append(process_file(character, line, page_list))
+        memorial_lines = ml
             
 
+        file_list = os.listdir(args['data_audio'] != None and f"{args['data_audio']}/JP_{character.model_prefab_name.replace('_Original','').replace('_','')}/" or [])
+        for type in standard_line_types:
+            #print(f"Gathering {type}-type standard lines")
+            standard_lines += [x for x in file_list if type in x.split('_')[1]]
 
-        
+        for file in standard_lines:
+            wiki_filename = f"{character.name_translated.replace(' ', '_') + '_' + file.split('_', 1)[1]}"
+            if f"File:{wiki_filename}" not in page_list and site != None:
+                print (f"Uploading {wiki_filename}")
+                wiki_upload(f"{args['data_audio']}/JP_{character.model_prefab_name.replace('_Original','').replace('_','')}/{file}", wiki_filename)
+
+
+
         with open(os.path.join(args['outdir'], f'{character.name_translated}_dialog.txt'), 'w', encoding="utf8") as f:
-            wikitext = template.render(character=character,lines=lines,event_lines=event_lines)
+            wikitext = template.render(character=character,lines=lines,event_lines=event_lines,memorial_lines=memorial_lines,standard_lines=standard_lines)
             f.write(wikitext)
             
 
@@ -105,44 +166,64 @@ def generate():
             token=site.token()
             )
 
-        
-        if len(missing_tl['DataList'])>1 : 
-            print(f"Missing {character.name_translated} translations: {len(missing_tl['DataList'])}")
-            save_missing_translations('missing_tl_audio_'+character.name_translated.replace(' ', '_'), missing_tl)
             
 
+            
 
-
-def get_dialog_lines(character, dialog_data):
+def get_memorial_lines(character, dialog_data):
     lines = []
     missing_tl = []
+    processing_group = 1
 
     for index, line in enumerate(dialog_data):
-        if line['CharacterId'] == character.id and line['VoiceClipsJp'] != []:
+        if line['CharacterId'] == character.id and line['DialogCategory'] == 'UILobbySpecial' and line['GroupId'] == processing_group:
+            processing_group +=1
+            
             line = merge_followup(index, dialog_data)
-
+        
             #dump missing translations
             if 'LocalizeEN' not in line or line['LocalizeEN'] == None: line['LocalizeEN'] = ''
             if len(line['LocalizeJP'])>0 and len(line['LocalizeEN'])==0: missing_tl.append({'CharacterId':character.id, 'DialogCategory': line['DialogCategory'], 'DialogCondition': line['DialogCondition'], 'GroupId': line['GroupId'], 'LocalizeKR': line['LocalizeKR'], 'LocalizeJP': line['LocalizeJP'], 'LocalizeEN': '', 'VoiceClipsJp': line['VoiceClipsJp']})
-
-            line['VoiceClipsJp'][0] = line['VoiceClipsJp'][0].replace('Memoriallobby', 'MemorialLobby')
-            line['Title'] = line['VoiceClipsJp'][0].split('_', 1)[1]
-
-            line['WikiVoiceClip'] = []
-            line['WikiVoiceClip'].append(character.name_translated.replace(' ', '_') + '_' + line['Title'])
             
             line['LocalizeJP'] = len(line['LocalizeJP'])>0 and '<p>' + line['LocalizeJP'].replace("\n\n",'</p><p>').replace("\n",'<br>') + '</p>' or ''
             line['LocalizeEN'] = len(line['LocalizeEN'])>0 and '<p>' + line['LocalizeEN'].replace("\n\n",'</p><p>').replace("\n",'<br>') + '</p>' or ''
 
             lines.append(line)
+        
+    return lines
+
+
+
+def get_dialog_lines(character, dialog_data):
+    lines = []
+
+    for index, line in enumerate(dialog_data):
+        if line['CharacterId'] == character.id and line['VoiceClipsJp'] != []:
+            line = merge_followup(index, dialog_data)
+
+            if line['VoiceClipsJp']: 
+                line['VoiceClipsJp'][0] = line['VoiceClipsJp'][0].replace('Memoriallobby', 'MemorialLobby')
+                line['Title'] = line['VoiceClipsJp'][0].split('_', 1)[1]
+
+                line['WikiVoiceClip'] = []
+                line['WikiVoiceClip'].append(character.name_translated.replace(' ', '_') + '_' + line['Title'])
             
-    return lines, missing_tl
+            if 'LocalizeEN' not in line or line['LocalizeEN'] == None: line['LocalizeEN'] = ''
+
+            line['LocalizeJP'] = len(line['LocalizeJP'])>0 and '<p>' + line['LocalizeJP'].replace("\n\n",'</p><p>').replace("\n",'<br>') + '</p>' or ''
+            line['LocalizeEN'] = len(line['LocalizeEN'])>0 and '<p>' + line['LocalizeEN'].replace("\n\n",'</p><p>').replace("\n",'<br>') + '</p>' or ''
+
+            lines.append(line)
+
+    return lines
+
 
 
 def merge_followup(index, dialog_data):
     current = dialog_data[index]
     try: next = dialog_data[index+1]
-    except KeyError: return current
+    except IndexError: 
+        return current
     
     if current['CharacterId'] == next['CharacterId'] and current['GroupId'] == next['GroupId'] and current['DialogCategory'] == next['DialogCategory'] and next['VoiceClipsJp'] == []:
         next = merge_followup(index + 1, dialog_data)
@@ -155,21 +236,28 @@ def merge_followup(index, dialog_data):
     return current
     
 
-def process_file(character, index, line, lines, page_list):
-    if not exists(f"{args['data_audio']}/JP_{character.dev_name.replace('_default','').replace('_','')}/{line['VoiceClipsJp'][0]}.ogg"):
+
+def process_file(character, line, page_list):
+    if (line['VoiceClipsJp'] and not exists(f"{args['data_audio']}/JP_{character.dev_name.replace('_default','').replace('_','')}/{line['VoiceClipsJp'][0]}.ogg")) or line['DialogCategory'] == 'UILobbySpecial':
         #print (f"WARNING - Local file {line['VoiceClipsJp'][0]}.ogg not found")
         partial_file_path = f"{args['data_audio']}/JP_{character.dev_name.replace('_default','').replace('_','')}/"
-        partial_file_name = f"{line['VoiceClipsJp'][0]}"
+        partial_file_name = line['VoiceClipsJp'] and f"{line['VoiceClipsJp'][0]}" or f"{character.dev_name.replace('_default','').replace('_','')}_MemorialLobby_{line['GroupId']}"
         
-        lines[index]['VoiceClipsJp'].clear()
-        lines[index]['WikiVoiceClip'].clear()
+        line['VoiceClipsJp'] = []
+        line['WikiVoiceClip'] = []
+
+        if exists(f"{partial_file_path}{partial_file_name}.ogg"): 
+            line['VoiceClipsJp'].append(f"{partial_file_name}")
+            line['WikiVoiceClip'].append(character.name_translated.replace(' ', '_') + '_' + f"{partial_file_name.split('_', 1)[1]}")
 
         i=0
         while exists(f"{partial_file_path}{partial_file_name}_{i+1}.ogg"):
-            lines[index]['VoiceClipsJp'].append(f"{partial_file_name}_{i+1}")
-            lines[index]['WikiVoiceClip'].append(character.name_translated.replace(' ', '_') + '_' + f"{partial_file_name.split('_', 1)[1]}_{i+1}")
-            #print(f"Added {lines[index]['VoiceClipsJp'][i]}/{lines[index]['WikiVoiceClip'][i]} partial voiceline to the list")
+            line['VoiceClipsJp'].append(f"{partial_file_name}_{i+1}")
+            line['WikiVoiceClip'].append(character.name_translated.replace(' ', '_') + '_' + f"{partial_file_name.split('_', 1)[1]}_{i+1}")
+            #print(f"Added {partial_file_path}{partial_file_name}_{i+1}.ogg partial voiceline to the list")
             i += 1
+
+        if 'Title' not in line and line['VoiceClipsJp']: line['Title'] = line['VoiceClipsJp'][0].split('_', 1)[1]
 
     if site != None:
         for index, wiki_voice_clip in enumerate(line['WikiVoiceClip']):
@@ -177,6 +265,10 @@ def process_file(character, index, line, lines, page_list):
             if f"File:{wiki_voice_clip}.ogg" not in page_list: 
                 print (f"Uploading {wiki_voice_clip}.ogg")
                 wiki_upload(f"{args['data_audio']}/JP_{character.dev_name.replace('_default','').replace('_','')}/{line['VoiceClipsJp'][index]}.ogg", f"{wiki_voice_clip}.ogg")
+
+    return line
+
+
 
 
 def wiki_init():
@@ -216,7 +308,7 @@ def wiki_page_list(match):
     page_list = []
 
     try: 
-        for r in site.query(list='search', srwhat='title', srsearch=match, srlimit=100, srprop='isfilematch'):
+        for r in site.query(list='search', srwhat='title', srsearch=match, srlimit=200, srprop='isfilematch'):
             for page in r['search']:
                 page_list.append(page['title'].replace(' ', '_'))
     except ApiError as error:
@@ -268,11 +360,14 @@ def wiki_upload(file, name):
 
 def save_missing_translations(name, data):
     global args
+    lines = []
+
+    for line in data:
+        lines.append({'CharacterId': line['CharacterId'], 'DialogCategory': line['DialogCategory'], 'DialogCondition': line['DialogCondition'], 'GroupId': line['GroupId'], 'LocalizeKR': line['LocalizeKR'], 'LocalizeJP': line['LocalizeJP'], 'LocalizeEN': '', 'VoiceClipsJp': line['VoiceClipsJp']})
 
     f = open(args['translation'] + '/missing/' + name + '.json', "w", encoding='utf8' )
-    f.write(json.dumps(data, sort_keys=False, indent=4, ensure_ascii=False))
+    f.write(json.dumps({'DataList':lines}, sort_keys=False, indent=4, ensure_ascii=False))
     f.close()
-    return True
 
 
 def main():

@@ -12,7 +12,8 @@ BlueArchiveData = collections.namedtuple(
     'recipes', 'recipes_ingredients', 
     'favor_levels', 'favor_rewards', 
     'memory_lobby','etc_localization',
-    'character_dialog','character_dialog_event']
+    'character_dialog','character_dialog_event',
+    'scenario_script_favor']
 )
 
 
@@ -43,6 +44,7 @@ def load_data(path_primary, path_secondary, path_translation):
         etc_localization=load_etc_localization(path_primary, path_secondary, path_translation),
         character_dialog=load_character_dialog(path_primary, path_secondary, path_translation, 'CharacterDialogExcelTable.json'),
         character_dialog_event=load_character_dialog(path_primary, path_secondary, path_translation, 'CharacterDialogEventExcelTable.json'),
+        scenario_script_favor=load_scenario_script_favor(path_primary, path_secondary, path_translation)
     )
 
 
@@ -200,7 +202,7 @@ def load_character_dialog(path_primary, path_secondary, path_translation,  filen
         data_secondary = json.load(f)['DataList']
 
     for file in os.listdir(path_translation + '/audio/'):
-        print(f'Loading additional audio translations from {path_translation}/audio/{file}')
+        #print(f'Loading additional audio translations from {path_translation}/audio/{file}')
         with open(os.path.join(path_translation + '/audio/', file), encoding="utf8") as f:
             data_aux += json.load(f)['DataList']
     
@@ -222,6 +224,75 @@ def load_character_dialog(path_primary, path_secondary, path_translation,  filen
             #print (f"Localization not found {dp[(line['CharacterId'], line['DialogCategory'], line['LocalizeJP'])]}")
             line['LocalizeEN'] = ''
             pass
+
+        data.append(line)
+
+    return data
+
+
+
+
+
+
+
+BlueArchiveScenarioData = collections.namedtuple(
+    'BlueArchiveScenarioData',
+    ['scenario_script_favor']
+)
+
+
+def load_scenario_data(path_primary, path_secondary, path_translation):
+    return BlueArchiveScenarioData(
+        scenario_script_favor=load_scenario_script_favor(path_primary, path_secondary, path_translation)
+    )
+
+
+def load_scenario_script_favor(path_primary, path_secondary, path_translation):
+    data = []
+    #data['DataList'] = []
+
+    for i in range(1,3): data += load_scenario_script_favor_part(path_primary, path_secondary, path_translation, i)
+
+    return data
+
+
+def load_scenario_script_favor_part(path_primary, path_secondary, path_translation, part):
+    ds = {}
+    da = {}
+    data = []
+    data_aux = []
+
+    with open(os.path.join(path_primary, 'Excel', f'ScenarioScriptFavor{part}ExcelTable.json'), encoding="utf8") as f:
+        data_primary = json.load(f)['DataList']
+        #print(f'Loaded primary script data from ScenarioScriptFavor{part}ExcelTable.json, {len(data_primary)} entries')
+
+    with open(os.path.join(path_secondary, 'Excel', f'ScenarioScriptFavor{part}ExcelTable.json'), encoding="utf8") as f:
+        data_secondary = json.load(f)['DataList']
+        #print(f'Loaded secondary script data from ScenarioScriptFavor{part}ExcelTable.json, {len(data_primary)} entries')
+
+    for file in os.listdir(path_translation + '/scenario/'):
+        #print(f'Loading additional scenario translations from {path_translation}/scenario/{file}')
+        with open(os.path.join(path_translation + '/scenario/', file), encoding="utf8") as f:
+            data_aux += json.load(f)['DataList']
+
+    for line in data_secondary:
+        ds[(line['GroupId'], line['ScriptKr'], line['TextJp'])] = line 
+
+    for line in data_aux:
+        da[(line['GroupId'], line['ScriptKr'], line['TextJp'])] = line 
+
+    for line in data_primary:
+        try: 
+            
+            if (line['GroupId'], line['ScriptKr'], line['TextJp']) in da: line['TextEn'] = da[(line['GroupId'], line['ScriptKr'], line['TextJp'])]['TextEn']
+            elif (line['GroupId'], line['ScriptKr'], line['TextJp']) in ds: line['TextEn'] = ds[(line['GroupId'], line['ScriptKr'], line['TextJp'])]['TextEn']
+            elif 'TextEn' not in line: line['TextEn'] = ''
+
+        except KeyError:
+            #print (f"Localization not found {dp[(line['GroupId'], line['ScriptKr'], line['TextJp'])]}")
+            line['TextEn'] = ''
+            pass
+
         data.append(line)
 
     return data

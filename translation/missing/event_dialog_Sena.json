@@ -1,0 +1,132 @@
+{
+    "DataList": [
+        {
+            "CharacterId": 19009028,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Enter",
+            "GroupId": 1,
+            "LocalizeKR": "오셨습니까, 선생님.",
+            "LocalizeJP": "お疲れ様です、先生。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0081_EventShop_Login_1"
+            ]
+        },
+        {
+            "CharacterId": 19009028,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Enter",
+            "GroupId": 1,
+            "LocalizeKR": "필요하신 게 있으시면\n말씀해주십시오.",
+            "LocalizeJP": "何かありましたら\nいつでも声をかけてください。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": []
+        },
+        {
+            "CharacterId": 19009028,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Enter",
+            "GroupId": 2,
+            "LocalizeKR": "소란스러운 현장이군요.\n지원하도록 하겠습니다.",
+            "LocalizeJP": "……騒がしい現場ですね。準備を\nしておいた方が良いかもしれません。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0081_EventShop_Login_2"
+            ]
+        },
+        {
+            "CharacterId": 19009028,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Enter",
+            "GroupId": 3,
+            "LocalizeKR": "후속조치가 필요할 것 같아\n남아있었습니다.",
+            "LocalizeJP": "事後処理が発生するのではと思い、\nここに残っておりました。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0081_EventShop_End"
+            ]
+        },
+        {
+            "CharacterId": 19009028,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Enter",
+            "GroupId": 3,
+            "LocalizeKR": "필요하신 게 있으시면\n말씀해주십시오.",
+            "LocalizeJP": "何かありましたら\nいつでもお声がけください。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": []
+        },
+        {
+            "CharacterId": 19009028,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "……후우. 선생님. 저를\n제공해드릴 순 없습니다.",
+            "LocalizeJP": "……念のため、ですが。\n私は商品ではありませんので。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0081_EventShop_1"
+            ]
+        },
+        {
+            "CharacterId": 19009028,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Idle",
+            "GroupId": 2,
+            "LocalizeKR": "죄송하지만 규정이 있는지라,\n그냥 드릴 순 없습니다.",
+            "LocalizeJP": "申し訳ありませんが\n規則ですので、無料で\n差し上げるわけにはいきません。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0081_EventShop_2"
+            ]
+        },
+        {
+            "CharacterId": 19009028,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Buy",
+            "GroupId": 1,
+            "LocalizeKR": "나쁘지 않은 판단입니다.",
+            "LocalizeJP": "悪くない判断です。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0081_EventShop_Buy_1"
+            ]
+        },
+        {
+            "CharacterId": 19009028,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Buy",
+            "GroupId": 2,
+            "LocalizeKR": "결정에 동의합니다.",
+            "LocalizeJP": "それが良さそうですね。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0081_EventShop_Buy_2"
+            ]
+        },
+        {
+            "CharacterId": 19009028,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Buy",
+            "GroupId": 3,
+            "LocalizeKR": "바로 준비하겠습니다.",
+            "LocalizeJP": "すぐに用意します。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0081_EventShop_Buy_3"
+            ]
+        },
+        {
+            "CharacterId": 19009028,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Buy",
+            "GroupId": 4,
+            "LocalizeKR": "네. 잠시만 기다려주십시오.",
+            "LocalizeJP": "はい、では\n少々お待ちください。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0081_EventShop_Buy_4"
+            ]
+        }
+    ]
+}

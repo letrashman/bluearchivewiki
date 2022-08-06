@@ -5,7 +5,7 @@ import re
 
 
 class Character(object):
-    def __init__(self, id, name, dev_name, portrait, name_en, family_name_en, rarity, school, club, role, position, damage_type, armor_type, combat_class, equipment, weapon_type, uses_cover, profile, normal_skill, normal_gear_skill, ex_skill, passive_skill, passive_weapon_skill, sub_skill, stats, weapon, gear, favor, memory_lobby, momotalk, liked_gift_tags, is_limited):
+    def __init__(self, id, name, dev_name, model_prefab_name, portrait, name_en, family_name_en, rarity, school, club, role, position, damage_type, armor_type, combat_class, equipment, weapon_type, uses_cover, profile, normal_skill, normal_gear_skill, ex_skill, passive_skill, passive_weapon_skill, sub_skill, stats, weapon, gear, favor, memory_lobby, momotalk, liked_gift_tags, is_limited):
         self.id = id
         self.name = name
         self.rarity = rarity
@@ -36,6 +36,8 @@ class Character(object):
         self.is_limited = is_limited
 
         self.dev_name = dev_name
+        self.model_prefab_name = model_prefab_name
+
         self.portrait = portrait
         self.name_translated = name_en
         self.family_name_translated = family_name_en
@@ -131,6 +133,7 @@ class Character(object):
             character['Id'],
             data.characters_localization[character_id]['PersonalNameJp'],
             character['DevName'],
+            character['ModelPrefabName'],
             portrait,
             data.translated_characters[character_id]['PersonalNameEn'],
             data.translated_characters[character_id]['FamilyNameEn'],
