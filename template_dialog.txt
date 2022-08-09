@@ -79,8 +79,8 @@
 {%- endraw %}
 {% for line in standard_lines -%}
 |-
-| {{line.replace(character.dev_name+'_','').replace('.ogg','')}}
-| [[File:{{line.replace(character.dev_name,character.name_translated).replace(' ','_')}}]]
+| {{line.replace(character.model_prefab_name.replace('_Original','').replace('_','')+'_','').replace('.ogg','')}}
+| [[File:{{line.replace(character.model_prefab_name.replace('_Original','').replace('_',''),character.name_translated).replace(' ','_')}}]]
 | 
 | 
 {% endfor -%}

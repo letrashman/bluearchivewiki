@@ -83,31 +83,35 @@ def generate():
         
 
 
-                
-        # memorial_intro_lines = []
-        # first_memolobby_line = [x for x in data.character_dialog if x['CharacterId'] == character.id and x['DialogCategory'] == 'UILobbySpecial' and x['LocalizeJP'] != ''][0]['LocalizeJP'].replace('\n','')
-        # print(first_memolobby_line)
+        #Memorial lobby unlock text from affection level script
+        memorial_unlock = []
+        first_memolobby_line = [x for x in data.character_dialog if x['CharacterId'] == character.id and x['DialogCategory'] == 'UILobbySpecial' and x['LocalizeJP'] != '']
+        if first_memolobby_line: first_memolobby_line = first_memolobby_line[0]['LocalizeJP'].replace('\n','')
+        #print(f"FIRST LINE {first_memolobby_line}")
 
-        # favor_rewards = [x for x in data.favor_rewards.values() if x['CharacterId'] == character.id and 'MemoryLobby' in x['RewardParcelType'] ]
-        
-        # sdf = [x for x in scenario_data.scenario_script_favor if x['GroupId'] == favor_rewards[0]['ScenarioSriptGroupId']]
-
-        # for line in sdf:
-        #     if re.sub(r"\[wa:\d+\]", "", line['TextJp'], 0).find(first_memolobby_line) > -1: 
-        #         #print (line)
-        #         break
-        #     if line['TextJp'] and line['TextJp'].startswith('―'): memorial_intro_lines.append(line)
-
-        # print (memorial_intro_lines)
-        # mil = get_memorial_lines(character, memorial_intro_lines)
-        # print(mil)
-
-
+        favor_rewards = [x for x in data.favor_rewards.values() if x['CharacterId'] == character.id and 'MemoryLobby' in x['RewardParcelType'] ]
+        if favor_rewards: 
+            sdf = [x for x in scenario_data.scenario_script_favor if x['GroupId'] == favor_rewards[0]['ScenarioSriptGroupId']]
+            for line in sdf:
+                if re.sub(r"\[wa:\d+\]", "", line['TextJp'], 0).replace('\n','').find(first_memolobby_line) > -1: 
+                    #print (line)
+                    break
+                if line['TextJp'] and line['TextJp'].startswith('―'): 
+                    line['CharacterId'] = character.id
+                    line['DialogCategory'] = 'UILobbySpecial'
+                    line['GroupId'] = 0
+                    line['LocalizeJP'] = re.sub(r"\[wa:\d+\]", "", line['TextJp'].replace('― ',''), 0)
+                    line['LocalizeEN'] = re.sub(r"\[wa:\d+\]", "", line['TextEn'].replace('— ','').replace('― ',''), 0)
+                    line['VoiceClipsJp'] = []
+                    
+                    memorial_unlock.append(line)
+            memorial_lines += get_memorial_lines(character, memorial_unlock, 0)
 
 
         lines = get_dialog_lines(character, data.character_dialog)
 
-        memorial_lines = get_memorial_lines(character, data.character_dialog)
+
+        memorial_lines += get_memorial_lines(character, data.character_dialog)
 
         for id in character_variation_ids:
             lines_list = []
@@ -128,7 +132,13 @@ def generate():
         for line in event_lines:
             process_file(character, line, page_list)
 
+
         ml = []
+        #Guess memorial lobby unlock audio if it had no text
+        if (exists(f"{args['data_audio']}/JP_{character.dev_name.replace('_default','').replace('_','')}/{character.dev_name.replace('_default','').replace('_','')}_MemorialLobby_0.ogg") or exists(f"{args['data_audio']}/JP_{character.dev_name.replace('_default','').replace('_','')}/{character.dev_name.replace('_default','').replace('_','')}_MemorialLobby_0_1.ogg")) and not memorial_unlock:
+            print(f'Found memorial lobby unlock audio for {character.name_translated}, but no text')
+            ml.append(process_file(character, {'CharacterId': character.id, 'ProductionStep': 'Release', 'DialogCategory': 'UILobbySpecial', 'DialogCondition': 'Idle', 'Anniversary': 'None', 'StartDate': '', 'EndDate': '', 'GroupId': 0, 'DialogType': 'Talk', 'ActionName': '', 'Duration': 0, 'AnimationName': 'Talk_00_M', 'LocalizeKR': '', 'LocalizeJP': '', 'VoiceClipsKr': [], 'VoiceClipsJp': [], 'LocalizeEN': ""}, page_list))
+
         for line in memorial_lines:
             ml.append(process_file(character, line, page_list))
         memorial_lines = ml
@@ -170,26 +180,22 @@ def generate():
 
             
 
-def get_memorial_lines(character, dialog_data):
+def get_memorial_lines(character, dialog_data, processing_group = 1):
     lines = []
-    missing_tl = []
-    processing_group = 1
-
+    
     for index, line in enumerate(dialog_data):
         if line['CharacterId'] == character.id and line['DialogCategory'] == 'UILobbySpecial' and line['GroupId'] == processing_group:
             processing_group +=1
             
             line = merge_followup(index, dialog_data)
         
-            #dump missing translations
             if 'LocalizeEN' not in line or line['LocalizeEN'] == None: line['LocalizeEN'] = ''
-            if len(line['LocalizeJP'])>0 and len(line['LocalizeEN'])==0: missing_tl.append({'CharacterId':character.id, 'DialogCategory': line['DialogCategory'], 'DialogCondition': line['DialogCondition'], 'GroupId': line['GroupId'], 'LocalizeKR': line['LocalizeKR'], 'LocalizeJP': line['LocalizeJP'], 'LocalizeEN': '', 'VoiceClipsJp': line['VoiceClipsJp']})
             
             line['LocalizeJP'] = len(line['LocalizeJP'])>0 and '<p>' + line['LocalizeJP'].replace("\n\n",'</p><p>').replace("\n",'<br>') + '</p>' or ''
             line['LocalizeEN'] = len(line['LocalizeEN'])>0 and '<p>' + line['LocalizeEN'].replace("\n\n",'</p><p>').replace("\n",'<br>') + '</p>' or ''
 
             lines.append(line)
-        
+
     return lines
 
 
@@ -258,6 +264,9 @@ def process_file(character, line, page_list):
             i += 1
 
         if 'Title' not in line and line['VoiceClipsJp']: line['Title'] = line['VoiceClipsJp'][0].split('_', 1)[1]
+        elif 'Title' not in line: line['Title'] = ''
+        line['Title'] = re.sub(r"(_\d{1})_\d{1}", "\\g<1>", line['Title'], 0, re.MULTILINE)
+        #if line['Title'] == 'MemorialLobby_0': line['Title'] = 'MemorialLobbyUnlock'
 
     if site != None:
         for index, wiki_voice_clip in enumerate(line['WikiVoiceClip']):

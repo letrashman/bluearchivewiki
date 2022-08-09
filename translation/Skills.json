@@ -2717,6 +2717,32 @@
             "GroupId": "CH0180ExtraPassive01",
             "NameEn": "Good luck! Nyan Nyan!",
             "DescriptionEn": "Increase Attack of all allies by $1."
+        },
+
+        {
+            "GroupId": "CH0103Ex01",
+            "NameEn": "...and all is vanity!",
+            "DescriptionEn": "Deal $1 guaranteed critical hit to one enemy."
+        },
+        {
+            "GroupId": "CH0103Public01",
+            "NameEn": "Leading the target",
+            "DescriptionEn": "Every $1, Increase Critical Damage by $2 for $3.<br>Deal $4 guaranteed critical damage hit to one enemy."
+        },
+        {
+            "GroupId": "CH0103Passive01",
+            "NameEn": "Results of training",
+            "DescriptionEn": "Increase Critical Damage by $1."
+        },
+        {
+            "GroupId": "CH0103WeaponPassive01",
+            "NameEn": "Results of training +",
+            "DescriptionEn": "Increase  Attack Speed by $1. Increase Critical Damage by $2."
+        },
+        {
+            "GroupId": "CH0103ExtraPassive01",
+            "NameEn": "Leader's responsibility",
+            "DescriptionEn": "Increase Attack by $1 respectively when there are 2/3/4 or more students from Arius Squad in the same unit, including self.<br>(additionally includes all versions of Azusa)"
         }
         
     ]
