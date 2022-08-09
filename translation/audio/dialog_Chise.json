@@ -7,7 +7,7 @@
             "GroupId": 1,
             "LocalizeKR": "어서 와, 선생님.\n여기 조용해서…\n하이쿠 짓기에 딱 좋아",
             "LocalizeJP": "ようこそ、先生。\nここは静かだから…\n俳句を作るのに\nちょうど良くて。",
-            "LocalizeEN": "",
+            "LocalizeEN": "Welcome, Sensei.\nIt's quiet here...\nPerfect for writing haiku.",
             "VoiceClipsJp": []
         },
         {
@@ -17,7 +17,7 @@
             "GroupId": 4,
             "LocalizeKR": "다음에도, 또 같이 하자?",
             "LocalizeJP": "次もまた、\n付き合ってくれる？",
-            "LocalizeEN": "",
+            "LocalizeEN": "Let's hang out again, okay?",
             "VoiceClipsJp": []
         }
     ]

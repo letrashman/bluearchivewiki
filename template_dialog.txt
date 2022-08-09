@@ -54,13 +54,13 @@
 ! style="width:240px" |Japanese
 ! style="width:240px" |English
 {%- endraw %}
-{% for line in event_lines -%}
+{% for line in event_lines -%}{%- if line['WikiVoiceClip'] != [] or line['LocalizeJP'] != "" -%}
 |-
 | {{line['Title']}}
 | {% for clip in line['WikiVoiceClip'] %}[[File:{{clip}}.ogg]]<br>{% endfor %}
 | {{line['LocalizeJP']}}
 | {{line['LocalizeEN']}}
-{% endfor -%}
+{%- endif -%}{% endfor -%}
 {% raw -%}
 |}
 {% endraw %}
@@ -91,3 +91,4 @@
 {% raw -%}
 {{CharacterAudioSeo}}
 {% endraw %}
+[[Category:Characters audio]]
