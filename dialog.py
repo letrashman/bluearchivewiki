@@ -89,12 +89,12 @@ def generate():
         #dump missing translations
         missing_tl = [x for x in data.character_dialog if x['CharacterId']==character.id and x['LocalizeEN'] == '' and x['LocalizeJP'] != '']
         if len(missing_tl)>1 : 
-            #print(f"Missing {character.name_translated} translations: {len(missing_tl)}")
+            print(f"Missing {character.name_translated} translations: {len(missing_tl)}")
             save_missing_translations('dialog_'+character.name_translated.replace(' ', '_'), missing_tl)
 
         missing_tl = [x for x in data.character_dialog_event if x['CharacterId'] in character_variation_ids and x['LocalizeEN'] == '' and x['LocalizeJP'] != '']
         if len(missing_tl)>1 : 
-            #print(f"Missing {character.name_translated} event translations: {len(missing_tl)}")
+            print(f"Missing {character.name_translated} event translations: {len(missing_tl)}")
             save_missing_translations('event_dialog_'+character.name_translated.replace(' ', '_'), missing_tl)
         
 
@@ -162,7 +162,7 @@ def generate():
         ml = []
         #Guess memorial lobby unlock audio if it had no text
         if (exists(f"{args['data_audio']}/JP_{character.model_prefab_name.replace('_Original','').replace('_','')}/{character.model_prefab_name.replace('_Original','').replace('_','')}_MemorialLobby_0.ogg") or exists(f"{args['data_audio']}/JP_{character.model_prefab_name.replace('_Original','').replace('_','')}/{character.model_prefab_name.replace('_Original','').replace('_','')}_MemorialLobby_0_1.ogg")) and not memorial_unlock:
-                print(f'Found memorial lobby unlock audio for {character.name_translated}, but no text')
+                #print(f'Found memorial lobby unlock audio for {character.name_translated}, but no text')
                 ml.append(process_file(character, {'CharacterId': character.id, 'ProductionStep': 'Release', 'DialogCategory': 'UILobbySpecial', 'DialogCondition': 'Idle', 'Anniversary': 'None', 'StartDate': '', 'EndDate': '', 'GroupId': 0, 'DialogType': 'Talk', 'ActionName': '', 'Duration': 0, 'AnimationName': 'Talk_00_M', 'LocalizeKR': '', 'LocalizeJP': '', 'VoiceClipsKr': [], 'VoiceClipsJp': [], 'LocalizeEN': ""}, page_list))
 
         for line in memorial_lines:
@@ -230,7 +230,7 @@ def get_dialog_lines(character, dialog_data):
     lines = []
 
     for index, line in enumerate(dialog_data):
-        if line['CharacterId'] == character.id and line['VoiceClipsJp'] != []:
+        if line['CharacterId'] == character.id and line['VoiceClipsJp'] != [] and line['DialogCategory'] != 'UILobbySpecial' :
             line = merge_followup(index, dialog_data)
 
             if line['VoiceClipsJp']: 
