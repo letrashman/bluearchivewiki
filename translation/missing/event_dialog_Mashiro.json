@@ -1,0 +1,76 @@
+{
+    "DataList": [
+        {
+            "CharacterId": 19009005,
+            "DialogCategory": "UIEventMission",
+            "DialogCondition": "Enter",
+            "GroupId": 1,
+            "LocalizeKR": "임무도, 휴식도,\n놓치지 않겠습니다.",
+            "LocalizeJP": "任務も休息も、\nしっかりとやります。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0061_Growup_1"
+            ]
+        },
+        {
+            "CharacterId": 19009005,
+            "DialogCategory": "UIEventMission",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "설마, 이런 곳에서도 분란을\n일으키려는 문제 학생은 없겠지요?",
+            "LocalizeJP": "まさか、こんなところで\n問題を起こそうとする\n問題児はいませんよね？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0061_Cafe_monolog_2"
+            ]
+        },
+        {
+            "CharacterId": 19009005,
+            "DialogCategory": "UIEventMission",
+            "DialogCondition": "Idle",
+            "GroupId": 2,
+            "LocalizeKR": "휴양지에서도\n방심은 금물입니다.",
+            "LocalizeJP": "リゾート地でも、\n油断は禁物です。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0061_Formation_In_2"
+            ]
+        },
+        {
+            "CharacterId": 19009005,
+            "DialogCategory": "UIEventMission",
+            "DialogCondition": "Enter",
+            "GroupId": 1,
+            "LocalizeKR": "임무도, 휴식도,\n놓치지 않겠습니다.",
+            "LocalizeJP": "任務も休息も、\nしっかりとやります。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0061_Growup_1"
+            ]
+        },
+        {
+            "CharacterId": 19009005,
+            "DialogCategory": "UIEventMission",
+            "DialogCondition": "Idle",
+            "GroupId": 1,
+            "LocalizeKR": "설마, 이런 곳에서도 분란을\n일으키려는 문제 학생은 없겠지요?",
+            "LocalizeJP": "まさか、こんなところで\n問題を起こそうとする\n問題児はいませんよね？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0061_Cafe_monolog_2"
+            ]
+        },
+        {
+            "CharacterId": 19009005,
+            "DialogCategory": "UIEventMission",
+            "DialogCondition": "Idle",
+            "GroupId": 2,
+            "LocalizeKR": "휴양지에서도\n방심은 금물입니다.",
+            "LocalizeJP": "リゾート地でも、\n油断は禁物です。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "CH0061_Formation_In_2"
+            ]
+        }
+    ]
+}

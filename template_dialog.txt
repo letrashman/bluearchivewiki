@@ -48,19 +48,19 @@
 {| class="wikitable limitwidth-1024"
 |+
 ! rowspan="2" |Name
-! rowspan="2" style="max-width:300px" |
+! rowspan="2" style="width:300px" |
 ! colspan="2" |Transcription
 |-
 ! style="width:240px" |Japanese
 ! style="width:240px" |English
 {%- endraw %}
-{% for line in event_lines -%}{%- if line['WikiVoiceClip'] != [] or line['LocalizeJP'] != "" -%}
+{% for line in event_lines -%}
 |-
 | {{line['Title']}}
 | {% for clip in line['WikiVoiceClip'] %}[[File:{{clip}}.ogg]]<br>{% endfor %}
 | {{line['LocalizeJP']}}
 | {{line['LocalizeEN']}}
-{%- endif -%}{% endfor -%}
+{% endfor -%}
 {% raw -%}
 |}
 {% endraw %}
@@ -90,5 +90,5 @@
 {%- endif -%}
 {% raw -%}
 {{CharacterAudioSeo}}
-{% endraw %}
+{%- endraw %}
 [[Category:Characters audio]]
