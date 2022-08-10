@@ -1,0 +1,24 @@
+{
+    "DataList": [
+        {
+            "CharacterId": 16002,
+            "DialogCategory": "UILobbySpecial",
+            "DialogCondition": "Idle",
+            "GroupId": 3,
+            "LocalizeKR": "잡학 공부나……. \n선생님 생각 같은 걸 주로…….",
+            "LocalizeJP": "例えば色んな知識を吸収したり、\n新しいメガネを探したり、\n先生のことを考えたり、\nそれからえっと……！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": []
+        },
+        {
+            "CharacterId": 16002,
+            "DialogCategory": "UILobbySpecial",
+            "DialogCondition": "Idle",
+            "GroupId": 5,
+            "LocalizeKR": "흐으…….\n하으으으으……!!!!",
+            "LocalizeJP": " いえ今のはその……っ！\nうぅ、あぅぅ……！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": []
+        }
+    ]
+}

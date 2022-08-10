@@ -161,6 +161,54 @@
             "NameEn": "Perfect Crystal Haniwa"
         },
         {
+            "Id": 200,
+            "NameEn": "Fragment of totem pole"
+        },
+        {
+            "Id": 201,
+            "NameEn": "Damaged Totem Pole"
+        },
+        {
+            "Id": 202,
+            "NameEn": "Restored Totem Pole"
+        },
+        {
+            "Id": 203,
+            "NameEn": "Complete Totem Pole"
+        },
+        {
+            "Id": 210,
+            "NameEn": "Ancient Battery Fragments"
+        },
+        {
+            "Id": 211,
+            "NameEn": "Damaged Ancient Battery"
+        },
+        {
+            "Id": 212,
+            "NameEn": "Worn Ancient Battery"
+        },
+        {
+            "Id": 213,
+            "NameEn": "Complete Ancient Battery"
+        },
+        {
+            "Id": 220,
+            "NameEn": "Golden Thread"
+        },
+        {
+            "Id": 221,
+            "NameEn": "Golden Thread Spool"
+        },
+        {
+            "Id": 222,
+            "NameEn": "Golden Thread Yarn"
+        },
+        {
+            "Id": 223,
+            "NameEn": "Golden Fleece"
+        },
+        {
             "Id": 3000,
             "NameEn": "Hyakkiyako BD (Silver)"
         },
@@ -273,6 +321,22 @@
             "NameEn": "Shanhaijing BD (Purple)"
         },
         {
+            "Id": 3080,
+            "NameEn": "Valkyrie BD (Silver)"
+        },
+        {
+            "Id": 3081,
+            "NameEn": "Valkyrie BD (Blue)"
+        },
+        {
+            "Id": 3082,
+            "NameEn": "Valkyrie BD (Gold)"
+        },
+        {
+            "Id": 3083,
+            "NameEn": "Valkyrie BD (Purple)"
+        },
+        {
             "Id": 4000,
             "NameEn": "Hyakkiyako Notebook (Silver)"
         },
@@ -383,6 +447,22 @@
         {
             "Id": 4073,
             "NameEn": "Shanhaijing Notebook (Purple)"
+        },
+        {
+            "Id": 4080,
+            "NameEn": "Valkyrie Notebook (Silver)"
+        },
+        {
+            "Id": 4081,
+            "NameEn": "Valkyrie Notebook (Blue)"
+        },
+        {
+            "Id": 4082,
+            "NameEn": "Valkyrie Notebook (Gold)"
+        },
+        {
+            "Id": 4083,
+            "NameEn": "Valkyrie Notebook (Purple)"
         },
         {
             "Id": 9999,

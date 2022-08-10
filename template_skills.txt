@@ -1,0 +1,49 @@
+===Skills===
+{% raw %}{{{% endraw %}EXSkillTable
+| SkillName = {{character.ex_skill.name_translated}}
+| SkillNameJP = {{character.ex_skill.name}}
+| SkillIconType = {{character.ex_skill.icon}}
+| SkillDamageType = {{character.ex_skill.damage_type}}
+| SkillBaseCost = {{character.ex_skill.levels[0][1]}}{% if character.ex_skill.upgraded_cost %}
+| SkillUpgradedCost = {{character.ex_skill.upgraded_cost}} {% endif %}{% if character.ex_skill.upgraded_cost_level %}
+| SkillUpgradedCostLv = {{character.ex_skill.upgraded_cost_level}} {% endif %}
+| SkillDescriptionGeneral = {{character.ex_skill.description_general|colorize}}
+{% for description, cost in character.ex_skill.levels -%}
+| SkillDescriptionLv{{loop.index}} = {{description|colorize}}
+{% endfor -%}
+{% raw %}}}{% endraw %}
+{% raw %}{{{% endraw %}SkillTable
+| SkillName = {{character.normal_skill.name_translated}}
+| SkillNameJP = {{character.normal_skill.name}}
+| SkillIconType = {{character.normal_skill.icon}}
+| SkillDamageType = {{character.normal_skill.damage_type}}
+| SkillType = Normal
+| SkillDescriptionGeneral = {{character.normal_skill.description_general|colorize}}
+{% for description, cost in character.normal_skill.levels -%}
+| SkillDescriptionLv{{loop.index}} = {{description|colorize}}
+{% endfor -%}
+{% raw %}}}{% endraw %}
+{% raw %}{{{% endraw %}SkillTable
+| SkillName = {{character.passive_skill.name_translated}}
+| SkillNameJP = {{character.passive_skill.name}}
+| SkillIconType = {{character.passive_skill.icon}}
+| SkillDamageType = {{character.passive_skill.damage_type}}
+| SkillType = Passive
+| SkillDescriptionGeneral = {{character.passive_skill.description_general|colorize}}
+{% for description, cost in character.passive_skill.levels -%}
+| SkillDescriptionLv{{loop.index}} = {{description|colorize}}
+{% endfor -%}
+{% raw %}}}{% endraw %}
+{% raw %}{{{% endraw %}SkillTable
+| SkillName = {{character.sub_skill.name_translated}}
+| SkillNameJP = {{character.sub_skill.name}}
+| SkillIconType = {{character.sub_skill.icon}}
+| SkillDamageType = {{character.sub_skill.damage_type}}
+| SkillType = Sub
+| SkillDescriptionGeneral = {{character.sub_skill.description_general|colorize}}
+{% for description, cost in character.sub_skill.levels -%}
+| SkillDescriptionLv{{loop.index}} = {{description|colorize}}
+{% endfor -%}
+{% raw %}}}{% endraw %}
+
+[[Category:Characters]]

@@ -1,0 +1,2683 @@
+{
+    "DataList": [
+        {
+            "Id": 2205211310,
+            "NameJp": "初音ミクのフォトカード",
+            "NameEn": "Hatsune Miku photo card",
+            "DescriptionJp": "初音ミクのキヴォトスにおけるライブで配られた、特製のフォトカード。ライブはかなりの大盛況に終り、初音ミクのファンであれば誰もが欲しがるレアなグッズとなった。",
+            "DescriptionEn": "A special photo card distributed Hatsune Miku's live concert in Kivotos. The concert was a great success, and it became a rare item that any Hatsune Miku fan would want.\n\n''This is a special event gift, it will be treated as favorite when given to any student.''"
+        },
+        {
+            "Id": 3401454433,
+            "NameJp": "きらめきの花束",
+            "DescriptionJp": "特別な人に記念でプレゼントする、クリスタルで作られた花束。\n光を当てると万華鏡のように輝く。",
+            "NameEn": "Shiny Bouquet",
+            "DescriptionEn": "A crystal bouquet perfect for giving to a special someone.\nIt sparkles like a kaleidoscope in the light.\n\n''This is a special event gift, it will be treated as favorite when given to any student.''"
+        },
+        {
+            "Id": 1575353856,
+            "NameJp": "禁断の愛\n〜許されないからこそ美しく〜",
+            "DescriptionJp": "大人気の恋愛小説作家「恋よ鯉」先生の最新作！\n結ばれることは許されない、禁断の愛を扱った問題作！",
+            "NameEn": "Forbidden Love ~Beautiful Sin~",
+            "DescriptionEn": "The latest work from the popular romance novelist who wrote \"Koi About Love\"!\nDelve into a dizzying tale of forbidden love!"
+        },    
+        {
+            "Id": 1148052880,
+            "NameJp": "跳躍探偵ウサギ\n〜霧に包まれた温泉での滑落〜",
+            "DescriptionJp": "そのピンと立った純白の耳は、事件の音を逃さない！跳躍探偵ウサギシリーズ、第3弾！\n今度の舞台は温泉だ！",
+            "NameEn": "Jumping Detective Rabbit ~A trip through the misty hot springs~",
+            "DescriptionEn": "Whenever there's a case, these snow-white bunny ears are sure to crack it! Volume 3 of the Extraordinary Cottontail Detective series! The stage is set at the hot springs!"
+        },
+        {
+            "Id": 1773086852,
+            "NameJp": "高級なクッキーセット",
+            "DescriptionJp": "優しい甘さが絶品の、シュレーディンガーの高級なクッキーセット。クッキーの代わりに他のものが入っている確率もそれなりにある。開けてみないと事象は確定しない。",
+            "NameEn": "Luxury Cookie Set",
+            "DescriptionEn": "Schrödinger's set of exquisite luxury cookies. There is a good chance that something else will be inside instead of the cookies. Contents can not be confirmed unless the box is opened."
+        },
+        {
+            "Id": 4122424050,
+            "NameJp": "スイートチョコポテトチップス",
+            "NameEn": "Sweet Chocolate Chips",
+            "DescriptionJp": "片面にチョコレートがコーティングされたポテトチップス。サクサクとした食感にチョコレートの甘さが加わったが、モモカの好みではなさそうだ。",
+            "DescriptionEn": "Potato chips with a chocolate coating on one side. The sweetness of the chocolate pairs well with crispy texture of the chips, but Momoko doesn't seem to be fond of it."
+        },
+        {
+            "Id": 2341679944,
+            "NameJp": "エンジェルチョコレート",
+            "NameEn": "Angel Chocolate",
+            "DescriptionJp": "「エンジェル24」プライベートブランドのチョコレート。ソラがミスで大量発注した、その最後の一つ。",
+            "DescriptionEn": "Angel 24's store-brand chocolate. The last one of a large order that Sora placed by mistake."
+        },
+        {
+            "Id": 2435557875,
+            "NameJp": "お徳用チョコレートパック",
+            "NameEn": "Chocolate Value Pack",
+            "DescriptionJp": "連邦生徒会に置かれているお徳用のミニチョコレート。リンも仕事中にたまに食べるらしい。",
+            "DescriptionEn": "Mini-chocolate value pack that is available at the Federal Student Council. Rin sometimes eats them during work."
+        },
+        {
+            "Id": 2724075845,
+            "NameJp": "アロナのチョコジンジャークッキー",
+            "NameEn": "Arona's Chocolate Gingerbread Cookies",
+            "DescriptionJp": "アロナが一生懸命作ったチョコジンジャークッキー。先生とアロナの姿が可愛らしく再現されている。",
+            "DescriptionEn": "The chocolate gingerbread cookies that Arona worked so hard to make. The figures of the Sensei and Arona are reproduced in a cute way."
+        },
+        {
+            "Id": 1567224539,
+            "NameJp": "バレンタインペロロ",
+            "NameEn": "Valentine Peroro",
+            "DescriptionJp": "バレンタインデーを記念して発売されたペロロ形のチョコレート。マニアの間でも話題になったその限定商品を、当然ヒフミは見逃さなかった。",
+            "DescriptionEn": "The Peroro-shaped chocolates that were released to commemorate Valentine's Day. Naturally, Hifumi couldn't miss out on this limited edition product that became a hot topic among fans."
+        },
+        {
+            "Id": 984677767,
+            "NameJp": "レーションD型",
+            "NameEn": "D Ration",
+            "DescriptionJp": "オーツ麦とココアパウダーを混ぜた軍用チョコレート。正義のためならばその圧倒的なカロリーもマシロは恐れない。",
+            "DescriptionEn": "Military chocolate made from a mixture of oats and cocoa powder. Mashiro is not afraid of the overwhelming calorie content when it comes to justice."
+        },
+        {
+            "Id": 1666908815,
+            "NameJp": "ハッピーホットチョコレート",
+            "NameEn": "Happy Hot Chocolate",
+            "DescriptionJp": "ハナエが作ってくれた、温かいホットチョコレート。一口飲むと疲れが取れると同時に、幸せな気分が溢れてくる。",
+            "DescriptionEn": "Warm hot chocolate made by Hanae. Taking one sip will relieve your tiredness and make you feel happy at the same time."
+        },
+        {
+            "Id": 3922278991,
+            "NameJp": "ショコラ・デ・ゲヘナ",
+            "NameEn": "Chocolat de Gehenna",
+            "DescriptionJp": "高カロリー・高カフェインのゲヘナ製ダークチョコレート。実はイオリも靴墨と取り違えたことがある。",
+            "DescriptionEn": "Dark Chocolate made in Gehenna, high in calories and high in caffeine. In fact, Iori once mistook it for shoe polish."
+        },
+        {
+            "Id": 342988654,
+            "NameJp": "大量の板チョコレート",
+            "NameEn": "Lots of chocolate bars",
+            "DescriptionJp": "アカリがチョコレート大食い大会に備えるために買ってきた大量の板チョコレート。普通の人は見ただけで満腹になりそう。",
+            "DescriptionEn": "A large amount of chocolate bars that Akari bought to prepare for the chocolate eating competition. A normal person would get full just by looking at it."
+        },
+        {
+            "Id": 741491105,
+            "NameJp": "チョコ団子",
+            "NameEn": "Chocolate Dango",
+            "DescriptionJp": "和菓子屋で売られていたチョコレート味のお団子。意外な取り合わせだが、ジュンコの舌にかなう美味しさ。",
+            "DescriptionEn": "Chocolate flavored dango sold at Japanese sweets shop. An unexpected combination, but it was delicious enough to satisfy Junko's taste buds."
+        },
+        {
+            "Id": 2503165795,
+            "NameJp": "デス·ラブ",
+            "NameEn": "Death·Love",
+            "DescriptionJp": "カヨコの好きな音楽グループ、ブラック·デス·ポイズンのバレンタイン限定シングルを購入するとおまけでもらえるギフト。この見た目だが、味は柔らかくて甘い。",
+            "DescriptionEn": "A gift you get as a bonus when you buy the limited edition Valentine's Day single from Kayoko's favorite music group, Black Death Poison. It may look like this, but the taste is soft and sweet."
+        },
+        {
+            "Id": 3659929614,
+            "NameJp": "ライダーの間食",
+            "NameEn": "Rider's Snack",
+            "DescriptionJp": "シロコがライディング用に常備しているエナジーバー。ナッツが練りこまれており、一口かじればすぐに元気が体の隅々までいきわたる。",
+            "DescriptionEn": "An energy bar that Shiroko always keeps on hand for riding. The nuts are kneaded into the bar, and you can feel the energy spreading to every corner of your body as soon as you bite into it."
+        },
+        {
+            "Id": 3042768744,
+            "NameJp": "海のお友達",
+            "NameEn": "Friend of the Sea",
+            "DescriptionJp": "海洋博物館で売られているチョコレートセットの中のクジラ。クジラの巨大さをホシノは気に入っているが、このクジラは手のひらサイズ。",
+            "DescriptionEn": "A chocolate whale set sold at the Maritime Museum. Hoshino likes the huge size of whales, but this one is the size of the palm of her hand."
+        },
+        {
+            "Id": 1510394578,
+            "NameJp": "砂漠のバラ",
+            "NameEn": "Desert Rose",
+            "DescriptionJp": "アビドスの駅前で売られているバラ模様のチョコレート。砂漠のバラをモチーフにしたチョコレートで、贈り物として人気が高い。",
+            "DescriptionEn": "Rose patterned chocolates sold in front of the train station in Abydos. These chocolates are based on the motif of desert roses and are popular as gifts."
+        },
+        {
+            "Id": 2394567841,
+            "NameJp": "ヴィーナスのチョコレート",
+            "NameEn": "Venus Chocolate",
+            "DescriptionJp": "学生向けとは思えない大胆な形のチョコレート。学生で買うのはエイミくらいかもしれない。",
+            "DescriptionEn": "A bold shaped chocolates that you wouldn't think are meant for students. The only student who would buy it is probably Eimi."
+        },
+        {
+            "Id": 367299249,
+            "NameJp": "盗聴装置14号",
+            "NameEn": "Wiretap Device No.14",
+            "DescriptionJp": "コタマが作った盗聴器が乗ったチョコレート。隠す気配は全く無いようだ。",
+            "DescriptionEn": "Chocolate with a listening device on it made by Kotama. She seems to have no intention of hiding it at all."
+        },
+        {
+            "Id": 919440775,
+            "NameJp": "缶のホットココア",
+            "NameEn": "Can Hot Cocoa",
+            "DescriptionJp": "主に自動販売機で販売されているチョコレートドリンクの缶。この甘さが深夜のチヒロを何度も癒してきた。",
+            "DescriptionEn": "A can of chocolate drink sold mainly from vending machines. The sweetness of this drink has soothed Chihiro many times late at night."
+        },
+        {
+            "Id": 3490934017,
+            "NameJp": "パヴェ・チョコレート（領収書付き）",
+            "NameEn": "Pavé Chocolates (with receipt)",
+            "DescriptionJp": "ユウカが先生のために購入した贈答用チョコレートセット。5000円の領収書が貼られているのだから、5000円のチョコで間違いない。",
+            "DescriptionEn": "A set of gift chocolates that Yuuka bought for Sensei, with a receipt for 5,000 yen on it, so it must be a 5,000 yen worth of chocolates."
+        },
+        {
+            "Id": 419901229,
+            "NameJp": "勇者のチョコレート（アイテム）",
+            "NameEn": "Hero's Chocolate (Item)",
+            "DescriptionJp": "ユズがゲーム内でプレゼントしてくれた期間限定のアイテム。使用するとキャラクターの体力とプレイヤーの心を回復してくれる。",
+            "DescriptionEn": "A limited-time item that Yuzu gave to you as a gift in-game. When used, it restores the character's strength and the player's heart."
+        },
+        {
+            "Id": 3659962553,
+            "NameJp": "手作りチョコスネイル",
+            "NameEn": "Homemade Chocolate 'Snaily'",
+            "DescriptionJp": "アリスがゲーム内のモンスター「スネイル」をモチーフにして手作りしたチョコ。遠めに見ればスネイルに見えないこともない。",
+            "DescriptionEn": "This is a chocolate that Alice made by hand, based on the 'Snaily' monster in the game. If you look at it from afar, it might look like a snail."
+        },
+        {
+            "Id": 941224173,
+            "NameJp": "妖怪MAXチョコレート味",
+            "NameEn": "Youkai MAX Chocolate Flavor",
+            "DescriptionJp": "バレンタインシーズンを記念して発売されたチョコ味の妖怪MAX。意識が覚醒することはともかく、普通の妖怪MAXより美味しいかどうかを決めるにはハレとの議論が必要。",
+            "DescriptionEn": "A chocolate-flavored Youkai Max released to celebrate the Valentine's Day season; aside from increasing your energy, you'll have to argue with Hare to decide if it tastes better than regular Youkai Max."
+        },
+        {
+            "Id": 1781832965,
+            "NameJp": "チョコ味のスプレー",
+            "NameEn": "Chocolate-flavored Spray",
+            "DescriptionJp": "インクの代わりにチョコレートを噴射するスプレー。マキによると、世の中を甘くするのに使えるらしい。",
+            "DescriptionEn": "A spray can that sprays chocolate instead of paint. According to Maki, it can be used to sweeten the world."
+        },
+        {
+            "Id": 4075915701,
+            "NameJp": "チョコレート砲弾Mk.2",
+            "NameEn": "Chocolate Shell Mk.2",
+            "DescriptionJp": "ヒビキがバレンタインデーイベントの行事用に開発したチョコレート砲弾。威力が高すぎてイベントでは使用できなかった。",
+            "DescriptionEn": "A chocolate cannonball developed by Hibiki for the Valentine's Day event. It was too powerful to be used in the event."
+        },
+        {
+            "Id": 2579538323,
+            "NameJp": "チョコレートネジ",
+            "NameEn": "Chocolate Screws",
+            "DescriptionJp": "銀紙で包装されたネジ型チョコレート。ウタハですら一目で見抜けないほど完璧な造形だが、工具としては使用できない。",
+            "DescriptionEn": "A screw-shaped chocolate wrapped in silver paper. The shape is so perfect that even Utaha can't recognize it at a glance, but it can't be used as a tool."
+        },
+        {
+            "Id": 3469911388,
+            "NameJp": "チェリョンカ",
+            "NameEn": "Cheryonka",
+            "DescriptionJp": "レッドウィンターの給食部で生産している、レッドウィンター連邦学園特製のミルクチョコレート。チェリノがすでに一口味わったもの。",
+            "DescriptionEn": "Red Winter Federal Academy's special milk chocolate, produced by Red Winter's School Lunch Club. Something that Cherino had already tasted a bite of."
+        },
+        {
+            "Id": 1188251464,
+            "NameJp": "改良型チェリョンカ",
+            "NameEn": "Improved Cheryonka",
+            "DescriptionJp": "トモエ描き下ろしの可愛いイラストが入った、改良型チェリョンカ。味は従来のチェリョンカとほとんど変わらない。",
+            "DescriptionEn": "An improved version of Cheryonka with a cute illustration drawn by Tomoe. The taste is almost the same as the traditional Cheryonka."
+        },
+        {
+            "Id": 3845682331,
+            "NameJp": "カカオの実",
+            "NameEn": "Cacao Bean",
+            "DescriptionJp": "先生にチョコレートをプレゼントしたかったノドカがやっと手に入れたカカオの実。甘くはないが、加工してお茶のように沸かして飲むと良い風味が出る。",
+            "DescriptionEn": "Nodoka, who wanted to give chocolate to Sensei, finally got her hands on some cacao bean. It is not sweet, but gives a nice flavor when processed and brewed into a hot drink."
+        },
+        {
+            "Id": 410737829,
+            "NameJp": "不老不死の霊薬(失敗作)",
+            "NameEn": "Elixir of Immortality (Failed)",
+            "DescriptionJp": "サヤがチョコレートをベースに作った新しい霊薬。味も効果も従来のチョコと変わらないので、ただのチョコと言って良いのかもしれない。",
+            "DescriptionEn": "A new elixir created by Saya based on chocolate. The taste and effects are the same as those of conventional chocolate, so it may as well just be a chocolate."
+        },
+        {
+            "Id": 1298182383,
+            "NameJp": "大人のラムボンボン",
+            "NameEn": "Adult's Rum Bonbon",
+            "DescriptionJp": "ラム入りの濃厚な香りのボンボンチョコレート。学生が食べるには少し早い味。もちろんシュンにとっても。",
+            "DescriptionEn": "Richly scented chocolate bonbon with rum filling. Students are a bit too young to enjoy such things. And that goes for Shun too, of course."
+        },
+        {
+            "Id": 125955518,
+            "NameJp": "チョコレート手錠",
+            "NameEn": "Chocolate handcuffs",
+            "DescriptionJp": "手錠の形をしたチョコレート。実際に手錠として使おうとしたキリノの発想は、メーカーとしても予想外だった。",
+            "DescriptionEn": "Chocolate in the shape of handcuffs. Kirino's idea of actually using them as handcuffs was unexpected even for the manufacturer."
+        },
+        {
+            "Id": 1951960570,
+            "NameJp": "特製チョコクルーラー",
+            "NameEn": "Special Chocolate Cruller",
+            "DescriptionJp": "マスタードーナッツにてバレンタインシーズン限定で発売される、スプリンクルがかかった特製のチョコクルーラー。フブキにとってバレンタインとはこれを食べられる日という意味。",
+            "DescriptionEn": "A special chocolate cruller with sprinkles, available only during the Valentine's Day season at Master Donut. For Fubuki, Valentine's Day means the day she can eat this."
+        },
+        {
+            "Id": 711391590,
+            "NameJp": "チョコ埴輪",
+            "NameEn": "Chocolate Haniwa",
+            "DescriptionJp": "ハナコが用意した埴輪形のチョコレート。どこから見ても視線が合う気がする。",
+            "DescriptionEn": "The haniwa-shaped chocolate that Hanako prepared. Regardless of how you turn it, it feels like your line of sight would always meet its gaze."
+        },
+        {
+            "Id": 4101876,
+            "NameJp": "リトル·ブレット",
+            "NameEn": "Little·Bullet",
+            "DescriptionJp": "ハスミがくれた狙撃小銃の弾丸型のチョコレート。小さいが、その甘さは胸を打ち抜く。",
+            "DescriptionEn": "A chocolate in the shape of a sniper rifle bullet given by Hasumi. It's small, but its sweetness hits right to the heart."
+        },
+        {
+            "Id": 2407160249,
+            "NameJp": "ヒナの手作りチョコレート",
+            "NameEn": "Hina's Homemade Chocolate",
+            "DescriptionJp": "ヒナの手作りチョコレート。見た目は整っていないが、ふり絞られた勇気は何よりも美しい。",
+            "DescriptionEn": "Hina's homemade chocolate. May not look like much, but the effort it took is more precious than anything else."
+        },
+        {
+            "Id": 1422578612,
+            "NameJp": "あなたのための一口の休息",
+            "NameEn": "A Bite of Rest For You",
+            "DescriptionJp": "アコが厳選した材料を使用した自家製チョコレート。一見して手作りとはわからない完璧な出来栄えで、仕事中でも食べやすいその味とサイズは、アコの有能さや気遣いの表れでもある。",
+            "DescriptionEn": "Homemade chocolates made with ingredients carefully selected by Ako. At first glance, it's such a perfect item that you wouldn't believe it to be homemade, and its taste and size, which are easy to eat even at work, are a sign of Ako's skill and care."
+        },
+        {
+            "Id": 87498756,
+            "NameJp": "すごく！おいしい！！チョコレート！！！",
+            "NameEn": "Super! Delicious! Chocolate!!!",
+            "DescriptionJp": "イズミが思う最高の材料をたくさん使って作った、イズミの手作りチョコレート。しょっぱくて香ばしい味がポイント。",
+            "DescriptionEn": "Izumi's homemade chocolates made with many of the best ingredients that Izumi thought of. The key point is the salty and savory taste."
+        },
+        {
+            "Id": 1899678676,
+            "NameJp": "社長の最高級チョコレート",
+            "NameEn": "The President's Finest Chocolate",
+            "DescriptionJp": "アルが日頃の協力への感謝としてくれたチョコレート。大事なのは買った値段ではなく、誰がどんな気持ちでくれたかである。",
+            "DescriptionEn": "The chocolates that Aru gave me as a thank you for daily efforts. The important thing is not the price of the chocolate, but who gave it to you and how they felt about it."
+        },
+        {
+            "Id": 171489856,
+            "NameJp": "地獄のロシアンルーレット",
+            "NameEn": "Hell's Russian Roulette",
+            "DescriptionJp": "当たってしまえば地獄を見るかもしれない、いたずら用のロシアンルーレットチョコレート。ムツキのブックマークにはこうした商品が大量に保存されている。",
+            "DescriptionEn": "A russian roulette chocolates for pranking that might make you see hell if you eat the wrong one. Mutsuki has a large number of such products stored in her bookmarks."
+        },
+        {
+            "Id": 2099851060,
+            "NameJp": "ココアが入ったマグカップ",
+            "NameEn": "Mugs filled with Cocoa",
+            "DescriptionJp": "フウカが先生のために入れてくれたココア。先生の健康を気遣う心のおかげか、実際の味以上に甘く温かい。",
+            "DescriptionEn": "The cocoa that Fuuka made for Sensei. Her concern for the Sensei's health made it even sweeter and warmer."
+        },
+        {
+            "Id": 1852286999,
+            "NameJp": "ジュリの手作りチョコレート",
+            "NameEn": "Juri's Homemade Chocolate",
+            "DescriptionJp": "ジュリが全力を尽くした手作りチョコレート。食べたはずなのだが味は分からない。分からなくていいのかもしれない。その真心だけは伝わったのだから。",
+            "DescriptionEn": "Homemade chocolate that Juri did her best to make. Even if you eat it, you will not taste anything. Maybe it's okay not to know. Because the sincerity of her message was conveyed either way."
+        },
+        {
+            "Id": 1269992298,
+            "NameJp": "共にする時間",
+            "NameEn": "Our Time Together",
+            "DescriptionJp": "セリカがバイト先でもらった最高級チョコレートケーキ。労働の苦労と喜びが、何よりも味を引き立ててくれる。",
+            "DescriptionEn": "The finest chocolate cake that Serika received from her part-time job. The hardships and joys of labor enhance the taste more than anything else."
+        },
+        {
+            "Id": 265930468,
+            "NameJp": "おやつ担当のお仕事",
+            "NameEn": "Snack Supervisor's Choice",
+            "DescriptionJp": "アビドスのおやつ担当であるノノミが用意したチョコレートセット。先生や個性的な対策委員会メンバーのだれもが楽しめるよう、あらゆる種類のチョコが詰まっている。",
+            "DescriptionEn": "The chocolate set that was prepared by Nonomi, who is in charge of Abydos' snacks. It's filled with all kinds of chocolates for everyone to enjoy, including Sensei and members of the  Countermeasures Committee."
+        },
+        {
+            "Id": 689413464,
+            "NameJp": "選りすぐりの一品",
+            "NameEn": "The Best Selection",
+            "DescriptionJp": "スミレが実際に試食し、100種類以上の中から選び抜いた最高の栄養食品。これだけで一日動けるほどの大量のカロリーを素早く摂れるが、当然その後は相応の運動が必要になる。",
+            "DescriptionEn": "The best nutritional food that Sumire has actually tasted and selected from over a hundred different kinds. This alone can provide large enough amount of calories to keep you moving for a day, but of course, you will need to do a reasonable amount of exercise afterwards."
+        },
+        {
+            "Id": 3328209817,
+            "NameJp": "カシオペアの拳～ウーパールーパー大列伝～",
+            "NameEn": "Cassiopeia's Fist: The Great Upalupa's Tale",
+            "DescriptionJp": "モモイがクレーンゲーム機で獲得した食玩チョコレート。人気格闘ゲーム『カシオペアの拳~ウーパールーパー大列伝~』のマスコットキャラクターのおもちゃが同梱されている。全7種類。",
+            "DescriptionEn": "A chocolate toy that Momoi won from a crane game machine. It includes a toy of the mascot character from the popular fighting game 'Cassiopeia's Fist: The Greate Upalula's Tale'. There are seven types in all."
+        },
+        {
+            "Id": 3385816833,
+            "NameJp": "ミドリの手作りチョコレート",
+            "NameEn": "Midori's Homemade Chocolate",
+            "DescriptionJp": "たくさんの練習。手探りの試行錯誤。失敗と再挑戦、そして早起き。彼女がゲームと絵以外のことでこういった努力をするのは、初めてのことかもしれない。",
+            "DescriptionEn": "Lots of practice. Trial and error. Failing, then trying again, and waking up early. This may be the first time she has made such an effort for something other than games and drawing."
+        },
+        {
+            "Id": 3589704604,
+            "NameJp": "四字熟語チョコ煎餅",
+            "NameEn": "Four-Character Idiom Chocolate Fortune Cookies",
+            "DescriptionJp": "様々な四字熟語が盛り込まれているチョコレート菓子。まじめな四字熟語の中に時折変な言葉が混じっているあたりが、チセのお気に入りのようだ。",
+            "DescriptionEn": "A chocolate candy that contains a variety of four-character idioms. Chise's favorite part is that there are sometimes strange words mixed in with the serious four-character idioms."
+        },
+        {
+            "Id": 3842989732,
+            "NameJp": "百夜堂の限定スイーツ",
+            "NameEn": "Momoyo Hall's Limited Edition Sweets",
+            "DescriptionJp": "百夜堂でバレンタインにのみ販売される特別なスイーツ。告知もされず、メニューにも載っておらず、誰に売るものなのかをシズコは教えてくれない。",
+            "DescriptionEn": "A special sweet sold only on Valentine's Day at Momoyo Hall. It's not announced, it's not on the menu, and Shizuko won't say who it's sold to."
+        },
+        {
+            "Id": 3251730635,
+            "NameJp": "特製忍者グッズ49番「チョコレートセット」",
+            "NameEn": "Special Ninja Goods No. 49「Chocolate Set」",
+            "DescriptionJp": "各種忍者道具がいっぱい入った夢の忍者チョコレートセット。主殿と味わいたいがために、イズナが朝早くから並んで手に入れた一品。実際に使用することはできないので要注意。",
+            "DescriptionEn": "Ultimate ninja chocolate set filled with various ninja tools. Izuna lined up early in the morning to get this item so that she could taste it with her lord. Please note that they cannot be used in actual combat."
+        },
+        {
+            "Id": 4247091559,
+            "NameJp": "安眠チョコレートと安眠グッズセット",
+            "NameEn": "A Good Night's Sleep Chocolate and Bedding Essentials Set",
+            "DescriptionJp": "いつも過労気味の先生のためにツバキが用意してくれた安眠グッズ一式。より眠りやすい枕が欲しくなった時にはツバキを呼ぼう。普通に買うと合計3,980円。",
+            "DescriptionEn": "A set of good night's sleep goods that Tsubaki prepared for the always overworked Sensei. Whenever you want a pillow that will help you sleep better, call Tsubaki. If you buy it normally, the total cost is 3,980 yen."
+        },
+        {
+            "Id": 2771361458,
+            "NameJp": "ワカモの愛がこもったチョコレート",
+            "NameEn": "Chocolate filled with Wakamo's Love",
+            "DescriptionJp": "ワカモが溢れる熱い思いをいっぱい込めて作ったチョコレート。ただし込められているのが本当に愛情だけなのかは定かでない。",
+            "DescriptionEn": "A chocolate made by Wakamo with a lot of thought and passion. However, it is not clear if it's really just love that's put into it."
+        },
+        {
+            "Id": 1572630441,
+            "NameJp": "美食の証明（抹茶味）",
+            "NameEn": "Proof of Gourmet (Matcha Flavor)",
+            "DescriptionJp": "ハルナが美食の研究の一環で作った抹茶チョコレート。噛みしめると、深い苦みの中から甘さが滲み出てくる。",
+            "DescriptionEn": "Matcha flavored chocolate made by Haruna as part of her gourmet research. When you bite into it, the sweetness oozes out from the deep bitterness."
+        },
+        {
+            "Id": 3743008500,
+            "NameJp": "バレンタインの聖者スカルマン",
+            "NameEn": "St. Skull Man Valentine's Day",
+            "DescriptionJp": "アズサが用意した『死の死神スカルマン』のチョコレートバージョン。食べてしまえば骨も残らないが、込められた思いはきっと残る。",
+            "DescriptionEn": "The chocolate version of the 'Grim Reaper of Death, Skull Man' prepared by Azusa. Once it is eaten, there will be no bones left, but the thought that went into it will surely remain."
+        },
+        {
+            "Id": 1084418779,
+            "NameJp": "ラブリー·クロスライン",
+            "NameEn": "Lovely·Crossline",
+            "DescriptionJp": "コハルが持ってきた有名なチョコレート。ホワイトチョコとダークチョコが混ざっており、黒の十字模様がとても魅力的。",
+            "DescriptionEn": "The famous chocolate brought by Koharu. It is an assortment of white and dark chocolate, with a very attractive black cross pattern."
+        },
+        {
+            "Id": 2742248602,
+            "NameJp": "トゥインクルスター",
+            "NameEn": "Twinkle Star",
+            "DescriptionJp": "スズミがコンビニで買ってくれた星型のチョコレート。包みを開くと金箔がかけられており、キラキラと静かに輝きを放つ。",
+            "DescriptionEn": "A star-shaped chocolate that Suzumi bought at a convenience store. Its golden foil wrapping is glittering brilliantly."
+        },
+        {
+            "Id": 663608497,
+            "NameJp": "ホーリー・チョコレート",
+            "NameEn": "Holy・Chocolate",
+            "DescriptionJp": "マリーがプレゼントしてくれたチョコレート。シスターフッドのお土産として人気で、最初から食用ではなく展示用だったのかもしれない。",
+            "DescriptionEn": "The chocolates that Mari gave as a gift. It was a popular souvenir among the Sisterhood, and may have been intended for display rather than for eating."
+        },
+        {
+            "Id": 848260985,
+            "NameJp": "本のお友",
+            "NameEn": "A Book's Friend",
+            "DescriptionJp": "手が汚れない特殊なコーティングが施されたチョコレート。シミコをはじめ読書家の間で人気が高い。",
+            "DescriptionEn": "Chocolate with a special coating that keeps your hands clean. It is very popular among avid readers, including Shimiko."
+        },
+        {
+            "Id": 1900401189,
+            "NameJp": "ビー·ウィズ·ユー",
+            "NameEn": "Be·With·You",
+            "DescriptionJp": "セリナが作ってくれた手作りチョコレート。その甘い味わいは心までほっとさせてくれる。",
+            "DescriptionEn": "Homemade chocolate made by Serina. The sweet taste of the chocolates makes you feel relaxed."
+        },
+        {
+            "Id": 4183660781,
+            "NameJp": "ペニーロイヤルチョコミント",
+            "NameEn": "Pennyroyal Mint Chocolate",
+            "DescriptionJp": "アイリが用意した特別なチョコミント。マニアの間では大人気かつ特別なものらしいが、どれくらいどのように特別なのかを理解するには、アイリに説明をしてもらう必要がありそうだ。",
+            "DescriptionEn": "A special mint chocolate prepared by Airi. Apparently they are very popular and special among fans, but to understand how special it is, you'll have to ask Airi to explain it."
+        },
+        {
+            "Id": 1868703267,
+            "NameJp": "ヨシミの限定チョコレート",
+            "NameEn": "Yoshimi's Limited Edition Chocolate",
+            "DescriptionJp": "ヨシミの手作りチョコレート。幾つかの意味で、他では見られない貴重な限定モノ。",
+            "DescriptionEn": "Yoshimi's homemade chocolates. In some ways, it's a rare and limited edition item that can't be found anywhere else."
+        },
+        {
+            "Id": 355355427,
+            "NameJp": "言葉よりチョコレート",
+            "NameEn": "Chocolate over Words",
+            "DescriptionJp": "ナツの手作りと予想されるチョコレート。ナツの雄弁な言葉の代わりにしてはシンプルで、だからこそ美しさが感じられるデザインになっている。",
+            "DescriptionEn": "The chocolate that is believed to have been homemade by Natsu. The design is kept laconic in stark contrast to Natsu's eloquent words, and that is why it is so beautiful."
+        },
+        {
+            "Id": 2098665142,
+            "NameJp": "フォーチュンチョコレート（自作）",
+            "NameEn": "Fortune Chocolate (Homemade)",
+            "DescriptionJp": "チナツが準備してきたチョコレート。どれを選んでも同じになるなら、それは運命と呼んでも良いかもしれない。",
+            "DescriptionEn": "The chocolates that was prepared by Chinatsu. The message inside will always be the same, that might as well be fate itself."
+        },
+        {
+            "Id": 3487183095,
+            "NameJp": "バンデージチョコ",
+            "NameEn": "Bandage Chocolate",
+            "DescriptionJp": "セナが勤務中に作った食べ物。包装紙が見つからずに包帯が巻かれているが、人体に問題はないとお墨付きだし、仮に倒れてもきっとセナが看病してくれる。",
+            "DescriptionEn": "Food that Sena made while she was on duty. She had no wrapping paper and used bandages instead, but it is guaranteed to be safe for human consumption, and even if you collapse, Sena will surely take care of you."
+        },
+        {
+            "Id": 3066393242,
+            "NameJp": "カカオ99.99%",
+            "NameEn": "Cacao 99.99%",
+            "DescriptionJp": "先生のためにハルカが準備したチョコレート。99.99という数字を見て「とりあえず凄そう」と感じたら便利屋68に向いているのかもしれない。",
+            "DescriptionEn": "The chocolate that was prepared by Haruka for Sensei. If you look at the number 99.99 and think, 'At any rate, that looks amazing,' you might be a good candidate for Handyman 68."
+        },
+        {
+            "Id": 3579363383,
+            "NameJp": "ツイステッドバレンタイン",
+            "NameEn": "Twisted Valentine",
+            "DescriptionJp": "ご主人様のためにアスナが準備してきたチョコレート。保管と運搬の際にちょっとした変形が起きてしまった。",
+            "DescriptionEn": "The chocolates that Asuna had prepared for her master. During storage and transportation, a slight deformation occurred."
+        },
+        {
+            "Id": 304962670,
+            "NameJp": "メイド·バイ",
+            "NameEn": "Made·By",
+            "DescriptionJp": "アカネの手作りチョコレート。特別なところのない、単なる生徒から先生への贈り物……のように見えてメイドとしての優れた手腕が隠しきれていない。",
+            "DescriptionEn": "Akane's homemade chocolates. It looks like a mere gift from a student to a teacher with nothing special about it..., but it can't hide her excellent skills as a maid."
+        },
+        {
+            "Id": 1933815846,
+            "NameJp": "チョコオムライス",
+            "NameEn": "Chocolate Omurice",
+            "DescriptionJp": "バレンタインデーを迎え、カリンが用意したオムライス。ケチャップの代わりにチョコレートでハートが描かれている、オムライス本来の味とチョコの甘みが調和した素晴らしい品。",
+            "DescriptionEn": "Omurice that was prepared by Karin for Valentine's Day. Instead of ketchup, a chocolate heart is drawn on the rice, and the omelette's original flavor and the sweetness of the chocolate come together in harmony."
+        },
+        {
+            "Id": 1957428602,
+            "NameJp": "チョコレート版画：竜",
+            "NameEn": "Chocolate Print: Dragon",
+            "DescriptionJp": "ネルがどこかから持ってきた、チョコレートでできている竜の模様の版画。見た目が強いので味もすごいはずだ、とネルは思っている。",
+            "DescriptionEn": "A print of a dragon pattern made of chocolate that Neru brought from somewhere. Neru thinks that since it looks so strong, it must taste amazing too."
+        },
+        {
+            "Id": 1255509912,
+            "NameJp": "バレンタイン·ビギニング",
+            "NameEn": "Valentine·Beginning",
+            "DescriptionJp": "バレンタインの起源や意義を説明するためにコトリが作ったチョコレート。一口かじれば連綿と紡がれてきた歴史が口にあふれる。",
+            "DescriptionEn": "Kotori made this chocolate to explain the origin and significance of Valentine's Day. When you take a bite, your mouth will be flooded with the history that has been passed down from generation to generation."
+        },
+        {
+            "Id": 1303875154,
+            "NameJp": "甘い杯",
+            "NameEn": "Sweet Sake Cup",
+            "DescriptionJp": "フィーナが持ってきた杯型のチョコレート。長く持っていると溶けてしまうので、素早く味わうのが作法である。",
+            "DescriptionEn": "The cup-shaped chocolate that Pina brought. If you hold it for too long, it will melt, so the etiquette is to taste it quickly."
+        },
+        {
+            "Id": 1082089594,
+            "NameJp": "アマンド·クリムゾン",
+            "NameEn": "Almond·Crimson",
+            "DescriptionJp": "ツルギが残したアーモンドチョコレート。可愛らしい赤いリボンが結ばれており、おそらくお店側で付けたリボンではない。",
+            "DescriptionEn": "Almond chocolate left by Tsurugi. It was tied with a pretty red ribbon, probably not the ribbon that the store had given her."
+        },
+        {
+            "Id": 1522817419,
+            "NameJp": "満点の答案用紙",
+            "NameEn": "Perfect Answer Sheet",
+            "DescriptionJp": "見事に満点を獲得した試験の答案用紙です、頑張りましたね！",
+            "DescriptionEn": "The answer sheet for the exam that you got a perfect score on, good job!"
+        },
+        {
+            "Id": 2160888131,
+            "NameJp": "ヴォルフスエック鋼鉄の欠片",
+            "DescriptionJp": "精錬中に零れ落ちたヴォルフスエック鋼鉄の欠片。製造や強化に使用される。",
+            "NameEn": "Wolfsegg Iron",
+            "DescriptionEn": "A piece of residual Wolfsegg iron from the smelting process. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 3399341924,
+            "NameJp": "トーテムポールの破片",
+            "NameEn": "Totem Pole Fragment",
+            "DescriptionJp": "トーテムポールの破片。製造や強化に使用される。",
+            "DescriptionEn": "A fragment oh the Totem Pole. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 3885013922,
+            "NameJp": "破損したトーテムポール",
+            "NameEn": "Broken Totem Pole",
+            "DescriptionJp": "かなりの部分が破損したトーテムポール。製造や強化に使用される。",
+            "DescriptionEn": "A Totem Pole broken beyond repair. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 4223626783,
+            "NameJp": "修復済みのトーテムポール",
+            "NameEn": "Repaired Totem Pole",
+            "DescriptionJp": "幾つかのトーテムポールを寄せ合わせて修理したトーテムポール。製造や強化に使用される。",
+            "DescriptionEn": "A Totem Pole repaired by putting various pieces together. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 1991681492,
+            "NameJp": "完全なトーテムポール",
+            "NameEn": "Intact Totem Pole",
+            "DescriptionJp": "完全な状態のトーテムポール。製造や強化に使用される。",
+            "DescriptionEn": "An intact Totem Pole. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 1475262601,
+            "NameJp": "古代の電池の破片",
+            "NameEn": "Ancient Battery Fragment",
+            "DescriptionJp": "古代の電池の壊れた部品。製造や強化に使用される。",
+            "DescriptionEn": "Shattered parts of an ancient battery. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 3050372668,
+            "NameJp": "破損した古代の電池",
+            "NameEn": "Damaged Ancient Battery",
+            "DescriptionJp": "かなりの部分が破損した古代の電池。製造や強化に使用される。",
+            "DescriptionEn": "Ancient battery with a significant amount of damage. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 3846626706,
+            "NameJp": "摩耗した古代の電池",
+            "NameEn": "Depleted Ancient Battery",
+            "DescriptionJp": "今となっては動作していない古代の電池。製造や強化に使用される。",
+            "DescriptionEn": "Ancient battery that is no longer working. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 675535925,
+            "NameJp": "完全なる古代の電池",
+            "NameEn": "Intact Ancient Battery",
+            "DescriptionJp": "完全な状態の古代の電池。製造や強化に使用される。",
+            "DescriptionEn": "An intact Ancient Battery. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 2203771245,
+            "NameJp": "黄金の糸",
+            "NameEn": "Golden Thread",
+            "DescriptionJp": "黄金色に輝く珍しい羊の毛から得られた糸。製造や強化に使用される。",
+            "DescriptionEn": "A thread spun from rare sheep's wool that shines like gold. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 1712573168,
+            "NameJp": "黄金の巻糸",
+            "NameEn": "Golden Thread Spool",
+            "DescriptionJp": "黄金の羊毛から得られた糸の束。製造や強化に使用される。",
+            "DescriptionEn": "A spool of thread spun from golden wool. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 1575525577,
+            "NameJp": "大きな黄金の巻糸",
+            "NameEn": "Golden Thread Yarn",
+            "DescriptionJp": "黄金の羊毛から得られたたくさんの糸の束。製造や強化に使用される。",
+            "DescriptionEn": "A ball of golden wool yarn. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 1453501240,
+            "NameJp": "黄金の布",
+            "NameEn": "Golden Fleece",
+            "DescriptionJp": "黄金の羊毛から得られた糸でできた、高級感のある布。製造や強化に使用される。",
+            "DescriptionEn": "Luxurious cloth made of golden wool. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 1790524054,
+            "NameJp": "髪伸び人形の破片",
+            "NameEn": "Broken Okiku Doll",
+            "DescriptionJp": "髪伸び人形の破片の一部。製造や強化に使用される。",
+            "DescriptionEn": "Broken piece of a hair-growing Okiku doll. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 1835718573,
+            "NameJp": "破損した髪伸び人形",
+            "NameEn": "Damaged Okiku Doll",
+            "DescriptionJp": "かなり傷ついてしまった髪伸び人形。製造や強化に使用される。",
+            "DescriptionEn": "A damaged hair-growing Okiku doll. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 1545254610,
+            "NameJp": "修理済みの髪伸び人形",
+            "NameEn": "Repaired Okiku Doll",
+            "DescriptionJp": "あちこちを綺麗にしてもらった髪伸び人形。製造や強化に使用される。",
+            "DescriptionEn": "A hair-growing Okiku doll that has been patched up. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 647237127,
+            "NameJp": "完全な髪伸び人形",
+            "NameEn": "Intact Okiku Doll",
+            "DescriptionJp": "完全な状態の髪伸び人形。製造や強化に使用される。",
+            "DescriptionEn": "A hair-growing Okiku doll in perfect condition. Used in various crafted items and enhancements."
+        },        
+        {
+            "Id": 2742824586,
+            "NameJp": "総力戦レアコイン",
+            "NameEn": "Rare Raid Coin",
+            "DescriptionJp": "総力戦ショップで利用可能なレアコイン。",
+            "DescriptionEn": "This coin can be spent at the Raid Shop."
+        },
+        {
+            "Id": 120965197,
+            "NameJp": "ミッションデータ1：TypeD ",
+            "NameEn": "Mission data 1: Type D",
+            "DescriptionJp": "デカグラマトンの分析に役立つデータが入っている",
+            "DescriptionEn": "Contains data useful for analyzing Decagrammaton"
+        },
+        {
+            "Id": 3320765287,
+            "NameJp": "チョコレートコイン",
+            "NameEn": "Chocolate Coin",
+            "DescriptionJp": "ゴールデンフリース号内に出回っている代表的なお菓子の一つ。あくまでもお菓子で本物のコインではないが、普通に美味しいため生徒たちの間で人気が高い。",
+            "DescriptionEn": "One of the typical sweets on the Golden Fleece. Although it is a sweet and not a real coin, it is popular among students because it's delicious."
+        },
+        {
+            "Id": 312190930,
+            "NameJp": "ウサギのステッカー",
+            "NameEn": "Rabbit Sticker",
+            "DescriptionJp": "生徒たちがあちこちに貼っているウサギ模様のステッカー。色んな生徒たちが自由に作っては、色んな所に自由に貼っている。",
+            "DescriptionEn": "Rabbit-shaped stickers that students are putting up all over the place. These are made by various students and get stuck in random places."
+        },
+        {
+            "Id": 3290352412,
+            "NameJp": "乗船チケット",
+            "NameEn": "Boarding Ticket",
+            "DescriptionJp": "ゴールデンフリース号の乗船チケット。乗船後もイベントの時などに確認されることがあるため、肌身離さず持っていることが推奨される。",
+            "DescriptionEn": "A ticket to board the Golden Fleece. Please keep it with you for verification purposes even after boarding the ship."
+        },
+        {
+            "Id": 812405886,
+            "NameJp": "サイコロ",
+            "NameEn": "Die",
+            "DescriptionJp": "ゴールデンフリース号の中でよく見かけるサイコロ。時々生徒間のトラブルを解決するのに使われることもあるらしい。",
+            "DescriptionEn": "A die often seen on the Golden Fleece. Apparently it is sometimes used to solve disputes between students."
+        },
+        {
+            "Id": 1102568152,
+            "NameJp": "温泉タオル",
+            "NameEn": "Hot Spring Towel",
+            "DescriptionJp": "227号温泉郷で提供しているタオル。素材はあまり良くないため、身体に当てる際に強くこすり過ぎないようご注意を。",
+            "DescriptionEn": "Towels provided at No. 227 Hot Spring Resort. The material is not very good, so be careful not to rub it too hard when toweling off."
+        },
+        {
+            "Id": 4012080640,
+            "NameJp": "おひげシャンプー",
+            "NameEn": "Beard Shampoo",
+            "DescriptionJp": "チェリノが愛用している、レッドウィンター連邦学園の特製シャンプー。名前に「ひげ」と付いているものの、お髭を洗うのには適していないらしい。",
+            "DescriptionEn": "A special shampoo from the Red Winter Federal Academy that Cerino loves. Although it has \"beard\" in its name, it seems that it is not suitable for washing beards."
+        },
+        {
+            "Id": 2585452848,
+            "NameJp": "カピバラ型の入浴剤",
+            "NameEn": "Capybara-shaped Bath Salt",
+            "DescriptionJp": "カピバラの形をした固形の入浴剤。水中に入れると、ほのかな柑橘系の香りが漂う。",
+            "DescriptionEn": "A solid lump of bath salt in the shape of a capybara. When immersed in water, it has a faint citrus scent."
+        },
+        {
+            "Id": 1545493133,
+            "NameJp": "福袋",
+            "NameEn": "Lucky Bag",
+            "DescriptionJp": "黒亀組が販売しているお正月の福袋。開けてみるまで何が入っているかは分からないものの、意外と中身は充実している。",
+            "DescriptionEn": "This is a New Year's gift bag sold by Black Tortoise Clan. Although you won't know what's in it until you open it, the contents feel surprisingly substantial."
+        },
+        {
+            "Id": 1215702584,
+            "NameJp": "ペロロ餅",
+            "NameEn": "Peroro Mochi",
+            "DescriptionJp": "お正月ということで、「ペロロ」に目を付けた黒亀組が販売している鏡餅型の装飾品。あくまで装飾品であり、食べることはできない。",
+            "DescriptionEn": "This is a Kagami mochi ornament sold by the Black Tortoise Clan, who took notice of Peroro popularity during the New Year holidays. It is just a decoration and cannot be eaten."
+        },
+        {
+            "Id": 130031945,
+            "NameJp": "黒亀組の絵馬",
+            "NameEn": "Black Tortoise Clan Ema",
+            "DescriptionJp": "黒亀組が販売している絵馬。お賽銭を入れた後にこの絵馬に願いごとを書くと、その願いが叶うと言われている。普通に買うと1個あたり5千円。",
+            "DescriptionEn": "An Ema sold by Black Tortoise Clan. It is said that if you write a wish on this wooden plaque after making a donation, that wish will come true. Normally sells for 5,000 yen per piece."
+        },
+        {
+            "Id": 3586118070,
+            "NameJp": "おみくじ引換券",
+            "NameEn": "Fortune Slip Voucher",
+            "DescriptionJp": "おみくじと交換するための引換券。実は真っ当なおみくじではなく黒亀組が販売しているもので、その結果に応じて別の商品が貰える。",
+            "DescriptionEn": "A voucher that can be exchanged for a fortune reading. In fact, it's not  just a regular omikuji, but one sold by the Black Tortoise Clan, and depending on the result, you get a different item."
+        },
+        {
+            "Id": 1669990889,
+            "NameJp": "問題児の反省文",
+            "NameEn": "Written Apologies of a Problem Student",
+            "DescriptionJp": "バレンタインデーのパトロール業務で補導された問題児が書いた反省文。意外に内容は堅実である。",
+            "DescriptionEn": "An apology letter written by a problem child who was arrested for loitering on Valentine's Day. The content is surprisingly heartfelt."
+        },
+        {
+            "Id": 2861703465,
+            "NameJp": "押収された違法駄菓子",
+            "NameEn": "Seized Illegal Candy",
+            "DescriptionJp": "バレンタインデーパトロール業務中に押収した駄菓子。正式には許可されていない裏の世界で作られたものだという。問題児好みの悪い味。",
+            "DescriptionEn": "This candy was seized during Valentine's Day patrol operations. It is believed to have been manufactured without an official permit. A bad taste for problem children."
+        },
+        {
+            "Id": 2887327615,
+            "NameJp": "環境美化活動用ゴミ袋",
+            "NameEn": "Cleanup Day Garbage Bag",
+            "DescriptionJp": "バレンタインデーのパトロール業務のついでにあちこちで収集したごみが入っている袋。こういった美化活動は何だかんだでとてもやりがいがある。",
+            "DescriptionEn": "A bag containing garbage collected here and there during Valentine's Day patrol rounds. This kind of beautification activity is very rewarding."
+        },
+        {
+            "Id": 3085567581,
+            "NameJp": "バレンタインデーのお誘い",
+            "NameEn": "Valentine's Day invitation",
+            "DescriptionJp": "誰かがあなたを待っているという証。特別な日にはきっと、特別な出会いがある。※イベント終了後、未使用の「バレンタインデーのお誘い」は200,000クレジットに変換されます",
+            "DescriptionEn": "Proof that someone is waiting for you. There will surely be a special encounter on a special day. ※Unused \"Valentine's Day Invitation\" will be converted to 200,000 credits after the event ends."
+        },
+        {
+            "Id": 1632581989,
+            "NameJp": "ワカモの逮捕状",
+            "NameEn": "Wakamo's Arrest Warrant",
+            "DescriptionJp": "ワカモを逮捕するために、ヴァルキューレ警察学校から発布された逮捕状。ワカモがこれまで犯してきた恐ろしい罪状が書き連ねられている。",
+            "DescriptionEn": "An arrest warrant issued by the Valkyrie Police Academy to arrest Wakamo. Lists all the horrific charges that Wakamo is sought for."
+        },
+        {
+            "Id": 2832660177,
+            "NameJp": "ミッションデータ2：TypeD-X ",
+            "NameEn": "Mission data 2：Type D-X ",
+            "DescriptionJp": "デカグラマトンの分析に役立つデータが入っている",
+            "DescriptionEn": "Contains data useful for analyzing Decagrammaton"
+        },
+        {
+            "Id": 104149602,
+            "NameJp": "びしょびしょヘルメット",
+            "DescriptionJp": "夏のスラム街を騒がせる「びしょびしょヘルメット団」から、風紀委員会が穏便に押収したヘルメット。少し傷が付いてますが、至って平和的に押収したとのこと。確かにやや濡れています。",
+            "NameEn": "Splashy Helmet",
+            "DescriptionEn": "Seized by the Prefect Team from a Splashy Helmet Gang hoodlum in the summer slums. Although a little scratched, it was confiscated in a very peaceful manner. Still somewhat damp."
+        },
+        {
+            "Id": 886310733,
+            "NameJp": "ゲヘナ印の補給ボックス",
+            "DescriptionJp": "夏のトレーニング合宿のために、風紀委員会が用意した補給ボックス。中にはトレーニングに役立つ様々な物が入っている。ハズレは無いのでご安心を。",
+            "NameEn": "A Supply Chest marked with Gehenna's emblem",
+            "DescriptionEn": "Supplies prepared by the Prefect Team before summer boot camp. They'll help you train! No, for real!※ This item will disappear if not used by 14:00 on 8/19/2021."
+        },
+        {
+            "Id": 2114880617,
+            "NameJp": "シスターフッドのヴェール",
+            "NameEn": "Sisterhood Veil",
+            "DescriptionJp": "シスターフッドで使用されているヴェール。上手く使えばお祈り中にうたた寝してもバレないが、おそらくそんな生徒はいない。",
+            "DescriptionEn": "The veil used in the Sisterhood. You could hide behind it to nap during prayer, but there probably aren't any students who do that."
+        },
+        {
+            "Id": 4200143845,
+            "NameJp": "トリニティの聖歌集",
+            "NameEn": "Trinity Chant Book",
+            "DescriptionJp": "トリニティの聖歌が本の形でまとめられたもの。その内容がかなり浸透しているためもあるが、それ以上に言葉の美しさが評判で、様々な状況で引用されることがある。",
+            "DescriptionEn": "This is a compilation of Trinity's chants published as a book. This is partly because the content of the book is quite widespread, but more so because the words are reputed to be beautiful and can be quoted in a variety of situations."
+        },
+        {
+            "Id": 2925208730,
+            "NameJp": "トリニティの燭台",
+            "NameEn": "Trinity Candelabra",
+            "DescriptionJp": "トリニティの聖堂などで使用される燭台。かなり重くて丈夫な造りになっており、落とすと床に穴が空くレベル。",
+            "DescriptionEn": "A candelabra used in the cathedral of Trinity. It is quite heavy and sturdy, and if dropped, it will make a dent in the floor."
+        },
+        {
+            "Id": 2810720021,
+            "NameJp": "KAITEN FX Mk.0（市街地戦）のブロンズトロフィー",
+            "NameEn": "KAITEN FX Mk.0 Bronze Trophy - Urban Warfare",
+            "DescriptionJp": "KAITEN FX Mk.0（市街地戦）の栄誉を讃えるブロンズトロフィー",
+            "DescriptionEn": "A bronze trophy from KAITEN FX Mk.0 for Urban Warfare."
+        },
+        {
+            "Id": 2243779837,
+            "NameJp": "KAITEN FX Mk.0（市街地戦）のシルバートロフィー",
+            "NameEn": "KAITEN FX Mk.0 Silver Trophy - Urban Warfare",
+            "DescriptionJp": "KAITEN FX Mk.0（市街地戦）の栄誉を讃えるシルバートロフィー",
+            "DescriptionEn": "A silver trophy from KAITEN FX Mk.0 for Urban Warfare."
+        },
+        {
+            "Id": 353659065,
+            "NameJp": "KAITEN FX Mk.0（市街地戦）のゴールドトロフィー",
+            "NameEn": "KAITEN FX Mk.0 Gold Trophy - Urban Warfare",
+            "DescriptionJp": "KAITEN FX Mk.0（市街地戦）の栄誉を讃えるゴールドトロフィー",
+            "DescriptionEn": "A gold trophy from KAITEN FX Mk.0 for Urban Warfare."
+        },
+        {
+            "Id": 4212727150,
+            "NameJp": "KAITEN FX Mk.0（市街地戦）のプラチナトロフィー",
+            "NameEn": "KAITEN FX Mk.0 Platinum Trophy - Urban Warfare",
+            "DescriptionJp": "KAITEN FX Mk.0（市街地戦）の栄誉を讃えるプラチナトロフィー",
+            "DescriptionEn": "A platinum trophy from KAITEN FX Mk.0 for Urban Warfare."
+        },
+        {
+            "Id": 1260371587,
+            "NameJp": "ペロロジラ（屋内戦）のブロンズトロフィー",
+            "NameEn": "Perorodzilla Bronze Trophy - Indoor Warfare",
+            "DescriptionJp": "ペロロジラ（屋内戦）の栄誉を讃えるブロンズトロフィー",
+            "DescriptionEn": "A bronze trophy from Perorodzilla for Indoor Warfare."
+        },
+        {
+            "Id": 2057814454,
+            "NameJp": "ペロロジラ（屋内戦）のシルバートロフィー",
+            "NameEn": "Perorodzilla Silver Trophy - Indoor Warfare",
+            "DescriptionJp": "ペロロジラ（屋内戦）の栄誉を讃えるシルバートロフィー",
+            "DescriptionEn": "A silver trophy from Perorodzilla for Indoor Warfare."
+        },
+        {
+            "Id": 4196050985,
+            "NameJp": "ペロロジラ（屋内戦）のゴールドトロフィー",
+            "NameEn": "Perorodzilla Gold Trophy - Indoor Warfare",
+            "DescriptionJp": "ペロロジラ（屋内戦）の栄誉を讃えるゴールドトロフィー",
+            "DescriptionEn": "A gold trophy from Perorodzilla for Indoor Warfare."
+        },
+        {
+            "Id": 2164530477,
+            "NameJp": "ペロロジラ（屋内戦）のプラチナトロフィー",
+            "NameEn": "Perorodzilla Platinum Trophy - Indoor Warfare",
+            "DescriptionJp": "ペロロジラ（屋内戦）の栄誉を讃えるプラチナトロフィー",
+            "DescriptionEn": "A platinum trophy from Perorodzilla for Indoor Warfare."
+        },
+        {
+            "Id": 829963402,
+            "NameJp": "ペロロジラ（屋外戦）のブロンズトロフィー",
+            "NameEn": "Perorodzilla Bronze Trophy - Outdoor Warfare",
+            "DescriptionJp": "ペロロジラ（屋外戦）の栄誉を讃えるブロンズトロフィー",
+            "DescriptionEn": "A bronze trophy from Perorodzilla for Outdoor Warfare."
+        },
+        {
+            "Id": 3879226925,
+            "NameJp": "ペロロジラ（屋外戦）のシルバートロフィー",
+            "NameEn": "Perorodzilla Silver Trophy - Outdoor Warfare",
+            "DescriptionJp": "ペロロジラ（屋外戦）の栄誉を讃えるシルバートロフィー",
+            "DescriptionEn": "A silver trophy from Perorodzilla for Outdoor Warfare."
+        },
+        {
+            "Id": 2163218711,
+            "NameJp": "ペロロジラ（屋外戦）のゴールドトロフィー",
+            "NameEn": "Perorodzilla Gold Trophy - Outdoor Warfare",
+            "DescriptionJp": "ペロロジラ（屋外戦）の栄誉を讃えるゴールドトロフィー",
+            "DescriptionEn": "A gold trophy from Perorodzilla for Outdoor Warfare."
+        },
+        {
+            "Id": 1856321171,
+            "NameJp": "ペロロジラ（屋外戦）のプラチナトロフィー",
+            "NameEn": "Perorodzilla Platinum Trophy - Outdoor Warfare",
+            "DescriptionJp": "ペロロジラ（屋外戦）の栄誉を讃えるプラチナトロフィー",
+            "DescriptionEn": "A platinum trophy from Perorodzilla for Outdoor Warfare."
+        },
+        {
+            "Id": 3538541251,
+            "NameJp": "ホド（市街地戦）のブロンズトロフィー",
+            "NameEn": "Hod Bronze Trophy - Urban Warfare",
+            "DescriptionJp": "ホド（市街地戦）の栄誉を讃えるブロンズトロフィー",
+            "DescriptionEn": "A bronze trophy from Hod for Urban Warfare."
+        },
+        {
+            "Id": 4279169551,
+            "NameJp": "ホド（市街地戦）のシルバートロフィー",
+            "NameEn": "Hod Silver Trophy - Urban Warfare",
+            "DescriptionJp": "ホド（市街地戦）の栄誉を讃えるシルバートロフィー",
+            "DescriptionEn": "A silver trophy from Hod for Urban Warfare."
+        },
+        {
+            "Id": 3209057615,
+            "NameJp": "ホド（市街地戦）のゴールドトロフィー",
+            "NameEn": "Hod Gold Trophy - Urban Warfare",
+            "DescriptionJp": "ホド（市街地戦）の栄誉を讃えるゴールドトロフィー",
+            "DescriptionEn": "A gold trophy from Hod for Urban Warfare."
+        },
+        {
+            "Id": 1346097057,
+            "NameJp": "ホド（市街地戦）のプラチナトロフィー",
+            "NameEn": "Hod Platinum Trophy - Urban Warfare",
+            "DescriptionJp": "ホド（市街地戦）の栄誉を讃えるプラチナトロフィー",
+            "DescriptionEn": "A platinum trophy from Hod for Urban Warfare."
+        },
+        {
+            "Id": 2266964317,
+            "NameJp": "ハロウィーンのパンプキン収納セット",
+            "NameEn": "Halloween Pumpkin Cupboard",
+            "DescriptionJp": "キャンディ付きのハロウィーンなパンプキン収納セット。今なら甘ーいキャンディーがたくさんついてくる！",
+            "DescriptionEn": "Halloween pumpkin cupboard with candies. Now comes with lots of sweet candies!"
+        },
+        {
+            "Id": 2295911688,
+            "NameJp": "ハロウィーンカフェシリーズ",
+            "NameEn": "Halloween Cafe Set",
+            "DescriptionJp": "何か不思議な出来事が起きそうな、パンプキン要素たっぷりのハロウィーンカフェセット。ちょっと不気味なハロウィーンを楽しもう！",
+            "DescriptionEn": "Halloween pumpkin-decorated cafe furniture that looks like something spooky might happen. Let's enjoy a little creepy Halloween!"
+        },
+        {
+            "Id": 4265270443,
+            "NameJp": "ハロウィーンカフェの家具",
+            "NameEn": "Halloween Cafe Furniture"
+        },
+        {
+            "Id": 1484358997,
+            "NameJp": "ハロウィーンのクモの糸柄カーペット",
+            "NameEn": "Halloween Spider Thread Carpet",
+            "DescriptionJp": "クモの巣の形でデザインされたカーペット。その個性的なデザインはどんな空間でも際立って良い感じ。",
+            "DescriptionEn": "Carpet that looks like a spider web. Its unique design would make it stand out anywhere."
+        },
+        {
+            "Id": 2674687968,
+            "NameJp": "ゴースト柄のシングルチェア",
+            "NameEn": "Ghost Pattern Chair",
+            "DescriptionJp": "ゴースト柄がポイントのシングルチェア。すっきりとしたシルエットと可愛らしさが上手く同居している。",
+            "DescriptionEn": "A chair with a ghost pattern. Handsomely blends simple clean lines and a vute design."
+        },
+        {
+            "Id": 2411796807,
+            "NameJp": "パンプキンスープ風のスツール",
+            "NameEn": "Pumpkin Soup-style Stool",
+            "DescriptionJp": "まるでかぼちゃスープのようなデザインのスツール。意外とすっきりした色合いで、どんな空間にでもマッチする。",
+            "DescriptionEn": "Stool designed to look like a pan of pumpkin soup. Surprisingly crisp colors match any space."
+        },
+        {
+            "Id": 885973407,
+            "NameJp": "ハロウィーンのゴースト立て看板",
+            "NameEn": "Halloween Ghost Sign",
+            "DescriptionJp": "ハロウィーンカフェへと案内するための立て看板。甘ーいスイーツがいっぱいの空間へようこそ！",
+            "DescriptionEn": "A sign to guide you to the Halloween Cafe. Welcome to a space filled with sweet treats!"
+        },
+        {
+            "Id": 266251822,
+            "NameJp": "ハロウィーンのパーテーション",
+            "NameEn": "Halloween Partition",
+            "DescriptionJp": "溢れるシロップのようなデザインのパーテーション。プライベートな空間を生み出すのにぴったり。",
+            "DescriptionEn": "This partition is designed to look like it is topped with dripping syrup. Perfect for creating a private space."
+        },
+        {
+            "Id": 3257782787,
+            "NameJp": "ハロウィーンのパンプキン棚",
+            "NameEn": "Halloween Pumpkin Shelf",
+            "DescriptionJp": "色んなハロウィーンの小物で飾られた2段セットの棚。恐ろしい、でも可愛い！",
+            "DescriptionEn": "Two-tiered shelves decorated with various Halloween accessories. Scary, but cute!"
+        },
+        {
+            "Id": 1047918259,
+            "NameJp": "ハロウィーンのパンプキンダブルソファー",
+            "NameEn": "Halloween Pumpkin Double Sofa",
+            "DescriptionJp": "パンプキンのぬいぐるみがセットになったダブルソファー。じっと見てると、何だかちょっと不気味かも？",
+            "DescriptionEn": "A double sofa with a stuffed pumpkin set. If you look closely, it might be a little creepy?"
+        },
+        {
+            "Id": 3139617157,
+            "NameJp": "ハロウィーンのシロップ柄テーブル",
+            "NameEn": "Halloween Syrup Pattern Table",
+            "DescriptionJp": "溢れるシロップのようなデザインのテーブル。シロップの不規則な感じが個性的。",
+            "DescriptionEn": "A table designed to look like it is overflowing with dripping syrup. The uneven surface of the syrup is rather unique."
+        },
+        {
+            "Id": 2896513924,
+            "NameJp": "ハロウィーンのネオン電光板",
+            "NameEn": "Halloween Neon Electronic Sign",
+            "DescriptionJp": "クモの巣の形でデザインされたハロウィーンの電光板。どこか不気味な雰囲気を演出してくれる。",
+            "DescriptionEn": "Halloween lightning board designed in the shape of a spider web. It creates an eerie atmosphere."
+        },
+        {
+            "Id": 2760823507,
+            "NameJp": "ろうそくの壁飾り",
+            "NameEn": "Candle Wall Decoration",
+            "DescriptionJp": "ほのかに空間を照らすろうそく。壁に設置すると、どこかクラシックな雰囲気が演出できる。",
+            "DescriptionEn": "Candles that illuminate the space faintly. Install it on the wall to create a classic atmosphere."
+        },
+        {
+            "Id": 3362450005,
+            "NameJp": "ハロウィーンのホラーな壁掛けセット",
+            "NameEn": "Halloween Horror Wall Hangings Set",
+            "DescriptionJp": "どこか怪しいハロウィーンチックな壁飾り。今、猫と目が合ったような……？",
+            "DescriptionEn": "A somewhat unnerving Halloween-style wall decoration. Are cat's eyes following me...?"
+        },
+        {
+            "Id": 3490595155,
+            "NameJp": "ハロウィーンの三段パンプキン",
+            "NameEn": "Halloween Three-tiered Pumpkin",
+            "DescriptionJp": "パンプキンが三段に積まれた可愛らしい装飾。表情もそれぞれ違くて愛らしい。",
+            "DescriptionEn": "A lovely decoration with three stacked pumpkins. Each one has a different facial expression and is adorable."
+        },
+        {
+            "Id": 2835458887,
+            "NameJp": "ハロウィーンのパンプキン暖炉",
+            "NameEn": "Halloween Pumpkin Fireplace",
+            "DescriptionJp": "ハロウィーンの小物で飾り付けられた暖炉。燃え上る炎をじっと見ていると……？",
+            "DescriptionEn": "Fireplace decorated with Halloween accessories. Looking at the burning flames...?"
+        },
+        {
+            "Id": 1093179152,
+            "NameJp": "ハロウィーンのダイヤパターンの床",
+            "NameEn": "Halloween Diamond Pattern Floor",
+            "DescriptionJp": "ダイヤ模様のパターンの床。ハロウィーンの雰囲気を演出するのに最適。",
+            "DescriptionEn": "Floor with a diamond pattern. Great for creating a Halloween atmosphere."
+        },
+        {
+            "Id": 2494992221,
+            "NameJp": "ハロウィーンのパンプキンデザートテーブル",
+            "NameEn": "Halloween Pumpkin Dessert Table",
+            "DescriptionJp": "かぼちゃのデザートでいっぱいのテーブル。見た目は怖いけど、甘くてすっごく美味しい！",
+            "DescriptionEn": "A table full of pumpkin desserts. It looks scary, but it's sweet and really delicious!"
+        },
+        {
+            "Id": 2274493728,
+            "NameJp": "クモの巣柄のアーチ型窓",
+            "NameEn": "Spider Web Arched Window",
+            "DescriptionJp": "クモの巣模様がポイントのアーチ型の窓。夜遅い時間に、窓の向こうを覗いてみると……。",
+            "DescriptionEn": "An arched window with a spider web pattern. If you look behind the window late at night..."
+        },
+        {
+            "Id": 3112061724,
+            "NameJp": "ハロウィーンのパンプキンバーカウンター",
+            "NameEn": "Halloween Pumpkin Bar Counter",
+            "DescriptionJp": "ハロウィーンのスイーツが並べられているカウンターバー。この季節ならではのスイーツが美味しそう。",
+            "DescriptionEn": "Counter bar with Halloween sweets. The sweets unique to this season look delicious."
+        },
+        {
+            "Id": 3160658079,
+            "NameJp": "ハロウィーンの撮影セット",
+            "NameEn": "Halloween Shooting Set",
+            "DescriptionJp": "不気味なハロウィーンらしい写真が取れるセット。仮装をして撮影すれば、さらにハロウィーン感がアップしそう。",
+            "DescriptionEn": "A set that allows you to take eerie Halloween-themed pictures. If you shoot in a costume, it will make you feel more Halloween."
+        },
+        {
+            "Id": 2012402834,
+            "NameJp": "ハロウィーンゴーストのぬいぐるみ",
+            "NameEn": "Halloween Ghost Plush",
+            "DescriptionJp": "ハロウィーンカフェのマスコットであるゴーストのぬいぐるみ。風船と飴を配ってくれる実は優しい子！",
+            "DescriptionEn": "Halloween cafe mascot ghost stuffed animal. In fact, a gentle child who gives out balloons and candies!"
+        },
+        {
+            "Id": 3121682605,
+            "NameJp": "ハッピーハロウィーンの壁飾り",
+            "NameEn": "Happy Halloween Wall Stickers",
+            "DescriptionJp": "ハロウィーンデザインの大きな壁飾り。これを飾ればすぐに、楽しいハロウィーンパーティーの始まり！",
+            "DescriptionEn": "A large wall decoration with a Halloween design. As soon as you put it up, you can start a fun Halloween party!"
+        },
+        {
+            "Id": 3727844322,
+            "NameJp": "ハロウィーンのシロップ柄の壁",
+            "NameEn": "Halloween Syrup Wall",
+            "DescriptionJp": "溢れるシロップのようなデザインの壁。何とも言えないウェーブ具合が、ハロウィーンの夜を盛り上げてくれる。",
+            "DescriptionEn": "A wall with an overflowing syrup design. The indescribable waviness of the wall adds to the excitement of the Halloween night."
+        },
+        {
+            "Id": 2825070418,
+            "NameJp": "ハロウィーンナイトの背景",
+            "NameEn": "Halloween Night Background",
+            "DescriptionJp": "神秘的なハロウィーンの雰囲気を演出してくれる背景。ハロウィーンナイトは終わらない！",
+            "DescriptionEn": "Background that creates a mysterious Halloween atmosphere. Halloween night never ends!"
+        },
+        {
+            "Id": 1063080956,
+            "NameJp": "波模様の座椅子",
+            "NameEn": "Wave-Patterned Chair",
+            "DescriptionJp": "波模様のふかふかな座椅子。長く座っていても、あまり足が痺れない。",
+            "DescriptionEn": "Comfortable chair with a wave-patterned cushion. Even if you sit for a long time, your legs will not get numb."
+        },
+        {
+            "Id": 2218356853,
+            "NameJp": "伝統的な温泉郷シリーズ",
+            "NameEn": "Traditional Hot Spring Village Set",
+            "DescriptionJp": "寒い冬でも暖かく過ごせる伝統的な温泉郷シリーズ。しっかり身体を温めて、ゆっくり休みましょう！",
+            "DescriptionEn": "Traditional hot spring village furniture lets you stay warm even in the cold winter. Let's warm up and take a rest!"
+        },
+        {
+            "Id": 3132414399,
+            "NameJp": "伝統的な温泉郷の家具",
+            "NameEn": "Traditional Hot Spring Village Furniture"
+        },
+        {
+            "Id": 2401185643,
+            "NameJp": "温泉カピバラ付き収納ケース",
+            "NameEn": "Stand With Hot Spring Capybara",
+            "DescriptionJp": "温泉カピバラのぬいぐるみが付属した、温泉をコンセプトにした収納ケース。可愛くて、見ているだけで癒されそう。",
+            "DescriptionEn": "A hot spring-style storage stand that comes with a stuffed toy capybara. It's so cute, just looking at it makes you feel relaxed."
+        },
+        {
+            "Id": 2027732261,
+            "NameJp": "温泉カピバラのガチャガチャ",
+            "NameEn": "Hot Spring Capybara Gacha",
+            "DescriptionJp": "色んな温泉カピバラのおもちゃが入ったガチャガチャ。一度始めると、レアが出るまで止められない。",
+            "DescriptionEn": "Gacha machines with various hot spring capybara toys. Once you start buying, it's impossible to stop until you get a rare one."
+        },
+        {
+            "Id": 322190320,
+            "NameJp": "温泉模様の灯篭",
+            "NameEn": "Hot Spring Pattern Lantern",
+            "DescriptionJp": "温泉模様の灯篭。これを置くだけで、何だか伝統を感じられる空間に。",
+            "DescriptionEn": "Lantern with hot spring patterns. Just by placing these lanterns, you can create a space with a sense of tradition."
+        },
+        {
+            "Id": 905741361,
+            "NameJp": "扇子模様の行燈",
+            "NameEn": "Fan-patterned lanterns",
+            "DescriptionJp": "扇子模様がポイントの行灯。暗い空間を柔らかく、明るく照らしてくれる。",
+            "DescriptionEn": "This paper lantern features a fan pattern. It softly and brightly illuminates the space."
+        },
+        {
+            "Id": 2880342603,
+            "NameJp": "スチール製の雑誌スタンド",
+            "NameEn": "Steel Magazine Stand",
+            "DescriptionJp": "色々なジャンルの雑誌が置かれたスチール製の雑誌スタンド。時間が余った時に覗いてみると、あっという間に時間が吸われる。",
+            "DescriptionEn": "Steel stand with magazines of various genres. If you take a peek, you will immediately lose track of time."
+        },
+        {
+            "Id": 2996234640,
+            "NameJp": "伝統的な木材のパーテーション",
+            "NameEn": "Traditional Wooden Partition",
+            "DescriptionJp": "伝統的な方式で作られた木材のパーテーション。広いスペースを区切って使いたい時などに有用。",
+            "DescriptionEn": "Traditional wooden partition. Useful when you want to divide a large space."
+        },
+        {
+            "Id": 3961267217,
+            "NameJp": "伝統的な木材のパーテーションゲート",
+            "NameEn": "Traditional Wooden Partition Gate",
+            "DescriptionJp": "伝統的な方式で作られた木材のパーテーションのゲート部分。見ていると何だか無性にくぐりたくなる。",
+            "DescriptionEn": "The gate part of the traditional wooden partition. Looking at it makes you want to go through."
+        },
+        {
+            "Id": 18051444,
+            "NameJp": "竹の植木鉢",
+            "NameEn": "Bamboo Flowerpot",
+            "DescriptionJp": "竹が植えられた四角い植木鉢。竹のまっすぐな雰囲気が、空間にアクセントを与えてくれる。",
+            "DescriptionEn": "Square flowerpot with bamboo. The straignt lines of the bamboo accent the space."
+        },
+        {
+            "Id": 3537832744,
+            "NameJp": "温泉カピバラのタペストリー",
+            "NameEn": "Hot Spring Capybara Tapestry",
+            "DescriptionJp": "温泉カピバラのイラストが印刷されたタペストリー。その絶妙な丸っこさは「可愛い」のひと言。",
+            "DescriptionEn": "A tapestry with an illustration of a hot spring capybara printed on it. The exquisite roundness of the capybara can only be summarised as \"cute\"."
+        },
+        {
+            "Id": 2721565610,
+            "NameJp": "温泉セット",
+            "NameEn": "Hot Spring Set",
+            "DescriptionJp": "温泉で使うものをまとめたセット。湯船に入る前に、まずは色々と準備をしてから。",
+            "DescriptionEn": "A set of things used in hot springs. Before entering the bath, first make various preparations."
+        },
+        {
+            "Id": 582850008,
+            "NameJp": "桜の盆栽付きテーブル",
+            "NameEn": "Table With Cherry Blossom Bonsai",
+            "DescriptionJp": "桜の盆栽が置かれた小さなテーブル。ピンク色の華やかさが空間に彩りを与えてくれる。",
+            "DescriptionEn": "A small table with cherry blossom bonsai. Adds a splash of gorgeous pink color to the space."
+        },
+        {
+            "Id": 3973510283,
+            "NameJp": "伝統的な格子の窓",
+            "NameEn": "Traditional Lattice Windows",
+            "DescriptionJp": "伝統的な方式で作られた格子の窓。これを置くだけで旅館っぽさが溢れ出る。",
+            "DescriptionEn": "A lattice window made in the traditional way. Just placing these windows makes the room feel like an inn."
+        },
+        {
+            "Id": 334079646,
+            "NameJp": "マッサージチェア",
+            "NameEn": "Massage Chair",
+            "DescriptionJp": "全身の疲れが取れるマッサージチェア。なかなかの高級品であり、一度座ると中々立ち上がれないらしい。",
+            "DescriptionEn": "A massage chair that helps you get rid of fatigue all over your body. It's quite a luxury product, and once you sit on it, you won't want to get up."
+        },
+        {
+            "Id": 3798603167,
+            "NameJp": "抹茶セット付きの座卓",
+            "NameEn": "Table With Matcha Set",
+            "DescriptionJp": "抹茶や甘味が楽しめる座卓。静かにお茶を楽しむひと時は、心の整理をするのにぴったり。",
+            "DescriptionEn": "A table where you can enjoy matcha and sweets. A moment of quiet to enjoy tea is perfect for organizing your mind."
+        },
+        {
+            "Id": 3459590836,
+            "NameJp": "伝統的な畳の床",
+            "NameEn": "Traditional Tatami Floor",
+            "DescriptionJp": "伝統的な方式で作られた畳の床。火照った身体を投げ出してみると、ちょっと涼し気な感じがする。",
+            "DescriptionEn": "Tatami floor made in the traditional way. Feels cool to the touch when you are resting on it."
+        },
+        {
+            "Id": 2718427248,
+            "NameJp": "保温庫",
+            "NameEn": "Warming Cabinet",
+            "DescriptionJp": "飲み物を温かいまま保管することができる保温庫。これさえあれば、どんなに寒い冬でも怖くない！",
+            "DescriptionEn": "A warming cabinet that can keep drinks warm. With this, even the coldest winter won't scare you!"
+        },
+        {
+            "Id": 4134416493,
+            "NameJp": "伝統的な格子柄の壁",
+            "NameEn": "Traditional Plaid Wall",
+            "DescriptionJp": "木製の格子の模様と瓦が備えられた壁。これを置くだけで和風な感じがにじみ出る。",
+            "DescriptionEn": "Wall with wooden lattice pattern and panels. Gives the room a traditional Japanese feel."
+        },
+        {
+            "Id": 2955856831,
+            "NameJp": "檜の浴槽",
+            "NameEn": "Cypress Bathtub",
+            "DescriptionJp": "檜で作られた浴槽。入ってみると、誰でも吐息が漏れ出すはず。",
+            "DescriptionEn": "A bathtub made of cypress. Anyone entering it is sure to let out a sigh."
+        },
+        {
+            "Id": 2890230456,
+            "NameJp": "雪花柄のグラデーション背景",
+            "NameEn": "Snowflake Gradient Background",
+            "DescriptionJp": "冬らしい雪花柄のグラデーションの背景。冷たそうなデザインなのに、同時にどこか暖かみを感じる。",
+            "DescriptionEn": "A wintery snowflake-patterned gradient background. The design looks cold, but at the same time it feels somewhat warm."
+        },
+        {
+            "Id": 2672820625,
+            "NameJp": "お正月の座布団",
+            "NameEn": "New Year's Cushion",
+            "DescriptionJp": "落ち着いた色合いの座布団。高級感のある生地が優雅さを増してくれる。",
+            "DescriptionEn": "Cushion in a subdued color. The luxurious fabric adds to the elegance."
+        },
+        {
+            "Id": 1880396630,
+            "NameJp": "お正月シリーズ",
+            "NameEn": "New Year Set",
+            "DescriptionJp": "楽しいお正月が過ごせるお正月シリーズ。お友達や大切な方と一緒に、幸せな新年を迎えましょう！",
+            "DescriptionEn": "New Year set of furniture for celebrating New Year. Let's have a happy New Year with friends and loved ones!"
+        },
+        {
+            "Id": 1527541731,
+            "NameJp": "お正月の家具",
+            "NameEn": "New Year Furniture"
+        },
+        {
+            "Id": 559929639,
+            "NameJp": "お正月の和傘",
+            "NameEn": "New Year Japanese Umbrella",
+            "DescriptionJp": "鮮やかな色合いがポイントの、華やかな模様の和傘。傘回しに挑戦するときは周囲にご注意を！",
+            "DescriptionEn": "A Japanese umbrella with a gorgeous brightly-colored pattern. Be mindful of your surroundings when you try spinning the umbrella!"
+        },
+        {
+            "Id": 4169048233,
+            "NameJp": "お正月の提灯",
+            "NameEn": "New Year Lantern",
+            "DescriptionJp": "伝統的な技法で製作された提灯。暗い夜を月よりも暖かく照らしてくれる。",
+            "DescriptionEn": "Lantern made through traditional techniques. It illuminates dark nights warmer than the moon."
+        },
+        {
+            "Id": 4132019214,
+            "NameJp": "お正月の帯掛",
+            "NameEn": "New Year Obi",
+            "DescriptionJp": "色とりどりの着物の帯を掛けたもの。空間に優雅さと華やかさを添えてくれる。",
+            "DescriptionEn": "A hanging set of colorful kimono belts. It adds elegance and glamour to the space."
+        },
+        {
+            "Id": 865507405,
+            "NameJp": "お正月の衝立",
+            "NameEn": "New Year Partition",
+            "DescriptionJp": "華やかに彩られたパーティーション（衝立）。部屋を仕切って、落ち着いた空間で新年を迎えよう！",
+            "DescriptionEn": "Gorgeously colored tsuitate partition. Let's partition the room and welcome the New Year in a serene space!"
+        },
+        {
+            "Id": 912542863,
+            "NameJp": "お正月の格子窓",
+            "NameEn": "New Year Lattice Window",
+            "DescriptionJp": "昔から変わらないデザインの、伝統的な雰囲気の格子窓。かつてのモダンも、今ではレトロと呼ばれている。",
+            "DescriptionEn": "A lattice window with a traditional feel, designed the same way it has always been. What was once modern is now called retro."
+        },
+        {
+            "Id": 3281141254,
+            "NameJp": "灯油ストーブと切り餅",
+            "NameEn": "Kerosene Stove and Rice Cake",
+            "DescriptionJp": "空間を暖めてくれる灯油ストーブと切り餅のセット。膨らんだ切り餅はみんなで分けて食べよう！",
+            "DescriptionEn": "Kerosene stove that warms up the space and a set of rice cakes. Let's share the swelling mochi with everyone!"
+        },
+        {
+            "Id": 3619410636,
+            "NameJp": "お正月のけん玉セットテーブル",
+            "NameEn": "New Year Kendama Set Table",
+            "DescriptionJp": "けん玉セットの置かれたテーブル。お正月と言えばけん玉！",
+            "DescriptionEn": "Table with a kendama set. New Year is the time for kendama!"
+        },
+        {
+            "Id": 4257359360,
+            "NameJp": "お正月の衣桁",
+            "NameEn": "New Year Clothing Hanger",
+            "DescriptionJp": "高級な原木を用いて作られた衣桁。美しい花柄の着物が掛けられている。",
+            "DescriptionEn": "Hanger made from high quality wood. A beautiful floral kimono is hanging on it."
+        },
+        {
+            "Id": 2014277693,
+            "NameJp": "おせち料理のテーブル",
+            "NameEn": "New Year Dishes Table",
+            "DescriptionJp": "お正月のご馳走がぎっしり詰まったテーブル。美味しい食べ物と一緒に新年を迎えよう！",
+            "DescriptionEn": "A table full of New Year's treats. Let's celebrate the New Year with delicious food!"
+        },
+        {
+            "Id": 2021964788,
+            "NameJp": "お正月の畳の床",
+            "NameEn": "New Year Tatami Floor",
+            "DescriptionJp": "畳の敷かれた床。イ草の香りが心を落ち着かせてくれる。",
+            "DescriptionEn": "A floor covered with tatami mats. The scent of rushes soothes the soul."
+        },
+        {
+            "Id": 1058759786,
+            "NameJp": "書初め用のテーブル",
+            "NameEn": "Calligraphy Desk",
+            "DescriptionJp": "書初めのための道具が置かれたテーブル。今年の抱負を書いてみよう！",
+            "DescriptionEn": "A table with calligraphy tools. Let's write down our resolutions for the year!"
+        },
+        {
+            "Id": 2750168500,
+            "NameJp": "お正月の壁",
+            "NameEn": "New Year Wall",
+            "DescriptionJp": "金の装飾も施された、落ち着いた雰囲気の漆喰の壁。昔から変わらない技法には、昔から変わらない良さと優雅さがある。",
+            "DescriptionEn": "A tasteful stucco wall with gold decoration. The design that hasn't changed since ancient times still retains has the style and elegance."
+        },
+        {
+            "Id": 809156626,
+            "NameJp": "お正月のこたつ",
+            "NameEn": "New Year Kotatsu",
+            "DescriptionJp": "リラックスできる温かいこたつ。こたつの中で油断すると、いつの間にか次の日の朝に……！？",
+            "DescriptionEn": "A warm, relaxing kotatsu. If you let your guard down in the kotatsu, the next morning you'll be waking up...!?"
+        },
+        {
+            "Id": 3475231401,
+            "NameJp": "お正月の背景",
+            "NameEn": "New Year Background",
+            "DescriptionJp": "落ち着いた色彩の、優雅な花柄の背景。あけましておめでとうございます！",
+            "DescriptionEn": "A graceful floral background in subdued colors. Happy New Year!"
+        },
+        {
+            "Id": 131630372,
+            "NameJp": "ミリタリー弾薬箱",
+            "NameEn": "Military Ammunition Box",
+            "DescriptionJp": "各種弾薬や武器が収納された箱。高い気密性を誇り、どんな訓練にも耐えられる。",
+            "DescriptionEn": "A box containing various ammunition and weapons. It is well sealed to protect contents during any training."
+        },
+        {
+            "Id": 660700768,
+            "NameJp": "ミリタリーアウトドアシリーズ",
+            "NameEn": "Military Outdoor Set",
+            "DescriptionJp": "実用性にあふれるミリタリーアウトドアシリーズ。暖かさがありつつも、緊張感が日々の生活を引き締めてくれる。",
+            "DescriptionEn": "A very practical set of military outdoor furniture. Cosy, but keeps your life well-regimented."
+        },
+        {
+            "Id": 13049710,
+            "NameJp": "ミリタリーアウトドア家具",
+            "NameEn": "Military Outdoor Furniture"
+        },
+        {
+            "Id": 2428867451,
+            "NameJp": "正方形のナチュラルカーペット",
+            "NameEn": "Square Natural Carpet",
+            "DescriptionJp": "ナチュラルな紋様が彫られた正方形のカーペット。柔らかくて心地よい質感で製作されている。",
+            "DescriptionEn": "A square carpet with a pattern woven into it. It is soft and comfortable to the touch."
+        },
+        {
+            "Id": 956313554,
+            "NameJp": "長方形のナチュラルカーペット",
+            "NameEn": "Rectangular Natural Carpet",
+            "DescriptionJp": "ナチュラルな紋様が施された長方形のカーペット。感覚的なデザインで空間にポイントを与えることができる。",
+            "DescriptionEn": "A rectangular carpet with a pattern woven into it. Patterned design can add a splash of color to a space."
+        },
+        {
+            "Id": 883245586,
+            "NameJp": "ミリタリーチェア・グリーン",
+            "NameEn": "Military chair・Green",
+            "DescriptionJp": "緑をあしらったミリタリーチェア。耐久性が高く、長時間の野外で使用しても問題ない。",
+            "DescriptionEn": "A green military chair. Highly durable and suited for the prolonged outdoor use."
+        },
+        {
+            "Id": 4054292983,
+            "NameJp": "ミリタリーチェア・イエロー",
+            "NameEn": "Military chair・Yellow",
+            "DescriptionJp": "黄色をあしらったミリタリーチェア。高強度なアルミ製で、見た目の印象よりもずっと軽い。",
+            "DescriptionEn": "A yellow military chair. Made of high-strength aluminum, it's much lighter than it looks."
+        },
+        {
+            "Id": 3114421539,
+            "NameJp": "ミリタリーチェア・ピンク",
+            "NameEn": "Military chair・Pink",
+            "DescriptionJp": "ピンクをあしらったミリタリーチェア。簡単に折りたためるので移動や保管に便利。",
+            "DescriptionEn": "A pink military chair. Can be folded for convenient transportation and storage."
+        },
+        {
+            "Id": 1357702247,
+            "NameJp": "ミリタリーチェア・ブルー",
+            "NameEn": "Military chair・Blue",
+            "DescriptionJp": "青をあしらったミリタリーチェア。汚れに強い生地のためどこで使っても安心。",
+            "DescriptionEn": "A blue military chair. The fabric is resistant to dirt, so it is safe to use anywhere. "
+        },
+        {
+            "Id": 3188287550,
+            "NameJp": "ミリタリーパーテーション",
+            "NameEn": "Military Partition",
+            "DescriptionJp": "野外でも展開できるパーテーション。どんな場所でもプライバシーは大事である。",
+            "DescriptionEn": "A partition that can be deployed outdoors. Privacy is important everywhere. "
+        },
+        {
+            "Id": 817437883,
+            "NameJp": "ミリタリー簡易テーブル",
+            "NameEn": "Simple Military Table",
+            "DescriptionJp": "野外でも使える折りたたみ式のテーブル。食事から銃の手入れまで多用途。",
+            "DescriptionEn": "A foldable table that can be used outdoors. Versatile, can be used for anything from meals to gun care."
+        },
+        {
+            "Id": 3854437007,
+            "NameJp": "ミリタリーブランチセット",
+            "NameEn": "Military Brunch Set",
+            "DescriptionJp": "その辺の箱の上に置かれたありあわせのサンドイッチセット。行軍訓練における癒しの時間。",
+            "DescriptionEn": "A set of premade sandwiches sat on top of their container. A moment of respite in military training."
+        },
+        {
+            "Id": 849759719,
+            "NameJp": "折り畳み式のナチュラルチェア",
+            "NameEn": "Folding Natural Chair",
+            "DescriptionJp": "コンパクトサイズの折りたたみナチュラルな文様のチェア。のっぺりとした空間にポイントを与えることができる。",
+            "DescriptionEn": "A compact size folding chair with a natural pattern. Instantly makes any area look cozy."
+        },
+        {
+            "Id": 1263032379,
+            "NameJp": "ミリタリー非常食ケース",
+            "NameEn": "Military Emergency Ration Case",
+            "DescriptionJp": "長期保存できる食料を詰めた箱。野外の活動では必須。",
+            "DescriptionEn": "A box filled with food that can be stored for a long time. Essential for outdoor activities. "
+        },
+        {
+            "Id": 950494687,
+            "NameJp": "ミリタリー2段野戦ベッド",
+            "NameEn": "Military Field Bunk Bed",
+            "DescriptionJp": "汚れに強い生地で作られた2段ベッド。寝心地は悪いがベッドがあるだけで十分。",
+            "DescriptionEn": "A bunk bed made of dirt-resistant fabric. It's uncomfortable to sleep in, but having a bed at all is good enough."
+        },
+        {
+            "Id": 3786466012,
+            "NameJp": "ミリタリー木製デッキ",
+            "NameEn": "Military Wooden Deck",
+            "DescriptionJp": "木製のデッキの床。草むらに設置されたデッキの上で安定したキャンプが行える。",
+            "DescriptionEn": "Wooden deck flooring. Can be set in the field to provide a solid floor."
+        },
+        {
+            "Id": 52695003,
+            "NameJp": "ミリタリータープの壁",
+            "NameEn": "Military Tarp Wall",
+            "DescriptionJp": "大型タープの内壁。防寒生地で製作されたタープは銃弾以外の多くのものから身を守ってくれる。",
+            "DescriptionEn": "Interior walls of a large tent. The tarp is made out of insulating fabric and provides protection from pretty much anything other than bullets."
+        },
+        {
+            "Id": 401193572,
+            "NameJp": "ミリタリー背景",
+            "NameEn": "Military Background",
+            "DescriptionJp": "森を表現した緑の木の模様の背景。鬱蒼とした森が身をひそめる場所を提供してくれる。",
+            "DescriptionEn": "A green tree pattern background that representing a forest. The dense forest provides good cover to hunker down."
+        },
+        {
+            "Id": 525384229,
+            "NameJp": "ミリタリーグリルセット",
+            "NameEn": "Military Grill Set",
+            "DescriptionJp": "料理が満載のグリルセット。野外で食べれば一層気分を盛り立ててくれる。",
+            "DescriptionEn": "A grill set full of food. Eating outdoors will make you feel even more energized."
+        },
+        {
+            "Id": 114581457,
+            "NameJp": "ミリタリータープの入り口",
+            "NameEn": "Military Tarp Entrance",
+            "DescriptionJp": "大型タープの入り口。タープの内部から鬱蒼とした森の風景を鑑賞することができる。",
+            "DescriptionEn": "Entrance to the large tent. Dense forest landscape can be admired from the inside."
+        },
+        {
+            "Id": 2528694280,
+            "NameJp": "ミリタリー組み立て式キッチン",
+            "NameEn": "Prefabricated Military Kitched",
+            "DescriptionJp": "組み立て式のキッチンカウンター。野外で手に入るものは大体調理できる設備がある。",
+            "DescriptionEn": "Prefabricated kitchen counter. There are facilities to cook most of what is available outdoors."
+        },
+        {
+            "Id": 3464440835,
+            "NameJp": "ミリタリー木製ガンスタンド",
+            "NameEn": "Military Wooden Gun Stand",
+            "DescriptionJp": "木製のガンスタンド。汗や泥を吸っても目立たない。",
+            "DescriptionEn": "Wooden gun stand. It doesn't stand out even when covered with sweat or mud."
+        },
+        {
+            "Id": 2442155214,
+            "NameJp": "きらめくクリスマスツリー",
+            "NameEn": "Glittering Christmas Tree",
+            "DescriptionJp": "寒い冬を明るく照らしてくれるクリスマスツリー。ライトを点けると、心まで温かくなってくる。",
+            "DescriptionEn": "A Christmas tree that brightly shines in the cold winter. When you turn on the light, it warms your heart."
+        },
+        {
+            "Id": 1959952291,
+            "NameJp": "227号温泉郷の案内図",
+            "NameEn": "Guide Map of No. 227 Hot Spring Village",
+            "DescriptionJp": "227号温泉郷の案内図が描かれたボード。温泉郷の中の位置関係や情報などを知ることができる。",
+            "DescriptionEn": "Board with a guide map of No. 227 Hot Spring Village. You can learn about the location of all the facilities within the hot spring village."
+        },
+        {
+            "Id": 1606806838,
+            "NameJp": "百夜堂の出張屋台",
+            "NameEn": "Momoyo Hall business stall",
+            "DescriptionJp": "桜の花で飾られた百夜堂の移動式店舗。百夜堂の人気メニューをどこでもお楽しみいただけます！",
+            "DescriptionEn": "A mobile store of Momoyo Hall decorated with cherry blossoms. Enjoy the popular menu of Momoyo Hall anywhere!"
+        },
+        {
+            "Id": 1293987789,
+            "NameJp": "伝統的な格子の掃き出し窓",
+            "NameEn": "Traditional Lattice Sweep-out Window",
+            "DescriptionJp": "伝統的な方法で作られた格子の掃き出し窓。箒での掃除をぐっと楽にしてくれる。",
+            "DescriptionEn": "A lattice sweep-out window made in the traditional way. It makes cleaning with a broom much easier."
+        },
+        {
+            "Id": 1589090514,
+            "NameJp": "アンティークな収納付きウッドデスク",
+            "NameEn": "Antique Wood Desk with Drawers",
+            "DescriptionJp": "収納スペースがたくさんある、アンティークな木製デスク。古書の解読作業などにぴったり！",
+            "DescriptionEn": "Antique wooden desk with lots of storage space. Perfect for working on deciphering old books!"
+        },
+        {
+            "Id": 3812652286,
+            "NameJp": "総力戦ブロンズトロフィースタンド01",
+            "NameEn": "Total War Bronze Trophy Stand 01",
+            "DescriptionJp": "総力戦ボス3種類のトロフィーを見ることができるブロンズトロフィースタンド\n（ビナー、ケセド、シロ＆クロ）",
+            "DescriptionEn": "Total War Boss Bronze Trophy Stand where you can show off 3 types of trophies\n (Binah, Chesed, Shiro & Kuro)"
+        },
+        {
+            "Id": 485909745,
+            "NameJp": "総力戦シルバートロフィースタンド01",
+            "NameEn": "Total War Silver Trophy Stand 01",
+            "DescriptionJp": "総力戦ボス3種類のトロフィーを見ることができるシルバートロフィースタンド\n（ビナー、ケセド、シロ＆クロ）",
+            "DescriptionEn": "Total War Boss Silver Trophy Stand where you can show off 3 types of trophies\n (Binah, Chesed, Shiro & Kuro)"
+        },
+        {
+            "Id": 3091850410,
+            "NameJp": "総力戦ゴールドトロフィースタンド01",
+            "NameEn": "Total War Gold Trophy Stand 01",
+            "DescriptionJp": "総力戦ボス3種類のトロフィーを見ることができるゴールドトロフィースタンド\n（ビナー、ケセド、シロ＆クロ）",
+            "DescriptionEn": "Total War Boss Gold Trophy Stand where you can show off 3 types of trophies\n (Binah, Chesed, Shiro & Kuro)"
+        },
+        {
+            "Id": 1584542852,
+            "NameJp": "総力戦プラチナトロフィースタンド01",
+            "NameEn": "Total War Platinum Trophy Stand 01 ",
+            "DescriptionJp": "総力戦ボス3種類のトロフィーを見ることができるプラチナトロフィースタンド\n（ビナー、ケセド、シロ＆クロ）",
+            "DescriptionEn": "Total War Boss Platinum Trophy Stand where you can show off 3 types of trophies\n (Binah, Chesed, Shiro & Kuro)"
+        },
+        {
+            "Id": 2831877867,
+            "NameJp": "リコレクト・メモリー1st",
+            "NameEn": "Recollection・1st memory",
+            "DescriptionJp": "1st PVの映像を再生できる機械",
+            "DescriptionEn": "Machine that plays 1st PV video."
+        },
+        {
+            "Id": 590851820,
+            "NameJp": "リコレクト・メモリー2nd",
+            "NameEn": "Recollection・2nd memory",
+            "DescriptionJp": "2nd PVの映像を再生できる機械",
+            "DescriptionEn": "Machine that plays 2nd PV video."
+        },
+        {
+            "Id": 2401879098,
+            "NameJp": "リコレクト・メモリー3rd",
+            "NameEn": "Recollection・3rd memory",
+            "DescriptionJp": "3rd PVの映像を再生できる機械",
+            "DescriptionEn": "Machine that plays 3rd PV video."
+        },
+        {
+            "Id": 1019220439,
+            "NameJp": "",
+            "NameEn": "Summer Resort Pool Party Furniture"
+        },
+        {
+            "Id": 3360596941,
+            "NameJp": "秘伝ノートの断片",
+            "NameEn": "Secret Tech Sheet Fragment",
+            "DescriptionJp": "戦術の奥義が記録されている技術ノートの断片。\n複数集めることで、「テイラーメイド」機能を通じて「秘伝ノート」として復元（生成）することができる。",
+            "DescriptionEn": "A fragment of a technical note containing tactical secrets.\nBy collecting multiple fragments, you can craft a Secret Tech Sheet through the \"TailorMade\" function."
+        },
+        {
+            "Id": 315453169,
+            "NameJp": "ムシクイーンのカードパック",
+            "NameEn": "Mushiqueen Card Pack",
+            "DescriptionJp": "大人気トレーディングカードゲーム「ムシクイーン」の拡張パック第3弾「アルティメットインセクトの襲来」。カエデ曰く、パックの手触りで中にレアカードが入っているかどうか分かるのだとか。",
+            "DescriptionEn": "The third expansion pack of the popular trading card game「Mushiqueen」,「Attack of the Ultimate Insects」. According to Kaede, you can tell if there are rare cards inside the pack just by touching it."
+        },
+        {
+            "Id": 2801049295,
+            "NameJp": "交流会のチラシ",
+            "NameEn": "Exchange Meeting Flyer",
+            "DescriptionJp": "百鬼夜行とゲヘナ学園の間で「交流会」が開かれることを知らせるためのチラシ。主催者であるニヤの挨拶や、主な日程、注意事項などが記載されている。",
+            "DescriptionEn": "A Flyer to inform people that an 'Exchange Meeting' will be held between Hyakkiyako and Gehenna Academy. It includes a greeting from the organizer, Niya, the main schedules, notes, etc."
+        },
+        {
+            "Id": 3117990777,
+            "NameJp": "和楽姫のうちわ",
+            "NameEn": "Warakuhime Fan",
+            "DescriptionJp": "百鬼夜行連合学院の大人気アイドルであるチセ様のご尊顔が描かれたうちわ。ファンの間では高値が付くほどの大人気グッズの一つ。",
+            "DescriptionEn": "A type of Japanese fan with the face of Chise-sama, a very popular idol of Hyakkiyako Academy. It is one of the most popular goods that fetches high prices among fans."
+        },
+        {
+            "Id": 1122375527,
+            "NameJp": "ニンペロさんグッズ",
+            "NameEn": "Ninpero-san Goods",
+            "DescriptionJp": "渦巻映画村で販売されている忍者のキャラクターグッズ。最初は某キャラクターのスピンオフとして始まったものだったが、途中から人気を博した結果、一つのシリーズものとして独立した。この業界ではそれなりによくある話。",
+            "DescriptionEn": "Ninja character goods sold at the Uzumaki Film Village. It started out as a spin-off of a certain character, but along the way, as a result of its popularity, it became an independent series. It's a fairly common story in this industry."
+        },
+        {
+            "Id": 1157572539,
+            "NameJp": "円盤型ペンダントの欠片",
+            "NameEn": "Disco Colgante Piece",
+            "DescriptionJp": "円盤型ペンダントの壊れた欠片。製造や強化に使用される。",
+            "DescriptionEn": "A fractured Disco Colgante piece. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 3035593625,
+            "NameJp": "壊れた円盤型ペンダント",
+            "NameEn": "Broken Disco Colgante",
+            "DescriptionJp": "元の形が分からないほど壊れた円盤型ペンダント。製造や強化に使用される。",
+            "DescriptionEn": "A Disco Colgante so broken that its original shape is no longer recognizable. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 1608213624,
+            "NameJp": "修復途中の円盤型ペンダント",
+            "NameEn": "Damaged Disco Colgante",
+            "DescriptionJp": "欠片を寄せ集めて修復している最中の円盤型ペンダント。製造や強化に使用される。",
+            "DescriptionEn": "A disco Colgante in the process of being restored by combining various fragments together. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 2689897740,
+            "NameJp": "完全な円盤型ペンダント",
+            "NameEn": "Intact Disco Colgante",
+            "DescriptionJp": "完全な状態の円盤型ペンダント。製造や強化に使用される。",
+            "DescriptionEn": "An Intact Disco Colgante. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 481204051,
+            "NameJp": "ミステリーストーンの欠片",
+            "NameEn": "Mystery Stone Piece",
+            "DescriptionJp": "ミステリーストーンの壊れた欠片。製造や強化に使用される。",
+            "DescriptionEn": "A fractured Mystery Stone piece. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 2995021343,
+            "NameJp": "壊れたミステリーストーン",
+            "NameEn": "Broken Mystery Stone",
+            "DescriptionJp": "元の形が分からないほど壊れたミステリーストーン。製造や強化に使用される。",
+            "DescriptionEn": "A Mystery Stone so broken that its original shape is no longer recognizable. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 2163708171,
+            "NameJp": "不完全なミステリーストーン",
+            "NameEn": "Repaired Mystery Stone",
+            "DescriptionJp": "修復したものの、正しい形か分からないミステリーストーン。製造や強化に使用される。",
+            "DescriptionEn": "A Mystery Stone that have been pieced together but may not be quite correct. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 4215214925,
+            "NameJp": "完全なミステリーストーン",
+            "NameEn": "Intact Mystery Stone",
+            "DescriptionJp": "完全な状態のミステリーストーン。製造や強化に使用される。",
+            "DescriptionEn": "An Intact Mystery Stone. Used in various crafted items and enhancements."
+        },
+        {
+            "Id": 149499250,
+            "NameJp": "任務レポート",
+            "NameEn": "Mission Report",
+            "DescriptionJp": "シャーレの活動記録が記載されたレポート。",
+            "DescriptionEn": "A report containing Schale activity records."
+        },
+        {
+            "Id": 3943222922,
+            "NameJp": "マシュマロ串",
+            "NameEn": "Marshmallow Skewer",
+            "DescriptionJp": "マシュマロに木の串を通したもの。焚火などで焼くことで、より甘くなる。",
+            "DescriptionEn": "Marshmallows on a wooden skewer. Bake it on a bonfire to make them sweeter."
+        },
+        {
+            "Id": 1275230444,
+            "NameJp": "クロムハンマー",
+            "NameEn": "Chromium Hammer",
+            "DescriptionJp": "引き金を引いた時に撃針に力を伝達するための部品。クロムの合金でできており、丈夫で錆びない。固有武器の強化に使用可能。",
+            "DescriptionEn": "A part of the gun that delivers the power from trigger to the firing pin. Made of chromium alloy which makes it durable and rust-resistant. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 563331103,
+            "NameJp": "チタンハンマー",
+            "NameEn": "Titanium Hammer",
+            "DescriptionJp": "引き金を引いた時に撃針に力を伝達するための部品。チタン合金でできており、丈夫な上に軽い。固有武器の強化に使用可能。",
+            "DescriptionEn": "A part of the gun that delivers the power from trigger to the firing pin. Made of titanium alloy which makes it even more durable while staying light. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 3590797977,
+            "NameJp": "錆びた銃身",
+            "NameEn": "Rusty Barrel",
+            "DescriptionJp": "打ち出される弾丸が通過する筒状の部品。ひどい管理のされ方をしていたのか、あちこちが錆びついている。固有武器の強化に使用可能。",
+            "DescriptionEn": "A tube through which projectile is propelled. Rusty on the surface due to lack of maintenance. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 2753922894,
+            "NameJp": "普通の銃身",
+            "NameEn": "Intact Barrel",
+            "DescriptionJp": "打ち出される弾丸が通過する筒状の部品。普通にきちんとした状態で、新品のように保存されていた。固有武器の強化に使用可能。",
+            "DescriptionEn": "A tube through which projectile is propelled. As good as new. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 3047737247,
+            "NameJp": "クロム銃身",
+            "NameEn": "Chromium Barrel",
+            "DescriptionJp": "打ち出される弾丸が通過する筒状の部品。クロムの合金でできており、丈夫で錆びない。固有武器の強化に使用可能。",
+            "DescriptionEn": "A tube through which projectile is propelled. Made of chromium alloy which makes it durable and rust-resistant. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 3465834983,
+            "NameJp": "チタン銃身",
+            "NameEn": "Titanium Barrel",
+            "DescriptionJp": "打ち出される弾丸が通過する筒状の部品。チタン合金でできており、丈夫な上に軽い。固有武器の強化に使用可能。",
+            "DescriptionEn": "A tube through which projectile is propelled. Made of titanium alloy which makes it even more durable while staying light. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 1498728523,
+            "NameJp": "錆びた撃針",
+            "NameEn": "Rusty Firing Pin",
+            "DescriptionJp": "弾丸の雷管に衝撃を与えるための金属の部品。ひどい管理のされ方をしていたのか、あちこちが錆びついている。固有武器の強化に使用可能。",
+            "DescriptionEn": "A metal part used to impact the detonator of a round. Rusty on the surface due to lack of maintenance. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 1441450061,
+            "NameJp": "普通の撃針",
+            "NameEn": "Intact Firing Pin",
+            "DescriptionJp": "弾丸の雷管に衝撃を与えるための金属の部品。普通にきちんとした状態で、新品のように保存されていた。固有武器の強化に使用可能。",
+            "DescriptionEn": "A metal part used to impact the detonator of a round. As good as new. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 1068433115,
+            "NameJp": "クロム撃針",
+            "NameEn": "Chromium Firing Pin",
+            "DescriptionJp": "弾丸の雷管に衝撃を与えるための金属の部品。クロムの合金でできており、丈夫で錆びない。固有武器の強化に使用可能。",
+            "DescriptionEn": "A metal part used to impact the detonator of a round. Made of chromium alloy which makes it durable and rust-resistant. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 1300399581,
+            "NameJp": "チタン撃針",
+            "NameEn": "Titanium Firing Pin",
+            "DescriptionJp": "弾丸の雷管に衝撃を与えるための金属の部品。チタン合金でできており、丈夫な上に軽い。固有武器の強化に使用可能。",
+            "DescriptionEn": "A metal part used to impact the detonator of a round. Made of titanium alloy which makes it even more durable while staying light. Used to enhance Unique Weapons."
+        },
+        {
+            "Id": 1673564872,
+            "NameJp": "ロイヤルダイヤチェア",
+            "NameEn": "Royal Diamond Chair",
+            "DescriptionJp": "古風なダイヤパターンのチェア。節制された曲線型のデザインがお洒落さを増している。",
+            "DescriptionEn": "A chair with an old-fashioned diamond pattern upholstery. Gently curving shapes of the design add to its stylishness."
+        },
+        {
+            "Id": 2983351598,
+            "NameJp": "古ぼけたアリウスのバッジ",
+            "NameEn": "Old Arius Badge",
+            "DescriptionJp": "やや汚れているアリウスのバッジ。アリウス分校のエンブレムが描かれている。",
+            "DescriptionEn": "A slightly dirty Arius badge. It bears the emblem of the Arius Branch School."
+        },
+        {
+            "Id": 471603600,
+            "NameJp": "初級テイラーストーン",
+            "NameEn": "Lesser Tailor Stone",
+            "DescriptionJp": "クラフトチェンバーのテイラーメイド機能を起動させる時に必要な起動石。",
+            "DescriptionEn": "Material required to activate the tailor-made function of the Crafting Chamber."
+        },
+        {
+            "Id": 1792884876,
+            "NameJp": "中級テイラーストーン",
+            "NameEn": "Normal Tailor Stone",
+            "DescriptionJp": "クラフトチェンバーのテイラーメイド機能を起動させる時に必要な起動石。",
+            "DescriptionEn": "Material required to activate the tailor-made function of the Crafting Chamber."
+        },
+        {
+            "Id": 2951854574,
+            "NameJp": "上級テイラーストーン",
+            "NameEn": "Advanced Tailor Stone",
+            "DescriptionJp": "クラフトチェンバーのテイラーメイド機能を起動させる時に必要な起動石。",
+            "DescriptionEn": "Material required to activate the tailor-made function of the Crafting Chamber."
+        },
+        {
+            "Id": 3331695516,
+            "NameJp": "最上級テイラーストーン",
+            "NameEn": "Superior Tailor Stone",
+            "DescriptionJp": "クラフトチェンバーのテイラーメイド機能を起動させる時に必要な起動石。",
+            "DescriptionEn": "Material required to activate the tailor-made function of the Crafting Chamber."
+        },
+        {
+            "Id": 1668372693,
+            "NameJp": "火力演習コイン",
+            "NameEn": "Firepower Exercise Coin",
+            "DescriptionJp": "合同火力演習ショップで利用可能なコイン。",
+            "DescriptionEn": "Coins that can be used at the Joint Firepower Exercise Shop."
+        },
+        {
+            "Id": 835357934,
+            "NameJp": "バケットハット",
+            "NameEn": "Bucket Hat",
+            "DescriptionJp": "顔の上部を隠せる大きめのバケットハット。マスクを合わせると顔の露出を最低限にでき、紫外線対策もバッチリ。",
+            "DescriptionEn": "A large bucket hat that shades the eyes. Wearing a mask will minimize the exposure of your face and provide perfect UV protection."
+        },
+        {
+            "Id": 1472344616,
+            "NameJp": "バケットハットの設計図",
+            "NameEn": "Bucket Hat Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 1332723028,
+            "NameJp": "アームカバー",
+            "NameEn": "Arm Cover",
+            "DescriptionJp": "紫外線対策とファッション、その二つの要素を同時に求める生徒のためのアームカバー。季節の変わり目などにおススメ。",
+            "DescriptionEn": "An arm cover for students who want both UV protection and fashion at the same time. Recommended for the changing seasons."
+        },
+        {
+            "Id": 3926402710,
+            "NameJp": "アームカバーの設計図",
+            "NameEn": "Arm Cover Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 134212594,
+            "NameJp": "カジュアルスニーカー",
+            "NameEn": "Casual Sneakers",
+            "DescriptionJp": "シンプルなデザインのスニーカー。軽くてフィット感も良く、多くの生徒から支持されている。",
+            "DescriptionEn": "Sneakers with a basic design. Lightweight and well-fitting, they are favored by many students."
+        },
+        {
+            "Id": 1101051979,
+            "NameJp": "カジュアルスニーカーの設計図",
+            "NameEn": "Casual Sneakers Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 1637503010,
+            "NameJp": "ストリートバッグ",
+            "NameEn": "Street Bag",
+            "DescriptionJp": "カジュアルな雰囲気に実用性を加えたストリートバッグ。たっぷり収納できるため、多くの生徒に愛用されている。",
+            "DescriptionEn": "This street bag combines casual appearance with practicality. It is a favorite of many students because of its ample storage capacity."
+        },
+        {
+            "Id": 3313108412,
+            "NameJp": "ストリートバッグの設計図",
+            "NameEn": "Street Bag Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 589220143,
+            "NameJp": "ストリートバッジ",
+            "NameEn": "Street Badge",
+            "DescriptionJp": "ストリートファッションブランド「トリプルステップ」の新作バッジ。社名を中央に大きく印刷した大胆さからは、制作者の自信が窺える。",
+            "DescriptionEn": "A new badge for the \"Triple Step\" street fashion brand. Boldly printing the company name front and center shows the confidence of the creator."
+        },
+        {
+            "Id": 498575224,
+            "NameJp": "ストリートバッジの設計図",
+            "NameEn": "Street Badge Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 1353993108,
+            "NameJp": "カリグラフィーヘアピン",
+            "NameEn": "Calligraphy Hairpin",
+            "DescriptionJp": "文字でデザインされたヘアピン。文字列そのものに意味はないが、どこか胸をときめかせてくれるデザイン。",
+            "DescriptionEn": "A hairpin decorated with text. The string of letters itself has no meaning, but the design is somehow exciting."
+        },
+        {
+            "Id": 828687381,
+            "NameJp": "カリグラフィーヘアピンの設計図",
+            "NameEn": "Calligraphy Hairpin Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 237084781,
+            "NameJp": "呪いの人形",
+            "NameEn": "Cursed Doll",
+            "DescriptionJp": "怨念などの強い感情がこめられていそうな呪いの人形。針刺しとして使いやすいらしく、手芸部の生徒たちに人気が高い。",
+            "DescriptionEn": "A cursed doll that seems to be filled with strong negative emotions such as grudges. It can be used as a needle pad, and is very popular among the students of the handicraft club."
+        },
+        {
+            "Id": 1058203923,
+            "NameJp": "呪いの人形の設計図",
+            "NameEn": "Cursed Doll Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 2415212758,
+            "NameJp": "ゴシック風の腕時計",
+            "NameEn": "Gothic Wristwatch",
+            "DescriptionJp": "ゴシック風にデザインされた腕時計。クラシカルな服などによく似合うものの、慣れないと時間が読みにくいという弱点がある。",
+            "DescriptionEn": "A wristwatch designed in a gothic style. Although it goes well with classical clothing, it is difficult to read the time if you are not accustomed to it."
+        },
+        {
+            "Id": 2625452827,
+            "NameJp": "ゴシック風の腕時計の設計図",
+            "NameEn": "Gothic Wristwatch Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 1964406377,
+            "NameJp": "パンクチョーカー",
+            "NameEn": "Punk Choker",
+            "DescriptionJp": "鋭いスパイクがしつらえられたパンクスタイルのチョーカー。首に着けるとちょっと頷きにくくなる。",
+            "DescriptionEn": "A punk-style choker with sharp spikes. It's a little hard to nod your head when you re wearing it."
+        },
+        {
+            "Id": 3028364897,
+            "NameJp": "パンクチョーカーの設計図",
+            "NameEn": "Punk Choker Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 4067164356,
+            "NameKr": "어그 부츠",
+            "DescriptionKr": "아웃도어 브랜드 <마나슬루>의 방한용 장화. 귀여운 디자인에 보온성도 우수해 추운 지방의 여고생들에게 인기가 높다.",
+            "NameJp": "ムートンブーツ",
+            "DescriptionJp": "アウトドアブランド「マナスル」のブーツ。デザインの可愛らしさもさることながら、保温性にも優れており、寒い地方の女子高生たちに人気が高い。",
+            "NameEn": "Mouton Boots",
+            "DescriptionEn": "Cold weather boots from the outdoor brand Manaslu. Their cute design and excellent thermal insulation make them popular with high school girls in cold regions."
+        },
+        {
+            "Id": 1035529863,
+            "NameJp": "ムートンブーツの設計図",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "NameEn": "Mouton Boots Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 940066526,
+            "NameJp": "紺色のスクールバッグ",
+            "DescriptionJp": "トリニティ総合学園の校則に従って製作されたスクールバッグ。そのシンプルで高級なデザインは、他校の生徒からも人気が高い。",
+            "NameEn": "Navy School Bag",
+            "DescriptionEn": "A navy blue school bag made in adherence to the rules of Trinity Academy. It's also popular with students from other academies thanks to its simple and luxurious design."
+        },
+        {
+            "Id": 2415084447,
+            "NameJp": "紺色のスクールバッグの設計図",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "NameEn": "Navy School Bag Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 3773560632,
+            "NameJp": "防塵型の腕時計",
+            "DescriptionJp": "ミリタリー専門ブランド「カゼヤマ」で製作された防塵型の腕時計。過酷な環境下でも、故障の心配をすることなく使用することができる。",
+            "NameEn": "Dustproof Wristwatch",
+            "DescriptionEn": "A wristwatch from the military specialty brand Kazeyama. Its enhanced resistance to dust mean you don't have to worry about it breaking down in harsh environments."
+        },
+        {
+            "Id": 748088041,
+            "NameJp": "防塵型の腕時計の設計図",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "NameEn": "Dustproof Wristwatch Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 4279598505,
+            "NameJp": "ニコライのロケットペンダント",
+            "DescriptionJp": "「モモフレンズ」のキャラクター「Mr.ニコライ」の顔がぶら下がったようなロケットペンダント。鼻の部分を押すと、写真を入れられる小さなスペースが開く。",
+            "NameEn": "Nikolai Locket",
+            "DescriptionEn": "A locket bearing the face of Mr. Nikolai, a character from Momo Friends. A small space for storing photos opens when you press on his nose."
+        },
+        {
+            "Id": 1311970368,
+            "NameJp": "ニコライのロケットペンダントの設計図",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "NameEn": "Nikolai Locket Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Id": 1759502696,
+            "NameJp": "レザーグローブ",
+            "DescriptionJp": "高級革を使用しているグローブ。耐久性はそれほど高くなく、主に式典やパーティなどで使われる。",
+            "NameEn": "Leather Gloves",
+            "DescriptionEn": "Gloves made of high-quality leather. Because they're not very durable, they're mainly used for ceremonies and parties."
+          },
+        {
+            "Id": 1396845827,
+            "NameJp": "ワカモの神名文字",
+            "NameEn": "Wakamo's Eleph",
+            "DescriptionJp": "ワカモの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Wakamo."
+        },
+        {
+            "Id": 3357677321,
+            "NameJp": "ミモリの神名文字",
+            "NameEn": "Mimori's Eleph",
+            "DescriptionJp": "ミモリの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Mimori."
+        },
+        {
+            "Id": 2864423367,
+            "NameJp": "ウイの神名文字",
+            "NameEn": "Ui's Eleph",
+            "DescriptionJp": "ウイの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Ui."
+        },
+        {
+            "Id": 3674017384,
+            "NameJp": "ヒナタの神名文字",
+            "NameEn": "Hinata's Eleph",
+            "DescriptionJp": "ヒナタの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Hinata."
+        },
+        {
+            "Id": 3965504658,
+            "NameJp": "マリナの神名文字",
+            "NameEn": "Marina's Eleph",
+            "DescriptionJp": "マリナの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Marina."
+        },
+        {
+            "Id": 459551967,
+            "NameJp": "ミヤコの神名文字",
+            "NameEn": "Miyako's Eleph",
+            "DescriptionJp": "ミヤコの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Miyako."
+        },
+        {
+            "Id": 1250059406,
+            "NameJp": "ミユの神名文字",
+            "NameEn": "Miyu's Eleph",
+            "DescriptionJp": "ミユの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Miyu."
+        },
+        {
+            "Id": 2361479186,
+            "NameJp": "ツクヨの神名文字",
+            "NameEn": "Tsukuyo's Eleph",
+            "DescriptionJp": "ツクヨの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Tsukuyo."
+        },
+        {
+            "Id": 1204269992,
+            "NameJp": "ミサキの神名文字",
+            "NameEn": "Misaki's Eleph",
+            "DescriptionJp": "ミサキの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Misaki."
+        },
+        {
+            "Id": 2160472125,
+            "NameJp": "アツコの神名文字",
+            "NameEn": "Atsuko's Eleph",
+            "DescriptionJp": "アツコの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Atsuko."
+        },
+        {
+            "Id": 3674798725,
+            "NameJp": "フブキの神名文字",
+            "NameEn": "Fubuki's Eleph",
+            "DescriptionJp": "フブキの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Fubuki."
+        },
+        {
+            "Id": 2156443274,
+            "NameJp": "ミチルの神名文字",
+            "NameEn": "Michiru's Eleph",
+            "DescriptionJp": "ミチルの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Michiru."
+        },
+        {
+            "Id": 2360999366,
+            "NameJp": "初音ミクの神名文字",
+            "NameEn": "Hatsune Miku's Eleph",
+            "DescriptionJp": "初音ミクの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Hatsune Miku."
+        },
+        {
+            "Id": 3891540835,
+            "NameJp": "セナの神名文字",
+            "NameEn": "Sena's Eleph",
+            "DescriptionJp": "セナの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Sena."
+        },
+        {
+            "Id": 2575812370,
+            "NameJp": "チヒロの神名文字",
+            "NameEn": "Chihiro's Eleph",
+            "DescriptionJp": "チヒロの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Chihiro."
+        },
+        {
+            "Id": 3018163885,
+            "NameJp": "サキの神名文字",
+            "NameEn": "Saki's Eleph",
+            "DescriptionJp": "サキの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Saki."
+        },
+        {
+            "Id": 4011646913,
+            "NameJp": "カエデの神名文字",
+            "NameEn": "Kaede's Eleph",
+            "DescriptionJp": "カエデの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Kaede."
+        },
+        {
+            "Id": 3428606412,
+            "NameJp": "イロハの神名文字",
+            "NameEn": "Iroha's Eleph",
+            "DescriptionJp": "イロハの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Iroha."
+        },
+        {
+            "Id": 2541056814,
+            "NameJp": "ヒヨリの神名文字",
+            "NameEn": "Hiyori's Eleph",
+            "DescriptionJp": "ヒヨリの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Hiyori."
+        },
+        {
+            "Id": 2871486003,
+            "NameJp": "シロコ（ライディング）の神名文字",
+            "DescriptionJp": "シロコ（ライディング）の神秘が詰まった神名文字。",
+            "NameEn": "Shiroko's (Riding) Eleph",
+            "DescriptionEn": "The mystical Eleph of Shiroko (Riding)."
+        },
+        {
+            "Id": 1096234198,
+            "NameJp": "シュン（幼女）の神名文字",
+            "DescriptionJp": "シュン（幼女）の神秘が詰まった神名文字。",
+            "NameEn": "Little Shun's Eleph",
+            "DescriptionEn": "The mystical Eleph of Shun (Kid)."
+        },
+        {
+            "Id": 2158470460,
+            "NameJp": "ネル（バニーガール）の神名文字",
+            "DescriptionJp": "ネル（バニーガール）の神秘が詰まった神名文字。",
+            "NameEn": "Neru's (Bunny Girl) Eleph",
+            "DescriptionEn": "The mystical Eleph of Neru (Bunny Girl)."
+        },
+        {
+            "Id": 958835353,
+            "NameJp": "カリン（バニーガール）の神名文字",
+            "DescriptionJp": "カリン（バニーガール）の神秘が詰まった神名文字。",
+            "NameEn": "Karin's (Bunny Girl) Eleph",
+            "DescriptionEn": "The mystical Eleph of Karin (Bunny Girl)."
+        },
+        {
+            "Id": 3973279174,
+            "NameJp": "アスナ（バニーガール）の神名文字",
+            "DescriptionJp": "アスナ（バニーガール）の神秘が詰まった神名文字。",
+            "NameEn": "Asuna's (Bunny Girl) Eleph",
+            "DescriptionEn": "The mystical Eleph of Asuna (Bunny Girl)."
+        },
+        {
+            "Id": 3159814357,
+            "NameJp": "チナツ（温泉）の神名文字",
+            "DescriptionJp": "チナツ（温泉）の神秘が詰まった神名文字。",
+            "NameEn": "Chinatsu's (Hot Spring) Eleph",
+            "DescriptionEn": "The mystical Eleph of Chinatsu (Hot Spring)."
+        },
+        {
+            "Id": 2406695321,
+            "NameJp": "チェリノ（温泉）の神名文字",
+            "DescriptionJp": "チェリノ（温泉）の神秘が詰まった神名文字。",
+            "NameEn": "Cherino's (Hot Spring) Eleph",
+            "DescriptionEn": "The mystical Eleph of Cherino (Hot Spring)."
+        },
+        {
+            "Id": 2984211353,
+            "NameJp": "ノドカ（温泉）の神名文字",
+            "DescriptionJp": "ノドカ（温泉）の神秘が詰まった神名文字。",
+            "NameEn": "Nodoka's (Hot Spring) Eleph",
+            "DescriptionEn": "The mystical Eleph of Nodoka (Hot Spring)."
+        },
+        {
+            "Id": 2190707346,
+            "NameJp": "セリカ（正月）の神名文字",
+            "DescriptionJp": "セリカ（正月）の神秘が詰まった神名文字。",
+            "NameEn": "Serika's (New Year) Eleph",
+            "DescriptionEn": "The mystical Eleph of Serika (New Year)."
+        },
+        {
+            "Id": 18911590,
+            "NameJp": "アズサ（水着）の神名文字",
+            "DescriptionJp": "アズサ（水着）の神秘が詰まった神名文字。",
+            "NameEn": "Azusa's (Swimsuit) Eleph",
+            "DescriptionEn": "The mystical Eleph of Azusa (Swimsuit)."
+        },
+        {
+            "Id": 1673011833,
+            "NameJp": "ヒナ（水着）の神名文字",
+            "DescriptionJp": "ヒナ（水着）の神秘が詰まった神名文字。",
+            "NameEn": "Hina's (Swimsuit) Eleph",
+            "DescriptionEn": "The mystical Eleph of Hina (Swimsuit)."
+        },
+        {
+            "Id": 1768478589,
+            "NameJp": "イオリ（水着）の神名文字",
+            "DescriptionJp": "イオリ（水着）の神秘が詰まった神名文字。",
+            "NameEn": "Iori's (Swimsuit) Eleph",
+            "DescriptionEn": "The mystical Eleph of Iori (Swimsuit)."
+        },
+        {
+            "Id": 3650626904,
+            "NameJp": "ツルギ（水着）の神名文字",
+            "DescriptionJp": "ツルギ（水着）の神秘が詰まった神名文字。",
+            "NameEn": "Tsurugi's (Swimsuit) Eleph",
+            "DescriptionEn": "The mystical Eleph of Tsurugi (Swimsuit)."
+        },
+        {
+            "Id": 1183324031,
+            "NameJp": "イズミ（水着）の神名文字",
+            "DescriptionJp": "イズミ（水着）の神秘が詰まった神名文字。",
+            "NameEn": "Izumi's (Swimsuit) Eleph",
+            "DescriptionEn": "The mystical Eleph of Izumi (Swimsuit)."
+        },
+        {
+            "Id": 3080168960,
+            "NameJp": "マシロ（水着）の神名文字",
+            "DescriptionJp": "マシロ（水着）の神秘が詰まった神名文字。",
+            "NameEn": "Mashiro's (Swimsuit) Eleph",
+            "DescriptionEn": "The mystical Eleph of Mashiro (Swimsuit)."
+        },
+        {
+            "Id": 3998397720,
+            "NameJp": "ヒフミ（水着）の神名文字",
+            "DescriptionJp": "ヒフミ（水着）の神秘が詰まった神名文字。",
+            "NameEn": "Hifumi's (Swimsuit) Eleph",
+            "DescriptionEn": "The mystical Eleph of Hifumi (Swimsuit)."
+        },
+        {
+            "Id": 768461772,
+            "NameJp": "サヤ（私服）の神名文字",
+            "DescriptionJp": "サヤ（私服）の神秘が詰まった神名文字。",
+            "NameEn": "Saya's (Casual) Eleph",
+            "DescriptionEn": "The mystical Eleph of Saya (Casual)."
+        },
+        {
+            "Id": 592001888,
+            "NameJp": "アル（正月）の神名文字",
+            "DescriptionJp": "アル（正月）の神秘が詰まった神名文字。",
+            "NameEn": "Aru's (New Year) Eleph",
+            "DescriptionEn": "The mystical Eleph of Aru (New Year)."
+        },
+        {
+            "Id": 629707236,
+            "NameJp": "ムツキ（正月）の神名文字",
+            "DescriptionJp": "ムツキ（正月）の神秘が詰まった神名文字。",
+            "NameEn": "Mutsuki's (New Year) Eleph",
+            "DescriptionEn": "The mystical Eleph of Mutsuki (New Year)."
+        },
+        {
+            "Id": 1199341966,
+            "NameJp": "アリスの神名文字",
+            "DescriptionJp": "アリスの神秘が詰まった神名文字。",
+            "NameEn": "Arisu's Eleph",
+            "DescriptionEn": "The mystical Eleph of Arisu."
+        },
+        {
+            "Id": 2683341399,
+            "NameJp": "クレジットポイント",
+            "DescriptionJp": "先生が持っているカードのポイント、通称「クレジット」。クレジットポイントは特定の状況で、現金のように自由に使える。",
+            "NameEn": "Credits",
+            "DescriptionEn": "Basic ingame currency."
+        },
+        {
+            "Id": 2333680348,
+            "NameJp": "資材ボックス",
+            "NameEn": "Material box",
+            "DescriptionJp": "捨てられたリゾートのあちこちに廃棄された資材ボックス。\n長く放置されていたようで、中に何が入っているのかは分からない。",
+            "DescriptionEn": "Material boxes like this have been left around the abandoned resort.\nIt has been left unattended for a long time, and we don't know what's inside."
+        },
+        {
+            "Id": 2319299758,
+            "NameJp": "アルのすごく貴重な財布",
+            "NameEn": "Aru's treasured wallet",
+            "DescriptionJp": "アルが愛用する高級財布。\n質の良い素材で作られた高級品だが、長く使用したせいで色があせ、あちこちにキズがついている。初めて便利屋を立ち上げた後、ハルカ、カヨコ、ムツキが一緒にお金を集めてプレゼントしてくれたもので、アルにとってはかけがえのない大切なものである。",
+            "DescriptionEn": "A luxury wallet that Aru loves.\nIt's a luxury item made of high quality materials, but it has faded and scratched here and there due to long use. Haruka, Kayoko, and Mutsuki pooled money together and presented this wallet as a gift to commemorate the beginnings of Handyman 68, which makes it an irreplaceable treasured posession for Aru."
+        },
+        {
+            "Id": 1197583309,
+            "NameJp": "ツルギの特別ボックス",
+            "NameEn": "Tsurugi's special box",
+            "DescriptionJp": "ツルギの部屋の奥深くに隠されている特別なボックス。\nブロマイドや本、映画表などジャンルを選ばず、様々な種類のグッズが積み重ねられている。ほこり一つなくきれいに整頓されたグッズの状態だけでも、ツルギの細やかさを垣間見ることができる。",
+            "DescriptionEn": "A special box that is kept well-hidden in Tsurugi's room.\nContains a wide variety of goods stacked on top of each other, including bromides, books, movie charts, and many other things. The dust-free and neat condition of the things offers a glimpse of Tsurugi's meticulous attention to detail."
+        },
+        {
+            "Id": 1059841421,
+            "NameJp": "シュンの子供時代の思い出",
+            "NameEn": "Shun's childhood memories",
+            "DescriptionJp": "シュンが大好きな一対のヘアピン。\nツインテールをすることが少なくなりほとんど使わなくなってしまったが、シュンにとっては時が経っても変わらない大切な思い出の一部である。",
+            "DescriptionEn": "A pair of hairpins that Shun treasures.\nShe doesn't wear twintails, so they don't get much use anymore, but they are a memento of Shun's precious memories of the past."
+        },
+        {
+            "Id": 242283010,
+            "NameJp": "ウサギ尻尾の手榴弾",
+            "NameEn": "Bunny Tail Grenade",
+            "DescriptionJp": "アスナがバニーガールの服装をするときに身につけるウサギの尾のような手榴弾。\nふわふわな毛で覆われて一見無害に見えるが、他の手榴弾と同様に脅威的な破壊力を持っている。",
+            "DescriptionEn": "A grenade shaped like the tail of a rabbit that Asuna wears when dressed as a bunny girl.\nCovered with fluffy fur, it looks harmless at first glance, but has the same destructive power as any other grenade would."
+        },
+        {
+            "Id": 163861415,
+            "NameJp": "ユウカの関数電卓",
+            "NameEn": "Yuuka's scientific calculator",
+            "DescriptionJp": "ユウカが肌身離さず持ち歩いている関数電卓。\n優れた暗算実力を保有しているにもかかわらず、ユウカはいつも完璧を追求するために検算用の計算機を使用している。",
+            "DescriptionEn": "A scientific calculator that Yuuka usually has with her.\nDespite having excellent mental arithmetic ability, Yuuka always uses a calculator to double-check that the results are precise."
+        },
+        {
+            "Id": 2059299965,
+            "NameJp": "アテナ3号",
+            "NameEn": "Athena-3",
+            "DescriptionJp": "いつもハレの周りを動き回る球形ドローン。\n知恵の女神から取ったその名前通り、自ら経験して学習できる人工知能が搭載されているが、しばしば主人であるハレの意図とは真逆に働き、彼女の期待を裏切ったりする。",
+            "DescriptionEn": "A spherical drone that always hovers around Hare.\nNamed after the Goddess of Wisdom, the drone is equipped with an artificial intelligence that can learn from its own experiences, though it often works in the exact opposite of the intention of its master, to Hare's disappointment."
+        },
+        {
+            "Id": 1777637643,
+            "NameJp": "レースの枕",
+            "NameEn": "Lace Pillow",
+            "DescriptionJp": "豪華な素材で作られたレースの枕。一見シンプルに見えるデザインだが、文字通りそこには少女たちの夢が込められている。",
+            "DescriptionEn": "Lace pillow made of luxury materials. The design looks simple at first glance, but it literally contains the dreams of girls."
+        },
+        {
+            "Id": 2122048137,
+            "NameJp": "ストリートオブヤンキー1巻",
+            "NameEn": "Street of Yankees Volume 1",
+            "DescriptionJp": "「私たちには義理と度胸しかないっ！」のセリフで有名な話題作、ストリートオブヤンキーシリーズ第1巻。外見とは違って、主人公が意外に可愛いという感想と共にシリーズ好評発売中。",
+            "DescriptionEn": "The first volume of the Street of Yankees series, a popular work famous for the \"We have nothing but duty and guts!\" line. You wouldn't think this from the cover, but the series got a lot of favorable reviews, citing primarily that the main character is surprisingly cute."
+        },
+        {
+            "Id": 3996150169,
+            "NameJp": "サミュエラ「ザ・ビヨンド」",
+            "NameEn": "Samuela \"The Beyond\"",
+            "DescriptionJp": "高級化粧品メーカー「サミュエラ」で発売した最高級香水。\n「一度試して、愛らしさをその身につけてみてください」というキャッチフレーズで有名な超超ヒット作で、希代の天才調香師「ザ・ビヨンド」が作ったサミュエラ12傑作の一つである。",
+            "DescriptionEn": "The finest perfume released by the luxury cosmetics manufacturer \"Samuela\".\nIt is a super-hit work famous for the catchphrase \"Try it once and wear its charm\", and it is one of the 12 masterpieces of Samuela made by the rare genius perfumer \"The Beyond\"..."
+        },
+        {
+            "Id": 493877113,
+            "NameJp": "レトロな卵の工芸品",
+            "NameEn": "Retro Jewelled Egg",
+            "DescriptionJp": "卵形のボディの上に美しい宝石と幾何学的な柄が細工されている工芸品。もちろん温めてもひよこは​​生まれない。",
+            "DescriptionEn": "A jewelled egg with beautiful jewels and geometric patterns on an oval body. Of course, even if you kept it warm, no chick will ever hatch."
+        },
+        {
+            "Id": 2812198344,
+            "NameJp": "ミルフィーユの正統派パフェ",
+            "NameEn": "Mille-Feuille Traditional Parfait",
+            "DescriptionJp": "トリニティの有名菓子店カフェ・ミルフィーユで売っているパフェ。柔らかいアイスクリームの上に積み重なったお菓子とシロップ、生クリーム、そして果物のハーモニーはまさに正統派！",
+            "DescriptionEn": "A parfait sold at the famous confectionery shop Cafe Mille-Feuille in Trinity. The harmony of pastry, syrup, whipped cream, and fruits piled on top of soft ice cream is truly historic!"
+        },
+        {
+            "Id": 610304186,
+            "NameJp": "エイ～ブックレア",
+            "NameEn": "I-book Rare",
+            "DescriptionJp": "「キヴォトス中の生徒が最も欲しい電子機器TOP3」に入る有名ノートパソコン。かなりの高級品。欲しい！でもやっぱ高い！",
+            "DescriptionEn": "A famous laptop computer featured on the \"Top 3 Electronic Devices Most Wanted by Students in Kivotos\". Quite a luxury item. Everyone wants it! But it is so expensive!"
+        },
+        {
+            "Id": 991149378,
+            "NameJp": "おしゃれなくし",
+            "NameEn": "Stylish Comb",
+            "DescriptionJp": "高級感のあるおしゃれなデザインの携帯用くし。プレゼントとして人気が高い。",
+            "DescriptionEn": "A compact comb with a luxurious and fashionable design. Popular as a gift."
+        },
+        {
+            "Id": 18654891,
+            "NameJp": "栄養満載の総合ビタミンゼリー",
+            "NameEn": "Nutrient-rich Multivitamin Jellies",
+            "DescriptionJp": "総合的にビタミンが含まれている栄養ゼリー。様々な果物味のゼリーが入っていて食べる楽しみがある。どんどん食べて、気づいた時には空にならないように注意すべし！",
+            "DescriptionEn": "Gummy candy that is enriched with vitamins. Contains an assortment of fruit-flavored jellies and is fun to eat. Be careful you don't eat the whole pack before even noticing it!"
+        },
+        {
+            "Id": 442885187,
+            "NameJp": "最高級の楓の盆栽",
+            "NameEn": "Fine Maple Bonsai",
+            "DescriptionJp": "見ているだけでも心が落ち着く最高級の楓の盆栽。四季に応じて服を着替えるように変化する変幻自在の葉の姿が、風流な気分を漂わせる。",
+            "DescriptionEn": "Just looking at this top-quality maple bonsai is calming. The ever-changing leaves, shifting with the seasons as if they were changing clothes, create an air of elegance."
+        },
+        {
+            "Id": 897935320,
+            "NameJp": "裁縫キット",
+            "NameEn": "Sewing Kit",
+            "DescriptionJp": "あらゆる状況に対応するべく必要な道具を選別した上級者向け裁縫キット。これさえあれば服が破れたり、靴下に穴が開いても、問題なし！",
+            "DescriptionEn": "An expert's sewing kit with a selection of necessary tools for all kinds of situations. With this, if your clothes get ripped or your socks get holes, no problem!"
+        },
+        {
+            "Id": 175940735,
+            "NameJp": "音楽演奏会入場券",
+            "NameEn": "Music Concert Ticket",
+            "DescriptionJp": "キヴォトスで定期的に開催される演奏会の入場券。クラシックから最近流行りの曲まで。種類を問わない様々な音楽が好きな人に最適なプレゼント。",
+            "DescriptionEn": "Admission ticket to regularly scheduled concerts in Kivotos. From classical to the latest popular music. The perfect gift for anyone who loves a variety of music of any kind."
+        },
+        {
+            "Id": 794340686,
+            "NameJp": "1日3回ダンベルセット",
+            "NameEn": "Thrice-a-day Dumbbell Set",
+            "DescriptionJp": "様々な重さのダンベルが複数入っているセット商品。一日三回。朝、昼食、夕方のトレーニングを繰り返して素敵な筋肉を作ろう！",
+            "DescriptionEn": "A set of dumbbells of various weights. Use it three times a day. Build nice muscles by repeating your workout in the morning, at lunch, and in the evening!"
+        },
+        {
+            "Id": 1058688122,
+            "NameJp": "ボードゲーム「ザ・人生」",
+            "NameEn": "\"The Life\" Board Game",
+            "DescriptionJp": "就職したり、宝くじに当選したり、宇宙旅行もできる面白いボードゲーム。毎プレイごとに一歩先も分からないルーレットとサイコロの結果が、まるで人生だという。",
+            "DescriptionEn": "An entertaining board game where you can get a job, win a lottery, and even travel to space. Just like life, every dice roll leaves you just one step short of your goal."
+        },
+        {
+            "Id": 3588838649,
+            "NameJp": "ビーチサイドのホワイトチェア",
+            "NameEn": "Beachside White Chair",
+            "DescriptionJp": "夏の暑さを冷ますホワイトチェア。しばらく座って海の景観を鑑賞してみよう。",
+            "DescriptionEn": "White chairs to cool down the summer heat. Sit for a while and admire the sea view."
+        },
+        {
+            "Id": 1334657209,
+            "NameJp": "ビーチサイドシリーズ",
+            "NameEn": "Beachside Set",
+            "DescriptionJp": "涼しげな海が広がるビーチサイド。さっぱりとしたフルーツとアイスクリームで夏を満喫してください！",
+            "DescriptionEn": "Beachside of the vast cool sea. Enjoy the summer with refreshing fruits and ice cream!"
+        },
+        {
+            "Id": 1814470333,
+            "NameJp": "ビーチサイドシリーズ",
+            "NameEn": "Beachside Furniture"
+        },
+        {
+            "Id": 3397039462,
+            "NameJp": "ビーチサイドのクーリングマット",
+            "NameEn": "Beachside Cooling Mat",
+            "DescriptionJp": "涼しげな色合いが魅力的なクーリングマット。床からの熱気を落ち着かせてくれる、ソフトでひんやりとしたマット。",
+            "DescriptionEn": "Cooling mat in attractive cool colors. Soft and cool mat that keeps away the heat from the ground."
+        },
+        {
+            "Id": 2491732701,
+            "NameJp": "ベーシックホワイトパーテーション",
+            "NameEn": "Basic White Partition",
+            "DescriptionJp": "白の配色が印象的なベーシックなホワイトパーテーション。どこでも効率的に空間を分けることができる。",
+            "DescriptionEn": "A basic partition with an attractive white color scheme. It can efficiently divide space anywhere."
+        },
+        {
+            "Id": 570546005,
+            "NameJp": "原木のホワイトパーテーション",
+            "NameEn": "Log White Partition",
+            "DescriptionJp": "原木仕上げが目立つホワイトパーテーション。スペースを分けて使うのに有用だ。",
+            "DescriptionEn": "White partitions with a distinctive raw wood finish. Useful for separating spaces."
+        },
+        {
+            "Id": 4082006081,
+            "NameJp": "クールドリンク自販機",
+            "NameEn": "Cool Drink Vending Machine",
+            "DescriptionJp": "冷たい飲み物でいっぱいのクールドリンク自販機。夏の熱気をしばらく凌ぐことができる。",
+            "DescriptionEn": "Vending machine filled with cold drinks. You can beat the summer heat for a while."
+        },
+        {
+            "Id": 3849908170,
+            "NameJp": "ビーチサイドのホワイトテーブル",
+            "NameEn": "Beachside White Table",
+            "DescriptionJp": "ビーチサイドのホワイトテーブル。空間に爽やかな印象を与える。",
+            "DescriptionEn": "Beachside white table. Lends a refreshing atmosphere to the space."
+        },
+        {
+            "Id": 2855869096,
+            "NameJp": "原木のテラステーブル",
+            "NameEn": "Wood Terrace Table",
+            "DescriptionJp": "原木のテラステーブル。広い空間に活用するのに有効だ。",
+            "DescriptionEn": "Raw wood terrace table. Effective for utilizing a large space."
+        },
+        {
+            "Id": 892679216,
+            "NameJp": "爽やかなフルーツバー",
+            "NameEn": "Refreshing Fruits Bar",
+            "DescriptionJp": "爽やかなフルーツが用意された原木のテーブル。様々なフルーツで夏の暑さを冷ましてみよう。",
+            "DescriptionEn": "A wooden table with refreshments prepared. Let's cool down the summer heat with a variety of fruits."
+        },
+        {
+            "Id": 295238722,
+            "NameJp": "爽やかなフルーツ壁飾り",
+            "NameEn": "Refreshing Fruit Wall Decoration",
+            "DescriptionJp": "大胆な配色の爽やかなフルーツポスター。どの壁に配置しても見る人の視線を捕らえる。",
+            "DescriptionEn": "A refreshing fruit poster with a bold color scheme. No matter where it is placed on the wall, it captures the viewer's eye."
+        },
+        {
+            "Id": 2570970628,
+            "NameJp": "営業中ののぼり旗",
+            "NameEn": "Business Banner",
+            "DescriptionJp": "営業中を知らせるのぼり旗。これもまた夏の風情を感じさせる。",
+            "DescriptionEn": "A banner to let people know that the store is open for business. Also contributes to the atmosphere of summer."
+        },
+        {
+            "Id": 2575575829,
+            "NameJp": "ビーチサイドのクーリング扇風機",
+            "NameEn": "Beachside Cooling Fan",
+            "DescriptionJp": "ビーチサイドのクーリング扇風機。どこでも涼しい風を感じさせてくれる。",
+            "DescriptionEn": "Beachside cooling fan. You can feel the cool breeze anywhere."
+        },
+        {
+            "Id": 260275561,
+            "NameJp": "ビーチサイドのカラフルライフジャケット",
+            "NameEn": "Beachside Colorful Life Jackets",
+            "DescriptionJp": "どこでも目立つカラフルなライフジャケット。海に遊びに行くなら、必需品だ。",
+            "DescriptionEn": "A rack of brightly colored life jackets. It is a necessity if you are going to play in the ocean."
+        },
+        {
+            "Id": 2956803246,
+            "NameJp": "レモンパラソルホワイトテーブル",
+            "NameEn": "Lemon Parasol White Table",
+            "DescriptionJp": "レモン色のパラソルが印象的なホワイトテーブル。激しい夏の日差しを穏やかな照明に変えてくれる。",
+            "DescriptionEn": "A white table under a large lemon-colored umbrella. It turns the intense summer sunshine into mild lighting."
+        },
+        {
+            "Id": 2202760015,
+            "NameJp": "ビーチサイドの原木の床",
+            "NameEn": "Beachside Wooden Floor",
+            "DescriptionJp": "ビーチサイドにある原木の床。きれいに整列された木目の模様が安定感を与えてくれる。",
+            "DescriptionEn": "Raw wood floors of the beachside house. The nicely aligned grain patterns give a sense of stability."
+        },
+        {
+            "Id": 832214886,
+            "NameJp": "ビーチサイドのホワイトの壁",
+            "NameEn": "Beachside White Wall",
+            "DescriptionJp": "原木のワンポイントが引き立つホワイトの壁。明るい色が空間に活気を吹き込んでくれる。",
+            "DescriptionEn": "The white walls are highlighted with a wooden trim. The bright colors infuse the space with freshness."
+        },
+        {
+            "Id": 2378301844,
+            "NameJp": "ビーチサイドのオーシャンビュー窓",
+            "NameEn": "Beachside Ocean View Windows",
+            "DescriptionJp": "海が広がるオーシャンビューの窓。狭い空間を広く見せてくれる。",
+            "DescriptionEn": "Large window with an ocean views. It makes a small space seem larger."
+        },
+        {
+            "Id": 1707494079,
+            "NameJp": "ビーチサイドの背景",
+            "NameEn": "Beachside Background",
+            "DescriptionJp": "海の涼しさと夏の暑さが感じられるビーチサイドの背景。その涼しさに飛び込みたくなる。",
+            "DescriptionEn": "A beachside backdrop that brings the coolness of the ocean into the heat of summer. It makes you want to dive into that cool ocean."
+        },
+        {
+            "Id": 428856018,
+            "NameJp": "チル&クールアイスクリーム冷蔵庫",
+            "NameEn": "Chill & Cool Ice Cream Refrigerator",
+            "DescriptionJp": "爽やかなアイスクリームがいっぱいのアイスクリーム用冷蔵庫。一度にたくさん食べたらお腹をこわすかも……？",
+            "DescriptionEn": "An ice cream refrigerator full of refreshing ice cream. If you eat a lot at once, you may get sick...?"
+        },
+        {
+            "Id": 2761713126,
+            "NameJp": "カラフルドリンクバー",
+            "NameEn": "Colorful Drink Bar",
+            "DescriptionJp": "多彩なフルーツが備わったカラフルドリンクバー。たくさんの味にわくわくする。",
+            "DescriptionEn": "Colorful bar stocked with a variety of drinks. Exciting to see so many flavors."
+        },
+        {
+            "Id": 3944148940,
+            "NameJp": "甘くて涼しいかき氷バー",
+            "NameEn": "Sweet and Cool Shaved Ice Bar",
+            "DescriptionJp": "いつでもおいしいかき氷が作れるかき氷テーブル。夏の暑さもかき氷1口で消し飛ぶだろう。",
+            "DescriptionEn": "A machine that makes delicious shaved ice anytime you want some. The summer heat will disappear with just one bite of shaved ice."
+        },
+        {
+            "Id": 2324881054,
+            "NameJp": "ビーチサイドのオーシャンビューテラス",
+            "NameEn": "Beachside Ocean View Terrace",
+            "DescriptionJp": "広々とした海が広がるオーシャンビューテラス。真夏の爽やかな海の香りをもたらしてくれる。",
+            "DescriptionEn": "A terrace with expansive ocean views. It brings the fresh scent of the ocean in midsummer."
+        },
+        {
+            "Id": 4139475234,
+            "NameJp": "ビーチサイドのふわふわ浮き輪",
+            "NameEn": "Beachside Inflatable Floats",
+            "DescriptionJp": "可愛らしいふわふわ浮き輪。迷いなく海に飛び込ませてくれる。",
+            "DescriptionEn": "Cute inflatable floats. They let you jump into the sea without hesitation."
+        },
+        {
+            "Id": 81420889,
+            "NameJp": "ホログラム·キューブ·ターンテーブル",
+            "NameEn": "Hologram·Cube·Turntable",
+            "DescriptionJp": "最先端技術が集約されたターンテーブル。音楽に合わせて動くホログラムでリズムを感じてみよう！",
+            "DescriptionEn": "A turntable that integrates state-of-the-art technology. Feel the rhythm of the holograms moving to the music!"
+        },
+        {
+            "Id": 3987418957,
+            "NameJp": "指名手配コイン",
+            "NameEn": "Bounty Hunt Coin",
+            "DescriptionJp": "指名手配ショップで利用可能なコイン。",
+            "DescriptionEn": "Coins that can be redeemed at the Bounty Hunt shop."
+        },
+        {
+            "Id": 923224583,
+            "NameJp": "地域通貨",
+            "NameEn": "Local Currency",
+            "DescriptionJp": "観光を復活させる目的で作られた「ロスト・パラダイス・リゾート」の地域通貨。本当に効果があるのか​​は分からないが、それでもシズコ曰く「そんなのは直接証明すればいいんです！」という。",
+            "DescriptionEn": "Local currency of the \"Lost Paradise Resort\", created for the purpose of reviving tourism. It not clear if it really works, but Shizuko says, \"You just have to prove it yourself!\""
+        },
+        {
+            "Id": 1459837138,
+            "NameJp": "百夜堂キラキラコイン",
+            "NameEn": "Momoyodou Glitter Coin",
+            "DescriptionJp": "百夜堂の海の家でお土産に交換可能なコイン。ただ、お客さんのほとんどはコイン自体をお土産として考えているようだ。",
+            "DescriptionEn": "Coins that can be exchanged for souvenirs at the Momoyodou beach house. However, most of the customers seem to consider the coins themselves to be souvenirs."
+        },
+        {
+            "Id": 2503861371,
+            "NameJp": "ツルツルサザエ",
+            "NameEn": "Turban Shell",
+            "DescriptionJp": "表地が滑らかでツルツルしたサザエ。チセが言うには耳に近づけて音を聞いていると、自然に俳句が浮かぶという。",
+            "DescriptionEn": "The surface of the turban shell is smooth and slippery. Chise says that when you hold it close to your ear and listen to the sound, a haiku naturally comes to mind."
+        },
+        {
+            "Id": 3295998236,
+            "NameJp": "夏用忍法図鑑巻物",
+            "NameEn": "Summer Ninjutsu Instructions Scroll",
+            "DescriptionJp": "夏に合わせて使える様々な忍法（創作）が書かれている巻物。主に夏に起こり得る事故に関する内容が多い。忍者にも安全が一番！",
+            "DescriptionEn": "This scroll contains various ninja techniques (theoretical) that can be used in summertime. The contents are mainly related to accidents that can occur during the summer. Safety is paramount, even for ninjas!"
+        },
+        {
+            "Id": 4253247347,
+            "NameJp": "深海温泉島リゾート使用権",
+            "NameEn": "Deep Sea Hot Spring Island Resort use rights",
+            "DescriptionJp": "深海温泉島リゾートの使用権が明示されているリゾート使用許諾契約書",
+            "DescriptionEn": "Resort license agreement that clearly states the right to use the Deep Sea Hot Springs Island Resort"
+        },
+        {
+            "Id": 2442357514,
+            "NameJp": "ムシクイーンクルーズリゾート使用権",
+            "NameEn": "MushiQueen Cruise Resort use rights",
+            "DescriptionJp": "ムシクイーンクルーズリゾートの使用権が明示されているリゾート使用許諾契約書",
+            "DescriptionEn": "Resort License Agreement that clearly states the rights to use the MushiQueen Cruise Resort."
+        },
+        {
+            "Id": 4133487383,
+            "NameJp": "超豪華リゾート使用権",
+            "NameEn": "Ultra-luxury Resort use rights",
+            "DescriptionJp": "超豪華リゾートの使用権が明示されているリゾート使用許諾契約書",
+            "DescriptionEn": "Resort license agreement that clearly states the right to use the Ultra-luxury Resort."
+        }
+
+    ]
+}

@@ -1,0 +1,93 @@
+{%- raw -%}__TOC__{{Warning| Spoilers and non-canon content | Some of the voicelines listed on this page may contain story spoilers. Some of the lines may be unused or otherwise inaccessible in the game and therefore should not be seen as canonical.}}
+=Normal lines=
+{| class="wikitable limitwidth-1024"
+|+
+! rowspan="2" |Name
+! rowspan="2" style="width:300px" |
+! colspan="2" |Transcription
+|-
+! style="width:240px" |Japanese
+! style="width:240px" |English
+{%- endraw %}
+{% for line in lines -%}
+|-
+| {{line['Title']}}
+| {% for clip in line['WikiVoiceClip'] %}[[File:{{clip}}.ogg]]<br>{% endfor %}
+| {{line['LocalizeJP']}}
+| {{line['LocalizeEN']}}
+{% endfor -%}
+{% raw -%}
+|}
+{% endraw %}
+{%- if memorial_lines != [] %}
+{%- raw -%}
+=Memorial lobby=
+{| class="wikitable limitwidth-1024"
+|+
+! rowspan="2" |Name
+! rowspan="2" style="width:300px" |
+! colspan="2" |Transcription
+|-
+! style="width:240px" |Japanese
+! style="width:240px" |English
+{%- endraw %}
+{% for line in memorial_lines -%}
+|-
+| {{line['Title']}}
+| {% for clip in line['WikiVoiceClip'] %}[[File:{{clip}}.ogg]]<br>{% endfor %}
+| {{line['LocalizeJP']}}
+| {{line['LocalizeEN']}}
+{% endfor -%}
+{% raw -%}
+|}
+{% endraw %}
+{%- endif -%}
+{%- if event_lines != [] %}
+{%- raw -%}
+=Event lines=
+{| class="wikitable limitwidth-1024"
+|+
+! rowspan="2" |Name
+! rowspan="2" style="max-width:300px" |
+! colspan="2" |Transcription
+|-
+! style="width:240px" |Japanese
+! style="width:240px" |English
+{%- endraw %}
+{% for line in event_lines -%}
+|-
+| {{line['Title']}}
+| {% for clip in line['WikiVoiceClip'] %}[[File:{{clip}}.ogg]]<br>{% endfor %}
+| {{line['LocalizeJP']}}
+| {{line['LocalizeEN']}}
+{% endfor -%}
+{% raw -%}
+|}
+{% endraw %}
+{%- endif -%}
+{%- if standard_lines != [] %}
+{%- raw -%}
+=Tactics and growth=
+{| class="wikitable limitwidth-1024"
+|+
+! rowspan="2" |Name
+! rowspan="2" style="width:300px" |
+! colspan="2" |Transcription
+|-
+! style="width:240px" |Japanese
+! style="width:240px" |English
+{%- endraw %}
+{% for line in standard_lines -%}
+|-
+| {{line.replace(character.dev_name+'_','').replace('.ogg','')}}
+| [[File:{{line.replace(character.dev_name,character.name_translated).replace(' ','_')}}]]
+| 
+| 
+{% endfor -%}
+{% raw -%}
+|}
+{% endraw %}
+{%- endif -%}
+{% raw -%}
+{{CharacterAudioSeo}}
+{% endraw %}
