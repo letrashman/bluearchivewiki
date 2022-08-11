@@ -2677,6 +2677,13 @@
             "NameEn": "Ultra-luxury Resort use rights",
             "DescriptionJp": "超豪華リゾートの使用権が明示されているリゾート使用許諾契約書",
             "DescriptionEn": "Resort license agreement that clearly states the right to use the Ultra-luxury Resort."
+        },
+        {
+            "Id": 2503881456,
+            "NameJp": "手作りの花輪",
+            "NameEn": "Handmade Wreath",
+            "DescriptionJp": "手作りの花輪です。",
+            "DescriptionEn": "A handmade wreath."
         }
 
     ]

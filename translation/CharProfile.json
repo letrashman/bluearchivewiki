@@ -1137,8 +1137,12 @@
 
     {
       "CharacterId": 10048,
-      "FamilyNameEn": "",
-      "PersonalNameEn": "Saori"
+      "FamilyNameEn": "Jomae",
+      "PersonalNameEn": "Saori",
+      "ProfileIntroductionEn": "Member of the Arius Branch School, and the leader of the Arius Squad, an elite special force unit within the school.\n\nSaori is typically cool-headed and does not hesitate to use any means necessary to achieve her goals, though a passionate personality that sometimes reveals itself. An unrivaled expert in guerrilla tactics, the daily life sometimes shows a somewhat naive side of hers. The combat prowess of the Arius Squad is the result of her watchful oversight of their training.",
+      "HobbiesEn": "None",
+      "VoiceEn": "Ishigami Shizuka",
+      "ReleaseDateJp": "2022/08/09"
     }
 
   ]

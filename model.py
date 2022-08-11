@@ -318,7 +318,7 @@ class Skill(object):
             range_text = []
 
             for i in range(len(end_variables)):
-                try: stripped_start = re.findall(r'([0-9a-zA-z.]+).*', start_variables[i])
+                try: stripped_start = re.findall(r'([0-9a-zA-z./]+).*', start_variables[i])
                 except IndexError: 
                     start_variables.append(0)
                     stripped_start = [0]

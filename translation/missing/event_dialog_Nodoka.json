@@ -1,0 +1,116 @@
+{
+    "DataList": [
+        {
+            "CharacterId": 19009001,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Enter",
+            "GroupId": 1,
+            "LocalizeKR": "어라, 선생님?\n구교사 재건을 도와주러 오셨나요?",
+            "LocalizeJP": "あれ、先生？\n何か食べ物を持って\nきてくれたんですか！？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "Nodoka_EventShop_Login_1"
+            ]
+        },
+        {
+            "CharacterId": 19009001,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Enter",
+            "GroupId": 2,
+            "LocalizeKR": "특별반에 필요한 물건을\n지원해주시면",
+            "LocalizeJP": "お疲れ様です！\n頂いた支援物資に応じて、",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "Nodoka_EventShop_Login_2"
+            ]
+        },
+        {
+            "CharacterId": 19009001,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Enter",
+            "GroupId": 2,
+            "LocalizeKR": "저희가 모아놓은\n물자를 나누어 드릴게요!",
+            "LocalizeJP": "私たちからも\n何かお返しをしますね！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": []
+        },
+        {
+            "CharacterId": 19009001,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Enter",
+            "GroupId": 3,
+            "LocalizeKR": "축제도 벌써\n절반이나 지났네요.",
+            "LocalizeJP": "お祭りも、残すところ\n半分くらいになって\nしまいましたね。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "Nodoka_EventShop_Season_1"
+            ]
+        },
+        {
+            "CharacterId": 19009001,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Enter",
+            "GroupId": 3,
+            "LocalizeKR": "…뭐, 저희와는\n상관없는 일이지만요.",
+            "LocalizeJP": "……まあ、もともと私たちには\nほとんど関係無いのですが。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": []
+        },
+        {
+            "CharacterId": 19009001,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Enter",
+            "GroupId": 1,
+            "LocalizeKR": "어라, 선생님?\n구교사 재건을 도와주러 오셨나요?",
+            "LocalizeJP": "あれ、先生？\n何か食べ物を持って\nきてくれたんですか！？",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "Nodoka_EventShop_Login_1"
+            ]
+        },
+        {
+            "CharacterId": 19009001,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Enter",
+            "GroupId": 2,
+            "LocalizeKR": "특별반에 필요한 물건을\n지원해주시면",
+            "LocalizeJP": "お疲れ様です！\n頂いた支援物資に応じて、",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "Nodoka_EventShop_Login_2"
+            ]
+        },
+        {
+            "CharacterId": 19009001,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Enter",
+            "GroupId": 2,
+            "LocalizeKR": "저희가 모아놓은\n물자를 나누어 드릴게요!",
+            "LocalizeJP": "私たちからも\n何かお返しをしますね！",
+            "LocalizeEN": "",
+            "VoiceClipsJp": []
+        },
+        {
+            "CharacterId": 19009001,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Enter",
+            "GroupId": 3,
+            "LocalizeKR": "축제도 벌써\n절반이나 지났네요.",
+            "LocalizeJP": "お祭りも、残すところ\n半分くらいになって\nしまいましたね。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": [
+                "Nodoka_EventShop_Season_1"
+            ]
+        },
+        {
+            "CharacterId": 19009001,
+            "DialogCategory": "UIEventShop",
+            "DialogCondition": "Enter",
+            "GroupId": 3,
+            "LocalizeKR": "…뭐, 저희와는\n상관없는 일이지만요.",
+            "LocalizeJP": "……まあ、もともと私たちには\nほとんど関係無いのですが。",
+            "LocalizeEN": "",
+            "VoiceClipsJp": []
+        }
+    ]
+}

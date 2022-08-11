@@ -22,6 +22,17 @@ args = None
 site = None
 
 
+force_variant_link = {}
+
+block_variant_link = {
+    20003 : 19009005,
+    10003 : 19009006,
+    10013 : 19009007,
+    10009 : 19009008
+
+}
+
+
 def generate():
     global args
     global site
@@ -65,9 +76,14 @@ def generate():
 
         #get event versions of the character
         for character_variant in data.characters.values():
-            if character_variant['DevName'].startswith(character.dev_name):
+            if character_variant['DevName'].startswith(character.dev_name) or character_variant['DevName'].startswith(character.dev_name.replace('default', 'Event')) or character_variant['DevName'].startswith(character.dev_name.replace('default', 'SpecialOperation')):
                 character_variation_ids.append(character_variant['Id'])
-                #print (character_variant['DevName'])
+
+        for character_id in force_variant_link:
+            if character.id == character_id: character_variation_ids.append(force_variant_link[character_id])
+        for character_id in block_variant_link:
+            if character.id == character_id: character_variation_ids.remove(block_variant_link[character_id])
+        #print(character_variation_ids)
 
 
         #dump missing translations
@@ -83,31 +99,36 @@ def generate():
         
 
 
-                
-        # memorial_intro_lines = []
-        # first_memolobby_line = [x for x in data.character_dialog if x['CharacterId'] == character.id and x['DialogCategory'] == 'UILobbySpecial' and x['LocalizeJP'] != ''][0]['LocalizeJP'].replace('\n','')
-        # print(first_memolobby_line)
+        #Memorial lobby unlock text from affection level script
+        memorial_unlock = []
+        first_memolobby_line = [x for x in data.character_dialog if x['CharacterId'] == character.id and x['DialogCategory'] == 'UILobbySpecial' and x['LocalizeJP'] != '']
+        if first_memolobby_line: first_memolobby_line = first_memolobby_line[0]['LocalizeJP'].replace('\n','')
+        #print(f"FIRST LINE {first_memolobby_line}")
 
-        # favor_rewards = [x for x in data.favor_rewards.values() if x['CharacterId'] == character.id and 'MemoryLobby' in x['RewardParcelType'] ]
-        
-        # sdf = [x for x in scenario_data.scenario_script_favor if x['GroupId'] == favor_rewards[0]['ScenarioSriptGroupId']]
-
-        # for line in sdf:
-        #     if re.sub(r"\[wa:\d+\]", "", line['TextJp'], 0).find(first_memolobby_line) > -1: 
-        #         #print (line)
-        #         break
-        #     if line['TextJp'] and line['TextJp'].startswith('―'): memorial_intro_lines.append(line)
-
-        # print (memorial_intro_lines)
-        # mil = get_memorial_lines(character, memorial_intro_lines)
-        # print(mil)
-
-
+        if exists(f"{args['data_audio']}/JP_{character.model_prefab_name.replace('_Original','').replace('_','')}/{character.model_prefab_name.replace('_Original','').replace('_','')}_MemorialLobby_0.ogg") or exists(f"{args['data_audio']}/JP_{character.model_prefab_name.replace('_Original','').replace('_','')}/{character.model_prefab_name.replace('_Original','').replace('_','')}_MemorialLobby_0_1.ogg"):
+            favor_rewards = [x for x in data.favor_rewards.values() if x['CharacterId'] == character.id and 'MemoryLobby' in x['RewardParcelType'] ]
+            if favor_rewards: 
+                sdf = [x for x in scenario_data.scenario_script_favor if x['GroupId'] == favor_rewards[0]['ScenarioSriptGroupId'] and x['TextJp']]
+                for line in sdf:                  
+                    if re.sub(r"\[ruby=\w+\]|\[/ruby]|\[wa:\d+\]", "", line['TextJp'], 0).replace('\n','').find(first_memolobby_line) > -1 or first_memolobby_line.find(re.sub(r"\[ruby=\w+\]|\[/ruby]|\[wa:\d+\]", "", line['TextJp'], 0).replace('\n','').replace('— ','').replace('― ','')) > -1: 
+                        #print (line)
+                        break
+                    if line['TextJp'] and line['TextJp'].startswith('―'): 
+                        line['CharacterId'] = character.id
+                        line['DialogCategory'] = 'UILobbySpecial'
+                        line['GroupId'] = 0
+                        line['LocalizeJP'] = re.sub(r"\[ruby=\w+\]|\[/ruby]|\[wa:\d+\]", "", line['TextJp'].replace('― ',''), 0)
+                        line['LocalizeEN'] = re.sub(r"\[ruby=\w+\]|\[/ruby]|\[wa:\d+\]", "", line['TextEn'].replace('— ','').replace('― ',''), 0)
+                        line['VoiceClipsJp'] = []
+                        
+                        memorial_unlock.append(line)
+                memorial_lines += get_memorial_lines(character, memorial_unlock, 0)
 
 
         lines = get_dialog_lines(character, data.character_dialog)
 
-        memorial_lines = get_memorial_lines(character, data.character_dialog)
+
+        memorial_lines += get_memorial_lines(character, data.character_dialog)
 
         for id in character_variation_ids:
             lines_list = []
@@ -117,8 +138,17 @@ def generate():
             if len(lines_list)>0: event_lines.extend(lines_list)
             
 
+        #deduplicate event rerun lines
+        for line in [x for x in event_lines if x['EventID']>10000]:
+            line_copy = line.copy()
+            line_copy['EventID'] -= 10000
+            if line_copy in event_lines:
+                event_lines.remove(line)
+            else:
+                print(line)
+            
 
-        #print(f"JP_{character.dev_name.replace('_default','').replace('_','')}")
+
         if site != None: page_list = wiki_page_list(f"File:{character.name_translated}")
         else: page_list = []
 
@@ -128,10 +158,16 @@ def generate():
         for line in event_lines:
             process_file(character, line, page_list)
 
+
         ml = []
+        #Guess memorial lobby unlock audio if it had no text
+        if (exists(f"{args['data_audio']}/JP_{character.model_prefab_name.replace('_Original','').replace('_','')}/{character.model_prefab_name.replace('_Original','').replace('_','')}_MemorialLobby_0.ogg") or exists(f"{args['data_audio']}/JP_{character.model_prefab_name.replace('_Original','').replace('_','')}/{character.model_prefab_name.replace('_Original','').replace('_','')}_MemorialLobby_0_1.ogg")) and not memorial_unlock:
+                #print(f'Found memorial lobby unlock audio for {character.name_translated}, but no text')
+                ml.append(process_file(character, {'CharacterId': character.id, 'ProductionStep': 'Release', 'DialogCategory': 'UILobbySpecial', 'DialogCondition': 'Idle', 'Anniversary': 'None', 'StartDate': '', 'EndDate': '', 'GroupId': 0, 'DialogType': 'Talk', 'ActionName': '', 'Duration': 0, 'AnimationName': 'Talk_00_M', 'LocalizeKR': '', 'LocalizeJP': '', 'VoiceClipsKr': [], 'VoiceClipsJp': [], 'LocalizeEN': ""}, page_list))
+
         for line in memorial_lines:
             ml.append(process_file(character, line, page_list))
-        memorial_lines = ml
+        memorial_lines = [x for x in ml if x['WikiVoiceClip'] != [] or x['LocalizeJP'] != '']
             
 
         file_list = os.listdir(args['data_audio'] != None and f"{args['data_audio']}/JP_{character.model_prefab_name.replace('_Original','').replace('_','')}/" or [])
@@ -155,41 +191,37 @@ def generate():
         if site != None:
             wikipath = character.name_translated + '/audio'
 
-            #if not wiki_page_exists(wikipath):
-            print(f'Publishing {wikipath}')
-            
-            site(
-            action='edit',
-            title=wikipath,
-            text=wikitext,
-            summary=f'Generated character audio page',
-            token=site.token()
-            )
+            if not wiki_page_exists(wikipath, wikitext):
+                print(f'Publishing {wikipath}')
+                
+                site(
+                action='edit',
+                title=wikipath,
+                text=wikitext,
+                summary=f'Generated character audio page',
+                token=site.token()
+                )
 
             
 
             
 
-def get_memorial_lines(character, dialog_data):
+def get_memorial_lines(character, dialog_data, processing_group = 1):
     lines = []
-    missing_tl = []
-    processing_group = 1
-
+    
     for index, line in enumerate(dialog_data):
         if line['CharacterId'] == character.id and line['DialogCategory'] == 'UILobbySpecial' and line['GroupId'] == processing_group:
             processing_group +=1
             
             line = merge_followup(index, dialog_data)
         
-            #dump missing translations
             if 'LocalizeEN' not in line or line['LocalizeEN'] == None: line['LocalizeEN'] = ''
-            if len(line['LocalizeJP'])>0 and len(line['LocalizeEN'])==0: missing_tl.append({'CharacterId':character.id, 'DialogCategory': line['DialogCategory'], 'DialogCondition': line['DialogCondition'], 'GroupId': line['GroupId'], 'LocalizeKR': line['LocalizeKR'], 'LocalizeJP': line['LocalizeJP'], 'LocalizeEN': '', 'VoiceClipsJp': line['VoiceClipsJp']})
             
             line['LocalizeJP'] = len(line['LocalizeJP'])>0 and '<p>' + line['LocalizeJP'].replace("\n\n",'</p><p>').replace("\n",'<br>') + '</p>' or ''
             line['LocalizeEN'] = len(line['LocalizeEN'])>0 and '<p>' + line['LocalizeEN'].replace("\n\n",'</p><p>').replace("\n",'<br>') + '</p>' or ''
 
             lines.append(line)
-        
+
     return lines
 
 
@@ -198,11 +230,11 @@ def get_dialog_lines(character, dialog_data):
     lines = []
 
     for index, line in enumerate(dialog_data):
-        if line['CharacterId'] == character.id and line['VoiceClipsJp'] != []:
+        if line['CharacterId'] == character.id and line['VoiceClipsJp'] != [] and line['DialogCategory'] != 'UILobbySpecial' :
             line = merge_followup(index, dialog_data)
 
             if line['VoiceClipsJp']: 
-                line['VoiceClipsJp'][0] = line['VoiceClipsJp'][0].replace('Memoriallobby', 'MemorialLobby')
+                line['VoiceClipsJp'][0] = line['VoiceClipsJp'][0].replace('__','_').replace('Memoriallobby', 'MemorialLobby')
                 line['Title'] = line['VoiceClipsJp'][0].split('_', 1)[1]
 
                 line['WikiVoiceClip'] = []
@@ -213,7 +245,17 @@ def get_dialog_lines(character, dialog_data):
             line['LocalizeJP'] = len(line['LocalizeJP'])>0 and '<p>' + line['LocalizeJP'].replace("\n\n",'</p><p>').replace("\n",'<br>') + '</p>' or ''
             line['LocalizeEN'] = len(line['LocalizeEN'])>0 and '<p>' + line['LocalizeEN'].replace("\n\n",'</p><p>').replace("\n",'<br>') + '</p>' or ''
 
-            lines.append(line)
+            #this varies arbitrarily for event reruns, so it's easier to ignore
+            if 'DialogConditionDetailValue' in line: line.pop('DialogConditionDetailValue')
+
+            #remove duplicate second lobby lines
+            if line['DialogCategory'] == 'UILobby2': 
+                line_copy = line.copy()
+                line_copy['DialogCategory'] = 'UILobby'
+                line_copy['AnimationName'] = line_copy['AnimationName'].replace('S2_','')
+                if line_copy not in lines: 
+                    lines.append(line)
+            else: lines.append(line)
 
     return lines
 
@@ -238,10 +280,13 @@ def merge_followup(index, dialog_data):
 
 
 def process_file(character, line, page_list):
-    if (line['VoiceClipsJp'] and not exists(f"{args['data_audio']}/JP_{character.dev_name.replace('_default','').replace('_','')}/{line['VoiceClipsJp'][0]}.ogg")) or line['DialogCategory'] == 'UILobbySpecial':
-        #print (f"WARNING - Local file {line['VoiceClipsJp'][0]}.ogg not found")
-        partial_file_path = f"{args['data_audio']}/JP_{character.dev_name.replace('_default','').replace('_','')}/"
-        partial_file_name = line['VoiceClipsJp'] and f"{line['VoiceClipsJp'][0]}" or f"{character.dev_name.replace('_default','').replace('_','')}_MemorialLobby_{line['GroupId']}"
+    if (line['VoiceClipsJp'] and not exists(f"{args['data_audio']}/JP_{character.model_prefab_name.replace('_Original','').replace('_','')}/{line['VoiceClipsJp'][0]}.ogg")) or line['DialogCategory'] == 'UILobbySpecial':
+
+        #fix script error for oCherino title line
+        if line['CharacterId']==20009 and line['DialogCategory'] == 'UITitle': line['VoiceClipsJp'][0] = 'CH0164_Title'
+
+        partial_file_path = f"{args['data_audio']}/JP_{character.model_prefab_name.replace('_Original','').replace('_','')}/"
+        partial_file_name = line['VoiceClipsJp'] and f"{line['VoiceClipsJp'][0]}" or f"{character.model_prefab_name.replace('_Original','').replace('_','')}_MemorialLobby_{line['GroupId']}"
         
         line['VoiceClipsJp'] = []
         line['WikiVoiceClip'] = []
@@ -258,13 +303,19 @@ def process_file(character, line, page_list):
             i += 1
 
         if 'Title' not in line and line['VoiceClipsJp']: line['Title'] = line['VoiceClipsJp'][0].split('_', 1)[1]
+        elif 'Title' not in line: line['Title'] = ''
+        line['Title'] = re.sub(r"(_\d{1})_\d{1}", "\\g<1>", line['Title'], 0, re.MULTILINE)
+        #if line['Title'] == 'MemorialLobby_0': line['Title'] = 'MemorialLobbyUnlock'
+
+        
+
 
     if site != None:
         for index, wiki_voice_clip in enumerate(line['WikiVoiceClip']):
             #if not wiki_page_exists(f"File:{wiki_voice_clip}.ogg"):
             if f"File:{wiki_voice_clip}.ogg" not in page_list: 
                 print (f"Uploading {wiki_voice_clip}.ogg")
-                wiki_upload(f"{args['data_audio']}/JP_{character.dev_name.replace('_default','').replace('_','')}/{line['VoiceClipsJp'][index]}.ogg", f"{wiki_voice_clip}.ogg")
+                wiki_upload(f"{args['data_audio']}/JP_{character.model_prefab_name.replace('_Original','').replace('_','')}/{line['VoiceClipsJp'][index]}.ogg", f"{wiki_voice_clip}.ogg")
 
     return line
 
@@ -285,13 +336,19 @@ def wiki_init():
 
 
 
-def wiki_page_exists(page):
+def wiki_page_exists(page, wikitext = None):
     global site
 
     try:
         text = site('parse', page=page, prop='wikitext')
-        print (f"Found wiki page {text['parse']['title']}")
-        return True
+        if wikitext == None:
+            print (f"Found wiki page {text['parse']['title']}")
+            return True
+        elif wikitext == text['parse']['wikitext']:
+            print (f"Found wiki page {text['parse']['title']}, no changes")
+            return True
+        else:
+            return False
     except ApiError as error:
         #print (f"ERROR = {error.data['code']}")
         if error.data['code'] == 'missingtitle':
@@ -390,7 +447,7 @@ def main():
     args['translation'] = args['translation'] == None and 'translation' or args['translation']
     args['outdir'] = args['outdir'] == None and 'out' or args['outdir']
     args['character_id'] = args['character_id'] == None and '' or args['character_id']
-    args['data_audio'] = args['data_audio'] == None and 'C:\\Utilities\\bluearchive_cdn\\r46_1_21_0720_7jenie3bdyqpazmdyipp\\MediaResources\\Audio\\VOC_JP' or args['data_audio']
+    args['data_audio'] = args['data_audio'] == None and None or args['data_audio']
     args['upload_files'] = args['upload_files'] == None and True or args['character_id']
     print(args)
 
