@@ -202,6 +202,9 @@ def load_character_dialog(path_primary, path_secondary, path_translation,  filen
         data_secondary = json.load(f)['DataList']
 
     for file in os.listdir(path_translation + '/audio/'):
+        if not file.endswith('.json'):
+            continue
+
         #print(f'Loading additional audio translations from {path_translation}/audio/{file}')
         with open(os.path.join(path_translation + '/audio/', file), encoding="utf8") as f:
             data_aux += json.load(f)['DataList']
@@ -271,6 +274,9 @@ def load_scenario_script_favor_part(path_primary, path_secondary, path_translati
         #print(f'Loaded secondary script data from ScenarioScriptFavor{part}ExcelTable.json, {len(data_primary)} entries')
 
     for file in os.listdir(path_translation + '/scenario/'):
+        if not file.endswith('.json'):
+            continue
+
         #print(f'Loading additional scenario translations from {path_translation}/scenario/{file}')
         with open(os.path.join(path_translation + '/scenario/', file), encoding="utf8") as f:
             data_aux += json.load(f)['DataList']
